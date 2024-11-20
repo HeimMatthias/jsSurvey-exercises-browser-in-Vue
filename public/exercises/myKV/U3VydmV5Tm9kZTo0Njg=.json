@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Invoices and VAT",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A beer that you buy in the supermarket.",
+                "You buy new sneakers.",
+                "You receive the electricity bill in your private home. ",
+                "A sweet drink without alcohol.",
+                "You are eating a take-away pizza with your colleagues today.",
+                "The lawyer sends your employer a fee note."
+              ],
+              "type": "matrix",
+              "title": "Which VAT rate applies to which situation? In the following, a distinction is only made between the two most important rates: the reduced rate and the standard rate.",
+              "columns": [
+                "2,6%",
+                "8,1%"
+              ],
+              "correctAnswer": {
+                "Sie kaufen sich neue Sneakers.": "8,1%",
+                "Ein Süssgetränk ohne Alkohol.": "2,6%",
+                "Ein Bier, das Sie im Supermarkt einkaufen.": "8,1%",
+                "Sie erhalten in Ihrer Privatwohnung die Stromrechnung. ": "8,1%",
+                "Die Anwältin schickt Ihrem Arbeitgeber eine Honorarnote.": "8,1%",
+                "Sie essen heute eine Take-away-Pizza mit Ihren Kolleginnen.": "2,6%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

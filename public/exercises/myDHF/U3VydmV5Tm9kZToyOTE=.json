@@ -1,0 +1,188 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Valentin gives Luca an interest-free loan of CHF 1000 for one month.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "No"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "It is not an official loan granted by a bank or retailer. In addition, the loan is interest-free."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Luana has a loyalty card with a large department store and pays her monthly bills on time.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "No"
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The card debt is not repaid in installments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel13",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question23",
+              "type": "radiogroup",
+              "title": "Emma has overdrawn her bank account by CHF 2000 and will pay back CHF 200 over the next ten months.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "Yes"
+            },
+            {
+              "name": "question24",
+              "type": "comment",
+              "title": "Justification:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Max receives a small loan of CHF 4000 from the bank and is supposed to pay it back in four installments within a year.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "No"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "Among other things, at least five installment payments are required for the KKG to apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Elena buys a cell phone for CHF 400 and agrees to pay for it in five monthly installments.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "No"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The loan does not exceed CHF 500."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Consumer Credit Act (KKG)",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Are the transactions described subject to the Consumer Credit Act (KKG)? Give reasons for your answer if you choose \"No\".",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "radiogroup",
+              "title": "A private school leases a photocopier for CHF 50,000 with monthly leasing installments of CHF 1,200 for four years.",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "No"
+            },
+            {
+              "name": "question22",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The school is not a private individual (consumption) and is therefore not subject to the Consumer Credit Act."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Elections",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "In the proportional representation system, the party votes are counted first so that the proportions of the various parties are clear.",
+                "In the proportional representation system, voters may list a candidate twice on the same ballot paper.",
+                "In the first ballot, an absolute majority is usually required for majority elections.",
+                "Passive suffrage means that someone can be elected.",
+                "A silent election is held when there are just as many candidates as there are seats to be allocated."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements are true and which are false? Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Passives Wahlrecht heisst, dass sich jemand wählen lassen kann.": "Correct",
+                "Im ersten Wahlgang wird bei Majorzwahlen meistens das absolute Mehr verlangt.": "Correct",
+                "Zu einer stillen Wahl kommt es, wenn gerade so viele Personen kandidieren, wie Sitze zu verteilen sind.": "Correct",
+                "Beim Proporzwahlverfahren werden zuerst die Parteistimmen gezählt, damit die Verhältnisse der verschiedenen Parteien klar sind.": "Correct",
+                "Beim Proporzwahlverfahren dürfen die Wählenden eine Kandidatin oder einen Kandidaten zwei Mal auf dem gleichen Wahlzettel aufführen.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

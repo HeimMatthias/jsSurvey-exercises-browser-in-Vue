@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Anne buys a smartphone",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Anne sees on Instagram that a friend has a smartphone with which you can take particularly good photos. She would also like to take such good photos with her smartphone, so she goes online to find out about different smartphones and their functions. She finds an electronics retailer and gets all the information she needs about the smartphone she wants from their website. Shortly afterwards, Anne visits the electronics retailer and is greeted by a friendly and competent employee. The employee answers her questions and gives her additional information to help her make a good decision. He advises her and presents her with several models that he thinks might suit Anne, so that Anne can compare them directly. In the end, Anne decides on a smartphone with a good camera and the employee helps her with the purchase process. Payment is quick and easy. The smartphone is set up directly in the store, with the employee transferring the contact details and other content so that Anne no longer has to do this at home. She can then take the smartphone with her immediately. Anne is happy with her new smartphone and has no problems. If she does, she knows that the electronics retailer has a good customer service team on hand to help her with any questions or problems. After a short time, Anne's friends also notice her photos and Anne raves about her new smartphone. After a few weeks, Anne receives an email with a customer satisfaction survey. Anne states that she was very satisfied with the purchase process and customer service and recommends the electronics retailer to others.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What stages of the customer journey does Anne go through when buying a smartphone?",
+              "isRequired": true,
+              "correctAnswer": "Anne goes through all the steps of the customer journey.\nStep 1: Attention. Anne becomes aware of a smartphone via Instagram.\nStep 2: Interest and research activity. Anne finds out about smartphones.\nStep 3: Weighing up. Anne seeks advice and information from an electronics retailer.\nStep 4: Intention to buy. Anne can compare several models at the electronics retailer.\nStep 5: Purchase and delivery. Anne buys the smartphone and can take it with her straight away.\nStep 6: Recommendation. Anne takes part in a survey and recommends the purchase process, customer service and the electronics retailer. Anne also raves about her new smartphone to her friends.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Anne buys a smartphone",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Do you see Anne's experience as a positive or negative customer journey? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are your thoughts on customer loyalty?",
+              "isRequired": true,
+              "correctAnswer": "The electronics retailer has performed well on all levels and can count on a satisfied customer who is likely to remain loyal in the future. In this way, customer loyalty is strengthened in the long term.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Do you see potential for improvement in the employee?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

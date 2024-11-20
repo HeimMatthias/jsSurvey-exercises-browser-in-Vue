@@ -1,0 +1,231 @@
+{
+  "pages": [
+    {
+      "name": "Veränderung der Nachfragekurve für Sonnencrème",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Example: The summer is particularly hot this year.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the right"
+            },
+            {
+              "name": "Allfällige Korrektur",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - higher demand with unchanged supply"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change preferences"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Example: The price of sun cream has risen by 30 percent.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "Not at all"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Increased - a shift in the demand curve"
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Example: Some ingredients in sun creams are banned for health reasons. This increases the cost of production by 20 percent. ",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "Not at all"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - supply curve shifts to the left while demand remains constant"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Example: The price of sun oil is rising.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the right"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - higher demand with unchanged supply"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price of substitute good"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Example: This year's summer has not earned its name - it has been raining almost non-stop.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the left"
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Falling - lower demand with unchanged supply"
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change preferences"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Change in the demand curve for sun cream",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "For the following examples, decide how the demand curve for sun cream will change. Also describe what impact this will have on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the demand curve? \nTip: Draw a quantity-price diagram with a supply and demand curve to better understand the effects.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Example: The population of Switzerland grew by around 1 percent in 2024.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the right"
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - higher demand with unchanged supply"
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in number of customers"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

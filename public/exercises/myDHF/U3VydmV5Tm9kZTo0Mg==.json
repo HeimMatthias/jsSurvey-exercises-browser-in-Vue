@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Konzentration",
+      "title": "Concentration",
+      "elements": [
+        {
+          "name": "Anweisung",
+          "type": "panel",
+          "title": "Answer the questions on the subject of concentration. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the difference between cooperation and concentration? ",
+              "isRequired": true,
+              "correctAnswer": "Cooperation is a corporate collaboration between independent companies, which can take place either at the same level or at different levels of the commercial chain. Concentration, on the other hand, represents a (financial) business combination. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain the difference between a merger and a takeover. ",
+              "isRequired": true,
+              "correctAnswer": "In a merger, two companies of approximately equal strength merge into one company. Normally, a new joint company name is created. In a takeover, a financially strong company buys a smaller company, which usually retains its name. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do you mean by a holding company? ",
+              "isRequired": true,
+              "correctAnswer": "A holding company is an umbrella or financing company that does not conduct business itself. It merely manages the companies belonging to it. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

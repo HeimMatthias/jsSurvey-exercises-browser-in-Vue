@@ -1,0 +1,167 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which environmental sphere is mainly meant?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "The new Windows version simplifies working on the computer.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Technological environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Competition has become tougher since the opening of borders.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Thanks to the low euro exchange rate, services can be purchased cheaply in Germany.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "According to the Environmental Protection Act, paint residues may not be disposed of in waste water.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Due to the scarcity of salt reserves, Switzerland has to import more salt.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Ecological environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which environmental sphere is mainly meant?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "The purchase of raw materials from abroad makes us increasingly dependent on foreign countries.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Thanks to a new technical invention, higher production is possible than three years ago.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Technological environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Due to the new legal smoking ban, cigarette sales are falling.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Consumers increasingly want organically produced food.",
+              "choices": [
+                "Technological environmental sphere",
+                "Economic environmental sphere",
+                "Social environmental sphere",
+                "Ecological environmental sphere"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social environmental sphere",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

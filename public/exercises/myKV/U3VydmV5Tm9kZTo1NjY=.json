@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Rhetorical stylistic devices",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The faster, the better.",
+              "correctAnswer": "In the sentence \"The faster, the better\", the subject and the predicate are missing. The complete sentence could read: \"The faster you are, the better it is.\""
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "I've told you that a thousand times!",
+              "correctAnswer": "The sentence \"I've told you that a thousand times!\" exaggerates the number of times something has been said. It is unlikely that the person has actually said it a thousand times."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Rhetorical stylistic devices",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "He doesn't laugh. He doesn't cry. He does not speak.",
+              "correctAnswer": "He doesn't laugh. He doesn't cry. He does not speak."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the contradiction in the expression \"eloquent silence\"? What stylistic device is it?",
+              "correctAnswer": "In the expression \"eloquent silence\" there is a contradiction between \"eloquent\" and \"silence\": silence usually means that nothing is said, while eloquent means that a lot is said. The expression is used to describe a silence that is meaningful despite the absence of words."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Time is money.",
+              "correctAnswer": "The phrase \"time is money\" compares time with money. It means that time is valuable and should not be wasted. It is a figurative paraphrase."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

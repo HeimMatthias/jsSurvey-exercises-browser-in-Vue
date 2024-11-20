@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Kompromisse",
+      "title": "Compromises",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": " Propose a compromise for the conflicting objectives that takes appropriate account of the concerns of both stakeholder groups.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Many visitors wish to smoke indoors. The health of its employees and guests is important to the organizer. ",
+              "isRequired": true,
+              "correctAnswer": "The organizer could set up smoking areas.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The organizers want to sell as many drinks as possible, while the city wants to have to dispose of as little waste as possible for cost and environmental reasons.",
+              "isRequired": true,
+              "correctAnswer": "The organizer could only sell recycled bottles.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

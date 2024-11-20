@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Besoins des clients",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Vos besoins personnels et ceux de votre clientèle",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Quels sont vos besoins personnels actuellement ?",
+              "isRequired": true,
+              "correctAnswer": "Réponses individuelles",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the needs of the clients and customers who buy from your company?",
+              "isRequired": true,
+              "correctAnswer": "Réponses individuelles",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

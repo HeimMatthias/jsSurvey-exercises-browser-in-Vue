@@ -1,0 +1,102 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Research",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What characterizes good research? Name three adjectives.",
+              "isRequired": true,
+              "correctAnswer": "Critical, targeted, precise",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the advantages and disadvantages of Internet research in terms of the amount of information?",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, you receive a large amount of information. On the other hand, the amount of information can be overwhelming.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the first step for successful research?",
+              "isRequired": true,
+              "correctAnswer": "Determine the topic and define the research question.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How can you get an initial overview of a topic? ",
+              "isRequired": true,
+              "correctAnswer": "With W-questions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Research",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is the rule of thumb for checking the quality of information? Please add. To be able to question information and statements,",
+              "isRequired": true,
+              "correctAnswer": "these must be questioned.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Language, design and credibility are important areas in the quality check. What other areas should also be checked?",
+              "isRequired": true,
+              "correctAnswer": "Transparency, topicality, content, operator",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Which words indicate that the text is advertising?",
+              "isRequired": true,
+              "correctAnswer": "Superlatives such as unique, sensational, ingenious, best, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Which websites are considered up-to-date and very reliable for factual information?",
+              "isRequired": true,
+              "correctAnswer": "The official websites of the Confederation, the cantons and the communes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

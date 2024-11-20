@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "name": "Unternehmensstrategie und Leitbild1",
+      "title": "Corporate strategy and mission statement",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "We are a Swiss company that is passionately committed to the quality of life of our customers.  ",
+                "Over the next two years, we will be expanding our branch network by a further five stores.  ",
+                "We will increase our annual sales in the next financial year by three percent compared to the previous year. ",
+                "The personal advancement, further training and development of our employees are important to us.  ",
+                "The customer is king.  "
+              ],
+              "type": "matrix",
+              "title": "Assign the statements to either the corporate strategy or the mission statement.",
+              "columns": [
+                "Corporate strategy ",
+                "Mission statement"
+              ],
+              "correctAnswer": {
+                "Der Kunde ist König.  ": "Mission statement",
+                "Es dient als Orientierungshilfe bei Entscheidungen. ": "Richtig",
+                "Es legt fest, wer, wann, wo welche Aufgabe übernimmt. ": "Falsch ",
+                "Es soll die Mitarbeiterinnen und Mitarbeiter motivieren. ": "Richtig",
+                "Es macht die Unternehmensphilosophie öffentlich bekannt. ": "Richtig",
+                "Es informiert über verbindliche Vorgaben und konkrete Kennzahlen. ": "Falsch ",
+                "In den nächsten zwei Jahren erweitern wir unser Filialnetz um weitere fünf Filialen.  ": "Corporate strategy ",
+                "Wir steigern unseren Jahresumsatz im nächsten Geschäftsjahr gegenüber dem Vorjahr um drei Prozent. ": "Corporate strategy ",
+                "Die persönliche Förderung, die Weiterbildung und die Entwicklung unserer Mitarbeiter sind uns wichtig.  ": "Mission statement",
+                "Wir sind ein Schweizer Unternehmen, das sich mit Leidenschaft für die Lebensqualität unserer Kundschaft einsetzt.  ": "Mission statement"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unternehmensstrategie und Leitbild2",
+      "title": "Corporate strategy and mission statement",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "It serves as a guide when making decisions. ",
+                "It provides information on binding requirements and specific key figures. ",
+                "It is designed to motivate employees. ",
+                "It makes the corporate philosophy public. ",
+                "It determines who takes on which task when and where. "
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the mission statement correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong "
+              ],
+              "correctAnswer": {
+                "Der Kunde ist König.  ": "Mission statement",
+                "Es dient als Orientierungshilfe bei Entscheidungen. ": "Correct",
+                "Es legt fest, wer wann wo welche Aufgabe übernimmt. ": "Wrong ",
+                "Es legt fest, wer, wann, wo welche Aufgabe übernimmt. ": "Falsch ",
+                "Es soll die Mitarbeiterinnen und Mitarbeiter motivieren. ": "Correct",
+                "Es macht die Unternehmensphilosophie öffentlich bekannt. ": "Correct",
+                "Es informiert über verbindliche Vorgaben und konkrete Kennzahlen. ": "Wrong ",
+                "In den nächsten zwei Jahren erweitern wir unser Filialnetz um weitere fünf Filialen.  ": "Corporate strategy ",
+                "Wir steigern unseren Jahresumsatz im nächsten Geschäftsjahr gegenüber dem Vorjahr um drei Prozent. ": "Corporate strategy ",
+                "Die persönliche Förderung, die Weiterbildung und die Entwicklung unserer Mitarbeiter sind uns wichtig.  ": "Mission statement",
+                "Wir sind ein Schweizer Unternehmen, das sich mit Leidenschaft für die Lebensqualität unserer Kundschaft einsetzt.  ": "Mission statement"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

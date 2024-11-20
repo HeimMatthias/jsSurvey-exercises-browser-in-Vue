@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Import and export",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which goods does Switzerland mainly import from abroad? Put a cross in the box.",
+              "choices": [
+                " Goods that require good quality work.",
+                "Goods that have to be produced with a great deal of labor.",
+                "Services, for example banking transactions",
+                " Agricultural products"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Goods that have to be produced with a great deal of labor."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Import and export",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Switzerland's main imports are metals and metal goods.",
+                "Germany is our largest import and export partner.",
+                "Switzerland is self-sufficient and does not import any food.",
+                "Switzerland is not dependent on the EU, as there is little trade between Switzerland and the EU.",
+                "Switzerland exports one thing after another: Metals, watches, chocolate, mineral water.",
+                "Switzerland exports in turn: Chemical products, machinery, watches."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about Switzerland's import and export business correct or incorrect? Put a cross in the box.",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Deutschland ist unser grösster Import- und Exportpartner.": "wrong",
+                "Die Schweiz importiert an erster Stelle Metalle und Metallwaren.": "wrong",
+                "Die Schweiz ist Selbstversorger und importiert keine Nahrungsmittel.": "wrong",
+                "Die Schweiz exportiert der Reihe nach: Chemische Erzeugnisse, Maschinen, Uhren.": "right",
+                "Die Schweiz exportiert der Reihe nach: Metalle, Uhren, Schokolade, Mineralwasser.": "wrong",
+                "Die Schweiz ist nicht auf die EU angewiesen, da zwischen der Schweiz und dem EU-Gebiet nur wenig Handel getrieben wird.": "wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

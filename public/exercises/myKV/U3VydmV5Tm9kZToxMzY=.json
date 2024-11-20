@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "a serif font.",
+                "a thick, uneven font.",
+                "a proportional font.",
+                "a non-proportional font."
+              ],
+              "type": "matrix",
+              "title": "The font used is ...",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "eine Serifenschrift.": "wrong",
+                "eine proportionale Schrift.": "right",
+                "eine dicktenungleiche Schrift.": "right",
+                "eine nicht proportionale Schrift.": "wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

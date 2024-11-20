@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Statements on settlements for events",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Statements can be created at the same time as the budget.",
+                "Accounts must be submitted to those responsible.",
+                "The fixed and variable costs can be summarized in each case.",
+                "The fixed costs do not have to be stated because they cannot be influenced.",
+                "Accounts for events are prepared at the end of the year.",
+                "Possible cost reductions can be determined in the statements.",
+                "Clear accounts can help to optimize future events.",
+                "The accounts are always prepared by the management.",
+                "The same table is used for all settlements.",
+                "Invoices are also useful for larger club events."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on settlements for events correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Alle Kunden können den gleichen Rabatt abziehen.": "falsch",
+                "Der Kunde kann den Rabatt vom Katalogpreis berechnen.": "richtig",
+                "10% Rabatt und 2% Skonto ergeben einen Zuschlag von 12%. ": "falsch",
+                "Für alle Abrechnungen wird die gleiche Tabelle verwendet.": "wrong",
+                "Abrechnungen müssen den Verantwortlichen vorgelegt werden.": "right",
+                "Die Kunden haben einen gesetzlichen Anspruch auf 2% Skonto.": "falsch",
+                "Die Verkaufssonderkosten werden zum Rechnungsbetrag addiert.": "falsch",
+                "Zahlungsbetrag zuzüglich Skonto ergibt den Rechnungsbetrag.": "richtig",
+                "Auch für grössere Vereinsanlässe sind Abrechnungen sinnvoll.": "right",
+                "Die Kosten der Verpackung gehören zu den Verkaufssonderkosten.": "richtig",
+                "Abrechnungen können gleichzeitig mit dem Budget erstellt werden.": "wrong",
+                "Die Abrechnungen werden immer von der Geschäftsleitung erstellt.": "wrong",
+                "Der Nettobarverkaufspreis wird auch als Rechnungsbetrag bezeichnet.": "falsch",
+                "Der Bruttokreditverkaufspreis wird auch als Katalogpreis bezeichnet.": "richtig",
+                "Die Abrechnungen über Anlässe werden beim Jahresabschluss erstellt.": "wrong",
+                "Wenn der Kundenskonto dazugezählt wird, ist der Zahlungsbetrag 100%.": "falsch",
+                "Rechnungsbetrag ist ein anderer Begriff für Nettokreditverkaufspreis.": "richtig",
+                "In den Abrechnungen können mögliche Kostenreduktionen ermittelt werden.": "right",
+                "Zum Nettobarverkaufspreis wird zuerst der Skonto und dann der Rabatt addiert.": "richtig",
+                "Die fixen und variablen Kosten können jeweils zusammengefasst aufgeführt werden.": "wrong",
+                "Zur Optimierung künftiger Anlässe können übersichtliche Abrechnungen beitragen.": "right",
+                "Die fixen Kosten müssen nicht angegeben werden, weil sie nicht beeinflusst werden können.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Gender-appropriate formulations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Rewrite the following text examples to make them more gender-equitable. You will find suggestions in the solutions - but other formulations are also possible.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Dear employees",
+              "isRequired": true,
+              "correctAnswer": "Dear employees/Dear employees/Dear employees",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Each employee receives an additional week's vacation.",
+              "isRequired": true,
+              "correctAnswer": "All employees receive an additional week's vacation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Coordinate with your colleagues so that no one is alone.",
+              "isRequired": true,
+              "correctAnswer": "Coordinate with your colleagues so that no one is alone.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Gender-appropriate formulations",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Rewrite the following text examples to make them more gender-equitable. You will find suggestions in the solutions - but other formulations are also possible.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Our ultimate goal is a satisfied customer.",
+              "isRequired": true,
+              "correctAnswer": "Our ultimate goal is satisfied customers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Get in touch with your contact person.",
+              "isRequired": true,
+              "correctAnswer": "Get in touch with your contact person.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

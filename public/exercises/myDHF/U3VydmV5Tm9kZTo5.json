@@ -1,0 +1,138 @@
+{
+  "pages": [
+    {
+      "name": "Umweltsphären1",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which environmental spheres are most affected in the situations mentioned (multiple answers possible)?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "There are hardly any well-trained specialists to be found on the labor market at the moment.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Economy "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "A new, more efficient management system is introduced.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Technology "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "A prolonged dry period is a sign of increasing climate change.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Ecology "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umweltsphären2",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which environmental spheres are most affected in the situations mentioned (multiple answers possible)?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "More and more people are giving up meat consumption.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Ecology ",
+                "Society "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "The appreciation of the Swiss franc against the euro is causing problems for the export industry.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Economy "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "The following store opening hours now apply on Saturdays: 7.00 a.m. to 8.00 p.m.",
+              "choices": [
+                "Ecology ",
+                "Technology ",
+                "Economy ",
+                "Society "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Society "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "Rechtsvorschriften",
+      "title": "Legislation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What hurdles must be overcome if the people are to vote on ...",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "... wants to bring about a constitutional article?",
+              "choices": [
+                "50,000 signatures of persons entitled to vote must be collected within 100 days.",
+                "100,000 signatures of persons entitled to vote must be collected within 18 months.",
+                "Referendum: popular majority only",
+                "Referendum: majority of the people and the cantons (double majority)",
+                "only government majority"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "100,000 signatures of persons entitled to vote must be collected within 18 months.",
+                "Referendum: majority of the people and the cantons (double majority)"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "checkbox",
+              "title": "... wants to bring about a law?",
+              "choices": [
+                "50,000 signatures of persons entitled to vote must be collected within 100 days.",
+                "100,000 signatures of persons entitled to vote must be collected within 18 months.",
+                "Referendum: popular majority only",
+                "Referendum: majority of the people and the cantons (double majority)",
+                "only government majority"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "50,000 signatures of persons entitled to vote must be collected within 100 days.",
+                "Referendum: popular majority only"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rechtsvorschriften2",
+      "title": "Legislation",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What requirements must be met ...",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "... so that a regulation can be amended or created?",
+              "choices": [
+                "50,000 signatures of persons entitled to vote must be collected within 100 days.",
+                "100,000 signatures of persons entitled to vote must be collected within 18 months.",
+                "Referendum: popular majority only",
+                "Referendum: majority of the people and the cantons (double majority)",
+                "only government majority"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "only government majority"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Legislation",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Passive sentences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Convert the passive sentences into active sentences according to the example. The sentences are taken from minutes of a meeting.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "All participants are welcomed. (Chair of the meeting Matteo W.)",
+              "readOnly": true,
+              "defaultValue": "Sitzungsleiter Matteo W. begrüsst alle Teilnehmenden.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "It is asked whether everyone is in agreement with the agenda items. (Chair of the meeting)",
+              "isRequired": true,
+              "correctAnswer": "The chair of the meeting asks whether everyone is in agreement with the agenda items.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "The minutes were approved unanimously. (Meeting)",
+              "isRequired": true,
+              "correctAnswer": "The meeting approves the minutes unanimously.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "The first item on the agenda is discussed at length and in depth. (Participants)",
+              "isRequired": true,
+              "correctAnswer": "The participants discuss the first item on the agenda at length and in depth.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Passive sentences",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Convert the passive sentences into active sentences. The sentences are taken from minutes of a meeting.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "The motion by Christina P. is adopted. (Meeting)",
+              "isRequired": true,
+              "correctAnswer": "The meeting accepts Christina P.'s motion.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "The second item on the agenda is explained first. (Tom M.)",
+              "isRequired": true,
+              "correctAnswer": "Tom M. explains what the second item on the agenda is about.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "It is requested that this agenda item not be discussed until the next meeting. (Rahel D. and Kira F.)",
+              "isRequired": true,
+              "correctAnswer": "Rahel D. and Kira F. requested that this agenda item not be discussed until the next meeting.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Passive sentences",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Convert the passive sentences into active sentences. The sentences are taken from minutes of a meeting.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "An explanation is required for this postponement. (Tom M.)",
+              "isRequired": true,
+              "correctAnswer": "Tom M. demands an explanation for this postponement.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "A postponement is rejected. (majority)",
+              "isRequired": true,
+              "correctAnswer": "A majority rejects a postponement.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "At the end, a reminder of the next meeting date is sent out and thanks are expressed for the committed participation and thinking. (Chair of the meeting Matteo W.)",
+              "isRequired": true,
+              "correctAnswer": "At the end, Matteo W., who chaired the meeting, reminded everyone of the next meeting date and thanked everyone for their commitment and participation.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

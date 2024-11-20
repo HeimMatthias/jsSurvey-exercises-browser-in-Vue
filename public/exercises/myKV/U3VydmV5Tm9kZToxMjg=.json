@@ -1,0 +1,139 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What do you call the document summarizing the wages received?",
+              "isRequired": true,
+              "correctAnswer": "Payroll accounting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What do you use to label a physical folder?",
+              "isRequired": true,
+              "correctAnswer": "Etiquette",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "This allows figures to be presented clearly.",
+              "isRequired": true,
+              "correctAnswer": "Diagrams",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Persons who are employed by the company.",
+              "isRequired": true,
+              "correctAnswer": "Employees",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "This subdivides the folder according to the table of contents.",
+              "isRequired": true,
+              "correctAnswer": "Register",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "No files should be stored here.",
+              "isRequired": true,
+              "correctAnswer": "Desktop",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "This publication appears once a year.",
+              "isRequired": true,
+              "correctAnswer": "Annual report",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Helps with the filing of folders.",
+              "isRequired": true,
+              "correctAnswer": "Structure",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Summarizes the previous meeting.",
+              "isRequired": true,
+              "correctAnswer": "Protocol",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Summary of the last company outing.",
+              "isRequired": true,
+              "correctAnswer": "Report",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Documents stored in the folder follow the ... filing structure.",
+              "isRequired": true,
+              "correctAnswer": "physical",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Fixed or variable costs",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Catering during coffee break in the restaurant",
+                "Coach with chauffeur",
+                "Entrance fees for visiting an exhibition",
+                "Creation and printing of the travel program",
+                "Lunch in the restaurant",
+                "City tour",
+                "Distribution of one drink to each participant",
+                "Souvenir gift for the participants",
+                "Mailing of the travel program to all members",
+                "Giving a gift to the chauffeur "
+              ],
+              "type": "matrix",
+              "title": "An association intends to offer its members a day trip in a coach. Are the following costs fixed or variable?",
+              "columns": [
+                "fixed",
+                "variable"
+              ],
+              "correctAnswer": {
+                "Stadtführung": "fixed",
+                "Reisecar mit Chauffeur": "fixed",
+                "Mittagessen im Restaurant": "variable",
+                "Erstellung und Druck des Reiseprogramms": "fixed",
+                "Abgabe eines Geschenks an den Chauffeur ": "fixed",
+                "Verpflegung bei Kaffeepause im Restaurant": "variable",
+                "Erinnerungspräsent für die Teilnehmenden": "variable",
+                "Eintritte für den Besuch einer Ausstellung": "variable",
+                "Versand des Reiseprogramms an alle Mitglieder": "fixed",
+                "Abgabe von je einem Getränk an die Teilnehmenden": "variable"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

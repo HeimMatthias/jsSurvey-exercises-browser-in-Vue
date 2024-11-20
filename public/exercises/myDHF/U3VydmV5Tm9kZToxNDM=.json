@@ -1,0 +1,84 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "What is migration?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"What is migration?\"",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Where do people immigrate to Switzerland from today? Look at the corresponding graphic and formulate it in complete sentences.",
+              "isRequired": true,
+              "correctAnswer": "Immigrants in Switzerland most frequently come from Italy, Germany, Portugal, France, Kosovo and Spain. Of course, people also immigrate to Switzerland from other countries.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why shouldn't the decision to emigrate be taken lightly? Show\nwhat questions you should ask yourself in the event of emigration.\n",
+              "isRequired": true,
+              "correctAnswer": "Emigrating is never a decision to be taken lightly. There is a lot at stake: Why do I want to leave my country? Why do I want to go to my destination country? How will I make a living? Am I allowed and able to work in my destination country? Is my health insurance valid in my destination country? How long do I want to be away for?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Explain in one sentence each what push and pull factors are. Give three different examples of each.",
+              "isRequired": true,
+              "correctAnswer": "Push factors are causes that prompt people to emigrate: Unemployment, marriage or wars can be such reasons. Pull factors are factors that make a particular destination country attractive: security in everyday life, jobs, good education or high wages can be such factors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why are politicians concerned with large flows of refugees? Name various reasons.",
+              "isRequired": true,
+              "correctAnswer": "When many refugees want to come to Europe at the same time, this causes uncertainty, resentment or fear among the population, but also understanding and empathy. Some call for the borders to be closed and for strict immigration controls, while others demand a generous reception of war refugees.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why do refugees have to travel to Europe illegally? Explain in a few sentences.",
+              "isRequired": true,
+              "correctAnswer": "Countries can tighten up their visa regulations in times of large refugee flows, i.e. it becomes more difficult to obtain permission to enter a particular country. If you don't get a visa, you try to reach a country illegally by boat or across the green border.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Using a concrete example, explain what the Schengen Agreement means for Europeans and Swiss citizens.",
+              "isRequired": true,
+              "correctAnswer": "The Schengen Agreement simplifies travel within the Schengen area (roughly the EU area including Switzerland). For example, a Swiss family can travel from Zurich to Portugal without border controls. As soon as you are outside the Schengen area, you have to wait in long and tedious queues at the border crossing to be checked.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What does the Dublin Agreement contain? Explain very briefly.",
+              "isRequired": true,
+              "correctAnswer": "An asylum seeker can only apply for asylum in one country and cannot travel on from Italy to Spain and then to Sweden after a negative decision.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

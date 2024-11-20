@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "name": "Dreisatz und Fremdwährungen",
+      "title": "Rule of three and foreign currencies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "This exercise shows you applications of the classic rule of three. The rule of three is also useful in connection with foreign currency calculations. Calculate the following three examples and select the appropriate solution for each (round in favor of the currency trader).",
+          "elements": [
+            {
+              "name": "Ein Tourist aus Tokio wechselt in Bern am Bankschalter 9000 Yen in Schweizer Franken. Die Bank rechnet mit dem Kurs 0.868 (Kursangabe in 100er-Einheit). Wie viele Franken erhält er bar ausbezahlt?",
+              "type": "dropdown",
+              "title": "A tourist from Tokyo changes 9000 yen into Swiss francs at the bank counter in Berne. The bank calculates the exchange rate at 0.868 (exchange rate in units of 100). How many francs will he receive in cash?",
+              "choices": [
+                "3208.55",
+                "7810 ",
+                "1.1 ",
+                "103.65 ",
+                "2805 ",
+                "0.925 ",
+                "0.750",
+                "78.10"
+              ],
+              "correctAnswer": "78.10"
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Werner Schweizer buys American dollars at the SBB exchange office at Zurich main station for CHF 3000 at a rate of 0.935. How many dollars does he receive?",
+              "choices": [
+                "3208.55",
+                "7810 ",
+                "1.1 ",
+                "103.65 ",
+                "2805 ",
+                "0.925 ",
+                "0.750",
+                "78.10"
+              ],
+              "correctAnswer": "3208.55"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "A family buys four tickets for a boat trip on Lake Constance for CHF 74. The mother pays with 80 euros and receives CHF 14 back. What EUR exchange rate does the shipping company use?",
+              "choices": [
+                "3208.55",
+                "7810 ",
+                "1.1 ",
+                "103.65 ",
+                "2805 ",
+                "0.925 ",
+                "0.750",
+                "78.10"
+              ],
+              "correctAnswer": "1.1 "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

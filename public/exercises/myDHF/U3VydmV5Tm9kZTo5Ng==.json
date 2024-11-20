@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Ökologie",
+      "title": "Ecology",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"The ecological footprint\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does the ecological footprint measure?",
+              "isRequired": true,
+              "correctAnswer": "The ecological footprint measures people's consumption of natural resources. This involves calculating the average amount of productive land (arable land, pasture, forest, rivers, etc.) a person uses for food, energy, housing and other material goods, as well as for the decomposition of waste.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why is biocapacity so important?",
+              "isRequired": true,
+              "correctAnswer": "The ecological footprint also calculates the \"biocapacity\", i.e. the ability of nature to produce raw materials and break down pollutants. If the footprint and biocapacity of a region match, it is in harmony with the carrying capacity of nature and is sustainable.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why will the world's ecological footprint continue to grow?",
+              "isRequired": true,
+              "correctAnswer": "The world's ecological footprint will continue to grow strongly in the coming years due to the rise of populous emerging countries such as India, China and Brazil, which are adopting the economic model of industrialized countries.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

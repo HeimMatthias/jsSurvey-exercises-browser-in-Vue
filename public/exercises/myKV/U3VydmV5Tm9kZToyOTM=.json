@@ -1,0 +1,121 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Punctuation marks",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Insert: Quotation mark, colon, exclamation mark, question mark.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why always plan everything, said Nadine. Things usually turn out differently than you think. ",
+              "isRequired": true,
+              "correctAnswer": "Why always plan everything?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "He asked me whether I would accept the position in Lugano.",
+              "isRequired": true,
+              "correctAnswer": "He asked me whether I would accept the position in Lugano.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Attention, attention, it sounded from the loudspeaker. This is the police.",
+              "isRequired": true,
+              "correctAnswer": "Attention, attention!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "One of his favorite words is suboptimal.",
+              "isRequired": true,
+              "correctAnswer": "One of his favorite words is \"suboptimal\".",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "The teacher asked us Did you write down the date for the exam and announced the exam topics.",
+              "isRequired": true,
+              "correctAnswer": "The teacher asked us: \"Have you noted the date for the exam?\" and announced the exam topics.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Punctuation marks",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Insert: Quotation mark, colon, exclamation mark, question mark.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Stay calm, she thought to herself at the sight of the aggressively barking dog.",
+              "isRequired": true,
+              "correctAnswer": "Stay calm!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "The report literally states that your social skills leave a lot to be desired.",
+              "isRequired": true,
+              "correctAnswer": "The report states verbatim: \"Your social skills leave a lot to be desired.\"",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Will the last really be the first?",
+              "isRequired": true,
+              "correctAnswer": "Will the \"last\" really be the \"first\"?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Her problem is that she keeps saying she doesn't have a problem.",
+              "isRequired": true,
+              "correctAnswer": "Her \"problem\" is that she constantly says she doesn't have a problem.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "The excursion, which was advertised as a walk, was more like a mountain hike.",
+              "isRequired": true,
+              "correctAnswer": "The excursion, which was advertised as a \"walk\", was more like a mountain hike.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

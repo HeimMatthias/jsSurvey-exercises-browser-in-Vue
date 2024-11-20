@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Rebates and discounts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Discounts can often be deducted when purchasing large quantities.",
+                "The discount is first deducted from the catalog price and then the rebate.",
+                "A 2% discount may be deducted from all invoices.",
+                "10% discount and 2% cash discount result in a deduction of 12%.",
+                "The supplier may grant a discount for defective goods.",
+                "The discount is a reward for early payment.",
+                "Catalog price minus discount equals the invoice amount.",
+                "The discount has already been deducted from the supplier's invoice.",
+                "Invoice amount minus discount equals the payment amount.",
+                "The terms \"net credit purchase price\" and \"payment amount\" are synonymous.",
+                "Dealers can sometimes deduct special resale discounts.",
+                "Gross credit purchase price and invoice amount are to be understood as the same amount."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about rebates and discounts correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "10% Rabatt und 2% Skonto ergeben einen Abzug von 12%.": "wrong",
+                "Katalogpreis minus Rabatt ergibt den Rechnungsbetrag.": "right",
+                "Rechnungsbetrag minus Skonto ergibt den Zahlungsbetrag.": "right",
+                "Bei allen Rechnungen dürfen 2% Skonto abgezogen werden.": "wrong",
+                "Der Skonto ist eine Belohnung für eine vorzeitige Zahlung.": "right",
+                "Auf der Rechnung des Lieferanten ist der Skonto bereits abgezogen.": "wrong",
+                "Händler können manchmal besondere Wiederverkaufsrabatte abziehen.": "right",
+                "Beim Kauf von grossen Mengen dürfen häufig Rabatte abgezogen werden.": "right",
+                "Der Lieferant kann bei einer mangelhaften Ware einen Rabatt gewähren.": "right",
+                "Vom Katalogpreis wird zuerst der Skonto und dann der Rabatt abgezogen.": "wrong",
+                "Die Begriffe «Nettokreditankaufspreis» und «Zahlungsbetrag» sind gleichbedeutend.": "wrong",
+                "Unter Bruttokreditankaufspreis und Rechnungsbetrag ist die gleiche Grösse zu verstehen.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

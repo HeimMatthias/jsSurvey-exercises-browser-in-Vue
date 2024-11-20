@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Public law or private law?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Criminal law",
+                "Personal law",
+                "Property law",
+                "Constitutional law",
+                "Debt enforcement and bankruptcy law",
+                "Family law",
+                "Administrative law",
+                "Procedural law",
+                "Inheritance law",
+                "Code of Obligations"
+              ],
+              "type": "matrix",
+              "title": "Assign the following areas of law to public law or private law.",
+              "columns": [
+                "Public law",
+                "Private law"
+              ],
+              "correctAnswer": {
+                "Erbrecht": "Private law",
+                "Strafrecht": "Public law",
+                "Sachenrecht": "Private law",
+                "Staatsrecht": "Public law",
+                "Prozessrecht": "Public law",
+                "Familienrecht": "Private law",
+                "Personenrecht": "Private law",
+                "Verwaltungsrecht": "Public law",
+                "Obligationenrecht": "Private law",
+                "Schuldbetreibungs- und Konkursrecht": "Public law"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Process management",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Communicate",
+                "Modeling business processes",
+                "Measure target achievement",
+                "Carry out process audits",
+                "Introduce employees",
+                "Defining roles and responsibilities",
+                "Improve business processes",
+                "Integrating business processes into the organization",
+                "Motivating employees",
+                "Define key figures",
+                "Innovating business processes"
+              ],
+              "type": "matrix",
+              "title": "Assign the following activities to the task areas of process management: ",
+              "columns": [
+                "Process management",
+                "Process organization",
+                "Process controlling",
+                "Process optimization"
+              ],
+              "correctAnswer": {
+                "Kommunizieren": "Process management",
+                "Kennzahlen definieren": "Process controlling",
+                "Zielerreichung messen": "Process controlling",
+                "Mitarbeitende einführen": "Process management",
+                "Mitarbeitende motivieren": "Process management",
+                "Prozessaudits durchführen": "Process controlling",
+                "Geschäftsprozesse innovieren": "Process optimization",
+                "Geschäftsprozesse verbessern": "Process optimization",
+                "Geschäftsprozesse modellieren": "Process organization",
+                "Rollen und Verantwortlichkeiten festlegen": "Process organization",
+                "Geschäftsprozesse in Organisation integrieren": "Process organization"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

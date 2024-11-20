@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Vorgehensweise",
+      "title": "Procedure",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "An apprentice regularly arrives at work a few minutes late.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is a sensible course of action for this breach of duty?",
+              "isRequired": true,
+              "correctAnswer": "Warning, make up for missed time.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Vorgehensweise1",
+      "title": "Procedure",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "One day, a trainee is caught smoking pot by his boss during working hours, even though this is strictly forbidden in the company.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is a sensible course of action for this breach of duty?",
+              "isRequired": true,
+              "correctAnswer": "Conversation > Warning > 2nd chance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Vorgehensweise2",
+      "title": "Procedure",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "An apprentice (hairdresser) has to clean his boss's car once a week.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is a sensible course of action for this breach of duty?",
+              "isRequired": true,
+              "correctAnswer": "Discussion with vocational trainer > if unsuccessful > involve vocational training office",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question11",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Vorgehensweise3",
+      "title": "Procedure",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "An apprentice is shouted at by her boss because of an unsatisfactory grade.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is a sensible course of action for this breach of duty?",
+              "isRequired": true,
+              "correctAnswer": "Conversation > Understanding defeats > Working through school material",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question15",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

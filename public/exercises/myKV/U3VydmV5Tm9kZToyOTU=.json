@@ -1,0 +1,288 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Upper or lower case",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Upper or lower case? A few mistakes have crept into the following sentences. Correct them.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "She is currently reading the book \"Es geht uns gut\" by Arno Geiger.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "The store is closed on the first of each month.",
+              "isRequired": true,
+              "correctAnswer": "on the first",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "The concert was well received by some, but on the whole it disappointed us.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "She had a bad fall while skiing and had to be prepared for the worst.",
+              "isRequired": true,
+              "correctAnswer": "for the worst",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Even after the second search, the police are still in the dark.",
+              "isRequired": true,
+              "correctAnswer": "in the dark",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Now it's official: the well-known TV presenter is switching to the competition.",
+              "isRequired": true,
+              "correctAnswer": "The",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Upper or lower case",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Upper or lower case? A few mistakes have crept into the following sentences. Correct them.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "The two have been through thick and thin since their first big success.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "It is only right that we are now aware of this.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "You will be informed of all the following in good time in advance.",
+              "isRequired": true,
+              "correctAnswer": "The following",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "The Canary Islands belong to Spain and are located in the Atlantic Ocean.",
+              "isRequired": true,
+              "correctAnswer": "Canary Islands",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Throughout his life, he believed in the good in people.",
+              "isRequired": true,
+              "correctAnswer": "time",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Crossing the road on red unnecessarily endangers yourself and others.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Upper or lower case",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Upper or lower case? A few mistakes have crept into the following sentences. Correct them.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "You can discover all kinds of beautiful things while hiking in the Swiss mountains.",
+              "isRequired": true,
+              "correctAnswer": "Hiking",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "We demand that the allegations be proven in black and white without any ifs and buts.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "The locals know that this route is the steepest and most dangerous.",
+              "isRequired": true,
+              "correctAnswer": "steepest and most dangerous",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "My boss surprisingly offered me the \"you\" at the company party.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "She was the only one of the ten runners who could keep up with the men.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "At yesterday afternoon's meeting, only what was already known was discussed.",
+              "isRequired": true,
+              "correctAnswer": "Afternoon",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Upper or lower case",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Upper or lower case? A few mistakes have crept into the following sentences. Correct them.",
+          "elements": [
+            {
+              "name": "question19",
+              "type": "text",
+              "title": "In hindsight, we could understand why he, of all people, had received the pink slip.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question20",
+              "type": "text",
+              "title": "After a long back and forth, the Grand Council of the Canton of Bern has given its approval.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question21",
+              "type": "text",
+              "title": "This is by far the best thing we have read on the subject.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question22",
+              "type": "text",
+              "title": "The English operating instructions now need to be translated into German.",
+              "isRequired": true,
+              "correctAnswer": "into German",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question23",
+              "type": "text",
+              "title": "The new ones are generally better than the previous models.",
+              "isRequired": true,
+              "correctAnswer": "new",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question24",
+              "type": "text",
+              "title": "The new rules will change the game of football sooner or later.",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Upper or lower case",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Upper or lower case? A few mistakes have crept into the following sentences. Correct them.",
+          "elements": [
+            {
+              "name": "question25",
+              "type": "text",
+              "title": "This piece of evidence, like so many others, was discovered by chance.",
+              "isRequired": true,
+              "correctAnswer": "other",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question26",
+              "type": "text",
+              "title": "I liked the third part the best.",
+              "isRequired": true,
+              "correctAnswer": "best",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

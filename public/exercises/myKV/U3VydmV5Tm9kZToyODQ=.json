@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Subordinate clauses",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "As in the example, replace the attributive addenda with subordinate clauses. Pay attention to correct tense relationships. \nExample: This is a very fair proposal and therefore accepted by all. > This is a suggestion that is very fair and therefore is/can be accepted by everyone.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You will receive the samples you requested next Monday.",
+              "isRequired": true,
+              "correctAnswer": "Next Monday you will receive the samples you have requested.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "This is a solution supported by the majority.",
+              "isRequired": true,
+              "correctAnswer": "This is a solution that is supported by the majority.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "At the end of the year, she left the position she had only taken up three months previously.",
+              "isRequired": true,
+              "correctAnswer": "At the end of the month, she left the job she had only taken up three months previously.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Subordinate clauses",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "As in the example, replace the attributive addenda with subordinate clauses. Pay attention to correct tense relationships. \nExample: This is a very fair proposal and therefore accepted by all. > This is a suggestion that is very fair and therefore is/can be accepted by everyone.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Unfortunately, we were unable to consider applications submitted after the deadline.",
+              "isRequired": true,
+              "correctAnswer": "Unfortunately, we were unable to consider applications submitted after the deadline.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Please return the three copies you received two weeks ago.",
+              "isRequired": true,
+              "correctAnswer": "Please send us back the three review copies that we sent you two weeks ago.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Unfortunately, the traditional business outing, which is very popular with everyone, has been canceled this year.",
+              "isRequired": true,
+              "correctAnswer": "Unfortunately, the traditional business outing, which is very popular with everyone, has been canceled this year.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

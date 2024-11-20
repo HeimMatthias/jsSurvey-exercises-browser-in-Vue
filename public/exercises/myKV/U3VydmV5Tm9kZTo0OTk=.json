@@ -1,0 +1,155 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Everything clear?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Solve the following exercise:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": {
+                "de": "1. Welcher Stil wird in der schriftlichen Kommunikation bevorzugt? ",
+                "default": "Welcher Stil wird in der schriftlichen Kommunikation bevorzugt? "
+              },
+              "choices": [
+                "Nominal style",
+                "Passive style",
+                "Active style",
+                "Es style "
+              ],
+              "correctAnswer": "Active style"
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": {
+                "de": "2. Welcher der folgenden Sätze kann negativ konnotiert werden?",
+                "default": "Welcher der folgenden Sätze ist ein Beispiel für eine negative Konnotation? "
+              },
+              "choices": [
+                "The project offers exciting challenges.",
+                "The task is almost impossible to solve.",
+                "The proposal brings opportunities."
+              ],
+              "correctAnswer": "The task is almost impossible to solve."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": {
+                "de": "3. In welchem der folgenden Sätze kommen Floskeln vor?",
+                "default": "Welche der folgenden Sätze verwendet Floskeln? "
+              },
+              "choices": [
+                "Please send us the documents by Friday.",
+                "Have you received the goods in the meantime?",
+                "We would like to inform you that your offer has been received.",
+                "We would like to invite you to our \"Open Day\"."
+              ],
+              "correctAnswer": "We would like to inform you that your offer has been received."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": {
+                "de": "4. Welcher Punkt gehört nicht zu den Qualitätssaspekten eines Textes? ",
+                "default": "Welche Aspekte werden bei der Überprüfung eines Textes empfohlen?  "
+              },
+              "choices": [
+                "Formal correctness",
+                "Clear, cliché-free statements",
+                "As many modal verbs as possible",
+                "Visually appealing presentation"
+              ],
+              "correctAnswer": [
+                "As many modal verbs as possible"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Everything clear?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Solve the following exercise:",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "checkbox",
+              "title": {
+                "de": "5. Warum ist der Verbalstil in der schriftlichen Kommunikation zu bevorzugen? ",
+                "default": "Warum ist der Verbalstil in der schriftlichen Kommunikation bevorzugt?  "
+              },
+              "choices": [
+                "It is indirect and passive.",
+                "He emphasizes nouns and states.",
+                "It enables shorter sentences.",
+                "It facilitates clear communication."
+              ],
+              "correctAnswer": [
+                "It enables shorter sentences.",
+                "It facilitates clear communication."
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": {
+                "de": "6. Wann sind Es-Sätze in der schriftlichen Kommunikation angebracht?  ",
+                "default": "Wann sind Es-Sätze in der schriftlichen Kommunikation angebracht?  "
+              },
+              "choices": [
+                "If the author is unknown.",
+                "If \"it\" cannot be replaced.",
+                "For natural phenomena.",
+                "For direct instructions to the reader."
+              ],
+              "correctAnswer": [
+                "If the author is unknown.",
+                "If \"it\" cannot be replaced.",
+                "For natural phenomena."
+              ]
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": {
+                "de": "7. Was gilt für die Verwendung von Helvetismen in der schriftlichen Kommunikation?",
+                "default": "Welche Regel gilt für die Verwendung von Helvetismen in der schriftlichen Kommunikation? "
+              },
+              "choices": [
+                "They should always be avoided.",
+                "They can lead to misunderstandings for people outside Switzerland. ",
+                "They may only be used in informal texts.",
+                "They should be replaced by foreign words."
+              ],
+              "correctAnswer": "They can lead to misunderstandings for people outside Switzerland. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "locale": "de",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

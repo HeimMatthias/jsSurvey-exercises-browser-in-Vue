@@ -1,0 +1,186 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "He turned 33 yesterday. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Lia lent me a 50-franc note. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Wrong, with hyphen: 50-franc note "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "We have lessons from 08.00-09.30. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Wrong, it needs a half-fourth stroke, i.e. from 08.00-09.30 a.m."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Ms. Jossen - our teacher - is good at explaining difficult content.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "He paid CHF 65.90 for his new rucksack. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Wrong, the placeholder for the centime amounts is not needed. The correct amount would be CHF 65.90. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Presentation rules",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Decide whether the description in the following sentences is correct or incorrect. Correct any errors. ",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "On the weekend of June 21/22, we are taking a trip to the canton of Basel-Stadt. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "How can ambiguities be resolved during a telephone conversation? ",
+              "isRequired": true,
+              "correctAnswer": "by asking specific questions and summarizing ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the advantage of summarizing information in text form? ",
+              "isRequired": true,
+              "correctAnswer": "The information can be viewed several times.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the rule for sentences in written summaries? ",
+              "isRequired": true,
+              "correctAnswer": "They must be brief and complete.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What rule applies to information in written summaries? ",
+              "isRequired": true,
+              "correctAnswer": "They must be truthful and factually correct.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What does the Q stand for in the SQ3R method? ",
+              "isRequired": true,
+              "correctAnswer": "for Question/ask questions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What does the second R stand for in the SQ3R method?",
+              "isRequired": true,
+              "correctAnswer": "for Recite/play content",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "What are the three phases of the 3-phase reading method?",
+              "isRequired": true,
+              "correctAnswer": "1. gain an overview 2. grasp the topic 3. recognize core information",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

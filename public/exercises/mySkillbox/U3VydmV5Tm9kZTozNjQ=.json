@@ -1,0 +1,149 @@
+{
+  "pages": [
+    {
+      "name": "Verhalten1",
+      "title": "Behavior",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "You notice how a colleague from your class forwards a video via social media to the person next to you on the bench showing a fight on a bus: a group of young people provoke a boy and beat him up.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "What sentence could the boy formulate to express his desired behavior to your colleague?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What sentence could you formulate to express your desired behavior to your colleague?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verhalten2",
+      "title": "Behavior",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "A classmate has downloaded the profile picture of a fellow pupil, altered it with a moustache and rose-colored glasses and then posted it in the class chat. The class finds the picture funny and laughs, while the person in question gets angry.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What sentence could the person concerned formulate to express their desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What sentence could you formulate to express your desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verhalten3",
+      "title": "Behavior",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "You observe how a classmate hides someone else's cell phone in the teacher's desk during the break. When the cell phone owner comes back, he shouts: \"Who took my cell phone? Hey, that's not funny ...\"",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What sentence could the cell phone owner formulate to express his desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What sentence could you formulate to express your desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verhalten4",
+      "title": "Behavior",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Five of them are standing in a circle during the break when a burly classmate approaches a smaller pupil from behind, clutches him tightly and says: \"Hey, you fine fellow, are we OK today?\" You can see how the person being clutched waits until the \"attack\" is over and looks visibly unhappy.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What sentence could the person in the clutch formulate to express their desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What sentence could you formulate to express your desired behavior to your classmate?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verhalten5",
+      "title": "Behavior",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "You hear a classmate accompanied by two colleagues say to a female classmate who is eating a chocolate bar: \"Hey Pummeli, are you getting fatter?\" The two colleagues laugh out loud.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What sentence could the classmate formulate to express her desired behavior to the group?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What sentence could you formulate to express your desired behavior to the group?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

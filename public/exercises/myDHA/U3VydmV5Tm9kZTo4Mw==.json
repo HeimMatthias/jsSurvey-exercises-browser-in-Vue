@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Production factors",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Begründen Sie Ihre Entscheidung von oben, indem Sie unten alle Kategorien ankreuzen, die zutreffen.",
+              "rows": [
+                "In every company, the production factors of land, labor, capital and knowledge are combined to produce an economic output.",
+                "Compared to other countries, the soil in Switzerland is a major source of raw materials because large quantities of water, stone and wood can be extracted for processing.",
+                "A country's infrastructure is of central importance when choosing the optimal operating location.",
+                "Work in the economic sense is the mental and physical effort of people to produce goods and services.",
+                "The use of machines increases labor productivity.",
+                "The conversion of physical capital into monetary capital is called investment.",
+                "Switzerland's most important economic resource is its well-trained workforce."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the factors of production correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Der Einsatz von Maschinen erhöht die Arbeitsproduktivität.": "Correct",
+                "Die Umwandlung von Sachkapital in Geldkapital nennt man Investition.": "Wrong",
+                "Die wichtigste wirtschaftliche Ressource der Schweiz sind die gut ausgebildeten Arbeitskräfte.": "Correct",
+                "Bei der Wahl des optimalen Betriebsstandorts ist die Infrastruktur eines Landes von zentraler Bedeutung.": "Correct",
+                "Arbeit im wirtschaftlichen Sinn ist der geistige und körperliche Einsatz des Menschen, um Güter und Dienstleistungen herzustellen.": "Correct",
+                "In jedem Betrieb werden die Produktionsfaktoren Boden, Arbeit, Kapital und Wissen kombiniert, um eine wirtschaftliche Leistung zu erbringen.": "Correct",
+                "Der Boden in der Schweiz ist im Vergleich zu anderen Ländern ein grosser Rohstoffträger, weil grosse Mengen an Wasser, Steinen und Holz zur Verarbeitung gewonnen werden können.": "Wrong"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

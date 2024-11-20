@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Rights and obligations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Rights and duties\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are human rights?",
+              "isRequired": true,
+              "correctAnswer": "General, supranational fundamental rights and freedoms. All people are entitled to them, regardless of skin color, origin, language, religion, nationality or gender.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the three civil rights in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "Freedom of establishment; citizenship; protection against expulsion, extradition and deportation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Name three civic duties.",
+              "isRequired": true,
+              "correctAnswer": "Military service, civil defense, compulsory schooling, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Rights and obligations",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Rights and duties\".",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "When are you granted political rights in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "At the age of 18",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the difference between the right to vote and the right to stand for election?",
+              "isRequired": true,
+              "correctAnswer": "The right to vote entitles someone to elect people to an office or authority. The right to stand for election allows you to be elected to an office yourself.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What do you mean by an absolute majority and what do you mean by a relative majority?",
+              "isRequired": true,
+              "correctAnswer": "An absolute majority means that the person who has obtained more than half of all valid votes is elected. Invalid or blank ballot papers are not counted. A relative majority means that the person with the highest number of votes is elected. It is not necessary to achieve half of all votes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

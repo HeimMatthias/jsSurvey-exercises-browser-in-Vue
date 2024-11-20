@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A loan agreement must be concluded in writing.",
+                "A loan between private individuals does not bear interest unless the parties agree otherwise.",
+                "In commercial transactions, a loan is interest-bearing unless otherwise agreed.",
+                "The right to reimbursement of a loan expires after five years.",
+                "Unless the parties have agreed otherwise, the lender may demand repayment of the loan within six weeks of the first demand.",
+                "Mortgages, i.e. loans that are secured by a mortgage, do not expire."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the loan correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Ein Darlehensvertrag muss schriftlich abgeschlossen werden.": "Wrong",
+                "Der Anspruch auf Rückerstattung eines Darlehens verjährt nach fünf Jahren.": "Wrong",
+                "Im kaufmännischen Verkehr ist ein Darlehen ohne andere Verabredung verzinslich.": "Correct",
+                "Hypotheken, also Darlehen, die mit einem Grundpfand gesichert sind, verjähren nicht.": "Correct",
+                "Ein Darlehen unter Privaten ist unverzinslich, wenn die Parteien nichts anderes vereinbaren.": "Correct",
+                "Wenn die Parteien nichts anderes vereinbart haben, kann die Darleiherin das Darlehen innerhalb von sechs Wochen nach der ersten Aufforderung zurückverlangen.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

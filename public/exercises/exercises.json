@@ -1,0 +1,6128 @@
+[
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTg=",
+    "title": "Übungstitel",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTY=",
+    "title": "Sachverhalt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTU=",
+    "title": "Probezeit",
+    "moduleSlug": "arbeitsrecht-und-soziale-sicherheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTQ=",
+    "title": "Kündigung",
+    "moduleSlug": "arbeitsrecht-und-soziale-sicherheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTM=",
+    "title": "Fall 1",
+    "moduleSlug": "arbeitsrecht-und-soziale-sicherheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTI=",
+    "title": "AHV",
+    "moduleSlug": "abgesichert-für-den-notfall"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTE=",
+    "title": "Entwicklungen",
+    "moduleSlug": "abgesichert-für-den-notfall"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MTA=",
+    "title": "Szenarien",
+    "moduleSlug": "abgesichert-für-den-notfall"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDk=",
+    "title": "Übung AHV-Rente",
+    "moduleSlug": "abgesichert-für-den-notfall"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDg=",
+    "title": "Frage 1",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDc=",
+    "title": "Kommentieren Sie Sandros Antworten.",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDY=",
+    "title": "Situation 1",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDU=",
+    "title": "Fragen Vorstellungsgespräch",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDQ=",
+    "title": "Fallbeispiele",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDM=",
+    "title": "Eigenschaften umschreiben",
+    "moduleSlug": "smarte-jobsuche"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDI=",
+    "title": "Einstellung zur Arbeit",
+    "moduleSlug": "blog-act"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDE=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "wohnträume-leben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1MDA=",
+    "title": "Situation 1",
+    "moduleSlug": "wohnträume-leben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTk=",
+    "title": "Konfliktsituation 1",
+    "moduleSlug": "wohnträume-leben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTg=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "wohnträume-leben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTc=",
+    "title": "Mängel am Mietobjekt",
+    "moduleSlug": "wohnträume-leben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTY=",
+    "title": "Ungeschickt oder unproblematisch?",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTU=",
+    "title": "Mietvertrag",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0OTQ=",
+    "title": "Unproblematisch oder ungeschickt?",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NjE=",
+    "title": "Politische Grundkonflikte",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NjA=",
+    "title": "Wohnungsfaktoren",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTk=",
+    "title": "Wohnungsfaktoren",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTg=",
+    "title": "Wohnungsfaktoren",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTc=",
+    "title": "Wohnungstypen",
+    "moduleSlug": "wohn-träume-schmieden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTY=",
+    "title": "Sachverhalt",
+    "moduleSlug": "vorstellungen-vom-zusammenleben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTU=",
+    "title": "Familienrecht",
+    "moduleSlug": "vorstellungen-vom-zusammenleben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTQ=",
+    "title": "Ratschläge",
+    "moduleSlug": "vorstellungen-vom-zusammenleben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo0NTM=",
+    "title": "Ehe oder Konkubinat?",
+    "moduleSlug": "vorstellungen-vom-zusammenleben"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNzQ=",
+    "title": "Ökologischer Fussabdruck",
+    "moduleSlug": "globale-auswirkungen-unseres-lebensstils"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNzM=",
+    "title": "Der Bericht",
+    "moduleSlug": "globale-auswirkungen-unseres-lebensstils"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNzI=",
+    "title": "Perspektivenwechsel",
+    "moduleSlug": "globale-auswirkungen-unseres-lebensstils"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNzE=",
+    "title": "Verhaltensweisen",
+    "moduleSlug": "globale-auswirkungen-unseres-lebensstils"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNzA=",
+    "title": "Mein ökologischer Fussabdruck",
+    "moduleSlug": "globale-auswirkungen-unseres-lebensstils"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjk=",
+    "title": "Migrationspolitik",
+    "moduleSlug": "wie-migration-gesteuert-wird"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjg=",
+    "title": "Migrationspolitik",
+    "moduleSlug": "wie-migration-gesteuert-wird"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjc=",
+    "title": "Migration",
+    "moduleSlug": "facetten-der-migration"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjY=",
+    "title": "Berufsgruppen",
+    "moduleSlug": "facetten-der-migration"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjU=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "facetten-der-migration"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjQ=",
+    "title": "Verhalten",
+    "moduleSlug": "klasse"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjM=",
+    "title": "Berufe",
+    "moduleSlug": "lernen-aber-wie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjI=",
+    "title": "Sachverhalte",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjE=",
+    "title": "Fallbeispiele",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNjA=",
+    "title": "Zwingende Rechtsvorschriften",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNTk=",
+    "title": "Rechtsvorschriften",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozNTg=",
+    "title": "Zielkonflikt oder Zielharmonie?",
+    "moduleSlug": "lehrbetrieb"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTozMjU=",
+    "title": "Gedicht",
+    "moduleSlug": "wie-der-staat-die-wirtschaft-beeinflusst"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyOTI=",
+    "title": "Steuervarianten",
+    "moduleSlug": "wie-der-staat-die-wirtschaft-beeinflusst"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyOTE=",
+    "title": "Steuerarten",
+    "moduleSlug": "wie-der-staat-die-wirtschaft-beeinflusst"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyOTA=",
+    "title": "Steuern",
+    "moduleSlug": "wie-der-staat-die-wirtschaft-beeinflusst"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODk=",
+    "title": "Kreislaufwirtschaft",
+    "moduleSlug": "die-kehrseite-des-wirtschaftens"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODg=",
+    "title": "Bruttoinlandprodukt (BIP)",
+    "moduleSlug": "wirtschaft-und-lebensqualität"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODc=",
+    "title": "Ski-Gebiet Alpina",
+    "moduleSlug": "marktgesetze"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODY=",
+    "title": "Marktgesetze",
+    "moduleSlug": "marktgesetze"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODU=",
+    "title": "Marktgesetze",
+    "moduleSlug": "marktgesetze"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODQ=",
+    "title": "Marktgesetze",
+    "moduleSlug": "marktgesetze"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODM=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "marktgesetze"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODI=",
+    "title": "Sachverhalte",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODE=",
+    "title": "Zusammenarbeit Schweiz-EU",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyODA=",
+    "title": "Zusammenarbeit Kantone",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzk=",
+    "title": "Zusammenarbeit",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzg=",
+    "title": "Forderungen an die EU",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzc=",
+    "title": "Bundes- oder Zentralstaat?",
+    "moduleSlug": "die-beziehungskiste-cheu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzY=",
+    "title": "Heimat",
+    "moduleSlug": "heimat-und-fremdheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzU=",
+    "title": "Verknüpfungsmittel, die eine Aufzählung anzeigen",
+    "moduleSlug": "heimat-und-fremdheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzQ=",
+    "title": "Verknüpfungsmittel, die etwas eingrenzen oder präzisieren",
+    "moduleSlug": "heimat-und-fremdheit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzM=",
+    "title": "Produktivität",
+    "moduleSlug": "meine-arbeitsproduktivität"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzI=",
+    "title": "Prinzip",
+    "moduleSlug": "meine-arbeitsproduktivität"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzE=",
+    "title": "Begriffe",
+    "moduleSlug": "kunst-politik"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNzA=",
+    "title": "WOOP-Technik",
+    "moduleSlug": "kunst-bewerten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjk=",
+    "title": "Identitätsentwicklung",
+    "moduleSlug": "kunst-bewerten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjg=",
+    "title": "Vater und Tochter",
+    "moduleSlug": "kunst-bewerten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjc=",
+    "title": "Links oder Rechts?",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjU=",
+    "title": "Bildbeschreibung",
+    "moduleSlug": "was-ist-kunst"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjQ=",
+    "title": "Innere Schönheit",
+    "moduleSlug": "was-ist-schön"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjM=",
+    "title": "Körperliche Schönheit",
+    "moduleSlug": "was-ist-schön"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjE=",
+    "title": "Identität",
+    "moduleSlug": "wer-sind-sie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNjA=",
+    "title": "Rollen",
+    "moduleSlug": "wer-sind-sie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTk=",
+    "title": "Lebensgeschichten",
+    "moduleSlug": "wer-sind-sie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTY=",
+    "title": "Grundkonflikte",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTU=",
+    "title": "Bundesstaat Schweiz",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTQ=",
+    "title": "Gegenargumente",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTM=",
+    "title": "Bundesstaat versus Zentralstaat",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTI=",
+    "title": "Vorteile",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTE=",
+    "title": "Konkordanz-System",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNTA=",
+    "title": "Direkte, indirekte und halbdirekte Demokratie",
+    "moduleSlug": "formen-der-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDk=",
+    "title": "Demokratie versus Diktatur",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDg=",
+    "title": "Demokratie versus Diktatur",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDc=",
+    "title": "Demokratie versus Diktatur",
+    "moduleSlug": "diktatur-versus-demokratie-alt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDY=",
+    "title": "Diktatur oder Demokratie?",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDU=",
+    "title": "Freund der Regierung",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDQ=",
+    "title": "Freund der Regierung",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDM=",
+    "title": "Pro- und Kontra-Argumente",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDE=",
+    "title": "Menschenwürde-Check",
+    "moduleSlug": "diktatur-versus-demokratie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyNDA=",
+    "title": "Die vier politischen Grundkonflikte und das Links-Rechts-Schema",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMzk=",
+    "title": "Grundkonflikte",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMzc=",
+    "title": "Umfrage",
+    "moduleSlug": "politik-mitbestimmen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMzY=",
+    "title": "Rechtsvorschriften",
+    "moduleSlug": "politik-mitbestimmen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMzU=",
+    "title": "Rechtsvorschriften",
+    "moduleSlug": "politik-mitbestimmen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMDE=",
+    "title": "Meinung oder Tatsache?",
+    "moduleSlug": "politische-streitfragen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToyMDA=",
+    "title": "Gegenteil finden",
+    "moduleSlug": "thematische-wortschatzarbeit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxOTk=",
+    "title": "Aussagen zuordnen",
+    "moduleSlug": "thematische-wortschatzarbeit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxOTg=",
+    "title": "Fremdwörter",
+    "moduleSlug": "thematische-wortschatzarbeit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxOTc=",
+    "title": "Antonyme",
+    "moduleSlug": "thematische-wortschatzarbeit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxOTY=",
+    "title": " Welches Wort passt nicht?",
+    "moduleSlug": "thematische-wortschatzarbeit"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxOTU=",
+    "title": "Begriffe zuordnen",
+    "moduleSlug": "crashkurskrankenkasse"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNjI=",
+    "title": "Lernkarten Versicherungen",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNjE=",
+    "title": "Die optimale Franchise",
+    "moduleSlug": "crashkurskrankenkasse"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNjA=",
+    "title": "Krankenkasse",
+    "moduleSlug": "crashkurskrankenkasse"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTk=",
+    "title": "Gerechtigkeitsprinzip zuordnen",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTg=",
+    "title": "Faires Gerechtigkeitsprinzip",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTc=",
+    "title": "Dass oder Das?",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTY=",
+    "title": "Wann schreibt man «das»?",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTU=",
+    "title": "Aussagen zu den Gerechtigkeitsprinzipien",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTQ=",
+    "title": "Welche Versicherung ist zuständig?",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNTE=",
+    "title": "Gerechtigkeitsprinzip",
+    "moduleSlug": "pechgehabt"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDk=",
+    "title": "Sachverhalt ",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDg=",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "bezahlen-bitte"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDc=",
+    "title": "Risikoberatung",
+    "moduleSlug": "norisknofun"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDY=",
+    "title": "Lernkarten DASS",
+    "moduleSlug": "norisknofun"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDU=",
+    "title": "Grafiken lesen",
+    "moduleSlug": "gesunderlebensstil"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDQ=",
+    "title": "Auswirkungen",
+    "moduleSlug": "gesunderlebensstil"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDM=",
+    "title": "Sachverhalte",
+    "moduleSlug": "ihr-geld-ihre-schulden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDI=",
+    "title": "Präzise Vergleichen",
+    "moduleSlug": "gesunderlebensstil"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDE=",
+    "title": "Belastungsfaktoren am Arbeitsplatz",
+    "moduleSlug": "gesunderlebensstil"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNDA=",
+    "title": "Weltweite Gesundheit",
+    "moduleSlug": "gesunderlebensstil"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMDU=",
+    "title": "Sachverhalt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMDQ=",
+    "title": "Bildungssystem",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5OQ==",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "bezahlen-bitte"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5OA==",
+    "title": "Finanzierungsarten",
+    "moduleSlug": "wenn-ihr-kaufwunsch-zu-teuer-ist"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5Nw==",
+    "title": "Sachverhalte",
+    "moduleSlug": "rücktrittsmöglichkeiten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5Ng==",
+    "title": "Kompromisse",
+    "moduleSlug": "lehrbetrieb"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5NA==",
+    "title": "Sachverhalte",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5Mw==",
+    "title": "Sachverhalt ",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5Mg==",
+    "title": "Entscheidungen",
+    "moduleSlug": "ihr-geld-ihre-schulden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5MQ==",
+    "title": "Genitivprobe",
+    "moduleSlug": "beschädigte-ware"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5MA==",
+    "title": "Adjektivprobe",
+    "moduleSlug": "beschädigte-ware"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4OQ==",
+    "title": "Nominalisierung",
+    "moduleSlug": "beschädigte-ware"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4OA==",
+    "title": "Höflichkeitsformen",
+    "moduleSlug": "beschädigte-ware"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4Nw==",
+    "title": "Unterschiede",
+    "moduleSlug": "beschädigte-ware"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4Ng==",
+    "title": "Rücktritt vom Vertrag",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4NQ==",
+    "title": "Fall 1: G-Star-Jeans",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4NA==",
+    "title": "Rechte bei mangelhafter Ware",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4Mw==",
+    "title": "Rechte bei Lieferverzug",
+    "moduleSlug": "rücktrittsmöglichkeiten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4Mg==",
+    "title": "Umtauschrecht",
+    "moduleSlug": "rücktrittsmöglichkeiten-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4MQ==",
+    "title": "Wenn-dann-Sätze",
+    "moduleSlug": "rücktrittsmöglichkeiten"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo4MA==",
+    "title": "Wenn-Dann-Sätze",
+    "moduleSlug": "verbindliche-kaufverträge-neu"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3OQ==",
+    "title": "Urteilsfähigkeit",
+    "moduleSlug": "wollen-und-dürfen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3OA==",
+    "title": "Handlungsfähigkeit",
+    "moduleSlug": "wollen-und-dürfen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3Nw==",
+    "title": "Rechtsfälle",
+    "moduleSlug": "wollen-und-dürfen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3Ng==",
+    "title": "Fälle der Handlungsfähigkeit",
+    "moduleSlug": "wollen-und-dürfen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3NQ==",
+    "title": "Handlungsfähigkeit",
+    "moduleSlug": "wollen-und-dürfen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3NA==",
+    "title": "Folgen der Textilproduktion",
+    "moduleSlug": "fair-shoppen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3Mw==",
+    "title": "Bezahlsituationen",
+    "moduleSlug": "bezahlen-bitte"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3Mg==",
+    "title": "Wann welche Zahlungsart?",
+    "moduleSlug": "bezahlen-bitte"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3MQ==",
+    "title": "Sparmöglichkeiten",
+    "moduleSlug": "ihr-geld-ihre-schulden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3MA==",
+    "title": "Spartipps",
+    "moduleSlug": "ihr-geld-ihre-schulden"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo2OQ==",
+    "title": "Fallbeispiel",
+    "moduleSlug": "funktioniert-werbung"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo2OA==",
+    "title": "Stichhaltige Argumente",
+    "moduleSlug": "funktioniert-werbung"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo2MA==",
+    "title": "Wenn-dann-Formel",
+    "moduleSlug": "funktioniert-werbung"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1OA==",
+    "title": "Fragen zu Ihrem Konsumverhalten",
+    "moduleSlug": "warum-wir-kaufen"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1Nw==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1Ng==",
+    "title": "Titel der Übung",
+    "moduleSlug": "modul-test"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1NQ==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1NA==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo1Mg==",
+    "title": "Unser Gehirn",
+    "moduleSlug": "berufslehre"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNw==",
+    "title": "Lehrverträge vergleichen",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNQ==",
+    "title": " Eselsbrücke für historische Ereignisse",
+    "moduleSlug": "berufslehre"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxNA==",
+    "title": "Lese-Phasen",
+    "moduleSlug": "berufslehre"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMw==",
+    "title": "Meine Einstellung",
+    "moduleSlug": "lernen-aber-wie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMg==",
+    "title": "Vorgehensweise",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMQ==",
+    "title": "Pflichtverletzungsgrad",
+    "moduleSlug": "modul-test"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToxMA==",
+    "title": "Einstellungen zum Lernen",
+    "moduleSlug": "lernen-aber-wie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo5",
+    "title": "Konzentrationstipps",
+    "moduleSlug": "lernen-aber-wie"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTo3",
+    "title": "Pflichten",
+    "moduleSlug": "lehrvertrag"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToz",
+    "title": "Zielbeziehungen",
+    "moduleSlug": "lehrbetrieb"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZToy",
+    "title": "Tugenden",
+    "moduleSlug": "berufslehre"
+  },
+  {
+    "plattform": "mySkillbox",
+    "surveyId": "U3VydmV5Tm9kZTox",
+    "title": "Bildungssystem",
+    "moduleSlug": "berufslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MzM=",
+    "title": "Auswirkungen von Geschäftsfällen",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MzI=",
+    "title": "Kaufmännisches Runden",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MzE=",
+    "title": "Kaufmännisches Runden",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MzA=",
+    "title": "Kaufmännisches Runden",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Mjk=",
+    "title": "Dreisatz und Zinsformeln",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Mjg=",
+    "title": "Dreisatz und Fremdwährungen",
+    "moduleSlug": "repetition-rechnungswesen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Mjc=",
+    "title": "Veränderung der Nachfragekurve für Sonnencrème",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MjY=",
+    "title": "Veränderung der Angebotskurve für Schokolade",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MjU=",
+    "title": "Wie verändern sich Angebot und Nachfrage?",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MjQ=",
+    "title": "Veränderung der Angebotskurve für Milch",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MjM=",
+    "title": "Arten des Marktversagens",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MjI=",
+    "title": "Elastische und unelastische Preisänderungen",
+    "moduleSlug": "marktwirtschaft-und-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODk=",
+    "title": "Güterkategorien",
+    "moduleSlug": "beduerfnisse-gueter-und-wirtschaftskreislauf"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODg=",
+    "title": "Bedürfnisse und Güter",
+    "moduleSlug": "beduerfnisse-gueter-und-wirtschaftskreislauf"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODc=",
+    "title": "Bedüfniskategorien",
+    "moduleSlug": "beduerfnisse-gueter-und-wirtschaftskreislauf"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODY=",
+    "title": "Schritte der Argumentation 3",
+    "moduleSlug": "texte-verfassen-und-arbeiten-schreiben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODU=",
+    "title": "Schritte der Argumentation 2",
+    "moduleSlug": "texte-verfassen-und-arbeiten-schreiben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODQ=",
+    "title": "Schritte der Argumentation",
+    "moduleSlug": "texte-verfassen-und-arbeiten-schreiben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODM=",
+    "title": "Diagramme",
+    "moduleSlug": "statistiken-und-datensatze-mit-diagrammen-interpretieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODI=",
+    "title": "Umfrageergebnisse",
+    "moduleSlug": "statistiken-und-daten-vorbereiten-und-interpretieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODE=",
+    "title": "Mit Pivot-Tabellen arbeiten",
+    "moduleSlug": "statistiken-und-datensatze-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1ODA=",
+    "title": "Kursteilnahmen",
+    "moduleSlug": "statistiken-und-datensatze-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Nzk=",
+    "title": "Filialumsätze",
+    "moduleSlug": "statistiken-und-datensatze-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Nzg=",
+    "title": "Teilergebnis-Funktion anwenden",
+    "moduleSlug": "statistiken-und-datensatze-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Nzc=",
+    "title": "Autoverkäufe",
+    "moduleSlug": "statistiken-und-datensatze-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzY=",
+    "title": "Datenschnitt",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzU=",
+    "title": "Bedingte Formatierung",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzQ=",
+    "title": "Datenschnitt",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzM=",
+    "title": "Filtern",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzI=",
+    "title": "Filtern",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzE=",
+    "title": "Sortieren",
+    "moduleSlug": "statistiken-und-daten-aufbereiten-und-auswerten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NzA=",
+    "title": "Markengesetz",
+    "moduleSlug": "urheberrechtsschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Njk=",
+    "title": "Wasserzeichen",
+    "moduleSlug": "urheberrechtsschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Njg=",
+    "title": "Urheberrechte",
+    "moduleSlug": "urheberrechtsschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Njc=",
+    "title": "Wie wir uns von Sprache manipulieren lassen",
+    "moduleSlug": "stilebenen-und-rhetorische-stilmittel"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjY=",
+    "title": "Rhetorischen Stilmittel",
+    "moduleSlug": "stilebenen-und-rhetorische-stilmittel"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjU=",
+    "title": "Rhetorischen Stilmittel",
+    "moduleSlug": "stilebenen-und-rhetorische-stilmittel"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjQ=",
+    "title": "Datensicherung",
+    "moduleSlug": "datensicherungskonzepte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjM=",
+    "title": "Datensicherung",
+    "moduleSlug": "datensicherungskonzepte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjI=",
+    "title": "Datensicherung",
+    "moduleSlug": "datensicherungskonzepte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjE=",
+    "title": "Datenschutz",
+    "moduleSlug": "datensicherheit"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NjA=",
+    "title": "Schnupperlehren",
+    "moduleSlug": "datensicherheit"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTk=",
+    "title": "Digitale Bedrohungen von Unternehmen",
+    "moduleSlug": "datensicherheit"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTg=",
+    "title": "Sommerschnee",
+    "moduleSlug": "literarische-texte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTc=",
+    "title": "Die Kurzgeschichte",
+    "moduleSlug": "literarische-texte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTY=",
+    "title": "Telefonnotiz",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTU=",
+    "title": "Fristlose Kündigung",
+    "moduleSlug": "modul-test"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTQ=",
+    "title": "Rolle und Funktion der Medien",
+    "moduleSlug": "rolle-und-funktion-der-medien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTM=",
+    "title": "Textsorten den vier Textgattungen zuordnen",
+    "moduleSlug": "sachtexte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTI=",
+    "title": "Exigence concernant l’histoire",
+    "moduleSlug": "documents-de-communication-et-de-marketing"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTE=",
+    "title": "What is required of a story",
+    "moduleSlug": "communication-and-marketing-documents"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NTA=",
+    "title": "Fristlose Kündigung",
+    "moduleSlug": "arbeitsrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NDk=",
+    "title": "Beendigung des Arbeitsverhältnisses",
+    "moduleSlug": "arbeitsrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NDg=",
+    "title": "Rechtslage",
+    "moduleSlug": "arbeitsrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NDc=",
+    "title": "Rechte und Pflichten im Arbeitsverhältnis",
+    "moduleSlug": "arbeitsrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NDY=",
+    "title": "Stellenbewerbung",
+    "moduleSlug": "stellenbewerbung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MTM=",
+    "title": "Verhandlungsstrategie",
+    "moduleSlug": "verkaufs-und-verhandlungsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MTI=",
+    "title": "Verkaufsphasen",
+    "moduleSlug": "verkaufs-und-verhandlungsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MTE=",
+    "title": "Analyse",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MTA=",
+    "title": "Schwierige Gespräche",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDk=",
+    "title": "Konfliktsituationen",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDg=",
+    "title": "Die gewaltfreie Kommunikation",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDc=",
+    "title": "Das Vier-Seiten-Modell",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDY=",
+    "title": "Sender-Empfänger-Modell",
+    "moduleSlug": "gezielt-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDU=",
+    "title": "Wissensfragen",
+    "moduleSlug": "so-funktioniert-die-politische-schweiz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDQ=",
+    "title": "Wissensfragen",
+    "moduleSlug": "so-funktioniert-die-politische-schweiz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDM=",
+    "title": "Welche Antwort ist korrekt?",
+    "moduleSlug": "so-funktioniert-die-politische-schweiz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDI=",
+    "title": "Rolle und Funktion der Medien",
+    "moduleSlug": "rolle-und-funktion-der-medien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "parteien-verbande-und-andere-interessengruppen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1MDA=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-staat"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTk=",
+    "title": "Alles klar?",
+    "moduleSlug": "sprache-und-form-der-schriftlichen-kommunikation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTg=",
+    "title": "Modalverben",
+    "moduleSlug": "sprache-und-form-der-schriftlichen-kommunikation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTc=",
+    "title": "Darstellungsregeln",
+    "moduleSlug": "sprache-und-form-der-schriftlichen-kommunikation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTY=",
+    "title": "Anforderung an eine Geschichte ",
+    "moduleSlug": "kommunikations-und-marketingdokumente"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTU=",
+    "title": "Customer-oriented offers",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTQ=",
+    "title": "Informations- und Kommunikationskonzept",
+    "moduleSlug": "kommunikationskanale"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTM=",
+    "title": "Kommunikationskanäle",
+    "moduleSlug": "kommunikationskanale"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTI=",
+    "title": "Communication techniques",
+    "moduleSlug": "familiarising-yourself-with-discussion-sales-and-communication-techniques"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTE=",
+    "title": "Needs assessment",
+    "moduleSlug": "familiarising-yourself-with-discussion-sales-and-communication-techniques"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0OTA=",
+    "title": "Discussion and sales techniques",
+    "moduleSlug": "familiarising-yourself-with-discussion-sales-and-communication-techniques"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODk=",
+    "title": "Instrumente der Marketingkommunikation",
+    "moduleSlug": "marketing-und-kommunikationsaktivitaten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODg=",
+    "title": "Erscheinungsformen Kommunikation",
+    "moduleSlug": "marketing-und-kommunikationsaktivitaten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODc=",
+    "title": "Offre",
+    "moduleSlug": "etablissement-dune-offre-adaptee-aux-besoins-du-client"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODY=",
+    "title": "Techniques de communication",
+    "moduleSlug": "connaitre-les-techniques-dentretien-de-vente-et-de-communication"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODU=",
+    "title": "Analyse des besoins",
+    "moduleSlug": "connaitre-les-techniques-dentretien-de-vente-et-de-communication"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODQ=",
+    "title": "Techniques d'entretien et de vente",
+    "moduleSlug": "connaitre-les-techniques-dentretien-de-vente-et-de-communication"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODM=",
+    "title": "Kommunikationstechniken",
+    "moduleSlug": "gesprachs-verkaufs-sowie-kommunikationstechniken-kennen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODI=",
+    "title": "Bedarfsanalyse",
+    "moduleSlug": "gesprachs-verkaufs-sowie-kommunikationstechniken-kennen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0ODA=",
+    "title": "Offerten",
+    "moduleSlug": "erstellung-einer-kundenorientierten-offerte"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Nzk=",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "erstellen-von-zahlungsauftragen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Nzg=",
+    "title": "E-Banking",
+    "moduleSlug": "erstellen-von-zahlungsauftragen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Nzc=",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "erstellen-von-zahlungsauftragen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzY=",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "erstellen-von-zahlungsauftragen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzU=",
+    "title": "Zahlungsmittel",
+    "moduleSlug": "erstellen-von-zahlungsauftragen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzQ=",
+    "title": "Analyse des besoins",
+    "moduleSlug": "lanalyse-des-besoins"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzM=",
+    "title": "Analyse des besoins",
+    "moduleSlug": "lanalyse-des-besoins"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzI=",
+    "title": "Gesprächs- und Verkaufstechniken",
+    "moduleSlug": "gesprachs-verkaufs-sowie-kommunikationstechniken-kennen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzE=",
+    "title": "Needs assessment",
+    "moduleSlug": "needs-assessment"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NzA=",
+    "title": "Needs assessment",
+    "moduleSlug": "needs-assessment"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Njk=",
+    "title": "Gängige Zahlungsbedingungen\n",
+    "moduleSlug": "erstellen-einer-kundenrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Njg=",
+    "title": "Rechnungen und MWST",
+    "moduleSlug": "erstellen-einer-kundenrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Njc=",
+    "title": "Verschiedene Rechnungen",
+    "moduleSlug": "erstellen-einer-kundenrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjY=",
+    "title": "Begriff und Zweck von Rechnungen",
+    "moduleSlug": "erstellen-einer-kundenrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjU=",
+    "title": "Errungenschaft oder Eigengut",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjQ=",
+    "title": "Gemeinsames Sorgerecht",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjM=",
+    "title": "Ehescheidung",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjI=",
+    "title": "Rechte und Pflichten in der Ehe",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjE=",
+    "title": "Eheschliessung",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NjA=",
+    "title": "Formen des Zusammenlebens",
+    "moduleSlug": "familienrecht"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTk=",
+    "title": "business letter",
+    "moduleSlug": "cultivating-customersupplier-relations-direct-communication"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTg=",
+    "title": "Discussions with customers",
+    "moduleSlug": "cultivating-customersupplier-relations-direct-communication"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTc=",
+    "title": "Lettre d'affaires",
+    "moduleSlug": "soigner-les-relations-avec-les-clients-fournisseurs-communication-directe"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTY=",
+    "title": "Entretiens avec les clients",
+    "moduleSlug": "soigner-les-relations-avec-les-clients-fournisseurs-communication-directe"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTU=",
+    "title": "Bedarfsanalyse",
+    "moduleSlug": "die-bedarfsanalyse"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTQ=",
+    "title": "Bedarfsanalyse",
+    "moduleSlug": "die-bedarfsanalyse"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTM=",
+    "title": "Kundenbindung",
+    "moduleSlug": "kunden-und-lieferantenbeziehungen-pflegen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTI=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTE=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NTA=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDk=",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDg=",
+    "title": "Sachverhalt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDc=",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDY=",
+    "title": "Aussagen zu Budgets von Vereinen",
+    "moduleSlug": "erstellen-von-budgets"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDU=",
+    "title": "Fixe oder variable Kosten",
+    "moduleSlug": "erstellen-von-budgets"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDQ=",
+    "title": "Begriff und Zweck des Budgets",
+    "moduleSlug": "erstellen-von-budgets"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDM=",
+    "title": "Massnahmen zur Verbesserung der Liquidität",
+    "moduleSlug": "auswirkungen-von-geschaftsfallen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDI=",
+    "title": "Liquiditätswirkung von Geschäftsfällen",
+    "moduleSlug": "auswirkungen-von-geschaftsfallen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDE=",
+    "title": "Strategien zur Gewinnsteigerung",
+    "moduleSlug": "auswirkungen-von-geschaftsfallen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0NDA=",
+    "title": "Geschäftsfälle eines Taxiunternehmens",
+    "moduleSlug": "auswirkungen-von-geschaftsfallen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Mzk=",
+    "title": "Bilanzveränderungen",
+    "moduleSlug": "auswirkungen-von-geschaftsfallen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Mzg=",
+    "title": "Geschäftsbrief",
+    "moduleSlug": "kunden-und-lieferantenbeziehungen-pflegen-direkte-kommunikation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0Mzc=",
+    "title": "Kundengesprächen",
+    "moduleSlug": "kunden-und-lieferantenbeziehungen-pflegen-direkte-kommunikation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0MDQ=",
+    "title": "Abrechnung über Laufevent",
+    "moduleSlug": "abrechnungen-und-aufstellungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0MDM=",
+    "title": "Aussagen zu Budgetvergleichen",
+    "moduleSlug": "abrechnungen-und-aufstellungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0MDI=",
+    "title": "Aussagen zu Abrechnungen über Anlässe",
+    "moduleSlug": "abrechnungen-und-aufstellungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0MDE=",
+    "title": "Vom NE zum BKreditVP",
+    "moduleSlug": "verkaufskalkulation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0MDA=",
+    "title": "Berechnungen",
+    "moduleSlug": "verkaufskalkulation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTk=",
+    "title": "Kalkulation",
+    "moduleSlug": "verkaufskalkulation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTg=",
+    "title": "Rabatte und Skonti",
+    "moduleSlug": "einkaufskalkulation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTc=",
+    "title": "Flussdiagramm",
+    "moduleSlug": "prozesse-beschreiben-und-analysieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTY=",
+    "title": "Gespräche erfolgreich führen",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTU=",
+    "title": "Aufforderungen",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTQ=",
+    "title": "Selbstkundgabe",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTM=",
+    "title": "Kommunikationsmodelle",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTI=",
+    "title": "Nonverbale Signale",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozOTA=",
+    "title": "Projektverlauf",
+    "moduleSlug": "projektverlauf-steuern-und-uberwachen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODk=",
+    "title": "Grundbegriffe",
+    "moduleSlug": "grundlagen-projektverlauf"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODg=",
+    "title": "St. Galler Management-Modell",
+    "moduleSlug": "betriebliche-prozesse-umsetzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODc=",
+    "title": "Prozess- oder Querschnittsfunktionen",
+    "moduleSlug": "betriebliche-prozesse-umsetzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODY=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODU=",
+    "title": "Prozessmanagement",
+    "moduleSlug": "betriebliche-prozesse-umsetzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODQ=",
+    "title": "Recherchieren",
+    "moduleSlug": "recherchieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODM=",
+    "title": "Komprimieren",
+    "moduleSlug": "komprimieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODI=",
+    "title": "Vision, Leitbild, Werte oder Strategie?",
+    "moduleSlug": "betriebliche-veranderungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODE=",
+    "title": "Start-Up",
+    "moduleSlug": "betriebliche-veranderungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozODA=",
+    "title": "Dokumentation",
+    "moduleSlug": "projektmanagement"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzk=",
+    "title": "Organisationsstruktur",
+    "moduleSlug": "projektmanagement"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzg=",
+    "title": "Haus der Bewegungen",
+    "moduleSlug": "projektmanagement"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzc=",
+    "title": "Fragestellungen",
+    "moduleSlug": "projektmanagement"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzY=",
+    "title": "AHV",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzU=",
+    "title": "Lohnabrechnung",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzQ=",
+    "title": "Diebstahlversicherung",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzM=",
+    "title": "Diebstahlversicherung",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzI=",
+    "title": "Versicherungen",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzE=",
+    "title": "Risiko-Abdeckung",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNzA=",
+    "title": "Versicherungen",
+    "moduleSlug": "personliche-finanzen-versicherungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjk=",
+    "title": "Übungstitel",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjg=",
+    "title": "Exemples",
+    "moduleSlug": "lart-de-mener-un-entretien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjc=",
+    "title": "Communication respectueuse",
+    "moduleSlug": "lart-de-mener-un-entretien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjY=",
+    "title": "Communication respectueuse",
+    "moduleSlug": "lart-de-mener-un-entretien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjU=",
+    "title": "Formes de questions",
+    "moduleSlug": "lart-de-mener-un-entretien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjQ=",
+    "title": "Vrai ou faux ?",
+    "moduleSlug": "lart-de-mener-un-entretien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjM=",
+    "title": "Examples",
+    "moduleSlug": "the-art-of-conversation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjI=",
+    "title": "Respectful communication",
+    "moduleSlug": "the-art-of-conversation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjE=",
+    "title": "Respectful communication",
+    "moduleSlug": "the-art-of-conversation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNjA=",
+    "title": "Forms of questions",
+    "moduleSlug": "the-art-of-conversation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTk=",
+    "title": "Right or wrong?",
+    "moduleSlug": "the-art-of-conversation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTg=",
+    "title": "Beratungsgesprächs",
+    "moduleSlug": "beratungsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTc=",
+    "title": "Zehn Schritte des Beratungsgesprächs ",
+    "moduleSlug": "beratungsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTY=",
+    "title": "Beraterrollen",
+    "moduleSlug": "beratungsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTU=",
+    "title": "Informationsgespräch",
+    "moduleSlug": "informationsgesprache-fuhren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTQ=",
+    "title": "Test Mehrfach-Matrix",
+    "moduleSlug": "modul-test"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTM=",
+    "title": "Tastaturbefehle",
+    "moduleSlug": "powerpoint-masterfolien"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTI=",
+    "title": "Quiz",
+    "moduleSlug": "drehbuch-und-konzept"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTE=",
+    "title": "Foley-Geräusche",
+    "moduleSlug": "tonaufnahmen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNTA=",
+    "title": "Joie",
+    "moduleSlug": "gestion-des-reclamations"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDk=",
+    "title": "Processus de réclamation",
+    "moduleSlug": "gestion-des-reclamations"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDg=",
+    "title": "Entretien de vente",
+    "moduleSlug": "comprendre-les-besoins-des-clients"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDc=",
+    "title": "Souhaits des clients",
+    "moduleSlug": "comprendre-les-besoins-des-clients"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDY=",
+    "title": "Besoins des clients",
+    "moduleSlug": "comprendre-les-besoins-des-clients"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDU=",
+    "title": "Techniques de questionnement",
+    "moduleSlug": "donner-les-informations-preliminaires"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDQ=",
+    "title": "Techniques de communication",
+    "moduleSlug": "donner-les-informations-preliminaires"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDM=",
+    "title": "Quatre formes de communication",
+    "moduleSlug": "donner-les-informations-preliminaires"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDI=",
+    "title": "Quatre formes de communication",
+    "moduleSlug": "donner-les-informations-preliminaires"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDE=",
+    "title": "Happiness",
+    "moduleSlug": "handling-complaints"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozNDA=",
+    "title": "Complaints process",
+    "moduleSlug": "handling-complaints"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMzk=",
+    "title": "Sales pitch",
+    "moduleSlug": "capturing-customer-needs"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMzg=",
+    "title": "Customers' desires",
+    "moduleSlug": "capturing-customer-needs"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMzc=",
+    "title": "Customer needs",
+    "moduleSlug": "capturing-customer-needs"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDU=",
+    "title": "Questioning techniques",
+    "moduleSlug": "giving-preliminary-information"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDQ=",
+    "title": "Communication techniques",
+    "moduleSlug": "giving-preliminary-information"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDM=",
+    "title": "Four forms of communication",
+    "moduleSlug": "giving-preliminary-information"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDI=",
+    "title": "Four forms of communication",
+    "moduleSlug": "giving-preliminary-information"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDE=",
+    "title": "Beispiele",
+    "moduleSlug": "kunst-der-gesprachsfuhrung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTozMDA=",
+    "title": "Wertschätzende Kommunikation",
+    "moduleSlug": "kunst-der-gesprachsfuhrung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTk=",
+    "title": "Wertschätzende Kommunikation",
+    "moduleSlug": "kunst-der-gesprachsfuhrung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTg=",
+    "title": "Frageformen",
+    "moduleSlug": "kunst-der-gesprachsfuhrung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTc=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "kunst-der-gesprachsfuhrung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTY=",
+    "title": "Getrennt- oder Zusammenschreibung?",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTU=",
+    "title": "Gross- oder Kleinschreibung",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTQ=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTM=",
+    "title": "Satzzeichen",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTI=",
+    "title": "Abkürzungen",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyOTE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-korrekte-form"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODk=",
+    "title": "Schlagzeilen",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODg=",
+    "title": "Satzfragmente",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODc=",
+    "title": "Satzverbindungen und Satzgefüge",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODY=",
+    "title": "Satzgrammatik",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODU=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODQ=",
+    "title": "Nebensätze",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODM=",
+    "title": "Genitivobjekt",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODI=",
+    "title": "Subjekt & Prädikat",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODE=",
+    "title": "Umstellprobe",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyODA=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzk=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-satz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzg=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzc=",
+    "title": "Werkvertrag",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzY=",
+    "title": "Der Werkvertrag",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzU=",
+    "title": "Beendigung des Lehrverhältnisses",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzQ=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzM=",
+    "title": "Pflichten",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzI=",
+    "title": "Verträge auf Arbeitsleistung",
+    "moduleSlug": "verträge-auf-arbeitsleistung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNzA=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjk=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjg=",
+    "title": "Das Protokoll",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjc=",
+    "title": "Selbsteinschätzung",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjY=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjU=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjQ=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjM=",
+    "title": "Kohärenz",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjI=",
+    "title": "Wissensfragen",
+    "moduleSlug": "der-passende-text"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjE=",
+    "title": "Excel-Grundlagen",
+    "moduleSlug": "excel-grundlagen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNjA=",
+    "title": "Tastenbefehle",
+    "moduleSlug": "excel-grundlagen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTk=",
+    "title": "Excel-Funktionen",
+    "moduleSlug": "excel-funktionen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTg=",
+    "title": "Excel-Funktionen",
+    "moduleSlug": "excel-funktionen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTc=",
+    "title": "Autokunden",
+    "moduleSlug": "excel-funktionen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTY=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-richtige-frage"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTU=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-richtige-frage"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTQ=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-richtige-frage"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTM=",
+    "title": "Frageformen",
+    "moduleSlug": "die-richtige-frage"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTI=",
+    "title": "Wissensfragen",
+    "moduleSlug": "die-richtige-frage"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTE=",
+    "title": "Äusserungen und Verhaltenssituationen",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNTA=",
+    "title": "Siezen oder duzen?",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDk=",
+    "title": "Professionell agieren an schlechten Tagen",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDg=",
+    "title": "Die Kundenreise",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDc=",
+    "title": "Silvan kauft ein Buch",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDY=",
+    "title": "Anne kauft ein Smartphone",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDU=",
+    "title": "Kundenerlebnisse",
+    "moduleSlug": "kunden-lieferantenbeziehungen-gestalten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDQ=",
+    "title": "Kundenbedürfnisse",
+    "moduleSlug": "kundenbedürfnisse-erfassen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDM=",
+    "title": "Freude",
+    "moduleSlug": "umgang-mit-beschwerden"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDI=",
+    "title": "Beschwerdeprozess",
+    "moduleSlug": "umgang-mit-beschwerden"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDE=",
+    "title": "Cloudcomputing",
+    "moduleSlug": "cloud-internetsicherheit-datenschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyNDA=",
+    "title": "Tricks",
+    "moduleSlug": "textverarbeitung-einführung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzk=",
+    "title": "Verkaufsgespräch",
+    "moduleSlug": "kundenbedürfnisse-erfassen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzg=",
+    "title": "Kundenwünsche",
+    "moduleSlug": "kundenbedürfnisse-erfassen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzc=",
+    "title": "Fragetechniken",
+    "moduleSlug": "erstauskunft-geben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzY=",
+    "title": "Kommunikationstechniken",
+    "moduleSlug": "erstauskunft-geben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzU=",
+    "title": "Vier Formen der Kommunikation",
+    "moduleSlug": "erstauskunft-geben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzQ=",
+    "title": "Vier Kommunikationsformen",
+    "moduleSlug": "erstauskunft-geben"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzM=",
+    "title": "Fragen",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzI=",
+    "title": "Konsumkredit",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzE=",
+    "title": "KKG",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMzA=",
+    "title": "Fragen",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjk=",
+    "title": "Leasing",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjg=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjc=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "verträge-auf-gebrauchsüberlassung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjY=",
+    "title": "mangelhafte Lieferung",
+    "moduleSlug": "kaufvertrag"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjU=",
+    "title": "Lieferverzug",
+    "moduleSlug": "kaufvertrag"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjQ=",
+    "title": "Nutzen und Gefahr",
+    "moduleSlug": "kaufvertrag"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjM=",
+    "title": "Kaufvertrag",
+    "moduleSlug": "kaufvertrag"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjI=",
+    "title": "Übergabe- und Transportkosten",
+    "moduleSlug": "kaufvertrag"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjE=",
+    "title": "Fälle",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMjA=",
+    "title": "Begriffe",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTk=",
+    "title": "Form",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTg=",
+    "title": "Handlungsfähigkeit",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTc=",
+    "title": "Vertrag?",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTY=",
+    "title": "Entstehungsgrund",
+    "moduleSlug": "obligation-und-allgemeine-vertragslehre"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTU=",
+    "title": "Buchungssätze",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTQ=",
+    "title": "Gewinn",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTM=",
+    "title": "Bilanz",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTI=",
+    "title": "Buchungen",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTE=",
+    "title": "Buchungen",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMTA=",
+    "title": "Buchungssätze",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDk=",
+    "title": "Soll oder Haben?",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDg=",
+    "title": "Soll oder Haben?",
+    "moduleSlug": "rechnungen-buchungen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDY=",
+    "title": "Passivsätze",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDU=",
+    "title": "Aktiv- und Passivsätze",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDQ=",
+    "title": "Wissenfragen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDM=",
+    "title": "Kurze Sätze",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDI=",
+    "title": "Grammatische Zeitform",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDE=",
+    "title": "Zeitformen und Gebrauchsweisen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToyMDA=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTk=",
+    "title": "Indirekte Rede",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTg=",
+    "title": "Bedingungssätze",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTc=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTY=",
+    "title": "Modalverben",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTU=",
+    "title": "«machen»",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTQ=",
+    "title": "Verben bestimmen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTM=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten-das-verb"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTI=",
+    "title": "Stufen",
+    "moduleSlug": "aufbau-von-bilanz-und-erfolgsrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTE=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "aufbau-von-bilanz-und-erfolgsrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOTA=",
+    "title": "Kontenklassen",
+    "moduleSlug": "aufbau-von-bilanz-und-erfolgsrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxODk=",
+    "title": "Kontenklassen",
+    "moduleSlug": "aufbau-von-bilanz-und-erfolgsrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxODg=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "aufbau-von-bilanz-und-erfolgsrechnung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTU=",
+    "title": "Malerei",
+    "moduleSlug": "kunst"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTQ=",
+    "title": "Berufsbildungsgesetzte",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTM=",
+    "title": "Thèmes",
+    "moduleSlug": "communiquer-au-sein-de-léquipe"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTI=",
+    "title": "Genitivformen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNTA=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDk=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDg=",
+    "title": "Gendergerechte Formulierungen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDc=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDY=",
+    "title": "Fälle",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDU=",
+    "title": "Pluralform",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDQ=",
+    "title": "Artikel",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDM=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNDI=",
+    "title": "Wissensfragen",
+    "moduleSlug": "wortarten"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzk=",
+    "title": "Subject areas",
+    "moduleSlug": "communicating-in-the-team"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzg=",
+    "title": "Wissensfragen",
+    "moduleSlug": "netzwerke-und-selbstmarketing"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzc=",
+    "title": "Wissensfragen",
+    "moduleSlug": "netzwerke-und-selbstmarketing"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzY=",
+    "title": "Quiz",
+    "moduleSlug": "word-spezielle-formate"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzU=",
+    "title": "Begriffe",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzQ=",
+    "title": "Quiz",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzM=",
+    "title": "Wissensfragen",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzI=",
+    "title": "Begriffe",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzE=",
+    "title": "Drucker",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMzA=",
+    "title": "Problem verordnen",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjk=",
+    "title": "Begriffe",
+    "moduleSlug": "computertechnik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjg=",
+    "title": "Begriffe",
+    "moduleSlug": "ablagestrukturen-dokumente-und-zahlenmaterial"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjc=",
+    "title": "Zielgruppenspezifische Dokumente",
+    "moduleSlug": "ablagestrukturen-dokumente-und-zahlenmaterial"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjY=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "ablagestrukturen-dokumente-und-zahlenmaterial"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjU=",
+    "title": "Organigramm",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjQ=",
+    "title": "Profitcenter",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjM=",
+    "title": "Stellenarten",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjI=",
+    "title": "Fachbegriff",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjE=",
+    "title": "Kompetenzen oder Anforderungen?",
+    "moduleSlug": "aufbauorganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMjA=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "events-und-ihre-umweltbelastung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTk=",
+    "title": "Verantwortlichkeiten",
+    "moduleSlug": "bei-internen-und-externen-anlässen-mitwirken"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTg=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "bei-internen-und-externen-anlässen-mitwirken"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTc=",
+    "title": "Teil der Corporate Identity",
+    "moduleSlug": "corporate-identity-und-corporate-design"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTY=",
+    "title": "Fremdwörter",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTU=",
+    "title": "Wissensfragen",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTQ=",
+    "title": "Konnotative Bedeutung",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTM=",
+    "title": "Antonyme",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTI=",
+    "title": "Wissensfragen",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTE=",
+    "title": "Wissensfragen",
+    "moduleSlug": "das-wort"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMTA=",
+    "title": "Eisenhower-Prinzip",
+    "moduleSlug": "ablauforganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDk=",
+    "title": "Darstellungsformen",
+    "moduleSlug": "ablauforganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDg=",
+    "title": "Ablauf- oder Aufbauorganisation",
+    "moduleSlug": "ablauforganisation"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDc=",
+    "title": "Wissensfragen",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDY=",
+    "title": "Art der Handlungsfähigkeit",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDU=",
+    "title": "Personenrecht",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDQ=",
+    "title": "Fallbeispiele",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDM=",
+    "title": "Rechtsgebiete",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDI=",
+    "title": "Zwingend oder Dispositiv?",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDE=",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMDA=",
+    "title": "Normenhierachie",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5OQ==",
+    "title": "Verhaltensregeln",
+    "moduleSlug": "grundlagen-des-rechts"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5OA==",
+    "title": "Kontoarten",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5Nw==",
+    "title": "Geschäftsfälle",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5Ng==",
+    "title": "Aufwand- und Ertragskonten",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5NA==",
+    "title": "Bilanzkonten",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5Mw==",
+    "title": "Konten",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5Mg==",
+    "title": "Bilanz",
+    "moduleSlug": "abschluss-der-buchhaltung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5MQ==",
+    "title": "Ransomware",
+    "moduleSlug": "cloud-internetsicherheit-datenschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5MA==",
+    "title": "Clouddienstleister",
+    "moduleSlug": "cloud-internetsicherheit-datenschutz"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4OQ==",
+    "title": "Fragen zum Video",
+    "moduleSlug": "zusammenarbeiten-im-team"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4OA==",
+    "title": "Für Schnelle",
+    "moduleSlug": "textverarbeitung-einführung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4Nw==",
+    "title": "Kurzbefehle",
+    "moduleSlug": "textverarbeitung-einführung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4Ng==",
+    "title": "Word",
+    "moduleSlug": "textverarbeitung-einführung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4NQ==",
+    "title": "Tastaturkombinationen",
+    "moduleSlug": "textverarbeitung-einführung"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4NA==",
+    "title": "Finanz- oder Betriebsbuchhaltung",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4Mw==",
+    "title": "Betriebsbuchhaltung",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4Mg==",
+    "title": "Finanzbuchhaltung",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4MQ==",
+    "title": "Integriertes Rechnungswesen",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4MA==",
+    "title": "Buchungen",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3OQ==",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3OA==",
+    "title": "Buchhaltung",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3Nw==",
+    "title": "Buchführungspflicht",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3Ng==",
+    "title": "Gesetz Buchführungspflicht",
+    "moduleSlug": "rechnungswesen-im-überblick"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3NQ==",
+    "title": "Aktiv- und Passivkonten",
+    "moduleSlug": "entstehung-eines-unternehmens"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3NA==",
+    "title": "Wissensfragen",
+    "moduleSlug": "grammatik-und-stilistik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3Mw==",
+    "title": "Wissensfragen",
+    "moduleSlug": "grammatik-und-stilistik"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3Mg==",
+    "title": "Selbsteinschätzung",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3MQ==",
+    "title": "Wissensfragen",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3MA==",
+    "title": "Sachverhalte",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2OQ==",
+    "title": "Wissensfragen",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Nw==",
+    "title": "Berufsbildung",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Ng==",
+    "title": "Wissensfragen",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2NQ==",
+    "title": "Wissensfragen",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2NA==",
+    "title": "Ziele",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Mw==",
+    "title": "Wissensfragen",
+    "moduleSlug": "portfolioarbeit-ich-als-privat-und-berufsperson"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2Mg==",
+    "title": "Themenfelder",
+    "moduleSlug": "kommunizieren-im-team"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MQ==",
+    "title": "Umweltsphären",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2MA==",
+    "title": "Unternehmensmodell",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1OQ==",
+    "title": "Umweltsphären",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1OA==",
+    "title": "Zielkonflikte",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Nw==",
+    "title": "Erwartungen",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Ng==",
+    "title": "Ansprüche",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NQ==",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1NA==",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "schnittstellen-in-betrieblichen-prozessen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1Mg==",
+    "title": "Richtig oder falsch?",
+    "moduleSlug": "entstehung-eines-unternehmens"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOQ==",
+    "title": "Wissensfragen",
+    "moduleSlug": "verstehen-und-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxOA==",
+    "title": "Wissensfragen",
+    "moduleSlug": "verstehen-und-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNw==",
+    "title": "Wissensfragen",
+    "moduleSlug": "verstehen-und-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNg==",
+    "title": "Wissensfragen",
+    "moduleSlug": "verstehen-und-kommunizieren"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNQ==",
+    "title": "Dokument-Informationen",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxNA==",
+    "title": "Tastaturbefehle",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMw==",
+    "title": "Tastaturbefehle",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMg==",
+    "title": "Tastenkombinationen",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMQ==",
+    "title": "Dokument-Ansichten",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToxMA==",
+    "title": "Herausgefunden oder gewusst?",
+    "moduleSlug": "applikationen-anwenden-und-anwendungsprogramm-erläutern-alt"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo5",
+    "title": "Leasing",
+    "moduleSlug": "persönliche-finanzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo4",
+    "title": "Betreibung",
+    "moduleSlug": "persönliche-finanzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo3",
+    "title": "Verschuldung",
+    "moduleSlug": "persönliche-finanzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo2",
+    "title": "Budget",
+    "moduleSlug": "persönliche-finanzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo1",
+    "title": "Lohnabrechnung",
+    "moduleSlug": "persönliche-finanzen"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZTo0",
+    "title": "Wissensfragen",
+    "moduleSlug": "kunst"
+  },
+  {
+    "plattform": "myKV",
+    "surveyId": "U3VydmV5Tm9kZToy",
+    "title": "Wissensfragen",
+    "moduleSlug": "kunst"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDk=",
+    "title": "Alternativangebote und Ersatzartikel ",
+    "moduleSlug": "anspruchsvolle-verkaufssituationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDg=",
+    "title": "Geschenkverkauf ",
+    "moduleSlug": "anspruchsvolle-verkaufssituationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDc=",
+    "title": "Kundentypen ",
+    "moduleSlug": "anspruchsvolle-verkaufssituationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDY=",
+    "title": "Kundinnen und Kunden mit Beeinträchtigungen ",
+    "moduleSlug": "anspruchsvolle-verkaufssituationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDU=",
+    "title": "Interkulturelle Verkaufssituationen ",
+    "moduleSlug": "anspruchsvolle-verkaufssituationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDQ=",
+    "title": "Arbeitsteilung ",
+    "moduleSlug": "auftragserteilung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDM=",
+    "title": "Ökonomisches Prinzip ",
+    "moduleSlug": "auftragserteilung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDI=",
+    "title": "Regeln der Auftragserteilung",
+    "moduleSlug": "auftragserteilung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDE=",
+    "title": "Mini Case: Erdbeeren ",
+    "moduleSlug": "reklamationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMDA=",
+    "title": "Mini Case: Staubsauger ",
+    "moduleSlug": "reklamationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTk=",
+    "title": "Mini Case: Wollpullover ",
+    "moduleSlug": "reklamationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTg=",
+    "title": "Mangelhafte Lieferung ",
+    "moduleSlug": "reklamationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTc=",
+    "title": "Arten von Reklamationen ",
+    "moduleSlug": "reklamationen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTY=",
+    "title": "Darf man …?",
+    "moduleSlug": "datenschutz-und-geheimhaltungspflicht"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTU=",
+    "title": "Kundendaten",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTQ=",
+    "title": "Kennzahlen",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTM=",
+    "title": "Langfristige Kundenbindung ",
+    "moduleSlug": "kundenbeziehungen-und-kundenbindung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTI=",
+    "title": "Garantie",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTE=",
+    "title": "Konsumkreditgesetz (KKG)",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOTA=",
+    "title": "Leasing",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODk=",
+    "title": "Barkredit",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODg=",
+    "title": "Unterscheidung von Kaufverträgen",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODc=",
+    "title": "Formvorschriften",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODY=",
+    "title": "Form der Verträge",
+    "moduleSlug": "kaufvertrage-und-garantien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODU=",
+    "title": "Methoden der Marktforschung ",
+    "moduleSlug": "marktforschung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODQ=",
+    "title": "Marktforschung ",
+    "moduleSlug": "marktforschung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODM=",
+    "title": "Marktgrössen ",
+    "moduleSlug": "marktpositionierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODI=",
+    "title": "Die Schweiz und die EU",
+    "moduleSlug": "internationaler-handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODE=",
+    "title": "Wirtschaftliche Integration",
+    "moduleSlug": "internationaler-handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyODA=",
+    "title": "Einwände",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzk=",
+    "title": "Mehrfachbedienung",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzg=",
+    "title": "Verkaufsgespräch",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzc=",
+    "title": "Arbeiten mit Kennzahlen in vier Schritten",
+    "moduleSlug": "betriebswirtschaftliche-kennzahlen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzY=",
+    "title": "Effektivität und Effizienz / Kennzahlen",
+    "moduleSlug": "betriebswirtschaftliche-kennzahlen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzU=",
+    "title": "Erfolgsrechnung",
+    "moduleSlug": "betriebswirtschaftliche-kennzahlen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzQ=",
+    "title": "Bilanz",
+    "moduleSlug": "betriebswirtschaftliche-kennzahlen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzM=",
+    "title": "Bilanzkennzahlen",
+    "moduleSlug": "betriebswirtschaftliche-kennzahlen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzI=",
+    "title": "Risikokompetenzen",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzE=",
+    "title": "Riskant oder nicht?",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNzA=",
+    "title": "Unfallursachen",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjk=",
+    "title": "Lohnfortzahlung",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjg=",
+    "title": "Arbeitsvertrag",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjc=",
+    "title": "Öffentliches Recht oder Privatrecht?",
+    "moduleSlug": "bestimmungen-des-arbeitsrechts"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjY=",
+    "title": "Quiz",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjU=",
+    "title": "Obligatorische und freiwillige Versicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjQ=",
+    "title": "Kunstformen ",
+    "moduleSlug": "kunst-erleben"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjM=",
+    "title": "Kunst",
+    "moduleSlug": "kunst-erleben"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjI=",
+    "title": "Pausen und Ruhezeiten",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjE=",
+    "title": "Gesamtarbeitsvertrag",
+    "moduleSlug": "arbeiten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNjA=",
+    "title": "Fristlose Kündigung",
+    "moduleSlug": "arbeiten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTk=",
+    "title": "Missbräuchliche Kündigung",
+    "moduleSlug": "arbeiten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTg=",
+    "title": "Arbeitsvertrag – Gesetze",
+    "moduleSlug": "arbeiten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTc=",
+    "title": "Arten der Kundenbindung",
+    "moduleSlug": "kommunikationsinstrumente"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTY=",
+    "title": "Pflichten",
+    "moduleSlug": "wohnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTU=",
+    "title": "Pflichten",
+    "moduleSlug": "wohnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTQ=",
+    "title": "Kündigung",
+    "moduleSlug": "wohnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTM=",
+    "title": "Mietrecht",
+    "moduleSlug": "wohnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTI=",
+    "title": "Im Verdachtsfall",
+    "moduleSlug": "gesetzliche-bestimmungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTE=",
+    "title": "Präventionsmassnahmen",
+    "moduleSlug": "gesetzliche-bestimmungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNTA=",
+    "title": "UWG – Fallbeispiel",
+    "moduleSlug": "gesetzliche-bestimmungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDk=",
+    "title": "Unlauterer Wettbewerb  ",
+    "moduleSlug": "gesetzliche-bestimmungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDg=",
+    "title": "Verkaufsargumente",
+    "moduleSlug": "kundenanliegen-erfassen-und-beantworten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDc=",
+    "title": "Bedürfnisanalyse",
+    "moduleSlug": "kundenanliegen-erfassen-und-beantworten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDY=",
+    "title": "Kaufmotive",
+    "moduleSlug": "kundenanliegen-erfassen-und-beantworten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDU=",
+    "title": "Kaufwunsch und Kaufmotiv ",
+    "moduleSlug": "kundenanliegen-erfassen-und-beantworten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDQ=",
+    "title": "Soziale Medien",
+    "moduleSlug": "soziale-medien"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDM=",
+    "title": "Schadensfall",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDI=",
+    "title": "Grundleistungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDE=",
+    "title": "Fallbeispiel Melike",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNDA=",
+    "title": "Personenversicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzk=",
+    "title": "Fallbeispiel Remo",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzg=",
+    "title": "Vermögensversicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzc=",
+    "title": "Bezeichnungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzY=",
+    "title": "Mobiliarversicherung",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzU=",
+    "title": "Rolle der Versicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzQ=",
+    "title": "Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzM=",
+    "title": "Begriffe zu den Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzI=",
+    "title": "Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzE=",
+    "title": "Strukturwandel",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMzA=",
+    "title": "Strukturwandel und Entwicklungen im Detailhandel",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjk=",
+    "title": "Was wird weggeworfen?",
+    "moduleSlug": "okologische-aspekte-miteinbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjg=",
+    "title": "Nicht verkaufte Ware",
+    "moduleSlug": "okologische-aspekte-miteinbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjc=",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjY=",
+    "title": "Handelsfunktionen ",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjU=",
+    "title": "Glieder der Handelskette ",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjQ=",
+    "title": "Fallbeispiel «Kürbisse»",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjM=",
+    "title": "Recycling im Lehrbetrieb",
+    "moduleSlug": "okologische-aspekte-miteinbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjI=",
+    "title": "Funktioneller und kombinierter Handel",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMjA=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTk=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTg=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTc=",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTY=",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTU=",
+    "title": "Sachverhalt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTQ=",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTM=",
+    "title": "Die 1. Säule",
+    "moduleSlug": "vorsorge"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTI=",
+    "title": "Die Steuererklärung",
+    "moduleSlug": "steuern"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTE=",
+    "title": "Lernfeld-Titel",
+    "moduleSlug": "steuern"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMTA=",
+    "title": "Lernfeld-Titel",
+    "moduleSlug": "steuern"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDk=",
+    "title": "Funktionen für Stelleninhaber",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDg=",
+    "title": "Steuern",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDc=",
+    "title": "Arbeitslosigkeit",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDY=",
+    "title": "Arbeitslos – Was tun?",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDU=",
+    "title": "Fallbeispiele",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDQ=",
+    "title": "Arbeitslosenversicherung",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDM=",
+    "title": "Fallbeispiel Priska",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDI=",
+    "title": "Fallbeispiel Ludomir",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDE=",
+    "title": "Anforderungsprofil – Kernprofil",
+    "moduleSlug": "stellensuche"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMDA=",
+    "title": "Stellenbewerbung",
+    "moduleSlug": "stellensuche"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTk=",
+    "title": "Kündigungsschreiben",
+    "moduleSlug": "stellensuche"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTg=",
+    "title": "Fallbeispiel Yvonne",
+    "moduleSlug": "stellensuche"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTc=",
+    "title": "Fallbeispiel Eugen",
+    "moduleSlug": "stellensuche"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTY=",
+    "title": "Wahlen",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTU=",
+    "title": "Abstimmungen",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTQ=",
+    "title": "Rechte und Pflichten",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTM=",
+    "title": "Politik und Parteien",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTI=",
+    "title": "Die Meinungsbildung",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTE=",
+    "title": "Der Bund",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOTA=",
+    "title": "Gewalten ",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxODk=",
+    "title": "Die Gewaltenteilung ",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTY=",
+    "title": "Rechtsform",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTU=",
+    "title": "Rechtsform",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTQ=",
+    "title": "Rechtsformen",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTM=",
+    "title": "Rechtsformen",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTI=",
+    "title": "Firmenwahl",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNTA=",
+    "title": "Handelsregistereinträge",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDg=",
+    "title": "Wahl der Rechtsform",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDc=",
+    "title": "Personen- und Kapitalgesellschaften",
+    "moduleSlug": "rechtsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDY=",
+    "title": "Asylgesetz",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDU=",
+    "title": "Arbeiten im Ausland",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDQ=",
+    "title": "Push- und Pull-Faktoren",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDM=",
+    "title": "Was ist Migration?",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDI=",
+    "title": "Lagerbestände",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDE=",
+    "title": "Warenlagerung",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNDA=",
+    "title": "Phasen des Produktlebenszyklus",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzk=",
+    "title": "Verkehr",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzg=",
+    "title": "Verkehrsmittel",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzc=",
+    "title": "Mobilität",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzY=",
+    "title": "Discountprinzip",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzU=",
+    "title": "Filial- und Discountprinzip",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzQ=",
+    "title": "Versandhandel",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzM=",
+    "title": "Versandhandel",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzI=",
+    "title": "Diverse Fragen zum Ladenhandel ",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzE=",
+    "title": "Fallbeispiel",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMzA=",
+    "title": "Ladenhandel und Sortiment",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjk=",
+    "title": "Ladenhandel",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjg=",
+    "title": "Betriebsformen Unterscheidungsmerkmale",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjc=",
+    "title": "Unterscheidungsmerkmale",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjY=",
+    "title": "Unterscheidungsmerkmale im Detail",
+    "moduleSlug": "betriebsformen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjU=",
+    "title": "Übungstitel",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjQ=",
+    "title": "Grundsätze der Warenvorlage ",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjI=",
+    "title": "Regalzonen",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjE=",
+    "title": "Regalanordnung ",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMjA=",
+    "title": "Bedienungs- und Verkaufsformen",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTk=",
+    "title": "Stärken und Schwächen",
+    "moduleSlug": "lebenslanges-lernen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTg=",
+    "title": "Preisstufen in der Verkaufskalkulation",
+    "moduleSlug": "preisbildung-und-preiskalkulation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTc=",
+    "title": "Verkaufskalkulation",
+    "moduleSlug": "preisbildung-und-preiskalkulation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTY=",
+    "title": "Einkaufskalkulation",
+    "moduleSlug": "preisbildung-und-preiskalkulation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTU=",
+    "title": "Marktversagen",
+    "moduleSlug": "preisbildung-und-preiskalkulation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTQ=",
+    "title": "Veränderung des Marktgleichgewichts",
+    "moduleSlug": "preisbildung-und-preiskalkulation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTM=",
+    "title": "Kommunikationskanäle",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTI=",
+    "title": "Kommunikationsfähigkeit",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTE=",
+    "title": "Spannungen und Missverständnisse",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMTA=",
+    "title": "Ebenen der Kommunikation",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDk=",
+    "title": "Kommunikation",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDg=",
+    "title": "Test Mehrfach-Matrix",
+    "moduleSlug": "modul-test"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDc=",
+    "title": "Produktentsorgung",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDY=",
+    "title": "Verwertungsquoten",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDU=",
+    "title": "Fragen zum Verursacherprinzip",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDQ=",
+    "title": "Allgemeines zur Kreislaufwirtschaft",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDM=",
+    "title": "Definitionen laut Recycling-ABC",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDI=",
+    "title": "Wasser- und Ressourcenverbrauch",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDE=",
+    "title": "Artenvielfalt",
+    "moduleSlug": "klimaveranderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMDA=",
+    "title": "Nachhaltigkeit",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5OQ==",
+    "title": "Massnahmen zum Klimaschutz",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5OA==",
+    "title": "Auswirkungen",
+    "moduleSlug": "klimaveranderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5Nw==",
+    "title": "Treibhauseffekt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5Ng==",
+    "title": "Ökologie",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5NQ==",
+    "title": "Import und Export",
+    "moduleSlug": "globalisierung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5NA==",
+    "title": "Welthandel",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5Mw==",
+    "title": "Globalisierung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5Mg==",
+    "title": "Rechte der Lernenden",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5MQ==",
+    "title": "Rechte und Pflichten",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5MA==",
+    "title": "Der Lehrvertrag",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4OQ==",
+    "title": "Was ist ein Lehrvertrag?",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4OA==",
+    "title": "Kundenbindung",
+    "moduleSlug": "erwartungen-der-kundschaft"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4Nw==",
+    "title": "Vom Verkäufer- zum Erlebnismarkt",
+    "moduleSlug": "erwartungen-der-kundschaft"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4Ng==",
+    "title": "Fallbeispiel «Füllfederhalter»",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4NQ==",
+    "title": "Phasen des Verkaufsgesprächs",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4NA==",
+    "title": "Bedienungsformen",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4Mw==",
+    "title": "Euro-Franken-Kurs",
+    "moduleSlug": "preise-berechnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4Mg==",
+    "title": "Einflussfaktoren der Preisentwicklung",
+    "moduleSlug": "preise-berechnen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4MQ==",
+    "title": "Kommunikationsebene",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4MA==",
+    "title": "Konfliktmanagement",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3OQ==",
+    "title": "Fallbeispiel",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3OA==",
+    "title": "Eheschliessung",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3Nw==",
+    "title": "Ehe",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3Ng==",
+    "title": "Zusammenleben",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3NQ==",
+    "title": "Corporate Identity",
+    "moduleSlug": "erscheinungsbild"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3NA==",
+    "title": "Fragen",
+    "moduleSlug": "recherchen-zu-produkten-und-dienstleistungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3Mw==",
+    "title": "Fragen",
+    "moduleSlug": "recherchen-zu-produkten-und-dienstleistungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3Mg==",
+    "title": "Ladendiebstahl",
+    "moduleSlug": "ladendiebstahl"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3MQ==",
+    "title": "Psychosoziale Risiken und deren Folgen",
+    "moduleSlug": "arbeitssicherheit-und-gesundheitsschutz"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3MA==",
+    "title": "Wissensfragen",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2OQ==",
+    "title": "Wissensfragen",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2OA==",
+    "title": "Kommissionieren",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2Nw==",
+    "title": "Einlagern von Waren",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2Ng==",
+    "title": "Abkürzungen",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2NQ==",
+    "title": "Warenauszeichnung",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2NA==",
+    "title": "Preisbekanntgabeverordnung",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2Mw==",
+    "title": "Preise",
+    "moduleSlug": "warenauszeichnung-bis-warenausgang"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2Mg==",
+    "title": "Duftmarketing",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2MQ==",
+    "title": "Verjährungsfrist",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2MA==",
+    "title": "Kaufverträge",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1OQ==",
+    "title": "Begriffe",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1OA==",
+    "title": "Angebot",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1Nw==",
+    "title": "Vergleichspreise",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1Ng==",
+    "title": "Detailpreis",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1NQ==",
+    "title": "Werbemittel",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1NA==",
+    "title": "Ziel und Aufgabe von Werbung",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1Mw==",
+    "title": "Werbung",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1Mg==",
+    "title": "Demonstration und Degustation",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1MQ==",
+    "title": "Äusserer Eindruck eines Geschäfts",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1MA==",
+    "title": "Verkaufsförderung",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0OQ==",
+    "title": "Werbeträger und Werbemittel ",
+    "moduleSlug": "verkaufsförderung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0OA==",
+    "title": "Angebot",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0Nw==",
+    "title": "Vertragsfähigkeit",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0Ng==",
+    "title": "Vertragsphasen",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrages"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0NQ==",
+    "title": "Rechtsbegriffe",
+    "moduleSlug": "warenbewirtschaftung-warenannahme"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0NA==",
+    "title": "Mahn- und Fixgeschäft",
+    "moduleSlug": "warenbewirtschaftung-warenannahme"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0Mw==",
+    "title": "Lieferverzug",
+    "moduleSlug": "warenbewirtschaftung-warenannahme"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0Mg==",
+    "title": "Konzentration",
+    "moduleSlug": "unternehmensverbindungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0MQ==",
+    "title": "Kooperationsformen",
+    "moduleSlug": "unternehmensverbindungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0MA==",
+    "title": "Horizontale und vertikale Kooperation",
+    "moduleSlug": "unternehmensverbindungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozOQ==",
+    "title": "Lagerorte",
+    "moduleSlug": "die-klassischen-aufgaben-des-handels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozOA==",
+    "title": "Sortiment",
+    "moduleSlug": "die-klassischen-aufgaben-des-handels"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozNw==",
+    "title": "Unterbruch der Lieferketten",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozNg==",
+    "title": "Eierknappheit",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozNQ==",
+    "title": "Einflussfaktoren der Preisentwicklung",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozNA==",
+    "title": "Nachfrage- und konkurrenzorientierte Verkaufspreise",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMw==",
+    "title": "Regeln der Preisgestaltung ",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMg==",
+    "title": "Preisgestaltung",
+    "moduleSlug": "preisunterschiede-und-preisveränderungen"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMQ==",
+    "title": "Budget",
+    "moduleSlug": "lohn-budget-und-schulden"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTozMA==",
+    "title": "Lohn",
+    "moduleSlug": "lohn-budget-und-schulden"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOQ==",
+    "title": "Handlungsfähigkeit",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyOA==",
+    "title": "Volljährigkeit",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNw==",
+    "title": "Personenrecht",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNg==",
+    "title": "Sitte, Recht, Moral",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNQ==",
+    "title": "Handelsbetriebe",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyNA==",
+    "title": "Kreditkarten und Kundenkarten",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMw==",
+    "title": "Bargeldloser Zahlungsverkehr",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMg==",
+    "title": "Zahlungsmittel und Zahlungsarten",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMQ==",
+    "title": "Bargeld",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToyMA==",
+    "title": "Stellenarten",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOQ==",
+    "title": "Organisation",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxOA==",
+    "title": "Organigramm",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNw==",
+    "title": "Organigramm",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNg==",
+    "title": "Einsatzmöglichkeiten von Führungsinstrumenten",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNQ==",
+    "title": "PEAK-Methode",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxNA==",
+    "title": "PEAK-Modell",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMw==",
+    "title": "Führungsstile",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMg==",
+    "title": "Unternehmensstrategie und Leitbild",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMQ==",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToxMA==",
+    "title": "Umweltsphären",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo5",
+    "title": "Umweltsphären",
+    "moduleSlug": "unternehmensführung"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo4",
+    "title": "Handelsfunktionen ",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo3",
+    "title": "Handelsformen",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo2",
+    "title": "Glieder der Handelskette ",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo1",
+    "title": "Detailhandel",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTo0",
+    "title": "Arten des Grosshandels",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToz",
+    "title": "Aufgaben des Grosshandels ",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZToy",
+    "title": "Bezugsschranken",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHF",
+    "surveyId": "U3VydmV5Tm9kZTox",
+    "title": "Handelskette verstehen",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzg=",
+    "title": "Mietvertrag ",
+    "moduleSlug": "wohnen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzc=",
+    "title": "Steuerprogression",
+    "moduleSlug": "steuern"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzY=",
+    "title": "Die Erbwerbsersatzordnung (EO) ",
+    "moduleSlug": "vorsorge"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzU=",
+    "title": "Sozialversicherungen ",
+    "moduleSlug": "vorsorge"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzQ=",
+    "title": "Fallbeispiel Kim",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzM=",
+    "title": "Fallbeispiel Melike",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzI=",
+    "title": "Personenversicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzE=",
+    "title": "Fallbeispiel Remo",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMzA=",
+    "title": "Vermögensversicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjk=",
+    "title": "Rolle der Versicherungen",
+    "moduleSlug": "finanzielle-risiken-versicherung-haftung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjg=",
+    "title": "Arbeitslosigkeit ",
+    "moduleSlug": "arbeitslosigkeit"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjc=",
+    "title": "Fallbeispiel Regula",
+    "moduleSlug": "stellensuche-und-arbeiten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjY=",
+    "title": "Stellenbewerbung",
+    "moduleSlug": "stellensuche-und-arbeiten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjU=",
+    "title": "Auswirkungen",
+    "moduleSlug": "klimaveranderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjQ=",
+    "title": "Treibhauseffekt",
+    "moduleSlug": "klimaveranderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjM=",
+    "title": "Ökologie",
+    "moduleSlug": "klimaveranderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjI=",
+    "title": "Verkehr",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMjE=",
+    "title": "Verkehrsmittel",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTk=",
+    "title": "Mobilität",
+    "moduleSlug": "mobilitat"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTg=",
+    "title": "Darf man …?",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTc=",
+    "title": "Kundendaten",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTY=",
+    "title": "Marktforschung",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTU=",
+    "title": "Kennzahlen",
+    "moduleSlug": "betriebsrelevante-daten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTQ=",
+    "title": "Einwände",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTM=",
+    "title": "Mehrfachbedienung",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTI=",
+    "title": "Verkaufsgespräch",
+    "moduleSlug": "verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTE=",
+    "title": "Arbeiten im Ausland",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMTA=",
+    "title": "Push- und Pull-Faktoren",
+    "moduleSlug": "migration"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDk=",
+    "title": "Kunstformen ",
+    "moduleSlug": "kunst-erleben"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDg=",
+    "title": "Kunst",
+    "moduleSlug": "kunst-erleben"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDc=",
+    "title": "Wahlen",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDY=",
+    "title": "Abstimmungen",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDU=",
+    "title": "Rechte und Pflichten",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDQ=",
+    "title": "Politik und Parteien",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDM=",
+    "title": "Die Meinungsbildung",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDI=",
+    "title": "Der Bund",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDE=",
+    "title": "Gewalten ",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMDA=",
+    "title": "Die Gewaltenteilung ",
+    "moduleSlug": "die-demokratie-mitgestalten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5OQ==",
+    "title": "Unternehmerische Nachhaltigkeit",
+    "moduleSlug": "okologische-aspekte-miteinbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5OA==",
+    "title": "Kaufmotive",
+    "moduleSlug": "kundenbedurfnisse-und-kundenbeziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5Nw==",
+    "title": "Kaufwunsch und Kaufmotiv ",
+    "moduleSlug": "kundenbedurfnisse-und-kundenbeziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5Ng==",
+    "title": "Soziale Medien",
+    "moduleSlug": "soziale-medien"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5NQ==",
+    "title": "Produktentsorgung",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5NA==",
+    "title": "Verwertungsquoten",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5Mw==",
+    "title": "Fragen zum Verursacherprinzip",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5Mg==",
+    "title": "Allgemeines zur Kreislaufwirtschaft",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5MQ==",
+    "title": "Definitionen laut Recycling-ABC",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5MA==",
+    "title": "Wasser- und Ressourcenverbrauch",
+    "moduleSlug": "okologische-aspekte-einbeziehen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4OQ==",
+    "title": "Namensrecht",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4OA==",
+    "title": "Eheschliessung",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4Nw==",
+    "title": "Ehe",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4Ng==",
+    "title": "Zusammenleben",
+    "moduleSlug": "lebensgestaltung-und-soziale-beziehungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4NQ==",
+    "title": "Regalzonen",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4NA==",
+    "title": "Regalanordnung ",
+    "moduleSlug": "produkt-und-dienstleistungsplatzierung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4Mw==",
+    "title": "Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4Mg==",
+    "title": "Begriffe zu den Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4MQ==",
+    "title": "Produktionsfaktoren",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4MA==",
+    "title": "Strukturwandel",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3OQ==",
+    "title": "Strukturwandel und Entwicklungen im Detailhandel",
+    "moduleSlug": "strukturwandel-im-detailhandel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3OA==",
+    "title": "Anspruchsgruppen",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3Nw==",
+    "title": "Handelsfunktionen ",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3Ng==",
+    "title": "Glieder der Handelskette ",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3NQ==",
+    "title": "Fallbeispiel «Kürbisse»",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3Mw==",
+    "title": "Funktioneller und kombinierter Handel",
+    "moduleSlug": "strukturmerkmale-des-detailhandels"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3Mg==",
+    "title": "Lagerbestände",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3MQ==",
+    "title": "Einlagern von Waren",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3MA==",
+    "title": "Abkürzungen",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2OQ==",
+    "title": "Warenlagerung",
+    "moduleSlug": "lagerhaltungs-und-inventurprozess"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2Nw==",
+    "title": "Budget",
+    "moduleSlug": "lohn-budget-und-schulden"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2Ng==",
+    "title": "Lohn",
+    "moduleSlug": "lohn-budget-und-schulden"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2NQ==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2NA==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2Mw==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2Mg==",
+    "title": "Titel der Übung",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2MQ==",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2MA==",
+    "title": "Sachverhalt",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1OQ==",
+    "title": "Sachverhalte",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1OA==",
+    "title": "Übungstitel",
+    "moduleSlug": ""
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1Nw==",
+    "title": "Rechte der Lernenden",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1Ng==",
+    "title": "Rechte und Pflichten",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1NQ==",
+    "title": "Rechte und Pflichten",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1NA==",
+    "title": "Behauptungen zum Lehrvertrag",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1Mw==",
+    "title": "Auflösung des Lehrvertrags",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1Mg==",
+    "title": "Der Lehrvertrag",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1MQ==",
+    "title": "Was ist ein Lehrvertrag?",
+    "moduleSlug": "der-lehrvertrag"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1MA==",
+    "title": "Fallbeispiel «Füllfederhalter»",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0OQ==",
+    "title": "Phasen des Verkaufsgesprächs",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0OA==",
+    "title": "Bedienungsformen",
+    "moduleSlug": "bedienungsformen-und-verkaufsgesprach"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0Nw==",
+    "title": "Kundenbindung",
+    "moduleSlug": "erwartungen-der-kundschaft"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0Ng==",
+    "title": "Vom Verkäufer- zum Erlebnismarkt",
+    "moduleSlug": "erwartungen-der-kundschaft"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0NQ==",
+    "title": "Corporate Identity",
+    "moduleSlug": "erscheinungsbild"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0NA==",
+    "title": "Aussagen zum Personenrecht",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0Mw==",
+    "title": "Personenrecht – Altersabhängigkeit",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0Mg==",
+    "title": "Volljährigkeit",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0MQ==",
+    "title": "Handlungsfähigkeit",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0MA==",
+    "title": "Personenrecht",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozOQ==",
+    "title": "Sitte, Recht, Moral",
+    "moduleSlug": "ich-bin-berufsperson"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozOA==",
+    "title": "Organisation",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozNw==",
+    "title": "Organigramm",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozNg==",
+    "title": "Stellenarten",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozNQ==",
+    "title": "Organigramm",
+    "moduleSlug": "organisation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozNA==",
+    "title": "Kreditkarten und Kundenkarten",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozMw==",
+    "title": "Bargeldloser Zahlungsverkehr",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozMg==",
+    "title": "Zahlungsmittel und Zahlungsarten",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozMQ==",
+    "title": "Bargeld",
+    "moduleSlug": "zahlungsmittel-und-zahlungsarten"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTozMA==",
+    "title": "Kommunikationskanäle",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyOQ==",
+    "title": "Kommunikation",
+    "moduleSlug": "verbale-und-nonverbale-kommunikation"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyOA==",
+    "title": "Unterbruch der Lieferketten",
+    "moduleSlug": "preisunterschiede-und-preisveranderungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyNw==",
+    "title": "Eierknappheit",
+    "moduleSlug": "preisunterschiede-und-preisveranderungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyNg==",
+    "title": "Einflussfaktoren der Preisentwicklung",
+    "moduleSlug": "preisunterschiede-und-preisveranderungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyNQ==",
+    "title": "Regeln der Preisgestaltung ",
+    "moduleSlug": "preisunterschiede-und-preisveranderungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyNA==",
+    "title": "Angebot",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrags"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyMw==",
+    "title": "Angebot",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrags"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyMg==",
+    "title": "Vertragsfähigkeit",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrags"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyMQ==",
+    "title": "Vertragsphasen",
+    "moduleSlug": "rechtliche-bestimmungen-des-kaufvertrags"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToyMA==",
+    "title": "Vergleichspreise",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxOQ==",
+    "title": "Detailpreis",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxOA==",
+    "title": "Werbemittel",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxNw==",
+    "title": "Werbeträger und Werbemittel ",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxNg==",
+    "title": "Ziel und Aufgabe von Werbung",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxNQ==",
+    "title": "Demonstration und Degustation",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxNA==",
+    "title": "Äusserer Eindruck eines Geschäfts",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMw==",
+    "title": "Verkaufsförderung",
+    "moduleSlug": "verkaufsforderung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMg==",
+    "title": "Fragen",
+    "moduleSlug": "recherchen-zu-produkten-und-dienstleistungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToxMQ==",
+    "title": "Fragen",
+    "moduleSlug": "recherchen-zu-produkten-und-dienstleistungen"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo5",
+    "title": "Prinzipien beim Einsortieren",
+    "moduleSlug": "warenlagerung-und-warenauszeichnung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo4",
+    "title": "Preisbekanntgabeverordnung",
+    "moduleSlug": "warenlagerung-und-warenauszeichnung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo3",
+    "title": "Detailpreis und Grundpreis",
+    "moduleSlug": "warenlagerung-und-warenauszeichnung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo2",
+    "title": "Lagerorte",
+    "moduleSlug": "warenlagerung-und-warenauszeichnung"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo1",
+    "title": "Kommissionieren",
+    "moduleSlug": "warenverkauf-und-warenausgang"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTo0",
+    "title": "Lieferkette verstehen",
+    "moduleSlug": "handel"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToz",
+    "title": "Ladendiebstahl",
+    "moduleSlug": "ladendiebstahl"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZToy",
+    "title": "Sachverhalt",
+    "moduleSlug": "test-modul"
+  },
+  {
+    "plattform": "myDHA",
+    "surveyId": "U3VydmV5Tm9kZTox",
+    "title": "Test Mehrfach-Matrix",
+    "moduleSlug": "test-modul"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page2",
+      "title": "Storage locations",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Name the storage locations described.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "This warehouse is located close to the sales area and allows quick access to the goods.",
+              "isRequired": true,
+              "correctAnswer": "Reserve storage/manual storage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "The goods must be delivered from this warehouse.",
+              "isRequired": true,
+              "correctAnswer": "External warehouse/central warehouse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "This warehouse consists of the goods on display.",
+              "isRequired": true,
+              "correctAnswer": "Sales warehouse",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

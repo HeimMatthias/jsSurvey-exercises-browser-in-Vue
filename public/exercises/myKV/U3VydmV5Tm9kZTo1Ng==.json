@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Claims",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Make a note of the specific demands on Martin for each stakeholder group. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Customers ",
+              "isRequired": true,
+              "correctAnswer": "Expect a wide range of drinks at fair prices.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Employees",
+              "isRequired": true,
+              "correctAnswer": "Expect attractive working hours, fair wages, social benefits, job security.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Suppliers",
+              "isRequired": true,
+              "correctAnswer": "Expect regular orders, punctual payment of the invoice.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Wangen Savings and Loan Association",
+              "isRequired": true,
+              "correctAnswer": "Expects punctual payment of interest and repayment of the loan in 2 years.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Claims",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Make a note of the specific demands on Martin for each stakeholder group. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Competition",
+              "isRequired": true,
+              "correctAnswer": "Expect fair treatment of each other.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Equity provider",
+              "isRequired": true,
+              "correctAnswer": "Expect a profit soon and therefore a positive return on their investment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "State",
+              "isRequired": true,
+              "correctAnswer": "Expects compliance with laws regarding opening hours, night-time rest periods, etc. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

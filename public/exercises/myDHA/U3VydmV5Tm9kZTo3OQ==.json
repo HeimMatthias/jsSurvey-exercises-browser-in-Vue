@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Structural change and developments in the retail trade",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions about the factual text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does the term structural change mean?",
+              "isRequired": true,
+              "correctAnswer": "Structural change is a permanent change in the economic structure of an industry, an economic sector or a region.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What developments are contributing to structural change in the retail trade?",
+              "isRequired": true,
+              "correctAnswer": "Emergence of self-service; female employment; motorization; changes in consumer behavior; urban development; internationalization; technological progress; foreign shopping/shopping tourism; changing forms of operation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How has the role of women changed in economic and political terms since the 1960s?",
+              "isRequired": true,
+              "correctAnswer": "Until the 1960s, women were primarily housewives and mothers. Their role in economic and political life was mainly limited to ensuring domestic satisfaction, cleanliness and a smooth daily routine for all family members. With the economic upturn after the Second World War, more and more women became gainfully employed, improving their financial situation and the prosperity of their families. It was not until the introduction of women's suffrage in 1971 that women were allowed to have a say in politics. Today, women have constitutionally enshrined rights as equal and equal citizens to their male fellow citizens. This also includes equal pay.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

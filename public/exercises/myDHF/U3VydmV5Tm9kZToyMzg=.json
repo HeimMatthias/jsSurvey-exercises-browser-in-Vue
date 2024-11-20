@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Asset insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does personal liability insurance cover?",
+              "correctAnswer": "For damage culpably caused to third parties.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Nora, a retail apprentice, is a passionate snowboarder. She takes off her board in front of the mountain restaurant and heads for the sunny terrace. She hasn't put her board in the storage space provided for it. A gust of wind causes Nora's board to hit the steep slope, where it ends up crashing into a 32-year-old skier at high speed. The father of the family is seriously injured in the head and dies as a result of the accident after months of intensive care. Assess Nora's situation.",
+              "correctAnswer": "This is a private personal injury arising from an everyday situation (fault according to Art. 41 CO). Damage up to CHF 5,000,000 is covered by Nora's personal liability insurance. If, on the other hand, there is no personal liability insurance, Nora would have to bear the entire damage in the millions alone. This example shows that personal liability insurance is one of the most important non-compulsory insurances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Tom borrows his neighbor's notebook for school. After class, Tom closes the notebook. He overlooks the USB stick that is still on the keyboard. When he closes the notebook, the display breaks. The repair costs CHF 900. What can Tom do in this case? ",
+              "correctAnswer": "This damage is also covered by personal liability insurance (damage caused by caretaking). However, there is usually a deductible of CHF 200.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Asset insurance",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Tina causes a serious traffic accident with her boyfriend's car. After the vehicle liability insurance has settled all claims arising from this accident, the insurance company takes recourse and demands reimbursement of the payments made by Tina in the amount of CHF 82,000. Clarify Tina's situation.",
+              "correctAnswer": "Tina was driving someone else's car, she is not the owner of the vehicle. She is therefore liable for the costs to the vehicle liability insurance company in the event of a claim. Personal liability insurance covers this damage (driving other people's vehicles), provided Tina is insured. Otherwise it will be expensive for Tina.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "When Timon moves out of his rented apartment, he accidentally damages a cupboard door, light switch and wall. Unfortunately, the edge of the 40-year-old washbasin in the bathroom is also damaged. Clarify who bears the costs for this damage and make a note of the solution.",
+              "correctAnswer": "If Timon has liability insurance (tenant damage), this will cover the costs of repairing the cupboard door, light switch and wall. There is no claim for compensation for the 40-year-old washbasin (service life of washbasin: 35 years).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

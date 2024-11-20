@@ -1,0 +1,194 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Shape",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Decide whether a certain form must be adhered to in the following examples.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Her younger sister wants to sign an apprenticeship contract.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "qualified written form",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "You borrow CHF 15 from your friend for lunch in the canteen.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Any shape",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Her parents want to conclude an inheritance agreement to benefit each other in the best possible way.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "public notarization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "You promise your girlfriend or boyfriend an invitation to spend a weekend together in Paris on the first anniversary of your relationship.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "simple writing",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Shape",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether a certain form must be adhered to in the following examples.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "You buy food at the supermarket.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Any shape",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Your grandmother wants to write a will and would like to know from you what form she needs to follow.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "qualified written form",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "You have a great business idea and want to set up a limited liability company (GmbH) together with a friend.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "public notarization",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Shape",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether a certain form must be adhered to in the following examples.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Your company is doing well, you want to hire an employee and want to prevent him from moving to your biggest competitor later on with a non-competition clause.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "simple writing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Your parents want to buy a detached house.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "public notarization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Her older brother wants to get married and sign a marriage contract.",
+              "choices": [
+                "Any shape",
+                "simple writing",
+                "qualified written form",
+                "public notarization"
+              ],
+              "isRequired": true,
+              "correctAnswer": "public notarization",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

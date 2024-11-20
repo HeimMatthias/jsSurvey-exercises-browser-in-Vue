@@ -1,0 +1,151 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sentence grammar",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Determine the sentence structure of the following proverbs and sayings according to the example. Also state whether it is a compound sentence or a sentence structure.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "You have to celebrate the festivals as they fall.",
+              "readOnly": true,
+              "defaultValue": "HS, NS: Satzgefüge  ",
+              "correctAnswer": "It can stand alone (is independent); the finite verb comes second.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "When two people quarrel, the third is happy. ",
+              "isRequired": true,
+              "correctAnswer": "NS, HS: Sentence structure  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Never torture an animal as a joke, because it feels pain like you do.",
+              "isRequired": true,
+              "correctAnswer": "HS, HS: Sentence connection",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "As you call into the forest, so it echoes back.",
+              "isRequired": true,
+              "correctAnswer": "NS, HS: Sentence structure",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Hard bread is not hard, but no bread is hard.",
+              "isRequired": true,
+              "correctAnswer": "HS, HS: Sentence connection",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Sentence grammar",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Determine the sentence structure of the following proverbs and sayings according to the example. Also state whether it is a compound sentence or a sentence structure.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Where there is a will, there is a way.",
+              "isRequired": true,
+              "correctAnswer": "NS, HS: Sentence structure",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Everything has an end, only the sausage has two.",
+              "isRequired": true,
+              "correctAnswer": "HS, HS: Sentence connection",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "If you want to reach your destination quickly, go slowly.",
+              "isRequired": true,
+              "correctAnswer": "NS, HS: Sentence structure",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Whoever says A must also say B.",
+              "isRequired": true,
+              "correctAnswer": "NS, HS: Sentence structure",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Sentence grammar",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Determine the sentence structure of the following proverbs and sayings according to the example. Also state whether it is a compound sentence or a sentence structure.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Let people talk, because they talk about everyone.",
+              "isRequired": true,
+              "correctAnswer": "HS, HS: Sentence connection",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "If you lie once, you won't be believed, even if you speak the truth.",
+              "isRequired": true,
+              "correctAnswer": "NS, HS, NS: Sentence structure  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Tell me who you deal with and I'll tell you who you are.",
+              "isRequired": true,
+              "correctAnswer": "HS, NS, HS, NS.  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

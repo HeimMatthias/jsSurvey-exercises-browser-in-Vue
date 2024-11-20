@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which is the highest mountain in Switzerland? Also state the source(s) of the information.",
+              "isRequired": true,
+              "correctAnswer": "The Dom is the highest mountain in Switzerland that lies entirely on Swiss soil. Highest main peak in Switzerland (without secondary peaks): Dufourspitze, but large parts of the mountain lie in Italy.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which is the shopping center with the highest turnover in Switzerland? Please also state the source(s) of the information and, if available, the date of publication.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which shopping center in Switzerland has the largest retail space? Please also state the source(s) of the information and, if available, the date of publication.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Is Jenna Ortega in a relationship? Also indicate the source(s) of the information and, if available, the date of publication.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

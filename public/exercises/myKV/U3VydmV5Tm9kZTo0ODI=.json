@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the statements are correct or incorrect. Correct any incorrect statements in the text field.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The aim of a needs analysis is to ask specific questions in order to sell a product immediately.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "The aim is to understand the customer's needs, not to sell directly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the statements are correct or incorrect. Correct any incorrect statements in the text field.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Open and positive body language is important to gain the customer's trust.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the statements are correct or incorrect. At the same time, correct incorrect statements in the text field.\n",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "You should ignore customers' objections and emphasize other product features instead.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Effective objection handling requires recognizing and addressing customer concerns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide whether the statements are correct or incorrect. Correct any incorrect statements in the text field.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Closing techniques are used to motivate the customer to make a quick purchase decision.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "They aim to promote the conclusion of the contract without pushing the customer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

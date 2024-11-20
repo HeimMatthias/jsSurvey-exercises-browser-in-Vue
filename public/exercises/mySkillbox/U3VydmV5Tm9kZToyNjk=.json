@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "name": "Übung 1",
+      "title": "Identity development",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Think about which phase of identity development you would assign to your father and daughter. The descriptions in the diagram below and the \"Identity and identity development\" tool can help you with this. Give reasons for your choice.",
+          "elements": [
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1385967969539981313\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question4",
+              "type": "html"
+            },
+            {
+              "name": "Vater",
+              "type": "comment",
+              "title": "Father and daughter identity phase: ",
+              "isRequired": true,
+              "correctAnswer": "Both the father and the daughter are in a phase of diffuse identity. Both have no clear interests (apart from reliving), feel misunderstood and let themselves drift (the father even more than the daughter). The father is unable to make decisions on important life issues and the daughter is dissatisfied with him.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Übung 2",
+      "title": "Identity development",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What course has the father's identity development taken since adolescence (lines 576-586)? Progressing, stagnating or regressing? Formulate an assumption and give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "The descriptions in the short story point to a regressive course. The father seems to have been successful and self-confident in various respects in his youth: outstanding achievements in mathematics, good sportsman, success with women, etc. Today, there is as little evidence of this success as there is of clear life goals and a drive to move forward. The father is currently in a diffuse identity phase.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What could have caused the father's identity development to take the course you suspect? Speculate.",
+              "isRequired": true,
+              "correctAnswer": "Relapses in identity development can often be traced back to life crises. In the case of the main character, the relapse was triggered by two break-ups with female partners who left him for other men.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What support does Katie need from her father to develop her identity? Write down specific suggestions.",
+              "isRequired": true,
+              "correctAnswer": "Normality, clear structure, caring and responsible caregivers, boundaries, friends, therapy, rituals, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,449 @@
+{
+  "pages": [
+    {
+      "name": "Situationen 1",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "You are training to become a computer scientist and are supposed to program an application. However, you have not been sufficiently introduced to this topic either at school or at work.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Qualitative overload",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question16",
+              "type": "radiogroup",
+              "title": "A colleague keeps spreading rumors about you in your company team.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: Work colleagues",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question20",
+              "type": "radiogroup",
+              "title": "Your training company is on the verge of bankruptcy. You are worried about losing your apprenticeship.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work-related insecurity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situationen 2",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Your trainer told you in the last evaluation meeting that she would terminate your apprenticeship contract if your performance did not improve immediately.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work-related insecurity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "You experience sexual harassment by your superior at your workplace.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: superiors",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question22",
+              "type": "radiogroup",
+              "title": "As you are still lacking practice, you probably won't be able to complete a customer order by the end of the day. Yet your trainer has expressly told you that the work must be completed by this evening.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Time pressure",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situationen 3",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "You need to lay a floor on a construction site. As the company does not provide enough tools, you have to share the available work materials with your colleagues, which leads to unnecessary waiting times.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work organization problems",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question18",
+              "type": "radiogroup",
+              "title": "You are training to become a healthcare professional. You have been assigned a patient who you are to wash, dress and then position correctly on your own. Suddenly you are no longer quite sure how to do the individual steps to get the patient into the desired position. You therefore seek help from your instructor.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Qualitative overload",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel11",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question24",
+              "type": "radiogroup",
+              "title": "You are doing your apprenticeship in a hotel. As your contacts change from shift to shift, you start to lose track of who you should actually ask.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work organization problems",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situationen 4",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Your team at work is arguing about every little thing. People simply don't get along. Sometimes the air is already thick in the morning.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: Work colleagues",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question19",
+              "type": "radiogroup",
+              "title": "You are a trainee catering specialist and have to take on an additional shift for the second time in a week because the third person has already been absent due to illness.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work organization problems",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel13",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question26",
+              "type": "radiogroup",
+              "title": "Her trainer has been coming to work in a dejected mood for months. For the past two weeks, he has been accompanied by a constant whiff of alcohol. You no longer dare to ask him for help when you need it.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: superiors",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situationen 5",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "You are in your first year of training as an EFZ bricklayer. Your colleagues are always making jokes about your slight build (figure), as you are not yet as muscular as the others.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: Work colleagues",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page9",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel14",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "radiogroup",
+              "title": "Your trainer gets angry if you make the slightest mistake. You have the impression that you are not allowed to make any mistakes. This creates a lot of pressure!",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social stressors: superiors",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page10",
+      "title": "Stress factors in the workplace",
+      "elements": [
+        {
+          "name": "panel15",
+          "type": "panel",
+          "title": "Assign the following situations to the correct stress factor.",
+          "elements": [
+            {
+              "name": "question28",
+              "type": "radiogroup",
+              "title": "You are doing your apprenticeship in a small family business. Your trainer is absent for an extended period due to health reasons. She is the only one in the company who is allowed to train apprentices.",
+              "choices": [
+                "Work-related insecurity",
+                "Work organization problems",
+                "Qualitative overload",
+                "Social stressors: Work colleagues",
+                "Social stressors: superiors",
+                "Time pressure"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Work-related insecurity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

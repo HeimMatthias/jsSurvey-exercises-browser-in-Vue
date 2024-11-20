@@ -1,0 +1,326 @@
+{
+  "pages": [
+    {
+      "name": " Welches Wort passt nicht?1",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Question 1",
+              "choices": [
+                "obligatory",
+                "optional",
+                "Passive"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Passive",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "Question 2",
+              "choices": [
+                "limiting",
+                "liberal",
+                "restrictive"
+              ],
+              "isRequired": true,
+              "correctAnswer": "liberal",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "Question 3",
+              "choices": [
+                "Law & Order",
+                "Police",
+                "Fire department"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Fire department",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " Welches Wort passt nicht?2",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "Question 4",
+              "choices": [
+                "Immigration",
+                "Emigration",
+                "Immigration"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Emigration",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "Question 5",
+              "choices": [
+                "deterrent",
+                "restrictive",
+                "limiting"
+              ],
+              "isRequired": true,
+              "correctAnswer": "deterrent",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "radiogroup",
+              "title": "Question 6",
+              "choices": [
+                "Regulation",
+                "Control system",
+                "Delimitation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Delimitation",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " Welches Wort passt nicht?3",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 7",
+              "type": "radiogroup",
+              "title": "Question 7",
+              "choices": [
+                "Dispute",
+                "Dispute",
+                "Basic conflict"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Dispute",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "radiogroup",
+              "title": "Question 8",
+              "choices": [
+                "Insurance",
+                "Redistribution",
+                "Taxes"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 9",
+              "type": "radiogroup",
+              "title": "Question 9",
+              "choices": [
+                "Welfare state",
+                "Security",
+                "Freedom"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Freedom",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " Welches Wort passt nicht?4",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 10",
+              "type": "radiogroup",
+              "title": "Question 10",
+              "choices": [
+                "economically liberal",
+                "Protecting the weaker",
+                "little regulating"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Protecting the weaker",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 11",
+              "type": "radiogroup",
+              "title": "Question 11",
+              "choices": [
+                "tolerant",
+                "socially liberal",
+                "caring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "caring",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 12",
+              "type": "radiogroup",
+              "title": "Question 12",
+              "choices": [
+                "internal security",
+                "National defense",
+                "External security"
+              ],
+              "isRequired": true,
+              "correctAnswer": "National defense",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " Welches Wort passt nicht?5",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 13",
+              "type": "radiogroup",
+              "title": "Question 13",
+              "choices": [
+                "open-minded",
+                "conservative",
+                "traditional"
+              ],
+              "isRequired": true,
+              "correctAnswer": "open-minded",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 14",
+              "type": "radiogroup",
+              "title": "Question 14",
+              "choices": [
+                "slowly",
+                "Passive",
+                "idle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "slowly",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 15",
+              "type": "radiogroup",
+              "title": "Question 15",
+              "choices": [
+                "committed",
+                "neutral",
+                "active"
+              ],
+              "isRequired": true,
+              "correctAnswer": "neutral",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": " Welches Wort passt nicht?6",
+      "title": " Which word does not fit?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Select the word that does not fit in the row. ",
+          "elements": [
+            {
+              "name": "Frage 16",
+              "type": "radiogroup",
+              "title": "Question 16",
+              "choices": [
+                "Reliability",
+                "Independence",
+                "Independence"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Reliability",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 17",
+              "type": "radiogroup",
+              "title": "Question 17",
+              "choices": [
+                "Customs",
+                "Ethics",
+                "Tradition"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Ethics",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 18",
+              "type": "radiogroup",
+              "title": "Question 18",
+              "choices": [
+                "Privatization",
+                "Socialism",
+                "Private property"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Socialism",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Herausgefunden oder gewusst?1",
+      "title": "Found out or knew?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What do you need the AltGr key on your keyboard for?",
+              "isRequired": true,
+              "correctAnswer": "for all characters on the 3rd level of the keyboard keys, e.g. the @ character on key 2 on the top row",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which key combination can you use instead of the AltGr key?",
+              "isRequired": true,
+              "correctAnswer": "Key combination Ctrl + Alt",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How do you save a Word document (Excel workbook, PowerPoint presentation) as a PDF file?",
+              "isRequired": true,
+              "correctAnswer": "select the file type \"PDF (*.pdf)\" in the save window (below the field for the file name)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Open a blank Word document (no saving necessary). Insert any text. You already know that you can read the number of words on the status bar. Where else can you find this information? Use the help wizard on the program bar.",
+              "isRequired": true,
+              "correctAnswer": "Help Wizard: Count words | CHECK tab/spelling: Count words | Number of pages, characters with/without spaces, paragraphs and lines",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Definitionen laut Recycling-ABC",
+      "title": "Definitions according to Recycling ABC",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the following terms in your own words in the context of the topic of the environment.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Waste",
+              "isRequired": true,
+              "correctAnswer": "In Switzerland, a product is considered waste as soon as it is disposed of or disposal is necessary in the public interest (see Article 7, Paragraph 6 of the Environmental Protection Act). Every year, around 80 to 90 million tons of waste are produced in Switzerland, with unpolluted excavation and demolition materials making up the majority. Due to the high standard of living, municipal waste per person amounts to 716 kilograms, which is one of the highest figures in the world. Interestingly, around 68 percent of raw materials are already in the economic cycle, which means that two thirds of the total 80 to 90 million tons of waste are already recycled. (Source: Swiss Recycling, FOEN)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Recycling",
+              "isRequired": true,
+              "correctAnswer": "Recycling means \"reuse\" or \"material recovery\" and refers to the process of returning waste to the material cycle and creating products with similar properties to the original raw materials, known as secondary raw materials. Recycling makes it possible to preserve and reuse the so-called gray energy that was used to extract the original raw materials. (Source: Swiss Recycling)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Upcycling",
+              "isRequired": true,
+              "correctAnswer": "Upcycling refers to the process of transforming old or used products into something new. One example is the transformation of old items of clothing or fabric remnants into new clothing. Upcycling can also be used to create a product with better properties than the original. (Source: Swiss Recycling)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Packaging",
+              "isRequired": true,
+              "correctAnswer": "Packaging is used for protection, storage, transportation, information or dosing. When the packaging no longer fulfills its function, for example when the product it contains has been used up, it should be properly disposed of, reused or recycled. It is important to consider the packaging and the packaged product as a complete system and to take into account all relevant environmental impacts. (Source: Swiss Recycling)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Throwaway society",
+              "isRequired": true,
+              "correctAnswer": "Today's economy is characterized by an immense number of consumer goods that are disposed of at the end of their life cycle. This throw-away mentality is based on the idea of \"take - make - throw away\", which is described as a linear production process. (Source: Swiss Recycling)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

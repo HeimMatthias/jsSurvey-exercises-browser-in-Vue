@@ -1,0 +1,196 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "defective delivery",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "When must the buyer inspect the goods received? Please also state the relevant legal article.",
+              "isRequired": true,
+              "correctAnswer": "The buyer must inspect the goods received as soon as it is feasible in the normal course of business and report any defects immediately (Art. 201 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "In addition to inspecting the goods, the buyer has a further obligation in the event of a defective delivery. Which one?",
+              "isRequired": true,
+              "correctAnswer": "He must give notice of the defects.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What three options does the buyer have if he discovers a defect and has fulfilled his three obligations?",
+              "isRequired": true,
+              "correctAnswer": "(1) rescission, (2) reduction, (3) replacement with faultless goods\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "defective delivery",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which option makes sense in the following cases?",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "checkbox",
+              "title": "A button is missing from the newly purchased trousers.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Reduction"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "The purchased horse is seriously ill.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Conversion"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "The vegetables delivered are no longer fresh.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Replacement"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "defective delivery",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which option makes sense in the following cases?",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "The children's toy is treated with harmful substances.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Conversion"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "The inner lining of the jacket has a stain.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Reduction"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "defective delivery",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which option makes sense in the following cases?",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "checkbox",
+              "title": "The frame of your bike breaks.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Conversion",
+                "Replacement"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "checkbox",
+              "title": "Your computer's hard disk fails.",
+              "choices": [
+                "Conversion",
+                "Reduction",
+                "Replacement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Replacement"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

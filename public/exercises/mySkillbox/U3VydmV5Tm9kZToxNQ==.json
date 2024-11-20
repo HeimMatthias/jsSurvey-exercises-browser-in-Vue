@@ -1,0 +1,118 @@
+{
+  "pages": [
+    {
+      "name": "Eselsbrücke für historische Ereignisse",
+      "title": " Mnemonic for historical events",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which mnemonic fits this explanation?",
+          "elements": [
+            {
+              "name": "Der Bundesbrief von Anfang August 1291 gilt als ältestes Verfassungsdokument der Schweiz. Darin sichern sich die innerschweizerischen Talgemeinschaften Uri, Schwyz und Nidwalden gegenseitige Hilfe zu gegen alle, die ihnen Gewalt oder Unrecht antun.",
+              "type": "radiogroup",
+              "title": "The Federal Charter of early August 1291 is considered the oldest constitutional document in Switzerland. In it, the central Swiss valley communities of Uri, Schwyz and Nidwalden pledge mutual assistance against all those who inflict violence or injustice on them.",
+              "choices": [
+                {
+                  "text": "sixteen hundred and ten and eight - thirty years of battle from now on",
+                  "value": "sixteen hundred and ten and eight - thirty years of battle from now on"
+                },
+                {
+                  "text": "eight, zero, zero - Karl climbed onto the chair",
+                  "value": "eight, zero, zero - Karl climbed onto the chair"
+                },
+                {
+                  "text": "twelve, nine, one - Switzerland was founded",
+                  "value": "twelve, nine, one - Switzerland was founded"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "twelve, nine, one - Switzerland was founded",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eselsbrücke für historische Ereignisse1",
+      "title": " Mnemonic for historical events",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which mnemonic fits this explanation?",
+          "elements": [
+            {
+              "name": "In der Schlacht von Issos 333 vor Christus traf Alexander der Grosse das erste Mal persönlich auf den persischen König Dareios III. Dieser suchte sein Heil in der Flucht, so dass Alexander siegreich aus der Schlacht hervorgehen konnte.",
+              "type": "radiogroup",
+              "title": "In the Battle of Issus in 333 BC, Alexander the Great met the Persian king Darius III for the first time in person. The latter sought his salvation in flight, so that Alexander was able to emerge victorious from the battle. ",
+              "choices": [
+                {
+                  "text": "three, three, three - at Isso's wedgie",
+                  "value": "three, three, three - at Isso's wedgie"
+                },
+                {
+                  "text": "sixteen hundred and ten and eight - thirty years of battle from now on",
+                  "value": "sixteen hundred and ten and eight - thirty years of battle from now on"
+                },
+                {
+                  "text": "7-5-3 Rome hatches from the egg",
+                  "value": "7-5-3 Rome hatches from the egg"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "three, three, three - at Isso's wedgie",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eselsbrücke für historische Ereignisse2",
+      "title": " Mnemonic for historical events",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which mnemonic fits this explanation?",
+          "elements": [
+            {
+              "name": "Der Frankenkönig Karl der Grosse wurde am Abend des 1. Weihnachtstags 800 in der Petersdom in Rom von Papst Leo III. zum römischen Kaiser gekrönt. Damit war er einer der mächtigsten Herrscher seiner Zeit.",
+              "type": "radiogroup",
+              "choices": [
+                {
+                  "text": "twelve, nine, one - Switzerland was founded",
+                  "value": "twelve, nine, one - Switzerland was founded"
+                },
+                {
+                  "text": "eight, zero, zero - Karl climbed onto the chair",
+                  "value": "eight, zero, zero - Karl climbed onto the chair"
+                },
+                {
+                  "text": "one - eight - eight - eight, three emperors were in power.",
+                  "value": "one - eight - eight - eight, three emperors were in power."
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "eight, zero, zero - Karl climbed onto the chair",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Auswirkungen von Geschäftsfällen",
+      "title": "Effects of business cases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Transactions with no effect on profit or loss and their impact on the balance sheet: For posting items no. 1 to no. 6, tick which of the following effects applies:\n",
+          "elements": [
+            {
+              "html": "<ul style=\"font-family: 'Montserrat', Arial, sans-serif; font-size: 16px; line-height: 1.5;\">\n    <li><strong style=\"font-weight: 700;\">AT</strong> = Aktivtausch</li>\n    <li><strong style=\"font-weight: 700;\">PT</strong> = Passivtausch</li>\n    <li><strong style=\"font-weight: 700;\">F</strong> = Finanzierung (Kapitalbeschaffung)</li>\n    <li><strong style=\"font-weight: 700;\">DF</strong> = Definanzierung (Kapitalrückzahlung)</li>\n</ul>\n",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "rows": [
+                "1. repayment of a liability loan by bank transfer",
+                "2. cash sale of a disused cash register",
+                "3. cash contribution by the business owner",
+                "4. payment for a machine by debiting the bank balance",
+                "5. bank credit due to taking out a liability loan",
+                "6. conversion of a loan debt into equity"
+              ],
+              "type": "matrix",
+              "title": "Booking fact",
+              "columns": [
+                "AT",
+                "PT",
+                "F",
+                "DF"
+              ],
+              "correctAnswer": {
+                "3. Bareinlage der Geschäftsinhaberin": "F",
+                "2. Barverkauf einer ausgedienten Registrierkasse": "AT",
+                "6. Umwandlung einer Darlehensschuld in Eigenkapital": "PT",
+                "5. Bankgutschrift aufgrund Aufnahme eines Passivdarlehens": "F",
+                "1. Rückzahlung eines Passivdarlehens per Banküberweisung": "DF",
+                "4. Bezahlung einer Maschine durch Belastung des Bankguthabens": "AT"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

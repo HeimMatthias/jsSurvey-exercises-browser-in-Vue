@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Advertising media and advertising material ",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Commercial",
+                "Internet",
+                "Test drives",
+                "Packaging",
+                "Poster",
+                "Shop window",
+                "Carrier bag",
+                "Company car",
+                "Flyer",
+                "Cinema",
+                "Salesroom",
+                "Newspaper"
+              ],
+              "type": "matrix",
+              "title": "Advertising messages are brought to consumers with advertising media and advertising materials. Are the following examples advertising media or advertising materials? Put a cross in the box.  ",
+              "columns": [
+                "Advertising medium ",
+                "Advertising material"
+              ],
+              "correctAnswer": {
+                "Kino": "Advertising medium ",
+                "Flyer": "Advertising material",
+                "Plakat": "Advertising material",
+                "Zeitung": "Advertising medium ",
+                "Internet": "Advertising medium ",
+                "Werbespot": "Advertising material",
+                "Firmenauto": "Advertising medium ",
+                "Tragtasche": "Advertising medium ",
+                "Verpackung": "Advertising medium ",
+                "Probefahrten": "Advertising material",
+                "Schaufenster": "Advertising medium ",
+                "Verkaufsraum": "Advertising medium "
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

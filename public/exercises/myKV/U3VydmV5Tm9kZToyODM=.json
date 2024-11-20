@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Genitive object",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Write the following sentences with a genitive object in the same way as the example. \nExample: She did not cast her vote. > She abstained from voting.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The report needs to be thoroughly revised.",
+              "isRequired": true,
+              "correctAnswer": "The report requires a thorough revision.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "They were sure that they would win.",
+              "isRequired": true,
+              "correctAnswer": "They were sure of their victory.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "He was accused of having committed murder.",
+              "isRequired": true,
+              "correctAnswer": "He was charged with murder.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "They accused me of lying.",
+              "isRequired": true,
+              "correctAnswer": "They accused me of lying.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Genitive object",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Write the following sentences with a genitive object in the same way as the example. \nExample: She did not cast her vote. > She abstained from voting.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "He was removed from office.",
+              "isRequired": true,
+              "correctAnswer": "He was removed from office.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Everyone knew about the dangers.",
+              "isRequired": true,
+              "correctAnswer": "Everyone was aware of the dangers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "We take care of the problem.",
+              "isRequired": true,
+              "correctAnswer": "We take care of the problem.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "The many victims are remembered at the ceremony.",
+              "isRequired": true,
+              "correctAnswer": "The many victims are commemorated at the ceremony.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

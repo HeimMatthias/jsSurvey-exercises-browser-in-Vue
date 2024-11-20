@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Consultation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Please answer the following questions about the consultation.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How do you prepare for this interview?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How do you organize the contact phase?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How do you go about describing problems and concerns?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What questions do you ask in the \"Information gathering\" step?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Ten steps of the consultation ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you analyze the problem?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are your goals?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Which solution variants do you develop and how do you select the best/most suitable one?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Ten steps of the consultation ",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What does the implementation look like? How do you create an action plan to record concrete steps to solve the problem?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "How do you summarize and conclude?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "How do you prepare for the consultation?",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

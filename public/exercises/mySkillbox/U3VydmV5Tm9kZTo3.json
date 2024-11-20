@@ -1,0 +1,474 @@
+{
+  "pages": [
+    {
+      "name": "Pflichten",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You tell friends about the strategies your company uses to attract new customers.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "5",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question4",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten1",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "They skip classes at the vocational college.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question2",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question5",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten2",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "They carry out the same routine tasks almost every day.",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "6",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question6",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten3",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "They are regularly insulted in front of other employees.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "14",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question8",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question9",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten4",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "An employee falls because you left your tools lying around everywhere.",
+          "elements": [
+            {
+              "name": "Frage 5",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "4",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question10",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question11",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten5",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "They have to work from 6 a.m. to 7 p.m. because of a major order.",
+          "elements": [
+            {
+              "name": "Frage 6",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "9",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question12",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question13",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten6",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Your boss cuts your pay because you have worked inaccurately.",
+          "elements": [
+            {
+              "name": "Frage 7",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "10",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question14",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question15",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten7",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "You want to wear your own work clothes instead of the prescribed ones.",
+          "elements": [
+            {
+              "name": "Frage 8",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "2",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question16",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question17",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten8",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "You have to feed your boss's dog.",
+          "elements": [
+            {
+              "name": "Frage 9",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "7",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question18",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question19",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichten9",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "You cannot attend the language course at your school because you do not have time off.",
+          "elements": [
+            {
+              "name": "Frage 10",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "11",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question20",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question21",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

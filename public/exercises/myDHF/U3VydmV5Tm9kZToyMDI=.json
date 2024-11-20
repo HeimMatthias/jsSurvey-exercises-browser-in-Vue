@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case study Ludomir",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Ludomir does not yet have a new job lined up after his apprenticeship. He still sees his future in the retail trade. You have learned about good sources of information in this chapter, share them here and determine the first steps.",
+              "isRequired": true,
+              "correctAnswer": "Ludomir contacts the RAV in his region as soon as possible, where he is informed about the next steps. He informs himself in advance on the website treffpunkt-arbeit.ch about the documents he will bring with him on his first visit to the RAV. The following sites provide information and job offers in the retail trade: arbeit.swiss, detailhandels-jobs.ch, be-werbung.ch. Current information on further training in the retail trade: bds-fcs.ch (official website of Bildung Detailhandel Schweiz), e.g. to become a retail trade specialist or retail trade manager.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

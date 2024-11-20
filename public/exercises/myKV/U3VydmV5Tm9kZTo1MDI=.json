@@ -1,0 +1,138 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Role and function of the media",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                {
+                  "text": "Because the media have a major influence on opinion-forming, they are also referred to as the fourth estate.",
+                  "value": "Because the media have a major influence on opinion-forming, they are also referred to as the fourth estate. "
+                },
+                "In addition to traditional mass media such as newspapers, radio and television, social media play a particularly important role today. ",
+                "The Swiss government is allowed to dictate to the media what they must and must not report on; censorship is permitted. ",
+                "In Switzerland, it is a guaranteed right that every person may receive information freely. ",
+                "The Swiss media also have the task of critically monitoring and reporting on the private lives of politicians. "
+              ],
+              "type": "matrix",
+              "title": "Read the basic knowledge \"Role and function of the media\" carefully. Decide whether the following statements are correct or incorrect. ",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "In der Schweiz ist es ein garantiertes Recht, dass jede Person Informationen frei empfangen darf. ": "right",
+                "Weil Medien auf die Meinungsbildung einen grossen Einfluss haben, werden sie auch als vierte Gewalt bezeichnet. ": "right",
+                "Neben den traditionellen Massenmedien wie Zeitungen, Radio und Fernsehen spielen heute vor allem die sozialen Medien eine wichtige Rolle. ": "right",
+                "Die Schweizer Medien haben auch die Aufgabe, das Privatleben von Politikerinnen und Politikern kritisch zu begleiten und darüber zu berichten. ": "wrong",
+                "Die Schweizer Regierung darf den Medien vorschreiben, worüber sie berichten müssen und worüber sie nicht berichten dürfen; Zensur ist erlaubt. ": "wrong"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Role and function of the media",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "rows": [
+                "The diversity of the Swiss media landscape is an advantage when it comes to forming opinions. ",
+                "The abbreviation SRG stands for Swiss Broadcasting Corporation. ",
+                {
+                  "text": "SRG SSR is a public service broadcaster and is primarily financed by fees.",
+                  "value": "SRG SSR is a public service broadcaster and is primarily financed by fees. "
+                },
+                "Every person aged 18 and over living in Switzerland must pay the annual fee for radio and television reception. ",
+                "The so-called public service mandate means that SRG SSR must provide the whole country with information. "
+              ],
+              "type": "matrix",
+              "title": "Read the basic knowledge \"Role and function of the media\" carefully. Decide whether the following statements are correct or incorrect. ",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Die Abkürzung SRG steht für Schweizer Rundfunkgemeinschaft. ": "wrong",
+                "Für die Meinungsbildung ist es von Vorteil, dass die Schweizer Medienlandschaft vielfältig ist. ": "right",
+                "Die SRG SSR ist ein öffentlich-rechtlicher Betrieb und finanziert sich vorwiegend durch Gebühren. ": "right",
+                "Jede in der Schweiz lebende Person ab 18 Jahren muss die jährliche Gebühr für den Radio- und Fernsehempfang bezahlen. ": "wrong",
+                "Mit dem sogenannten Service-public-Auftrag ist gemeint, dass die SRG SSR das ganze Land mit Informationen versorgen muss. ": "right"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Role and function of the media",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "rows": [
+                "In addition to the public SRG SSR, there are only two private media companies in Switzerland. ",
+                "Private media companies receive part of the SRG-SSR fees in the form of subsidies. ",
+                {
+                  "text": "Since private media companies earn their money primarily through advertising, there is a risk that important advertising customers will try to influence reporting.",
+                  "value": "Since private media companies earn their money primarily through advertising, there is a risk that important advertising customers will try to influence reporting. "
+                },
+                "Media professionals have numerous means at their disposal to influence the formation of opinion. These include the selection of topics and the setting of headlines. ",
+                "Images cannot be manipulated because they always show reality. "
+              ],
+              "type": "matrix",
+              "title": "Read the basic knowledge \"Role and function of the media\" carefully. Decide whether the following statements are correct or incorrect. ",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Mit Bildern kann nicht manipuliert werden, denn sie zeigen immer die Wirklichkeit. ": "wrong",
+                "Private Medienunternehmen erhalten einen Teil der SRG-SSR-Gebühren in Form von Subventionen. ": "right",
+                "Neben der öffentlich-rechtlichen SRG SSR existieren in der Schweiz nur zwei private Medienhäuser.": "falsch",
+                "Medienschaffende verfügen über zahlreiche Mittel, um die Meinungsbildung zu beeinflussen. Dazu gehören unter anderen die Themenauswahl und die Setzung der Schlagzeilen. ": "right",
+                "Da die privaten Medienfirmen ihr Geld vor allem durch Werbung verdienen, besteht die Gefahr, dass wichtige Werbekunden versuchen, auf die Berichterstattung Einfluss zu nehmen.": "right",
+                "Da die privaten Medienfirmen ihr Geld vor allem durch Werbung verdienen, besteht die Gefahr, dass wichtige Werbekunden versuchen, auf die Berichterstattung Einfluss zu nehmen. ": "right"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

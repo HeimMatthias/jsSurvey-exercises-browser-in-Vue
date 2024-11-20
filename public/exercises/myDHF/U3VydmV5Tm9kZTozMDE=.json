@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Mini Case: Strawberries ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "The customer is not entitled to a refund of the purchase price as the strawberries are perishable goods. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "In principle, the customer has a right to a warranty for defective goods. The law contains no exception for perishable goods (Art. 197 OR - Warranty). "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Mini Case: Strawberries ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The customer is obliged to inspect the product and report any defects immediately. Because the customer only complains about the rotten strawberries the day after the purchase, his warranty claim is void. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "In the case of defective goods, the customer is obliged to make a complaint immediately after discovering the defect (Art. 201 - Notice of defects). This obligation is also fulfilled if the customer discovers the defect in the evening after closing time and notifies the retailer at the earliest opportunity. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Mini Case: Strawberries ",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The supermarket is not legally obliged to offer the customer compensation for the unsuccessful birthday and the emotional damage caused. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "According to the law, the retailer is obliged to provide a warranty in the form of a refund or price reduction (Art. 205 CO - rescission or reduction) or exchange (Art. 206 CO - replacement). The law does not provide for a claim to emotional compensation. However, the retailer has the option of offering a goodwill measure in addition to the warranty. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

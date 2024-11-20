@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Expectations",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Formulate the expectations of the respective stakeholder groups.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Customers expect Häberlis to carry out painting work quickly. Häberlis expect their customers to ...",
+              "isRequired": true,
+              "correctAnswer": "the punctual payment of the invoice.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Suppliers would like to make regular deliveries for Häberlis. Häberlis expect their suppliers to ...",
+              "isRequired": true,
+              "correctAnswer": "the reliable delivery of the products ordered.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The landlord of the business premises expects the Häberlis to pay the rent on time. Häberlis expect their landlord to ...",
+              "isRequired": true,
+              "correctAnswer": "rapid repair of any damage to the business premises.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Expectations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Formulate the expectations of the respective stakeholder groups.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "The employees want a pay rise. Häberlis expect their employees to ...",
+              "isRequired": true,
+              "correctAnswer": "reliable work, polite dealings with customers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Painting company Fischer AG in the same district would like to have more communication about upcoming major projects. The Häberlis expect Fischer AG to ...",
+              "isRequired": true,
+              "correctAnswer": "fair treatment in tenders.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

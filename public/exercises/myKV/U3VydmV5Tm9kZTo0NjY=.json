@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Concept and purpose of invoices",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Supplier invoices are the same as customer invoices.",
+                "The VAT number must always be entered on the invoice by the customer and the supplier.",
+                "Price, payment and remuneration are all synonyms (mean the same thing).",
+                "A word that is often used in practice is debtor invoice (the same as customer invoice).",
+                "It is important that VAT is also shown on every invoice.",
+                "In online trading, payment cannot be requested immediately. The customer always receives the invoice with the delivery."
+              ],
+              "type": "matrix",
+              "title": "Are the statements about the concept and purpose of invoices correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Lieferantenrechnungen sind dasselbe wie Debitorenrechnungen.": "wrong",
+                "Wichtig ist, dass auf jeder Rechnung auch die MWST aufgeführt ist.": "right",
+                "Preis, Entgelt und Honorierung sind alles Synonyme (bedeuten dasselbe).": "wrong",
+                "Die MWST-Nummer muss immer vom Kunden und von der Lieferantin auf der Rechnung erfasst werden.": "wrong",
+                "Ein Wort, das in der Praxis oft verwendet wird, ist Debitorenrechnung (dasselbe wie Kundenrechnung).": "right",
+                "Beim Onlinehandel kann die Zahlung nicht sofort verlangt werden. Die Kundin erhält die Rechnung immer mit der Lieferung.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

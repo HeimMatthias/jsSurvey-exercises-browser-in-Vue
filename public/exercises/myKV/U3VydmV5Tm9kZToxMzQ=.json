@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "By which name extension do you recognize executable files?",
+              "isRequired": true,
+              "correctAnswer": "*.exe",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What does the *.ttf file extension belong to?",
+              "isRequired": true,
+              "correctAnswer": "Font file for installation (True Type font)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What does OLE mean in the computer world? Do some research on the Internet.",
+              "isRequired": true,
+              "correctAnswer": "Object Linking and Embedding, e.g. insert Excel table as a link in a Word document",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "Horizontale und vertikale Kooperation",
+      "title": "Horizontal and vertical cooperation",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Exchange of experience in smaller groups",
+                "Vacation arrangements between the companies",
+                "Franchising",
+                "Voluntary chains",
+                "Mutual support (recommendation) in the event of mis-selling",
+                "Jointly offered customer services",
+                "Joint warehouse to reduce storage costs",
+                "Joint advertising campaign between retailers and suppliers",
+                "Joint purchasing (cheaper purchase of goods)",
+                "Authorized dealer system",
+                "Training of wholesalers and retailers by the producer",
+                "Rack Jobber"
+              ],
+              "type": "matrix",
+              "title": "Are the following retail trade cooperations horizontal or vertical cooperations? Put a cross in the box.",
+              "columns": [
+                "Horizontal cooperation ",
+                "Vertical cooperation "
+              ],
+              "correctAnswer": {
+                "Franchising": "Vertical cooperation ",
+                "Rack Jobber": "Vertical cooperation ",
+                "Freiwillige Ketten": "Vertical cooperation ",
+                "Vertragshändlersystem": "Vertical cooperation ",
+                "Gemeinsam angebotene Kundendienste": "Horizontal cooperation ",
+                "Ferienabsprache unter den Betrieben": "Horizontal cooperation ",
+                "Erfahrungsaustausch in kleineren Gruppen": "Horizontal cooperation ",
+                "Gemeinsamer Einkauf (günstigerer Warenbezug)": "Horizontal cooperation ",
+                "Gemeinsames Lager zur Senkung der Lagerkosten": "Horizontal cooperation ",
+                "Gegenseitige Unterstützung (Empfehlung) bei Fehlverkäufen": "Horizontal cooperation ",
+                "Gemeinsame Werbeaktion zwischen Detaillisten und Lieferanten": "Vertical cooperation ",
+                "Schulung der Grossisten und Detaillisten durch den Produzenten": "Vertical cooperation ",
+                "Schulung der Grossisten und Detaillisten durch den Produzenten ": "Vertikale Kooperation "
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

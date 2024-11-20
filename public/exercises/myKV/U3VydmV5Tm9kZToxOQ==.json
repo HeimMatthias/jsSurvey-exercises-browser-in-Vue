@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What were the classic communication channels for a long time? ",
+              "isRequired": true,
+              "correctAnswer": "Mail and telephone",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What has permanently changed communication since the 1990s?",
+              "isRequired": true,
+              "correctAnswer": "the Internet",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Which communication channel is one of the most important channels in business today?",
+              "isRequired": true,
+              "correctAnswer": "e-mail ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What is the advantage in terms of content and language when communication is asynchronous?",
+              "isRequired": true,
+              "correctAnswer": "There is time to check the content and language carefully.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What is a disadvantage in terms of confidentiality with emails? ",
+              "isRequired": true,
+              "correctAnswer": "The mails can easily reach people who should not read them.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the advantage in terms of information flow when communication is synchronized?",
+              "isRequired": true,
+              "correctAnswer": "Everyone receives the same information at the same time. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "What is a disadvantage in terms of verifiability in oral exchanges?",
+              "isRequired": true,
+              "correctAnswer": "As a rule, no evidence is available. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What technical problems can occur with digital communication?",
+              "isRequired": true,
+              "correctAnswer": "Breakdowns and disconnections",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

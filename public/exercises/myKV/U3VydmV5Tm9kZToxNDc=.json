@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What is meant by the term \"gender-appropriate language\"?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "A language that represents all genders. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "When do we speak of a \"generic masculine\"?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "When the masculine form is used to represent both genders. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the advantage of the pair formula?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "It does not require any special characters. This prevents grammatical errors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the disadvantage of the pair formula?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "Non-binary gender identities do not feel addressed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What are the three gender signs?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "Gender gap, gender star, gender colon",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

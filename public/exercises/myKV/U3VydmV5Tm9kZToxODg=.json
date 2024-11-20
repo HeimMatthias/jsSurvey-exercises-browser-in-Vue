@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "A company's chart of accounts is prescribed in detail.",
+                "The chart of accounts is heavily dependent on the business activity (sector).",
+                "The tax authorities stipulate which accounts must be kept.",
+                "The chart of accounts is independent of the legal form of the company.",
+                "The chart of accounts should be created on the basis of the chart of accounts."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements true or false?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Die Steuerbehörde schreibt vor, welche Konten zu führen sind.": "Wrong",
+                "Der Kontenplan eines Unternehmens ist detailliert vorgeschrieben.": "Wrong",
+                "Der Kontenplan ist unabhängig von der Rechtsform des Unternehmens.": "Wrong",
+                "Der Kontenrahmen soll auf der Grundlage des Kontenplans erstellt werden.": "Wrong",
+                "Der Kontenplan ist stark von der Geschäftstätigkeit (Branche) abhängig.": "Correct"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The chart of accounts is generally valid and flexible.",
+                "The chart of accounts can be changed each year as required. ",
+                "The chart of accounts is exactly the same for all companies in a sector.",
+                "The number of accounts should be appropriate for the size of the company.",
+                "The chart of accounts is divided into different account classes."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements true or false?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Der Kontenrahmen ist allgemein gültig und flexibel.": "Correct",
+                "Der Kontenplan kann jedes Jahr beliebig verändert werden. ": "Wrong",
+                "Der Kontenrahmen ist unterteilt in verschiedene Kontenklassen.": "Correct",
+                "Der Kontenplan ist für alle Unternehmen einer Branche genau gleich.": "Wrong",
+                "Die Anzahl Konten soll für die Grösse des Unternehmens angemessen sein.": "Correct"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

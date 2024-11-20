@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What are the characteristics of our language system? ",
+              "isRequired": true,
+              "correctAnswer": "It is constantly changing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why is the word so important for understanding?",
+              "isRequired": true,
+              "correctAnswer": "It is the smallest independent, meaning-bearing part of the language system.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the two different phonetic forms in the alphabet?",
+              "isRequired": true,
+              "correctAnswer": "Vowels and consonants",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Words can be formed by combining two or more words. What other forms of word formation are there?",
+              "isRequired": true,
+              "correctAnswer": "Derivation, borrowing, short words and letter words",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "In the compound word \"human rights\", which is the base word and which is the determiner?",
+              "isRequired": true,
+              "correctAnswer": "Rights = base word, people = determiner  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,127 @@
+{
+  "pages": [
+    {
+      "name": "Zwingende Rechtsvorschriften",
+      "title": "Mandatory legal provisions",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "In this exercise, you will find reworded obligations arising from mandatory and relatively mandatory legal provisions. Find the correct wording in each case.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employer may deploy the apprentice for work that is not related to the apprenticeship occupation.",
+                "The learner must carry out work for the employer that is not related to the apprenticeship and interferes with training.",
+                "The employer must deploy the learner for work that is related to the apprenticeship and does not interfere with training."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employer must deploy the learner for work that is related to the apprenticeship and does not interfere with training.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employer can release the learner for free courses at the vocational college.",
+                "The employer must release the learner for free courses at the vocational college, but can claim a wage deduction.",
+                "The employer must release the learner for free courses at the vocational college without deducting wages."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employer must release the learner for free courses at the vocational college without deducting wages.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employee must carry out orders for the employer carefully and safeguard the legitimate interests of the employer.",
+                "The employee may carry out orders for the employer as he sees fit.",
+                "The employee may carry out orders for the employer and may pursue his own interests."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employee must carry out orders for the employer carefully and safeguard the legitimate interests of the employer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Relativ zwingende Rechtsvorschriften",
+      "title": "Relatively mandatory legislation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In this exercise, you will find reworded obligations arising from mandatory and relatively mandatory legal provisions. Find the correct wording in each case.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employer may grant the apprentice a maximum of five weeks' vacation per apprenticeship year.",
+                "The employer must grant the apprentice at least five weeks' vacation per apprenticeship year.",
+                "The employer must grant the apprentice at least three weeks' vacation per apprenticeship year."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employer must grant the apprentice at least five weeks' vacation per apprenticeship year.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employer must grant the learner at least twelve hours of consecutive rest per day.",
+                "The employer must grant the learner at least eight hours of consecutive rest per day.",
+                "The employer must grant the learner at least six hours of consecutive rest per day."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employer must grant the learner at least twelve hours of consecutive rest per day.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Which wording is correct?",
+              "choices": [
+                "The employer must guarantee the learner at least six hours of work per day (including breaks).",
+                "The employer must guarantee the learner a maximum daily working time of twelve hours (including breaks).",
+                "The employer must guarantee the learner a maximum daily working time of nine hours (including breaks)."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The employer must guarantee the learner a maximum daily working time of twelve hours (including breaks).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

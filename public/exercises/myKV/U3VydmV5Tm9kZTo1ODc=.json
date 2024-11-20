@@ -1,0 +1,122 @@
+{
+  "pages": [
+    {
+      "name": "Bedüfniskategorien",
+      "title": "Requirement categories",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "To which categories of needs do the following statements belong? Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "Aussage: Mervin kauft sich eine neue Playstation 5.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for choice",
+                "Individual need"
+              ]
+            },
+            {
+              "name": "Aussage: Die Caritas Schweiz verkauft gesammelte Kleider zu einem günstigen Preis an Menschen mit kleinem Budget.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for existence",
+                "Individual need"
+              ]
+            },
+            {
+              "name": "Aussage: Politikerinnen fordern den Ausbau des Lötschberg-Eisenbahntunnels.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for choice",
+                "Collective need"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bedüfniskategorien-2",
+      "title": "Requirement categories",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "To which categories of needs do the following statements belong? Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "Aussage: Der Bund betreibt in der Schweiz mehrere Bundesasylzentren für Asylsuchende.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for existence",
+                "Collective need"
+              ]
+            },
+            {
+              "name": "Aussage: Hannes geht zweimal in der Woche zu einem Privatlehrer, um seine Englischkenntnisse zu verbessern.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for choice",
+                "Individual need"
+              ]
+            },
+            {
+              "name": "Aussage: Roberta aus Bern fährt fast jedes Wochenende in ihr Chalet in Zermatt.",
+              "type": "checkbox",
+              "choices": [
+                "Need for existence",
+                "Need for choice",
+                "Individual need",
+                "Collective need"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Need for choice",
+                "Individual need"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "logoPosition": "right"
+}

@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Personal law",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following comprehension questions about the text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "When do you become legally competent?",
+              "correctAnswer": "In Switzerland, legal capacity begins at the time of birth.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Who is capable of acting?",
+              "correctAnswer": "A person has full capacity to act if he or she is capable of judgment (approx. from the age of 14) and of legal age (from the age of 18).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "When do you come of age in Switzerland?",
+              "correctAnswer": "At the age of 18.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Personal law",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following comprehension questions about the text.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What types of age of majority can be distinguished?",
+              "correctAnswer": "Political, sexual and religious coming of age.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What does \"having reached the age of 18\" mean? The 18th or the 19th birthday?",
+              "correctAnswer": "The 18th birthday.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What does \"capable of judgment\" mean?",
+              "correctAnswer": "Knowing what you are doing and what consequences this action can have.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Personal law",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following comprehension questions about the text.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the difference between legal capacity and capacity to act?",
+              "correctAnswer": "You have legal capacity from birth. This means that you can have rights and obligations. Capacity to act requires the ability to make judgments and the age of majority. If both are present, a person has the capacity to enter into a contract, to marry, to sue, to prosecute and to commit an offense.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Which persons are considered to have limited legal capacity and how does this manifest itself?",
+              "correctAnswer": "All persons who are capable of judgment but have not yet reached the age of majority are considered to have limited legal capacity. This means that a person may carry out everyday transactions independently, but must consult their legal representative for important actions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

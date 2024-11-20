@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Prices",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Describe the following two prices: ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Detailed price:",
+              "isRequired": true,
+              "correctAnswer": "The actual price to be paid in Swiss francs, including public charges (VAT, beer and tobacco tax, etc.) and advance disposal fees.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Base price:",
+              "isRequired": true,
+              "correctAnswer": "Base price = price per unit (kg, l, m, m2 etc.)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

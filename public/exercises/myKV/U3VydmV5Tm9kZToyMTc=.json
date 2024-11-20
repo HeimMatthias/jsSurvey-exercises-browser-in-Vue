@@ -1,0 +1,121 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Contract?",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Has a contract been concluded in the following examples or not? Give reasons for your answer in each case.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Emily Hug receives a loan commitment from her bank for the loan she has applied for. Emily signs the loan documents and returns them to the bank.",
+              "choices": [
+                "Contract",
+                "No contract"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Emily Hug had applied for a loan. The bank sent her a binding application. Emily accepted it. A contract has therefore been concluded.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Mrs. Tobler calls a hotel and asks for a room for one night. The hotelier tells her she can have a room for CHF 150. Mrs. Tobler agrees.",
+              "choices": [
+                "Contract",
+                "No contract"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "The contract was concluded verbally. The hotelier offered her a room for one night for CHF 150. Ms. Tobler accepted the offer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Contract?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Has a contract been concluded in the following examples or not? Give reasons for your answer in each case.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "You go to the supermarket and pick up a few things. At the checkout, you place the items on the conveyor belt and pay. You don't say a word to the angry sales clerk.",
+              "choices": [
+                "Contract",
+                "No contract"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "The contract has been concluded tacitly (Art. 1 para. 2 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "An aid organization sends you a stack of art cards with an invoice.",
+              "choices": [
+                "Contract",
+                "No contract"
+              ],
+              "isRequired": true,
+              "correctAnswer": "No contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "The sending of an unordered item does not legally constitute a request (Art. 6a OR). Therefore, no contract has been concluded. You do not have to pay for or return the cards.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

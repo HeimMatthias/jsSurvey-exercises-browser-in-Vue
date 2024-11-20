@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Forms of living together",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Cohabitation has been regulated by the Cohabitation Act (KonG) since 2007.",
+                "In contrast to cohabitation, marriages cannot be dissolved.",
+                "Registered partnerships have been regulated by the Partnership Act (PartG) since 2007.",
+                "Marriage is governed by the Swiss Civil Code.",
+                "Cohabitation can be established informally.",
+                "Same-sex couples are free to choose whether they want to marry or enter into a registered partnership.",
+                "Cohabitation is a partnership between two people who are not married to each other.",
+                "When a couple has a child, they must get married."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the forms of cohabitation correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die Ehe ist im ZGB geregelt.": "right",
+                "Das Konkubinat kann formlos begründet werden.": "right",
+                "Wenn ein Paar ein Kind bekommt, muss es zwingend heiraten.": "wrong",
+                "Im Gegensatz zum Konkubinat können Ehen nicht wieder aufgelöst werden.": "wrong",
+                "Das Konkubinat ist seit 2007 im Konkubinatsgesetz (KonG) geregelt.": "wrong",
+                "Das Konkubinat ist eine Lebensgemeinschaft zweier Personen, die nicht miteinander verheiratet sind.": "right",
+                "Die eingetragene Partnerschaft  ist  seit  2007  im  Partnerschaftsgesetz (PartG) geregelt.": "right",
+                "Gleichgeschlechtliche Paare können frei wählen, ob sie heiraten oder eine eingetragene Partnerschaft eingehen wollen.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

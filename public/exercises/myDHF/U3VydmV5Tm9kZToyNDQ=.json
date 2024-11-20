@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Social media",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which social media are you active on? Name the social media and answer the following questions for each.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How long have you been using this platform? ",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why are you on this platform?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What personal information do you post on the platform? Why?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Social media",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which social media are you active on? Name the social media and answer the following questions for each.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How long (duration of use) and how often are you on this platform?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How many contacts do you have on this platform?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Which functions of the platform do you use in particular?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

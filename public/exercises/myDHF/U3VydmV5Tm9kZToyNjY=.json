@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "name": "Page1",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Mark with a cross whether the statements are correct or incorrect. Give reasons for incorrect statements in the text field below.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "All health insurance companies have the same basic insurance benefits. It therefore makes no difference which health insurance company you belong to.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Possible justification:",
+              "correctAnswer": "Since all health insurance companies must offer the same basic benefits in basic insurance, it is worth comparing prices. It may make sense to switch to the cheapest insurer. However, the notice period of the previous health insurance company must be observed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Mark with a cross whether the statements are correct or incorrect. Give reasons for incorrect statements in the text field below.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Insurance premiums can be reduced by increasing the deductible.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Possible justification:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Mark with a cross whether the statements are correct or incorrect. Give reasons for incorrect statements in the text field below.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Private insurance is not absolutely necessary for everyone. Most hospital stays last four or five days. Semi-private or general insurance is usually sufficient for this short period.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Possible justification:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Mark with a cross whether the statements are correct or incorrect. Give reasons for incorrect statements in the text field below.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Second-opinion variant",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Possible justification:",
+              "correctAnswer": "Second-opinion variant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Mark with a cross whether the statements are correct or incorrect. Give reasons for incorrect statements in the text field below.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "With the HMO model or family doctor model, the health insurance company restricts the free choice of doctor, but guarantees a large discount on the premium.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Possible justification:"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

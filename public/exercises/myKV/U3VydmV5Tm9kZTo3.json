@@ -1,0 +1,86 @@
+{
+  "pages": [
+    {
+      "name": "Verschuldung1",
+      "title": "Indebtedness",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why does a mortgage loan represent a much lower debt risk than a consumer loan? ",
+              "isRequired": true,
+              "correctAnswer": "Real estate generally increases in value. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the two most common debt traps? ",
+              "isRequired": true,
+              "correctAnswer": "Unpaid taxes and health insurance premiums",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "When does it become difficult to get out of the debt trap? ",
+              "isRequired": true,
+              "correctAnswer": "When debts are paid off with new debts. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Budget",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What can happen with regard to work in the event of heavy debt? ",
+              "isRequired": true,
+              "correctAnswer": "Termination, unemployment ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is debt prevention? ",
+              "isRequired": true,
+              "correctAnswer": "Preventing debt with suitable measures.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What instrument can be used to significantly reduce the risk of debt?",
+              "isRequired": true,
+              "correctAnswer": "With a realistic personal budget ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

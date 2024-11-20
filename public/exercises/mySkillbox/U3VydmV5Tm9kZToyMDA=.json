@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Gegenteil1",
+      "title": "Find the opposite",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Find the opposite word (antonym).",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "liberal",
+              "isRequired": true,
+              "correctAnswer": "restrictive or conservative",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "obligatory ",
+              "isRequired": true,
+              "correctAnswer": "optional",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "restrictive",
+              "isRequired": true,
+              "correctAnswer": "liberal, open, generous",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gegenteil2",
+      "title": "Find the opposite",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Find the opposite word (antonym).",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Passive",
+              "isRequired": true,
+              "correctAnswer": "active",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Nationalization",
+              "isRequired": true,
+              "correctAnswer": "Privatization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "absolute ",
+              "isRequired": true,
+              "correctAnswer": "Relative",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

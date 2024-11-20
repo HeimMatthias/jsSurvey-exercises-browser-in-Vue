@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Concept and purpose of the budget",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A budget is drawn up for the previous calendar year.",
+                "In every budget, income and expenditure must be equal.",
+                "The budget is normally drawn up every three years.",
+                "A budget can be drawn up for larger customer events.",
+                "A budget can help avoid negative surprises when it comes to finances.",
+                "Under no circumstances may actual expenditure exceed budgeted expenditure.",
+                "Significant budget deviations must be justified.",
+                "Associations determine the amount of membership fees in the budget.",
+                "A budget is generally not necessary for private individuals.",
+                "Municipalities also use the budget to plan major investments."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the concept and purpose of the budget correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Wesentliche Budgetabweichungen müssen begründet werden.": "right",
+                "Ein Budget wird für das vergangene Kalenderjahr erstellt.": "wrong",
+                "Gemeinden planen mit dem Budget auch grössere Investitionen.": "right",
+                "Für grössere Kundenanlässe kann ein Budget erstellt werden.": "right",
+                "Bei Privatpersonen ist ein Budget grundsätzlich nicht notwendig.": "wrong",
+                "In jedem Budget müssen Einnahmen und Ausgaben gleich gross sein.": "wrong",
+                "Normalerweise wird das Budget im Abstand von drei Jahren erstellt.": "wrong",
+                "Vereine legen mit dem Budget die Höhe der Mitgliederbeiträge fest.": "right",
+                "Mit einem Budget können negative Überraschungen bei den Finanzen vermieden werden.": "right",
+                "Auf keinen Fall dürfen die tatsächlichen Ausgaben die budgetierten Ausgaben überschreiten.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

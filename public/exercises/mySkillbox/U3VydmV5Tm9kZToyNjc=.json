@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Links oder Rechts?",
+      "title": "Left or right?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Deklarieren Sie Ihre Meinung zu den diskutierten Fragen, indem Sie jeweils «Ja» oder «Nein» ankreuzen.",
+              "rows": [
+                "1. should young unemployed people in Switzerland be given more support?",
+                "2 Is it a strength of Switzerland to be a multicultural country?",
+                "3. should driving and flying become more expensive (environmental protection)?",
+                "4. should homosexual couples be allowed to adopt children?"
+              ],
+              "type": "matrix",
+              "title": "Declare your opinion on the questions discussed by ticking \"Yes\" or \"No\" in each case.",
+              "columns": [
+                "Yes",
+                "No"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Lösung",
+              "type": "text",
+              "title": "Solution",
+              "visible": false,
+              "readOnly": true,
+              "correctAnswer": "The answer \"Yes\" stands for a left position, the answer \"No\" for a right position."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

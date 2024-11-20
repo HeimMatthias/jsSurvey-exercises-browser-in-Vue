@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Wages",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Gross and net wages are shown in the payslip. Explain the difference between gross and net pay.",
+              "isRequired": true,
+              "correctAnswer": "The gross wage is the wage agreed with the employer plus wage supplements and wage supplements. The net wage is the wage that is paid out after deductions for social security contributions.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What deductions can be made from gross wages? Please list them.",
+              "isRequired": true,
+              "correctAnswer": "AHV, IV, NBU, BVG, EO and ALV deductions, daily sickness benefit insurance premiums, costs for benefits received: for example, board, lodging or work clothing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What may not be deducted from the apprentice's salary?",
+              "isRequired": true,
+              "correctAnswer": "The costs of compulsory occupational accident insurance, school attendance or attendance of introductory and inter-company courses and the qualification procedure may not be deducted.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

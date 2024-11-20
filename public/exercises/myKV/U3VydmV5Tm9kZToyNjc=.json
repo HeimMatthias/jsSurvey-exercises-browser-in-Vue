@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Self-assessment",
+      "elements": [
+        {
+          "name": "question1",
+          "rows": [
+            "I mark the e-mails that have not yet been answered.",
+            "I reply to e-mails within three days.",
+            "I make sure I use a suitable form of address and greeting. ",
+            "I thank you for the e-mail in a reply.",
+            "I check whether names, dates, times etc. are correct. ",
+            "I check spelling, punctuation and grammar. ",
+            "I avoid subjunctives such as would, would have, could, would be, etc."
+          ],
+          "type": "matrix",
+          "title": "4 = always | 3 = most of the time | 2 = rarely | 1 = never",
+          "columns": [
+            {
+              "text": "4",
+              "value": "Column 1"
+            },
+            {
+              "text": "3",
+              "value": "Column 2"
+            },
+            {
+              "text": "2",
+              "value": "Column 3"
+            },
+            {
+              "text": "1",
+              "value": "Column 4"
+            }
+          ],
+          "isAllRowRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Self-assessment",
+      "elements": [
+        {
+          "name": "question2",
+          "rows": [
+            "I make sure my tone is friendly and constructive. ",
+            "I read through the text again before sending it.",
+            "If I am unsure, I have my texts checked. ",
+            "I write a meaningful subject line.",
+            "I check whether I have inserted all the attachments.",
+            "I check the recipient addresses before sending.",
+            "I archive important e-mails in a filing system. "
+          ],
+          "type": "matrix",
+          "title": "4 = always | 3 = most of the time | 2 = rarely | 1 = never",
+          "columns": [
+            {
+              "text": "4",
+              "value": "Column 1"
+            },
+            {
+              "text": "3",
+              "value": "Column 2"
+            },
+            {
+              "text": "2",
+              "value": "Column 3"
+            },
+            {
+              "text": "1",
+              "value": "Column 4"
+            }
+          ],
+          "isAllRowRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

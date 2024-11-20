@@ -1,0 +1,238 @@
+{
+  "pages": [
+    {
+      "name": "Fall 1",
+      "title": "Which insurance company is responsible?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Case 1: Sarah recently bought an inexpensive second-hand car. The previous owner took special care of his vehicle so that it still looked like new. A few days later, it hails heavily. Sarah hardly recognizes her car: it is totally dented!",
+          "elements": [
+            {
+              "name": "Zuständige Versicherung(en):",
+              "type": "text",
+              "title": "Responsible insurance(s):",
+              "isRequired": true,
+              "correctAnswer": "Sarah's comprehensive insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung:",
+              "type": "checkbox",
+              "title": "Justification:",
+              "choices": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "The damage was caused by another person.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The damage happens to me.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "One motor vehicle is affected."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Bestimmen Sie für jeden Sachverhalt die zuständige Versicherung. Versetzen Sie sich jeweils in die genannte Person, wenn Sie mit dem Entscheidungsbaum arbeiten."
+    },
+    {
+      "name": "Fall 2",
+      "title": "Which insurance company is responsible?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Case 2: Amir works as a DJ in a techno club every weekend. As he has forgotten his hearing protection, he is DJing today without earplugs. When he comes home early in the morning, he has an annoying whistling in his ear and can only hear everything around him in a muffled way. When the symptoms don't subside even after two days, he goes to the doctor. Diagnosis: tinnitus and inner ear damage. Amir needs infusion therapy with cortisone.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Responsible insurance(s):",
+              "isRequired": true,
+              "correctAnswer": "Amir's health insurance. Health insurance because: non-self-inflicted physical injury > none of the physical injuries listed in the decision tree affected > however, sudden injury, but no unusual external factor, because it is always loud in the techno club.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Justification:",
+              "choices": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "The damage was caused by another person.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The damage happens to me.",
+                "The damage is my fault.",
+                "There is personal injury."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Bestimmen Sie für jeden Sachverhalt die zuständige Versicherung. Versetzen Sie sich jeweils in die genannte Person, wenn Sie mit dem Entscheidungsbaum arbeiten."
+    },
+    {
+      "name": "Fall 3",
+      "title": "Which insurance company is responsible?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Case 3: Ivan is on his way to work on his scooter. Because he's not paying attention, he doesn't notice that the car in front of him brakes quite abruptly. Too late: there is a collision! Fortunately, Ivan only breaks the big toe on his right foot. There are dents and scratches on the car and various damage to the scooter. It's a good thing Ivan has (non-mandatory) comprehensive insurance ...",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "The 3 responsible insurance companies:",
+              "isRequired": true,
+              "correctAnswer": "Ivan's accident insurance and comprehensive insurance (damage to the scooter), as well as his liability insurance for motor vehicle owners (damage to another person's car). Accident insurance because: non-self-inflicted physical injury.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Justification:",
+              "choices": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "The damage was caused by another person.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Bestimmen Sie für jeden Sachverhalt die zuständige Versicherung. Versetzen Sie sich jeweils in die genannte Person, wenn Sie mit dem Entscheidungsbaum arbeiten."
+    },
+    {
+      "name": "Fall 4",
+      "title": "Which insurance company is responsible?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Case 4: Nadia is a keen ice hockey player. She has an important match at the weekend that she is determined to win. Unfortunately, she is eliminated after just 20 minutes: She was checked by an opponent and dislocated her shoulders when she fell. Important note: Consenting to a so-called typical sporting risk means that any resulting damage is considered accidental from a legal perspective.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Responsible insurance(s):",
+              "isRequired": true,
+              "correctAnswer": "Nadia's accident insurance. Accident insurance because: non-self-inflicted physical injury > dislocation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Justification:",
+              "choices": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "The damage was caused by another person.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The damage happens to me.",
+                "The damage was caused by accident.",
+                "There is personal injury."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Bestimmen Sie für jeden Sachverhalt die zuständige Versicherung. Versetzen Sie sich jeweils in die genannte Person, wenn Sie mit dem Entscheidungsbaum arbeiten."
+    },
+    {
+      "name": "Fall 5",
+      "title": "Which insurance company is responsible?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Case 5: Petra is a qualified healthcare professional and is driving home in the evening after a hard shift. Suddenly, out of nowhere, a deer runs across the road in front of her. She slams on the brakes. The animal gets away with a fright, but Petra's head hits the steering wheel hard, resulting in a severe concussion.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Responsible insurance(s):",
+              "isRequired": true,
+              "correctAnswer": "Petra's accident insurance. Accident insurance because: non-self-inflicted injury > none of the bodily injuries listed in the decision tree affected > sudden injury > due to an unusual external factor.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "checkbox",
+              "title": "Justification:",
+              "choices": [
+                "The damage happens to me.",
+                "The damage occurs to another person.",
+                "The damage is my fault.",
+                "The damage was caused by another person.",
+                "The damage was caused by accident.",
+                "There is material damage.",
+                "There is personal injury.",
+                "One motor vehicle is affected."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The damage happens to me.",
+                "The damage was caused by accident.",
+                "There is personal injury."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Bestimmen Sie für jeden Sachverhalt die zuständige Versicherung. Versetzen Sie sich jeweils in die genannte Person, wenn Sie mit dem Entscheidungsbaum arbeiten."
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

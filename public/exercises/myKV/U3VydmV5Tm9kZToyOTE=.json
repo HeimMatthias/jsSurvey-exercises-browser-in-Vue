@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What are punctuation marks for?",
+              "isRequired": true,
+              "correctAnswer": "They structure texts, making them easier to read and understand.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are the three punctuation marks?",
+              "isRequired": true,
+              "correctAnswer": "Dot, question mark, exclamation mark",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What type of punctuation marks are the comma and semicolon?",
+              "isRequired": true,
+              "correctAnswer": "Outline character ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which question type does not have a question mark?",
+              "isRequired": true,
+              "correctAnswer": "For the indirect question",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "When is there no comma between main clauses?",
+              "isRequired": true,
+              "correctAnswer": "If the main clauses are contracted. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which other punctuation mark can be used instead of the comma in trailing clauses?",
+              "isRequired": true,
+              "correctAnswer": "the dash",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Which dash form is used as a hyphen?",
+              "isRequired": true,
+              "correctAnswer": "the divis (-), short stroke",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Should a comma be placed in the following sentence? Yes, why? No, why? Sentence: \"We wish you many sunny vacation days.\"",
+              "isRequired": true,
+              "correctAnswer": "No, \"many\" and \"sunny\" are not of equal rank; \"and\" cannot be used. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Which spelling is correct? A or B? A: He stepped outside the house. Birgit's sister, the value of the euro. B: He stepped outside the house. Birgit's sister, the value of the euro.",
+              "isRequired": true,
+              "correctAnswer": "B) He stepped outside the house. Birgit's sister, the value of the euro.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

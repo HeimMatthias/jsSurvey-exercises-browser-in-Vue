@@ -1,0 +1,120 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Storage of goods",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe the five functions of goods storage in your own words.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Ensure readiness to sell",
+              "isRequired": true,
+              "correctAnswer": "In order to avoid mis-selling, it is important to always have enough goods in stock and to be able to absorb delivery delays in an emergency.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Preparation",
+              "isRequired": true,
+              "correctAnswer": "In the warehouse, products are prepared for sale (e.g. repackaging, labeling and packing products in customer-specific quantities) or repaired if necessary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Time bridging",
+              "isRequired": true,
+              "correctAnswer": "Products often cannot be produced in time to meet customer demand. For example, production of the new summer collection starts months in advance. Seasonal fluctuations can also be balanced out with a warehouse.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Refinement",
+              "isRequired": true,
+              "correctAnswer": "Certain products gain value through proper storage (e.g. cheese and wine).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Take advantage of price benefits",
+              "isRequired": true,
+              "correctAnswer": "A warehouse enables the retailer to benefit from better purchasing conditions (e.g. through quantity discounts, currency fluctuations, market conditions, etc.).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Storage of goods",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "How much, how and where the goods are stored depends on various aspects. Assign the following aspects correctly:",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Size, location, functionality, special facilities, organization",
+              "choices": [
+                "Condition of the goods",
+                "Alignment of the company",
+                "Properties of the bearing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Properties of the bearing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Cooling, perishability, hazardousness, handling",
+              "choices": [
+                "Condition of the goods",
+                "Alignment of the company",
+                "Properties of the bearing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Condition of the goods",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Form of sale, operation and distribution",
+              "choices": [
+                "Condition of the goods",
+                "Alignment of the company",
+                "Properties of the bearing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Alignment of the company",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

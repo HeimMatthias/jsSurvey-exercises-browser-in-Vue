@@ -1,0 +1,312 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "Frage1",
+              "type": "radiogroup",
+              "title": "Switzerland has always been primarily a country of immigration.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage2",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "isRequired": true,
+              "correctAnswer": "Switzerland was a typical country of emigration between 1850 and 1914.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?2",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Switzerland also owed its economic upswing during industrialization to foreign workers, who made up 15% of the population at the time.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "correctAnswer": "No correction necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question4",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?3",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "As Switzerland developed into one of the richest countries, politicians discussed compulsory naturalization to ensure that foreign workers could remain in the country. This idea was supported by a broad section of the population.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "isRequired": true,
+              "correctAnswer": "Fear of foreign infiltration and the disintegration of traditional values grew in parts of the population. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?4",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "The writer Max Frisch was referring to the refugees that Switzerland took in during the Second World War with his statement \"They called for workers and people came\".",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "isRequired": true,
+              "correctAnswer": "Max Frisch was referring to the Italian seasonal workers who were only tolerated as laborers in Switzerland after the Second World War.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question10",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?5",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "The free movement of persons led to an unexpectedly high increase in immigration and thus facilitated the acceptance of the mass immigration initiative.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "correctAnswer": "No correction necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question13",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?6",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question14",
+              "type": "radiogroup",
+              "title": "Since the refugee crisis in 2015, net immigration in Switzerland increased by 40% until 2019.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "isRequired": true,
+              "correctAnswer": "Between 2014 and 2019, net immigration in Switzerland fell by 40 percent.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question16",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?7",
+      "title": "If you have marked \"incorrect\", please correct the statement.",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Judge whether the statement is correct or incorrect.",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "The fifth Switzerland refers to the 10% of Swiss nationals who live abroad.",
+              "choices": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "If you have marked \"incorrect\", please correct the statement.",
+              "correctAnswer": "No correction necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question19",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

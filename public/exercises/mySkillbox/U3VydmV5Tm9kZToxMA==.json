@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "Einstellungen zum Lernen",
+      "title": "Attitudes to learning",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Tick those that are closest to you in your own life.",
+              "choices": [
+                "If I fail an exam, I'm a total failure.",
+                "It's so much - I'll never manage it!",
+                "I'm usually not in the right mood to study at school.",
+                "I've never been good at language & communication.",
+                "I always get up again after defeats.",
+                "You can or you can't do certain things.",
+                "Negative thoughts are simply part of it, I try to overcome them.",
+                "With some teachers, it's clear that you're not motivated.",
+                "Sometimes I get stuck, but I don't give up.",
+                "I don't have to be perfect, but I want to get a little better.",
+                "I just can't remember anything.",
+                "I always learn the wrong things.",
+                "School is not my thing.",
+                "I just can't concentrate.",
+                "If others can do it, I can do it too.",
+                "I want to show my company that I am committed.",
+                "I just do the minimum - that has to be enough.",
+                "I want to get the best out of myself.",
+                "There are more important things than doing well at school.",
+                "I could actually do that tomorrow."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

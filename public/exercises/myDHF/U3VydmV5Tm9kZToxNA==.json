@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "name": "PEAK-Modell",
+      "title": "PEAK model",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Name the missing terms in the diagram.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-detailhandel-dhf-prod.s3-eu-central-1.amazonaws.com/images/D_LF1_T1_A15_PEAK-Modell.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "P stands for:",
+              "isRequired": true,
+              "correctAnswer": "Planning, setting goals ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "E stands for:",
+              "isRequired": true,
+              "correctAnswer": "Decide ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "A stands for:",
+              "isRequired": true,
+              "correctAnswer": "Arrange and execute ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "K stands for:",
+              "isRequired": true,
+              "correctAnswer": "Control ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

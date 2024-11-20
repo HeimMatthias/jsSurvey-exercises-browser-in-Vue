@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Process or organizational structure",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Übung 1",
+              "rows": [
+                "How to respond to a customer complaint that has been received",
+                "Division of a school into the two areas of basic and adult education",
+                "Duties of a train attendant",
+                "Schedule for the bar at a party",
+                "Agenda for a meeting of the Executive Board",
+                "Function diagram of a bank branch",
+                "Division of the organizational chart according to different cantons",
+                "Competence in inviting potential customers to lunch",
+                "Job description for a flight attendant",
+                "Checklist for checking the on-board systems before departure"
+              ],
+              "type": "matrix",
+              "title": "Indicate whether the following statements indicate a process organization or an organizational structure.",
+              "columns": [
+                "Process organization",
+                "Organizational structure"
+              ],
+              "correctAnswer": {
+                "Pflichtenheft eines Zugbegleiters": "Organizational structure",
+                "Funktionendiagramm einer Bankfiliale": "Process organization",
+                "Einsatzplan für die Bar an einem Fest": "Process organization",
+                "Stellenbeschrieb für eine Flugbegleiterin": "Organizational structure",
+                "Traktandenliste einer Sitzung der Geschäftsleitung": "Process organization",
+                "Aufteilen des Organigramms nach verschiedenen Kantonen": "Organizational structure",
+                "Kompetenz, potenzielle Kunden zum Mittagessen einzuladen": "Organizational structure",
+                "Weg der Reaktion auf eine eingetroffene Kundenreklamation": "Process organization",
+                "Checkliste für die Überprüfung der Bordsysteme vor dem Abflug": "Process organization",
+                "Gliederung einer Schule in die beiden Bereiche Grund‑ und Erwachsenenbildung": "Organizational structure"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

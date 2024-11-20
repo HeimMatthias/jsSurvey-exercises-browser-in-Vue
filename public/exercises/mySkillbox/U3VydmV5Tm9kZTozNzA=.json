@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "name": "Mein ökologischer Fussabdruck.",
+      "title": "My ecological footprint",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Comment on the result. Refer to the assumption you made in subtask a):",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Compare your result with that of another person in the class. Look for and note down reasons for different results:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Based on the questions about your ecological footprint, write down at least six behaviors that would either reduce or increase your footprint:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

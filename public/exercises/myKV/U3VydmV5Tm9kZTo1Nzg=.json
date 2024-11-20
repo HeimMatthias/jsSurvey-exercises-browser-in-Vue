@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Apply partial result function",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions using the partial result function:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) How many people pay a patronage contribution of 100.00?",
+              "correctAnswer": "184"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "b) What is the total amount of all patrons who pay 500.00?",
+              "correctAnswer": "CHF 23 000.00"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "c) Which function could you have used to answer this question?",
+              "correctAnswer": "MIN(G6:G466)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Heading",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions using the partial result function:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "d) When did the last member become a patron (year)?",
+              "correctAnswer": "2010"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "e) When did the first member become a patron?",
+              "correctAnswer": "1960"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "f) How many patrons have been members since 1997 and pay a patronage contribution of CHF 100.00?",
+              "correctAnswer": "34"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

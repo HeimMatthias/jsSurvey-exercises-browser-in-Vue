@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Look up the following terms and make a note of their meaning.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Nationalistic:",
+              "isRequired": true,
+              "correctAnswer": "Someone who is nationalistic loves their homeland or their fatherland.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Tags:",
+              "isRequired": true,
+              "correctAnswer": "In graffiti language, a tag is the name of the sprayer (usually a pseudonym is chosen).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Epicenter:",
+              "isRequired": true,
+              "correctAnswer": "The epicenter is basically the point on the earth's surface that is exactly above the source of an earthquake. In the context of the texts, this means that New York was the place from which graffiti art became famous.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Publication:",
+              "isRequired": true,
+              "correctAnswer": "A publication is the release of a work.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Popular: ",
+              "isRequired": true,
+              "correctAnswer": "Popular is something that is known to the masses.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Art historical:",
+              "isRequired": true,
+              "correctAnswer": "Art history is the history of the development and epochs of the visual arts.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Boom: ",
+              "isRequired": true,
+              "correctAnswer": "Something that experiences a boom blossoms and spreads.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Commercialization:",
+              "isRequired": true,
+              "correctAnswer": "Certain things (such as graffiti art) are increasingly being turned into a business.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

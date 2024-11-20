@@ -1,0 +1,261 @@
+{
+  "pages": [
+    {
+      "name": "Fragen zu Ihrem Konsumverhalten1",
+      "title": "Questions about your consumer behavior",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions in the category \"Handling money\".",
+          "elements": [
+            {
+              "name": "Frage1",
+              "type": "radiogroup",
+              "title": "Do you divide your money monthly?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage2",
+              "type": "radiogroup",
+              "title": "Are you borrowing money?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage3",
+              "type": "radiogroup",
+              "title": "Are you saving money for major purchases?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage4",
+              "type": "radiogroup",
+              "title": "How often is your salary gone before the new one arrives?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage5",
+              "type": "radiogroup",
+              "title": "How often do you check your account balance?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage6",
+              "type": "radiogroup",
+              "title": "Do you buy things that are too expensive for your budget?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fragen zu Ihrem Konsumverhalten2",
+      "title": "Questions about your consumer behavior",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the questions in the \"Product selection\" category.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Are branded products important to you?",
+              "choices": [
+                "very",
+                "pretty",
+                "goes like this",
+                "no"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Do you prefer cheap goods to quality products?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Do you like fast food?",
+              "choices": [
+                "very",
+                "pretty",
+                "goes like this",
+                "no"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Do you pay attention to sustainable and fair products?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Do you buy things that you hardly ever use later?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "How much money do you spend on going out?",
+              "choices": [
+                "very much",
+                "much",
+                "rather little",
+                "very little"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fragen zu Ihrem Konsumverhalten3",
+      "title": "Questions about your consumer behavior",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the questions in the category \"Shopping behavior\".",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "How often do you go shopping?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "How often do you shop online?",
+              "choices": [
+                "very often",
+                "frequently",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "How often do you shop spontaneously?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "Do you compare products before you buy them?",
+              "choices": [
+                "always",
+                "mostly",
+                "occasionally",
+                "never"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

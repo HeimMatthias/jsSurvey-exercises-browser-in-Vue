@@ -1,0 +1,18 @@
+#app > * {
+  margin: 0.5em;
+  white-space: nowrap;
+}
+option.modified {
+  background-color: lightblue;
+}
+footer img {
+  width: 5rem;
+  float: left;
+  margin-right: 1.5em;
+}
+footer p {
+  line-height: 1em;
+}
+#app {
+  font-family: sans-serif;
+}

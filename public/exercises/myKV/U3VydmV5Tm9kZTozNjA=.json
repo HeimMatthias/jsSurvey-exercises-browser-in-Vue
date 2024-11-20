@@ -1,0 +1,113 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Forms of questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What forms of questions are used here?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Obtaining and passing on information",
+              "isRequired": true,
+              "correctAnswer": "Information",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Accepting and delegating tasks",
+              "isRequired": true,
+              "correctAnswer": "Information",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Preparing and making decisions",
+              "isRequired": true,
+              "correctAnswer": "Decision",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Working out differences and emphasizing commonalities",
+              "isRequired": true,
+              "correctAnswer": "Structuring",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Discussing the past and addressing the future",
+              "isRequired": true,
+              "correctAnswer": "Reflection, structuring",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Forms of questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What forms of questions are used here?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Reinforcing other people's positions",
+              "isRequired": true,
+              "correctAnswer": "Structuring",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Questioning a relationship",
+              "isRequired": true,
+              "correctAnswer": "Reflection, relationship",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Obtaining feedback",
+              "isRequired": true,
+              "correctAnswer": "Reflection",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "De-escalating tensions",
+              "isRequired": true,
+              "correctAnswer": "Reflection",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

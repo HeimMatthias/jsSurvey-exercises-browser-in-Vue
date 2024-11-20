@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Konkordanz-System1",
+      "title": "Concordance system",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Put a cross next to those decisions that would almost certainly result in a referendum or a vote. ",
+              "choices": [
+                "The army is to be halved.",
+                "It should be possible to exchange old banknotes for an unlimited period of time. ",
+                "The minimum Internet speed is to be increased slightly.",
+                "Everyone should pay 100% of their own medical and hospital costs.",
+                "All drugs are to be legalized (including for minors).",
+                " Courses for dog owners should no longer be compulsory. ",
+                "Social insurance is to be largely abolished.",
+                "The fungicide (fungicidal agent) chlorothalonin is to be banned.",
+                "The entire public space is to be under video surveillance.",
+                "The trade agreements with the EU are to be terminated.",
+                "Cancer cases are to be recorded in a national register.",
+                "Women's suffrage is to be abolished.",
+                "All state-owned companies are to be privatized.",
+                "Immigration is to be halved.",
+                "Cars running on gasoline and diesel are to be banned."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The army is to be halved.",
+                "All drugs are to be legalized (including for minors).",
+                "Social insurance is to be largely abolished.",
+                "The entire public space is to be under video surveillance.",
+                "The trade agreements with the EU are to be terminated.",
+                "Women's suffrage is to be abolished.",
+                "All state-owned companies are to be privatized.",
+                "Immigration is to be halved."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Konkordanz-System2",
+      "title": "Concordance system",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Note down what the decisions you have ticked have in common: ",
+              "isRequired": true,
+              "correctAnswer": "They are all either on the far left or the far right politically, and they entail major changes.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Using the terms compromise, balance of interests and political center, explain why decisions made by our concordance government are usually accepted by the people and parliament, even if the left and right parties are not (entirely) satisfied with them: ",
+              "isRequired": true,
+              "correctAnswer": "Several parties are represented in a concordance government, which is why a compromise or balance of interests must always be sought when making decisions. Because both left-wing and right-wing parties are represented in our government alongside a centrist party, the compromise therefore lies in the political center.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

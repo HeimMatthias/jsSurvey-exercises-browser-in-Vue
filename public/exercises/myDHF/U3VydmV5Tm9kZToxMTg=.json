@@ -1,0 +1,178 @@
+{
+  "pages": [
+    {
+      "name": "Preisstufen in der Verkaufskalkulation",
+      "title": "Price levels in the sales calculation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Put the price levels of the sales calculation in the correct order.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Gross purchase price\n+/-",
+              "choices": [
+                "- Cash discount",
+                "- Discount",
+                "+ Net profit",
+                "+ purchase costs",
+                "+ overheads"
+              ],
+              "isRequired": true,
+              "correctAnswer": "- Discount",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "=",
+              "choices": [
+                "Cost price",
+                "Invoice amount",
+                "Selling price",
+                "Cost price",
+                "Net purchase price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Invoice amount",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "+/–",
+              "choices": [
+                "- Cash discount",
+                "- Discount",
+                "+ Net profit",
+                "+ purchase costs",
+                "+ overheads"
+              ],
+              "isRequired": true,
+              "correctAnswer": "- Cash discount",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "=",
+              "choices": [
+                "Cost price",
+                "Invoice amount",
+                "Selling price",
+                "Cost price",
+                "Net purchase price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Net purchase price",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "+/–",
+              "choices": [
+                "- Cash discount",
+                "- Discount",
+                "+ Net profit",
+                "+ purchase costs",
+                "+ overheads"
+              ],
+              "isRequired": true,
+              "correctAnswer": "+ purchase costs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "=",
+              "choices": [
+                "Cost price",
+                "Invoice amount",
+                "Selling price",
+                "Cost price",
+                "Net purchase price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cost price",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "+/–",
+              "choices": [
+                "- Cash discount",
+                "- Discount",
+                "+ Net profit",
+                "+ purchase costs",
+                "+ overheads"
+              ],
+              "isRequired": true,
+              "correctAnswer": "+ overheads",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "=",
+              "choices": [
+                "Cost price",
+                "Invoice amount",
+                "Selling price",
+                "Cost price",
+                "Net purchase price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cost price",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "+/–",
+              "choices": [
+                "- Cash discount",
+                "- Discount",
+                "+ Net profit",
+                "+ purchase costs",
+                "+ overheads"
+              ],
+              "isRequired": true,
+              "correctAnswer": "+ Net profit",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "=",
+              "choices": [
+                "Cost price",
+                "Invoice amount",
+                "Selling price",
+                "Cost price",
+                "Net purchase price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Selling price",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

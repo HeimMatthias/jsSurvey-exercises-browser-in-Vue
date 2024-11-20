@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Furniture insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "In the case of furniture insurance, the agreed sum insured is significantly lower than the effective replacement value. What is this situation called?",
+              "choices": [
+                "Premium",
+                "Waiting period",
+                "Overinsurance",
+                "Underinsurance "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Underinsurance ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

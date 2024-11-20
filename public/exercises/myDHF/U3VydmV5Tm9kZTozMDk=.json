@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Alternative offers and replacement items ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Sind die folgenden Aussagen zu den Alternativangeboten und Ersatzartikeln richtig oder falsch?",
+              "rows": [
+                "If the desired item is not available, the customer leaves the store dissatisfied either way. ",
+                "The alternative offer can also have advantages for customers, e.g. from a price perspective. ",
+                "The following statement should be avoided: \"Our own brand batteries may not last as long as Duracell batteries, but they're not bad either and they're much cheaper.\" ",
+                "Customers should be encouraged to order the desired item themselves on the Internet. This is the best solution for everyone involved. ",
+                "Thanks to the cooperation between the stores, the desired item is quickly available when the store request is made. ",
+                "In order not to lose customers, no reference should be made to competitors who may have the desired item available immediately. "
+              ],
+              "type": "matrix",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Das Alternativangebot kann für die Kundschaft auch Vorteile haben, z.B. aus preislicher Sicht. ": "Correct",
+                "Ist der gewünschte Artikel nicht verfügbar, verlässt die Kundin oder der Kunde den Laden so oder so unzufrieden. ": "Wrong",
+                "Bei der Filialanfrage wird dank der Zusammenarbeit zwischen den Filialen eine rasche Verfügbarkeit des gewünschten Artikels ermöglicht. ": "Correct",
+                "Man sollte der Kundschaft nahelegen, den gewünschten Artikel selbst im Internet zu bestellen. Dies ist für alle Beteiligten die beste Lösung. ": "Wrong",
+                "Um die Kundschaft nicht zu verlieren, soll keinesfalls auf Mitbewerber hingewiesen werden, die den gewünschten Artikel womöglich sofort verfügbar haben. ": "Wrong",
+                "Die folgende Aussage gilt es zu vermeiden: «Die Batterien unserer Eigenmarke sind zwar nicht so langlebig wie jene von Duracell, aber sie sind auch nicht schlecht und deutlich günstiger.» ": "Correct"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

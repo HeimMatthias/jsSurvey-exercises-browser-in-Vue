@@ -1,0 +1,113 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Case 1",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Mirco has already taken 4 weeks of vacation this year. Fortunately, according to his individual employment contract (EAV), he is entitled to 5 weeks of vacation. He would now like to take these. When he tells his boss about this, she frowns and says that, according to the Swiss Code of Obligations, he is only entitled to the 5th week of vacation until the age of 20 (he is already 21). However, there is no mention of this restriction in his employment contract. Which regulation applies now?",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Read the article on this in the CO (Art. 329a para. 1 CO) and give precise reasons for your decision by referring to the CO article and using technical terms.",
+              "isRequired": true,
+              "correctAnswer": "Art. 329a para. 1 CO is a relatively mandatory legal provision. The word \"at least\" indicates this. Therefore, the provision in the IEC can only be amended in Mirco's favor. Five weeks of vacation were agreed there. The provision in the IEC therefore takes precedence over the provision in the CO.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Case 2",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Laura works as an EFZ carpenter for a large construction company. She currently works 2 hours away from where she lives and works. She organizes her own lunch, as it is not possible for the company to provide meals. Until now, lunch was paid for by the company at a flat rate of CHF 20. Now this is to be reduced to CHF 18. Laura doesn't think that's enough.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A7b_Spesenentschaedigung.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Read the national collective labor agreement (CLA) for the construction industry above to find out which regulations apply in the industry in this regard and translate the legal provision from the CLA into an if-then formulation.",
+              "isRequired": true,
+              "defaultValue": "Wenn Arbeitnehmende … beziehungsweise Arbeitnehmende in der Mittagspause nicht nach Hause zurückkehren können, dann …",
+              "correctAnswer": "If employees are transferred to external work locations and the company cannot offer any catering facilities or employees cannot return home during their lunch break, they shall be reimbursed for their ordinary expenses at a rate of at least CHF 16.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Use the if-then formulation to check whether Laura's new expense allowance is legitimate: Is the if part (condition) fulfilled?",
+              "isRequired": true,
+              "correctAnswer": "Yes, Laura works away from home, can't go home at lunchtime and the company can't provide any meals.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Is the then part (consequence) applied correctly?",
+              "isRequired": true,
+              "correctAnswer": "Yes, Laura's expense allowance for lunch is more generous than prescribed in the CEC, even with the new regulation, and is therefore legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Name der Übung1",
+      "title": "Case 3",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Lorenzo is 19 years old and will complete his apprenticeship as an EFZ hairdresser in a few months. He is exceptionally good at his craft (as confirmed by his references) and has achieved top marks at school. He has now been invited to a job interview. Although the company in Lucerne seems very modern and appealing, he would have hoped for a higher salary. He thinks CHF 3400 gross is too low for a full workload (42 hours/week).",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Use lohnrechner.ch to calculate the usual wages for Lorenzo's job profile in the Central Switzerland region. To do this, use all the information available about Lorenzo.",
+              "isRequired": true,
+              "correctAnswer": " CHF 3600.- to CHF 4340.- gross.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Give Lorenzo some advice for the salary negotiation meeting with the company.",
+              "isRequired": true,
+              "correctAnswer": "Lorenzo should receive a gross salary of at least CHF 3900 based on his previous performance and the usual industry wages in the region. He may well point this out during the negotiations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Determine what salary you can expect in your sector/region after successfully completing your vocational training and compare your results in class.",
+              "isRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

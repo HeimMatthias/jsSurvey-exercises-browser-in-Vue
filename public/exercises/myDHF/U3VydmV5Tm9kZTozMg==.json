@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Pricing",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the different types of sales prices? ",
+              "isRequired": true,
+              "correctAnswer": "A distinction is made between calculated, demand-oriented and competition-oriented sales prices.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is predatory pricing and why is it used in retail businesses? ",
+              "isRequired": true,
+              "correctAnswer": "Predatory pricing is often below cost price. Retail businesses try to poach some of their customers or eliminate their competitors.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Pricing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the point of a decoy price? ",
+              "isRequired": true,
+              "correctAnswer": "Long-term low prices on selected items are intended to lure customers into the store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why do retailers use psychological pricing? ",
+              "isRequired": true,
+              "correctAnswer": "Items with psychological prices appear to be \"optically\" cheaper than those with straight prices.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

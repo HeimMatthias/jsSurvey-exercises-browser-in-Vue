@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "name": "Diktatur oder Demokratie?",
+      "title": "Dictatorship or democracy?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Rufen Sie Ihr Vorwissen in Bezug auf Diktatur/Demokratie in der folgenden Übung ab, indem Sie die entsprechende Kategorie ankreuzen.",
+              "rows": [
+                "There are no independent courts.",
+                "Power is distributed among three instances.",
+                "Basic and human rights are being disregarded.",
+                "Fundamental and human rights are protected.",
+                "Private individuals and journalists are free to express their opinions.",
+                "People are punished or arrested without justification.",
+                "The population can vote by secret ballot.",
+                "Court proceedings are unfair or do not take place at all.",
+                "One or a few people have all the power.",
+                "Parliament is elected on a regular basis.",
+                "No punishment without law; clear and unambiguous laws.",
+                "There are no elections or they are rigged.",
+                "People are not allowed to express their opinions freely.",
+                "Anyone who is charged has the right to an independent court and to a defense."
+              ],
+              "type": "matrix",
+              "title": "Recall your previous knowledge of dictatorship/democracy in the following exercise by ticking the appropriate category.",
+              "columns": [
+                {
+                  "text": "Democracy",
+                  "value": "Democracy"
+                },
+                {
+                  "text": "Dictatorship",
+                  "value": "Dictatorship"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Es gibt keine unabhängigen Gerichte.": "Dictatorship",
+                "Die Macht wird auf drei Instanzen verteilt.": "Democracy",
+                "Grund- und Menschenrechte werden missachtet.": "Dictatorship",
+                "Das Parlament wird regelmässig neu gewählt.": "Democracy",
+                "Es finden keine oder manipulierte Wahlen statt.": "Dictatorship",
+                "Die Grund- und Menschenrechte werden geschützt.": "Democracy",
+                "Eine oder wenige Personen haben die ganze Macht.": "Dictatorship",
+                "Die Bevölkerung kann geheim wählen und abstimmen.": "Democracy",
+                "Die Menschen dürfe ihre Meinung nicht frei äussern.": "Diktatur",
+                "Menschen werden unbegründet bestraft oder verhaftet.": "Dictatorship",
+                "Die Menschen dürfen ihre Meinung nicht frei äussern.": "Dictatorship",
+                "Keine Strafe ohne Gesetz; klare und eindeutige Gesetze.": "Democracy",
+                "Private und Journalisten dürfen ihre Meinung frei äussern.": "Democracy",
+                "Gerichtsprozesse laufen unfair ab oder finden gar nicht erst statt.": "Dictatorship",
+                "Wer angeklagt wird, hat Anspruch auf ein unabhängiges Gericht und auf eine Verteidigung.": "Democracy"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

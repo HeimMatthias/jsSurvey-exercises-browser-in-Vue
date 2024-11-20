@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Silvan buys a book",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Silvan finished a crime novel a few days ago and is now looking for a new book in a similar vein. He enters a bookshop and is overwhelmed by the extensive selection of books. The sales assistant, who seems stressed and disinterested, does not greet Silvan and is busy at the information desk with his smartphone. Silvan has to point out to the sales assistant that he needs help, but even after he has expressed his request for recommendations, the sales assistant only gives short answers that don't help Silvan and seems disinterested in Silvan's needs. Silvan finally decides on a crime novel, which is displayed on a large book table, but leaves the store without a good feeling.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Do you see Silvan's experience as a positive or negative customer journey? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Silvan buys a book",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are your thoughts on customer loyalty? ",
+              "isRequired": true,
+              "correctAnswer": "Silvan doesn't feel welcome or well looked after. He has the feeling that the salesperson doesn't have time for him. This can lead to the customer not visiting the store again and not recommending it to friends and family. Overall, a poor start to a customer relationship can affect the customer's trust and loyalty and have a negative impact on the company's image. This example shows what a poor start to a customer relationship can look like due to disinterest and poor customer service. \nStaff training and motivation are crucial: you should be aware that you should be friendly, attentive and helpful at all times to provide a pleasant shopping experience for customers. \nIn summary, you should create a pleasant atmosphere to increase customer loyalty. This includes, for example, attractive furnishings, good lighting, a quiet environment and pleasant music.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What could the employee do to give Silvan a pleasant shopping experience?",
+              "isRequired": true,
+              "correctAnswer": "He should greet Silvan as soon as he enters the store and make him feel welcome. / The employee should immediately put down their smartphone and focus their full attention on Silvan. / When Silvan asks for recommendations, the employee should listen carefully and try to understand his needs and interests. The employee could also actively make suggestions and show Silvan different books that might match his interests. This will ensure that the most suitable and personalized recommendation can be made. / The employee could briefly research which books by the author they have already read are still available in the store. / He could encourage Silvan in his decision if the employee also enjoys reading crime novels. This increases the likelihood that Silvan will visit the store again and tell other potential customers about his positive experience.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

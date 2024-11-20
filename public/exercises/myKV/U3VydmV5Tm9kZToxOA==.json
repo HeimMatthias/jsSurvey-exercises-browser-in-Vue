@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What is meant by idiolect? ",
+              "isRequired": true,
+              "correctAnswer": "your own language/personal language",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the second part of Watzlawick's sentence? Add: You cannot ...",
+              "isRequired": true,
+              "correctAnswer": "... do not communicate. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What are two important characteristics of constructive communication? ",
+              "isRequired": true,
+              "correctAnswer": "Respond to others and take them seriously ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What is meant by de-escalation? ",
+              "isRequired": true,
+              "correctAnswer": "the defusing of a conflict",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How does oral communication work in terms of time? ",
+              "isRequired": true,
+              "correctAnswer": "simultaneous/synchronous",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "How does written communication work in terms of time? ",
+              "isRequired": true,
+              "correctAnswer": "time-shifted/asynchronous",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "How do constructive forms of language work? ",
+              "isRequired": true,
+              "correctAnswer": "supportive, winning, de-escalating",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "How do destructive forms of language work? ",
+              "isRequired": true,
+              "correctAnswer": "obstructive, dismissive, escalating",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

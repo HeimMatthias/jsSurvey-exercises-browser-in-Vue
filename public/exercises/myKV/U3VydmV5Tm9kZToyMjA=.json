@@ -1,0 +1,185 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Which term is being described?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Party entitled to a benefit",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Creditor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Legal relationship between two or more persons under which one party has a right to performance and the other party has an obligation to perform",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Right to a benefit",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Demand",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Obligation to perform",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Guilt",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which term is being described?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Party obliged to perform",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Debtor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Involuntary reduction in assets",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Damage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Reproachable conduct: Intent or negligence",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Fault",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "All legal relationships between a creditor and a debtor",
+              "choices": [
+                "Demand",
+                "Obligation",
+                "Damage",
+                "Creditor",
+                "Fault",
+                "Debtor",
+                "Obligation",
+                "Guilt"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Obligation",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

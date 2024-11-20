@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "name": "Innere Schönheit",
+      "title": "Inner beauty",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Make a note of which facets of your \"inner beauty\" are particularly important to you:",
+              "isRequired": true,
+              "correctAnswer": "Individual solutions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Together, find ways to improve your \"inner beauty\" and write down your thoughts:",
+              "isRequired": true,
+              "correctAnswer": "Empathy, listening, showing interest and compassion, being able to tell interesting stories, living humor, education and intelligence, generosity, tolerance, spreading a good mood, radiating calm and security, helpfulness, satisfaction, success (in work and relationships), health, reliability, patience, talent as a speaker, having ideas/fantasy/visions, originality, honesty and openness, ...",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

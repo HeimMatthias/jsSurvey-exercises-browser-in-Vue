@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Folgen der Textilproduktion",
+      "title": "Consequences of textile production",
+      "elements": [
+        {
+          "name": "Folgen der Textilproduktion1",
+          "type": "panel",
+          "title": "Add the consequences for humans in keywords.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Consequences for humans when using pesticides:",
+              "isRequired": true,
+              "correctAnswer": "damage to health, deaths",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "Consequences for people with poor working conditions:",
+              "isRequired": true,
+              "correctAnswer": "No employment contracts, human rights violations, low wages",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Consequences for humans during production:",
+              "isRequired": true,
+              "correctAnswer": "creates jobs and income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "text",
+              "title": "Further episodes:",
+              "isRequired": true,
+              "correctAnswer": "Trade union ban",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Folgen der Textilproduktion2",
+      "title": "Consequences of textile production",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Add the consequences for the environment in keywords.",
+          "elements": [
+            {
+              "name": "Frage 5",
+              "type": "text",
+              "title": "Environmental consequences of pesticide use:",
+              "isRequired": true,
+              "correctAnswer": "Pollution of entire areas of land and groundwater",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "text",
+              "title": "Consequences for the environment of dried out and salinized soils:",
+              "isRequired": true,
+              "correctAnswer": "barren land",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "text",
+              "title": "Consequences for the environment with extreme water consumption:",
+              "isRequired": true,
+              "correctAnswer": "Water shortage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

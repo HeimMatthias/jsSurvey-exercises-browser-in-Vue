@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What are the two main functions of pronouns?",
+              "isRequired": true,
+              "correctAnswer": "They appear as companions or substitutes for the noun.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "What kind of pronouns do words like \"my\", \"your\", \"our\" belong to?",
+              "isRequired": true,
+              "correctAnswer": "Possessive pronoun",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What type of pronoun do the words \"der\", \"die\", \"das\" belong to?",
+              "isRequired": true,
+              "correctAnswer": "specific article",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Which pronouns are used in the following sentence: We have looked at the topic again.",
+              "isRequired": true,
+              "correctAnswer": "Personal pronouns, reflexive pronouns, definite article",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Which pronouns are used in the following sentence: Unfortunately, nobody could have foreseen this sharp price increase.",
+              "isRequired": true,
+              "correctAnswer": "Demonstrative pronouns, indefinite pronouns",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What should I look out for when using the polite form of address?",
+              "isRequired": true,
+              "correctAnswer": "They must be capitalized. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What does the relative pronoun refer to in the following sentence: Our team also won its second game, which of course makes us very happy.",
+              "isRequired": true,
+              "correctAnswer": "to win the second game",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Which relative pronoun is used in the dialect for all three genders?",
+              "isRequired": true,
+              "correctAnswer": "where",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

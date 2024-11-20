@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Claim",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "You receive a fine for exceeding the speed limit and your driver's license is revoked. You do not agree with this at all.",
+              "isRequired": true,
+              "correctAnswer": "Legal expenses insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Your friend is inattentive and hits the car in front with her car.",
+              "isRequired": true,
+              "correctAnswer": "Liability insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Your car is badly damaged after a heavy storm with wind and hail.",
+              "isRequired": true,
+              "correctAnswer": "Partial and fully comprehensive insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "On the very first day, Seraina overlooks a small garden wall and smashes the fender of her new car.",
+              "isRequired": true,
+              "correctAnswer": "Fully comprehensive insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "In a traffic accident, 15-year-old Janis, whom you were taking in your car, is seriously injured.",
+              "isRequired": true,
+              "correctAnswer": "Passenger insurance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

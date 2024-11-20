@@ -1,0 +1,243 @@
+{
+  "pages": [
+    {
+      "name": "Übung 1",
+      "title": "Type of capacity to act",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Think about the type of capacity to act in the following examples and give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "To his parents' horror, an 18-year-old leases a fast and expensive car.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The 18-year-old is of legal age (Art. 14 ZGB). He can assess the consequences of the lease and is therefore also capable of judgment (Art. 16 ZGB). He is therefore capable of acting (Art. 13 ZGB) and the contract is valid.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "A 17-year-old girl doesn't want to be told what to do by her parents any more, so she rents her own apartment.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "A 17-year-old can assess the consequences of such a tenancy agreement. She is therefore capable of judgment. However, as she has not yet reached the age of 18, she is not of legal age. She can therefore only enter into an obligation with the consent of her parents (Art. 19 Para. 1 ZGB). Without this consent, the tenancy agreement is not valid.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Type of capacity to act",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Think about the type of capacity to act in the following examples and give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "radiogroup",
+              "title": "An 8-year-old buys a comic book at the newsstand.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question22",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "An 8-year-old can judge the purchase of a comic book. He is therefore capable of judgment in this matter. Because he is not of legal age, he generally requires the consent of his parents to conclude a contract. However, this consent is exceptionally not required for minor matters of daily life (Art. 19 para. 2 ZGB). The purchase of the comic book is therefore valid even without parental consent.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "An 11-year-old receives a mountain bike as a gift from his godfather.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Although not yet of legal age, the 11-year-old can accept the gift: In this case, parental consent is not required as an exception (Art. 19 para. 2 ZGB and Art. 241 OR).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Type of capacity to act",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Think about the type of capacity to act in the following examples and give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Ginzia, 16 years old, buys a new prepaid cell phone with her first apprentice wage against her father's wishes.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Ginzia can dispose of her own work purchases herself (Art. 323 para. 1 ZGB). As she does not take out a subscription, she does not enter into any further obligations with the purchase of the cell phone. The purchase contract is therefore valid.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "After the third beer, a 20-year-old borrows money from his colleague so that he can pay the bill.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Although the ability to judge is impaired by alcohol consumption, borrowing a small amount of money is a simple transaction. Even after the third beer, a 20-year-old can still assess this transaction. He is therefore still capable of judgment and action.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Type of capacity to act",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Think about the type of capacity to act in the following examples and give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Thomas suffers from paranoid schizophrenia and has therefore been placed under comprehensive guardianship. Because he is convinced that he will not survive the next day, he donates his entire fortune to a friend.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full incapacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Thomas suffers from a mental disorder and is therefore not capable of judgment. He is incapable of acting (Art. 17 ZGB) and the gift is therefore null and void.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Two 13-year-olds are playing with a homemade bow and arrow. Because one of them is not paying attention, he injures the other in the eye with a shot.",
+              "choices": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act",
+                "Tortious capacity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Tortious capacity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "A 13-year-old can assess the possible consequences of careless handling of a bow and arrow. He is capable of judgment and is liable. The age of majority is not a prerequisite (Art. 19 Para. 3 ZGB).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

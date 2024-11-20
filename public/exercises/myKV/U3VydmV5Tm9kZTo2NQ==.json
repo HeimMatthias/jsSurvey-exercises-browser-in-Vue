@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Visualizations help to make connections visible. What are the advantages for learning? ",
+              "isRequired": true,
+              "correctAnswer": "Understanding and retention is promoted.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What distinguishes icons from signs and symbols? ",
+              "isRequired": true,
+              "correctAnswer": "Icons have a direct relationship to what they represent.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which form of visualization is suitable for the chronological representation of events on a timeline?",
+              "isRequired": true,
+              "correctAnswer": "the timeline",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Which diagram form is suitable for depicting the people and functions of a company?",
+              "isRequired": true,
+              "correctAnswer": "the organization chart",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Which form of visualization is the Vision Board best compared to?",
+              "isRequired": true,
+              "correctAnswer": "with a collage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the best way to start developing a vision board? ",
+              "isRequired": true,
+              "correctAnswer": "with a brainstorming session",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

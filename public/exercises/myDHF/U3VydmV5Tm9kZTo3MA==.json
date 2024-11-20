@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "According to the explanatory video, what is crucial for a company to be able to pay its employees' wages? Write down your answer in one sentence.",
+              "isRequired": true,
+              "correctAnswer": "Wages can only be paid if a company generates added value.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "When does the joinery in the video generate added value?",
+              "isRequired": true,
+              "correctAnswer": "If the joinery finds people who are prepared to pay more for the finished chair than for the wood, nails, electricity and all other preliminary work, it generates added value.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How is the added value calculated in the carpentry example?",
+              "isRequired": true,
+              "correctAnswer": "Added value = sales price of the chair minus the cost of all preliminary work",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "In the example of the joinery, to whom is the added value generated distributed and why?",
+              "isRequired": true,
+              "correctAnswer": "Employees of the joinery, owners of the joinery and the state. Everyone involved has made a direct or indirect contribution to value creation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Choose a product/service from your range and show its value chain in as much detail as possible.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

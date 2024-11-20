@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Vocational training",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide what is correct.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "In Switzerland, most young people opt for ...",
+              "choices": [
+                "an apprenticeship.",
+                "for the grammar school."
+              ],
+              "isRequired": true,
+              "correctAnswer": "an apprenticeship.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "At world championships, young professionals from Switzerland usually achieve ...",
+              "choices": [
+                "mediocre results.",
+                "very good results. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "very good results. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The apprenticeships are strongly geared towards ...",
+              "choices": [
+                "the theory",
+                "the practice"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the practice",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Vocational training",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide what is correct.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Since there are three places of learning, one could speak of a ... vocational training system.",
+              "choices": [
+                "dual",
+                "trial"
+              ],
+              "isRequired": true,
+              "correctAnswer": "trial",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "The third place of learning is called ...",
+              "choices": [
+                "inter-company courses.",
+                "interdisciplinary courses."
+              ],
+              "isRequired": true,
+              "correctAnswer": "inter-company courses.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "An important role in vocational training is played by ...",
+              "choices": [
+                "the professional associations.",
+                "the careers advice centers."
+              ],
+              "isRequired": true,
+              "correctAnswer": "the professional associations.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Vocational training",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide what is correct.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Important legal foundations for vocational training are ...",
+              "choices": [
+                "the BV and the OR.",
+                "the timetables."
+              ],
+              "isRequired": true,
+              "correctAnswer": "the BV and the OR.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "EFZ is the abbreviation for ...",
+              "choices": [
+                "Federal Certificate of Competence. ",
+                "Federal certificate of competence."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Federal Certificate of Competence. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

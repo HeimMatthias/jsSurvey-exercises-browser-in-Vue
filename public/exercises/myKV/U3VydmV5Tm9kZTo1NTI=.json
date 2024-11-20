@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Exigence concernant l'histoire",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "What are the requirements to be met in order to create a unique, non-interchangeable story that involves the listeners and stimulates their intrinsic motivation?",
+              "choices": [
+                "L'histoire est le fondement de l'identité.",
+                "The history of the company is presented in the form of an axe of time. ",
+                "L'histoire reflète l'A.D.N. de l'entreprise.",
+                "Its history makes the company and its services tangible and lively.",
+                "History creates a positioning that attracts attention and is distinct from the competition.",
+                "L'histoire doit être la plus concrète possible, sans grandes émotions.",
+                "History shows the auditors and listeners who, in the ideal case, make a positive purchase decision.",
+                "L'histoire contient le plus de détails possible afin de transmettre beaucoup d'informations."
+              ],
+              "correctAnswer": [
+                "L'histoire est le fondement de l'identité.",
+                "L'histoire reflète l'A.D.N. de l'entreprise.",
+                "Its history makes the company and its services tangible and lively.",
+                "History creates a positioning that attracts attention and is distinct from the competition.",
+                "History shows the auditors and listeners who, in the ideal case, make a positive purchase decision."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is an access point? Where is it used?",
+              "isRequired": true,
+              "correctAnswer": "A station (device) with a WLAN transmitter for the wireless connection of devices.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Why do you need an IP address?",
+              "isRequired": true,
+              "correctAnswer": "To identify the \"delivery address\" (router, PC).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is a router? Do you even need one?",
+              "isRequired": true,
+              "correctAnswer": "Yes, you need it, it establishes the connection to the Internet (to the Internet service provider).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Describe the difference between a proxy server and a firewall.",
+              "isRequired": true,
+              "correctAnswer": "Proxy: Protection from the inside to the outside, restrictions on what can be searched for on the Internet. Firewall: Protection from the outside in, restrictions on what can be \"delivered\" to the company network.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

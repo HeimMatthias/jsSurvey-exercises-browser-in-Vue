@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Exercise title",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Description is optional.",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                {
+                  "text": "Responsible persons",
+                  "value": "Little experience"
+                },
+                {
+                  "text": "Work steps",
+                  "value": "Major consequences"
+                }
+              ],
+              "type": "matrixdropdown",
+              "title": "Select the right options:",
+              "choices": [
+                "Item 1"
+              ],
+              "columns": [
+                {
+                  "name": "Flussdiagramm",
+                  "title": "Flowchart",
+                  "choices": [
+                    "Flowchart"
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Balkendiagramm",
+                  "title": "Bar chart",
+                  "choices": [
+                    "Bar chart"
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                }
+              ],
+              "cellType": "checkbox",
+              "isRequired": true,
+              "correctAnswer": {
+                "Grosse Folgen": {
+                  "Balkendiagramm": [
+                    "Bar chart"
+                  ]
+                },
+                "Geringe Erfahrung": {
+                  "Flussdiagramm": [
+                    "Flowchart"
+                  ],
+                  "Balkendiagramm": [
+                    "Bar chart"
+                  ]
+                }
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Übung2",
+      "title": "Exercise title",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Description is optional.",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Competencies",
+                "Resources"
+              ],
+              "type": "matrixdropdown",
+              "title": "Select the right options:",
+              "choices": [
+                "Item 1"
+              ],
+              "columns": [
+                {
+                  "name": "Ablaufplan",
+                  "title": "Schedule",
+                  "choices": [
+                    "Schedule"
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Funktionen",
+                  "title": "Functions",
+                  "choices": [
+                    "Functions"
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                }
+              ],
+              "cellType": "checkbox",
+              "isRequired": true,
+              "correctAnswer": {
+                "Ressourcen": {
+                  "Funktionen": [
+                    "Functions"
+                  ]
+                },
+                "Kompetenzen": {
+                  "Funktionen": [
+                    "Functions"
+                  ]
+                }
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

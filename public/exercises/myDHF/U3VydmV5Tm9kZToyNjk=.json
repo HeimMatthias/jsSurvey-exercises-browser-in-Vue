@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Continued payment of wages",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Illness",
+                "Compulsory military service",
+                "Exercise of a public office",
+                "Pregnancy or birth",
+                "Visiting close relatives in the Balkans",
+                "Prevention at the airport due to strike",
+                "Accident"
+              ],
+              "type": "matrix",
+              "title": "If an employee is unable to work due to the following situations, the employer must continue to pay for a certain period of time. Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Unfall": "Correct",
+                "Krankheit": "Correct",
+                "Schwangerschaft oder Geburt": "Correct",
+                "Obligatorischer Militärdienst": "Correct",
+                "Besuch naher Verwandter im Balkan": "Wrong",
+                "Ausübung eines öffentlichen Amtes": "Correct",
+                "Verhinderung am Flughafen wegen Streik": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Continued payment of wages",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "From what period of employment are employees entitled to continued payment of wages in the event of illness in accordance with the Swiss Code of Obligations?",
+              "isRequired": true,
+              "correctAnswer": "More than 3 months",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "In this case, how long are they entitled to wages according to the Bern scale?",
+              "isRequired": true,
+              "correctAnswer": "Three weeks",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

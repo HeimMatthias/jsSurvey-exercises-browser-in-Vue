@@ -1,0 +1,301 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Account classes",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which account classes of the SME chart of accounts do the accounts listed belong to?",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "dropdown",
+              "title": "Revenue from goods",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "3. operating income from deliveries and services",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Wage expenditure",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "5. personnel expenses",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Administrative expenses",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Cash register",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1. active",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Machines",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1. active",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Account classes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which account classes of the SME chart of accounts do the accounts listed belong to?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Mortgage",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "2. liabilities",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Depreciation and amortization",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Direct tax expense",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "8. non-operating, extraordinary, one-off or off-period expenses and income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Securities",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1. active",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Account classes",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which account classes of the SME chart of accounts do the accounts listed belong to?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Real estate",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1. active",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Extraordinary income",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "8. non-operating, extraordinary, one-off or off-period expenses and income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "Maintenance and repairs",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "Income statement",
+              "choices": [
+                "1. active",
+                "2. liabilities",
+                "3. operating income from deliveries and services",
+                "4. cost of materials, merchandise, services and energy",
+                "5. personnel expenses",
+                "6. other operating expenses, depreciation, amortization and impairment losses and financial result",
+                "7. secondary operating profit",
+                "8. non-operating, extraordinary, one-off or off-period expenses and income",
+                "9. conclusion"
+              ],
+              "isRequired": true,
+              "correctAnswer": "9. conclusion",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Accounts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "In welche Hauptgruppen gehören die aufgeführten Konten?",
+              "rows": [
+                "Mortgages",
+                "Securities",
+                "Storage facility",
+                "Machines",
+                "Receivables L+L",
+                "Real estate"
+              ],
+              "type": "matrix",
+              "title": "Which main groups do the accounts listed belong to?",
+              "columns": [
+                "Current assets",
+                "Fixed assets",
+                "Debt capital",
+                "Equity capital"
+              ],
+              "correctAnswer": {
+                "Maschinen": "Fixed assets",
+                "Hypotheken": "Debt capital",
+                "Wertschriften": "Current assets",
+                "Liegenschaften": "Fixed assets",
+                "Forderungen L+L": "Current assets",
+                "Lagereinrichtung": "Fixed assets"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Accounts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Cash register",
+                "Equity capital",
+                "Liabilities L+L",
+                "IT systems",
+                "Bank debt",
+                "Post"
+              ],
+              "type": "matrix",
+              "title": "Which main groups do the accounts listed belong to?",
+              "columns": [
+                "Current assets",
+                "Fixed assets",
+                "Debt capital",
+                "Equity capital"
+              ],
+              "correctAnswer": {
+                "Post": "Current assets",
+                "Kasse": "Current assets",
+                "Bankschuld": "Debt capital",
+                "IT-Anlagen": "Fixed assets",
+                "Eigenkapital": "Equity capital",
+                "Verbindlichkeiten L+L": "Debt capital"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

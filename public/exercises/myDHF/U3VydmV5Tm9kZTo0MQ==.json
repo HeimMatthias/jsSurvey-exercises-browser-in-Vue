@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Kooperationsformen",
+      "title": "Forms of cooperation",
+      "elements": [
+        {
+          "name": "Anweisung",
+          "type": "panel",
+          "title": "Answer the questions about the different forms of cooperation. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are purchasing companies of independent retailers? ",
+              "isRequired": true,
+              "correctAnswer": "Associations that take over purchasing for independent retailers and thus achieve better price and delivery conditions. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you mean by authorized dealers in the context of vertical cooperation? ",
+              "isRequired": true,
+              "correctAnswer": "Authorized dealers make a commitment to a producer to exclusively manage a product range, to adhere to prices, discounts, delivery conditions, to carry out warranty work and possibly also to carry out repair work at fixed prices. In return, the producer supports the retailer with advertising and sales support, provides employees with the necessary specialist knowledge and advises the retailer on business management. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How does franchising work? Explain the concept in detail. ",
+              "isRequired": true,
+              "correctAnswer": "This is a collaboration between wholesaler and retailer or manufacturer and retailer. Franchising is similar to the authorized dealer system, but the franchisor also ensures that the store fittings, presentation of goods and product range fully comply with its own guidelines. The franchisee pays the franchisor a fee, but in return can benefit from the following advantages: Business concept and know-how; brand name and corporate design; exclusive distribution rights or license; advertising materials; market studies and experience figures; advice in all areas of business management. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "Pflichten1",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What obligations has the learner or the training company violated in the following cases?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Luisa doesn't go to work on Wednesday afternoons, but takes a day off.",
+              "isRequired": true,
+              "correctAnswer": "Duty to work",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Luisa skips vocational school.",
+              "isRequired": true,
+              "correctAnswer": "Obligation to attend vocational school/obligation to do everything possible to achieve the apprenticeship objective",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Ilian has not yet received his September salary on October 15.",
+              "isRequired": true,
+              "correctAnswer": "Obligation to pay wages",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Alena is being bullied by her work colleagues. Her vocational trainer doesn't want to do anything about it, even though Alena has asked her to.",
+              "isRequired": true,
+              "correctAnswer": "Duty to protect privacy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What obligations has the learner or the training company violated in the following cases?",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Cédric refuses to continue working for half an hour longer, even though his vocational trainer asks him to complete an urgent assignment today.",
+              "isRequired": true,
+              "correctAnswer": "Obligation to work overtime",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Cédric's vocational trainer demands that he skip vocational school to complete an urgent customer order.",
+              "isRequired": true,
+              "correctAnswer": "Obligation of the training company to release time for vocational school",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "The vocational trainer tells 18-year-old Luis that all employees in his company have four weeks' vacation.",
+              "isRequired": true,
+              "correctAnswer": "Obligation to grant employees up to the age of 20 five weeks' vacation ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Loris was out so late at the weekend that he can't concentrate on Monday and makes a mistake that costs his training company dearly.",
+              "isRequired": true,
+              "correctAnswer": "Duty of care and loyalty",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

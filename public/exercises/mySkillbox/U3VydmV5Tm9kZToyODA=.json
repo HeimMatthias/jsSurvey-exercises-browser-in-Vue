@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Zusammenarbeit Kantone",
+      "title": "Cooperation cantons",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Find out why there is closer economic cooperation between the cantons in Switzerland today than there is between the member states of the EU.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Mark the correct reason.",
+              "choices": [
+                "Because the core EU - unlike Switzerland - is not a complete monetary union.",
+                "Because the EU - unlike Switzerland - is not a complete economic union.",
+                "Because the UK has left the EU."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Because the EU - unlike Switzerland - is not a complete economic union.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zusammenarbeit Kantone2",
+      "title": "Cooperation cantons",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "The Swiss cantons use all forms of economic cooperation among themselves. However, Switzerland works less closely with the EU. How can you tell?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Mark the correct reason.",
+              "choices": [
+                {
+                  "text": "Switzerland has no access to the European free trade area.",
+                  "value": "Switzerland has no access to the European free trade area."
+                },
+                {
+                  "text": "Switzerland does not form a customs, currency and economic union with the EU.",
+                  "value": "Switzerland does not form a customs, currency and economic union with the EU."
+                },
+                {
+                  "text": "Switzerland only exports machines and watches to the EU.",
+                  "value": "Switzerland only exports machines and watches to the EU."
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Switzerland does not form a customs, currency and economic union with the EU.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

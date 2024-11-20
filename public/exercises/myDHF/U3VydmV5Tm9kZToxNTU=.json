@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Legal form",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are your motives for founding a company?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "a) a general partnership?",
+              "isRequired": true,
+              "correctAnswer": "This form of company focuses on the personal cooperation of the partners. This promotes the sense of responsibility and initiative of each partner. The division of labor (all partners - with the exception of the limited partner - are involved in the management), the easier procurement of capital compared to a sole proprietorship and the improved creditworthiness are advantageous, and the distribution of risk is also more favorable.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "b) a limited partnership?",
+              "isRequired": true,
+              "correctAnswer": "The limited partnership is an extended form of the general partnership and enables the additional admission of investors.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Legal form",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What are your motives for founding a company?",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "c) an AG?",
+              "isRequired": true,
+              "correctAnswer": "In the case of corporations, the focus is generally on financial participation (no shareholder involvement). The public limited company is particularly widespread; there are around 120,000 public limited companies in Switzerland. Reasons for popularity: \n- Raising capital: as several people can participate, it is easier to raise capital. \n- Liability: Liability is limited to the participation (no private liability), i.e. you only risk your invested capital. \n- Anonymity: The names of the partners are not published (in contrast to partnerships). \n- Succession regulation: The continued existence of the company is ensured by the fact that the company continues to exist regardless of any changes in shareholders. \n- Value-based mobilization of capital: The shares are tradable, possibly even marketable, and allow the owner to quickly dispose of an investment. \nThe higher tax burden has a disadvantageous effect.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "d) a cooperative?",
+              "isRequired": true,
+              "correctAnswer": "A cooperative is an association of at least seven cooperative members that is founded with the aim of offering its members economic self-help. The purpose of this form of enterprise is not to make a profit, but to provide benefits for the members of the cooperative.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

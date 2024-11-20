@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "name": "Der Lehrvertrag",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which of the following statements are correct?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What is the same in the apprenticeship contract for all apprentices in the same occupation?",
+              "choices": [
+                "Wages",
+                "Working hours",
+                "Duration of the apprenticeship",
+                "Duration of the probationary period"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Duration of the apprenticeship",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Which provision on the termination of the\napprenticeship contract is correct?",
+              "choices": [
+                "The notice period for the apprenticeship contract is two months.",
+                "As the apprenticeship contract is limited in time, it cannot be terminated.",
+                "The apprenticeship contract is terminated when the qualification procedures have been passed.",
+                "The notice period varies depending on the sector."
+              ],
+              "isRequired": true,
+              "correctAnswer": "As the apprenticeship contract is limited in time, it cannot be terminated.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "An apprenticeship contract can be terminated for good cause. Which of the following reasons is sufficient to terminate the apprenticeship contract without notice?",
+              "choices": [
+                "If the apprentice sells more than trained sales staff",
+                "If the apprentice makes too little turnover",
+                "When the training company is sold",
+                "If the person responsible for vocational training resigns themselves"
+              ],
+              "isRequired": true,
+              "correctAnswer": "When the training company is sold",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Which regulation only applies to the training company?",
+              "choices": [
+                "Federal Constitution",
+                "Labor law",
+                "Company regulations",
+                "School regulations"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Company regulations",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Can apprentices be obliged to work overtime?",
+              "choices": [
+                "In no case",
+                "In the event of an exceptional workload",
+                "Only at Christmas time",
+                "Only during vocational school vacations"
+              ],
+              "isRequired": true,
+              "correctAnswer": "In the event of an exceptional workload",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "What is the most important legal duty of those responsible for vocational training?",
+              "choices": [
+                "Pay high apprenticeship wages",
+                "Granting regular vacations and days off",
+                "Organize annual company party",
+                "Provide qualified professional training"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Provide qualified professional training",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Advertising material",
+      "elements": [
+        {
+          "name": "Aufrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which advertising media do you know?",
+              "isRequired": true,
+              "correctAnswer": "Advertising letter, advertisement, poster, advertising print, brochure, advertising film, advertising slogan",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Create a list of advertising media from the cheapest to the most expensive.",
+              "isRequired": true,
+              "correctAnswer": "Possible order: advertising letter, advertisement, flyer, leaflet, advertising slogan, catalog, poster, advertising film",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Advertising material",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "A TV spot (e.g. lasting 30 seconds) does not cost the same at all broadcasting times. When is the fee for broadcasting probably the highest? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Before the news at 7.30 p.m., because this is the time when most viewers are watching TV.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Name possible reasons why tobacco and alcohol advertising is prohibited on Swiss television.",
+              "isRequired": true,
+              "correctAnswer": "This advertising encourages the increased consumption of harmful stimulants. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

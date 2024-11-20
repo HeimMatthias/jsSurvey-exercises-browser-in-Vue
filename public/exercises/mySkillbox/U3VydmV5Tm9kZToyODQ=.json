@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Marktgesetze",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Finish the following three sentence beginnings:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Market equilibrium is achieved when ...",
+              "isRequired": true,
+              "correctAnswer": "... offer as much of a product as is in demand.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "The price therefore remains stable if supply and demand remain stable for a long time.",
+              "isRequired": true,
+              "correctAnswer": "... are the same size.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "In concrete terms, sentences 1 and 2 mean that a market equilibrium exists if, for example, a bakery always sells at a certain price shortly before closing time.",
+              "isRequired": true,
+              "correctAnswer": "... the last loaf of bread is sold.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

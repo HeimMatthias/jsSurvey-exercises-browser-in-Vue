@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Indicate below whether the question or its processing is a project or not, and briefly justify your answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Creation of the shift work plan in the production department.",
+              "isRequired": true,
+              "correctAnswer": "No, there is no project. Routine work, always recurring.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Company-wide introduction of the Kool software on 1.1.202X.",
+              "isRequired": true,
+              "correctAnswer": "Yes, there is a project: unique, complex, different departments involved, extensive employee training required, exact completion date ...",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Preparation for the team leader meeting next Monday.",
+              "isRequired": true,
+              "correctAnswer": "No, there is no project. Routine work, always recurring.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Preparation of the annual financial statements as at March 1.",
+              "isRequired": true,
+              "correctAnswer": "No, there is no project. Routine work, always recurring.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Indicate below whether the question or its processing is a project or not, and briefly justify your answer.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Development of a new report form in which the monthly sales activities can be summarized.",
+              "isRequired": true,
+              "correctAnswer": "Yes, it is a (smaller) project: interdisciplinary, innovative, relatively complex, clear end date.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Building a house",
+              "isRequired": true,
+              "correctAnswer": "Yes, there is a project: rather unique, complex, interdisciplinary, clear start and end dates for private individuals.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Preparation of a romantic dinner for the 3rd anniversary.",
+              "isRequired": true,
+              "correctAnswer": "There may be a project: clear deadline (end date), relatively unique, possibly complex ... It depends on the exact circumstances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Relocation of the bed tower of a cantonal hospital from the old building to the new building on September 15.",
+              "isRequired": true,
+              "correctAnswer": "Yes, it is a project: highly complex, clear target date, clear objectives, highly interdisciplinary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

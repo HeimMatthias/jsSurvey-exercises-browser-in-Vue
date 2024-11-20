@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Konfliktsituationen1",
+      "title": "Conflict situation 1",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "It really annoys you that your two flatmates so often leave the kitchen a mess and you have to put everything in order before you can even start cooking.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Observation (B) - Feeling (G) - Need (B) - Request (B)",
+              "isRequired": true,
+              "correctAnswer": "If I find the kitchen in a mess (B), I get really annoyed (G) because I don't want to clean everything up before I start cooking (B). I ask everyone who uses the kitchen to leave it in a tidy state (B).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Conflict situation 2",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "You announced to your flatmates at breakfast this morning that you are having visitors in the evening and would like to occupy the large table in the living room. When you want to start preparing after work, the table is completely covered.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Observation (B) - Feeling (G) - Need (B) - Request (B)",
+              "isRequired": true,
+              "correctAnswer": "Hey, the table in the living room is completely covered (B). I don't think that's right - especially as I informed you about my visit this morning (G). I also want to get on with things as quickly as possible - I don't have much time left for the preparations (B). Could you please help me tidy up (B)?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Conflict situation 3",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Your sister recently had her first band gig, which the whole family attended. At the graduation ceremony for your apprenticeship, which you worked so hard to achieve, only your mother is there. That hurts you.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Observation (B) - Feeling (G) - Need (B) - Request (B)",
+              "isRequired": true,
+              "correctAnswer": "At the family table: I noticed that the whole family was at my sister's band performance, but only my mom was at my graduation party (B). That makes me sad (G). I would have liked to celebrate my hard-won apprenticeship diploma with you (B). Can we make up for it next week, please (B)?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

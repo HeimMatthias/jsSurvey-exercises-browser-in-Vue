@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Dunning and fixed transaction",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Arta ordered 75 glow sticks, color pink, delivery as soon as possible.",
+                "You call to confirm the purchase of a bouquet of flowers for your friend's birthday party tomorrow.",
+                "For the barbecue party on July 12, you will need 50 sausages and 10 kg of potato salad.",
+                "On January 19, you order a pallet of toilet paper from a wholesaler in Germany.",
+                "At a sales fair, buyer Timo buys various items for the summer collection.",
+                "Upon expiry of the deadline, the seller is automatically in default."
+              ],
+              "type": "matrix",
+              "title": "Is the following example a dunning or a fixed transaction? Put a cross in the box.",
+              "columns": [
+                "Dunning business",
+                "Fixed transaction"
+              ],
+              "correctAnswer": {
+                "Mit Ablauf der Frist kommt der Verkäufer automatisch in Verzug.": "Fixed transaction",
+                "Arta bestellt 75 Stück Leuchtstifte, Farbe Pink, Lieferung so rasch als möglich.": "Dunning business",
+                "Für die Grillparty vom 12. Juli benötigen Sie 50 Würste und 10 kg Kartoffelsalat.": "Fixed transaction",
+                "Sie bestellen am 19. Januar beim Grosshändler in Deutschland eine Palette Toilettenpapier.": "Dunning business",
+                "An einer Verkaufsmesse kauft Einkäufer Timo verschiedene Artikel für die Sommerkollektion ein.": "Dunning business",
+                "Sie bestätigen telefonisch den Kauf eines Blumenstrausses für die morgige Geburtstagsfeier Ihrer Freundin.": "Fixed transaction"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

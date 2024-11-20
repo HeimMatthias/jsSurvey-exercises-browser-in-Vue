@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Appreciative communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "How can the following sentences be formulated in an appreciative way?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You forgot to give me feedback again.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: It is important to me that I am informed about the status of things. Can you please let me know next time?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "You never think about how I'm doing.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: I would like you to inquire about my well-being.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why are you always late?",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: I've noticed that you're often late. Why?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "You'll annoy me if you leave the projector on after the meeting.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: It bothers me if you don't switch off the projector after the meeting. This causes unnecessary electricity costs and is not ecological. Please switch off the projector after the next meeting.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "How can the following sentences be formulated in an appreciative way?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "I would like you to support me more often!",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: Please support me with the monthly closing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "I would like you to show more commitment!",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: Please contact us proactively in future when you have completed your work and have free capacity again.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Please understand me!",
+              "isRequired": true,
+              "correctAnswer": "This is an unclear request. What is meant by understanding? Understanding or verbal understanding, or is this a request for support? Possible answer: Please also take my point of view into account, service quality is important to me. Next time, please contact me if anything is unclear before you send the offer to the customer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

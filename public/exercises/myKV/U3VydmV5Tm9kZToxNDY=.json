@@ -1,0 +1,232 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Cases",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "In which case are the nouns numbered 1 and 2?",
+          "elements": [
+            {
+              "name": "question4",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "Here the learners must determine (1) the cases (2).",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Nominative case",
+                "Nomen 2": "Accusative"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "question1",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "Within a sentence (1), nouns (2) are in one of the four cases.",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Genitive",
+                "Nomen 2": "Nominative case"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Cases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "The case (1) is not always recognizable by the form (2).",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Nominative case",
+                "Nomen 2": "Dative"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "question3",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "The cases (1) can be determined with the help of questions (2).",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Nominative case",
+                "Nomen 2": "Dative"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Cases",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "The form of the question word (1) indicates the case (2).",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Genitive",
+                "Nomen 2": "Accusative"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "question6",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "With short words (2), the case ending (2) is usually omitted.",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Dative",
+                "Nomen 2": "Nominative case"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Cases",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "rows": [
+                "Noun 1",
+                "Noun 2"
+              ],
+              "type": "matrix",
+              "title": "Now you know all four cases (1) of the noun (2).",
+              "width": "650px",
+              "columns": [
+                "Nominative case",
+                "Accusative",
+                "Dative",
+                "Genitive"
+              ],
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "correctAnswer": {
+                "Nomen 1": "Accusative",
+                "Nomen 2": "Genitive"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Responsibilities",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Select who is responsible for each of the following tasks. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Keeps an eye on the big tasks and is responsible for the successful and timely implementation of the pump track.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Head of the OC",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Can help provide the necessary documents for the property request. Is responsible for any building permits or specifications for the small food stand.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Municipality",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Ensures the financing. Direct financial support or indirect support via sports clubs or companies that provide material for the construction of the pump track free of charge is conceivable.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Sponsoring",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Ensures that the budget is updated.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Finances",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Responsibilities",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select who is responsible for each of the following tasks.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Is responsible for the media announcement, support and follow-up of a sponsorship event or an opening event.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Involved as an external body, as already experienced in the construction and maintenance of pump tracks.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Technical advisor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Responsible for the catering stand.",
+              "choices": [
+                "Catering partner",
+                "Municipality",
+                "Finances",
+                "Technical advisor",
+                "Head of the OC",
+                "Communication",
+                "Sponsoring"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Catering partner",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

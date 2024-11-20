@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Commercial register entries",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the business names (company) of the two companies?",
+              "isRequired": true,
+              "correctAnswer": "Pronto Supermarkt AG, Bruchmüller Express",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What legal forms do the two companies have? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Pronto Supermarkt AG is a public limited company, whereas Bruchmüller Express is a sole proprietorship. This can be seen from the company name, but the legal form can also be seen in the commercial register entry.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "In which sector are the companies active?",
+              "isRequired": true,
+              "correctAnswer": "Both companies are active in the retail trade.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the purpose of the companies? What differences do you find?",
+              "isRequired": true,
+              "correctAnswer": "Bruchmüller Express wants to run a supermarket, while Pronto Supermarkt AG also claims to trade, import and export merchandise, food and beverages. It therefore intends to run a retail business and also be active in import and export. However, it is not clear from the commercial register entry in what form.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Commercial register entries",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Why does Pronto Supermarkt AG, unlike Bruchmüller Express, name an auditor in its entry?",
+              "isRequired": true,
+              "correctAnswer": "In contrast to sole proprietorships, public limited companies must state the name of their auditors in their entry in the commercial register.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Who is liable at Bruchmüller Express if the company can no longer repay its debts? What is the situation at Pronto Supermarkt AG?",
+              "isRequired": true,
+              "correctAnswer": "As Bruchmüller Express is a sole proprietorship, the owner Heiner Bruchmüller is liable for the company's debts with his entire private assets. In the case of a public limited company, on the other hand, the persons registered in the commercial register are not liable, as liability is limited to the business assets.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Can you provide information about the turnover of Bruchmüller Express from the commercial register entry? Can you find any information on the profits of Pronto Supermarkt AG?",
+              "isRequired": true,
+              "correctAnswer": "The turnover of Bruchmüller Express is likely to be over CHF 100,000, as Heiner Bruchmüller would otherwise not have had to have the sole proprietorship entered in the commercial register. However, the commercial register does not provide any information on the exact turnover or profit.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

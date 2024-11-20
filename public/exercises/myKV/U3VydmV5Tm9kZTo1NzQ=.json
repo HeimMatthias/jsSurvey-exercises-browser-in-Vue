@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Data section",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Your supervisor wants various information from you about the applications - work with the data section to do this.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How many registrations per course have already been received?",
+              "correctAnswer": "Computer science basics (8), photo editing (6), web publishing (5)."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How many women have registered for the \"Computer Science Basics\" course?",
+              "correctAnswer": "Four women"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Are there more men than women on the web publishing course?",
+              "correctAnswer": "Yes, more men (3) than women (2)."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "You and your bank neighbor also register for a course (select and complete your details).",
+              "correctAnswer": "Individual answers"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Your manager tells you that a course will only cover its costs or start at all if there are eight participants. Which courses can be started immediately?",
+              "correctAnswer": "Solution depends on the two new course registrations. The basic computer science course can start in any case, possibly photo editing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

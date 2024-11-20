@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Verhaltensweisen",
+      "title": "Behaviors",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage1",
+              "rows": [
+                {
+                  "text": "I buy a Friday bag made from old truck sheets.",
+                  "value": "I buy a Friday bag made from old truck sheets."
+                },
+                {
+                  "text": "I buy a mechanical watch made of metal.",
+                  "value": "I buy a mechanical watch made of metal."
+                },
+                {
+                  "text": "I go on vacation by car.",
+                  "value": "I go on vacation by car."
+                },
+                {
+                  "text": "I practise dance steps in the basement with soft music",
+                  "value": "I practise dance steps in the basement with soft music"
+                },
+                {
+                  "text": "I throw away an expired yogurt.",
+                  "value": "I throw away an expired yogurt."
+                },
+                {
+                  "text": "I'm buying a new cell phone.",
+                  "value": "I'm buying a new cell phone."
+                },
+                {
+                  "text": "I eat an organic steak.",
+                  "value": "I eat an organic steak."
+                },
+                {
+                  "text": "I store at the Brocki.",
+                  "value": "I store at the Brocki."
+                },
+                {
+                  "text": "I borrow a blender from my neighbor.",
+                  "value": "I borrow a blender from my neighbor."
+                },
+                {
+                  "text": "Together with others, I regularly make fun of a classmate who is completely unathletic.",
+                  "value": "Together with others, I regularly make fun of a classmate who is completely unathletic."
+                }
+              ],
+              "type": "matrix",
+              "title": "Determine for the following behaviors whether they generate external effects or not.",
+              "columns": [
+                {
+                  "text": "Generates almost no external effects",
+                  "value": "Generates almost no external effects"
+                },
+                {
+                  "text": "Generates external effects",
+                  "value": "Generates external effects"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Ich shoppe im Brocki.": "Generates almost no external effects",
+                "Ich esse ein Bio-Steak.": "Generates external effects",
+                "Ich kaufe mir ein neues Handy.": "Generates external effects",
+                "Ich fahre mit dem Auto in die Ferien.": "Generates external effects",
+                "Ich leihe beim Nachbar einen Mixer aus.": "Generates almost no external effects",
+                "Ich werfe ein abgelaufenes Joghurt weg.": "Generates external effects",
+                "Ich kaufe eine mechanische Uhr aus Metall.": "Generates almost no external effects",
+                "Ich übe im Keller mit leiser Musik Tanzschritte": "Generates almost no external effects",
+                "Ich kaufe eine Freitagtasche aus alten LKW-Blachen.": "Generates almost no external effects",
+                "Ich mache mich zusammen mit anderen regelmässig über einen Klassenkollegen lustig, der völlig unsportlich ist.": "Generates external effects"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

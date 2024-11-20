@@ -1,0 +1,181 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Forms of service",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which type of service is involved? Select the appropriate answer.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "The customer is greeted and advised professionally and personally until she leaves.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full service ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Product labeling is very important for this form of sales and service.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Self-service ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "An acidic cleaning agent is sold.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pre-selection or partial operation  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "A store offers products from different sectors in separate departments.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Mixed form",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The goods, which require a lot of advice, are presented openly so that customers cannot touch them.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full service ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Forms of service",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which type of service is involved? Select the appropriate answer.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "In the supermarket, Mr. Murati also gets intensive advice at the fish counter.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Mixed form",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Customers can have a casual look around first (feel free!).",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pre-selection or partial operation  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "A knowledgeable salesperson is needed for every customer.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full service ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Hassle-free food and non-food products are offered within easy reach.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Self-service ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Customers can request a consultation if they wish.",
+              "choices": [
+                "Self-service ",
+                "Pre-selection or partial operation  ",
+                "Full service ",
+                "Mixed form"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pre-selection or partial operation  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

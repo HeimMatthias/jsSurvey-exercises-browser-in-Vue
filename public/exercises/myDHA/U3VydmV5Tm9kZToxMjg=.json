@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unemployment ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "List three reasons for the many job losses in the retail trade.",
+              "correctAnswer": "Swiss people shop abroad, online shopping, shift in retail jobs ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Where can you get all the information you need on the subject at any time?",
+              "correctAnswer": "Digitally at treffpunkt-arbeit.ch or at your nearest regional employment center (RAV)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Where can you get quick and reliable information about vacancies on the job market?",
+              "correctAnswer": "At your nearest regional employment center RAV",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Unemployment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment\".",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "List at least four important functions of the work.",
+              "correctAnswer": "The feeling of being competent (being able to act correctly), structure of time, contact with people, social recognition, wages and money for living expenses, good self-esteem",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What do you do if you find out that you are going to be dismissed?",
+              "correctAnswer": "It is advantageous to start looking for a new job during the notice period. To do this, the application documents must be redrafted. In addition, you should rethink your life and think carefully about what you want to do and whether a career change might be an option"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

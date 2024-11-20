@@ -1,0 +1,234 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Conversation and sales techniques",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Match the statements to the correct description. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Which technology shows full attention?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Active listening"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "What promotes simple and clear communication to avoid misunderstandings? ",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Clarity and precision"
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "What do you call understanding the perspective of others?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Empathy"
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Which aspect of communication includes body language, gestures and facial expressions? ",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Non-verbal communication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Conversation and sales techniques",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Match the statements to the correct description. ",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "What is important to help others improve their performance and to develop yourself? ",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Feedback"
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "What kind of messages express your own feelings and thoughts without being offensive?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "I-messages"
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "What can help to obtain information and deepen the conversation?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Ask questions"
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "What increases the effectiveness of the interlocutor's communication?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Adaptation of communication style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Conversation and sales techniques",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Match the statements to the correct description. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "What is important in conflict situations in order to find acceptable solutions for both sides?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Compromises"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Which technique uses logical and convincing arguments to persuade others?",
+              "choices": [
+                "Active listening",
+                "Clarity and precision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "I-messages",
+                "Ask questions",
+                "Adaptation of communication style",
+                "Compromises",
+                "Reasoning"
+              ],
+              "correctAnswer": "Reasoning"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

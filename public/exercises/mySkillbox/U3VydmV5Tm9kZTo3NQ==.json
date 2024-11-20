@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Handlungsfähigkeit 1",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the sentences in the following exercise.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "A person who can competently assess a certain situation is therefore not yet capable of acting in the legal sense, unless he or she is ... .",
+              "isRequired": true,
+              "correctAnswer": "A person who can competently assess a certain situation is therefore not yet legally capable of acting, unless they are of legal age.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "If it is not, it is considered ... ... .",
+              "isRequired": true,
+              "correctAnswer": "If it does not, it is deemed to have limited capacity to act.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "If, on the other hand, a person is of legal age but only ... ... , they have limited legal capacity.",
+              "isRequired": true,
+              "correctAnswer": "If, on the other hand, a person is of legal age but only has limited capacity, they have limited legal capacity.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Handlungsfähigkeit 2",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the sentences.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "If a person is not ..., it does not matter whether they are of legal age or not.",
+              "isRequired": true,
+              "correctAnswer": "If a person lacks capacity, it does not matter whether they are of legal age or not.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "In the legal sense, it is considered ... .",
+              "isRequired": true,
+              "correctAnswer": "It is considered legally incapable of acting.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

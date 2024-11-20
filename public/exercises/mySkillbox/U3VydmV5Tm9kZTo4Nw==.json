@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "name": "Unterschiede1",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "Erklären Sie die Unterschiede.",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "The spiders - The spiders",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unterschiede2",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "Erklären Sie die Unterschiede.1",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "He refused food and drink. - He refused food and drink.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unterschiede3",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "He has dear comrades in Berlin. - He enjoyed love in Berlin.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unterschiede4",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "The captured flea. - The prisoner fled.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unterschiede5",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "If only he were a poet! - If only he were more poetic!",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unterschiede6",
+      "title": "Differences",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Explain the differences.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "She saw her beloved lawn. - She saw her beloved racing.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

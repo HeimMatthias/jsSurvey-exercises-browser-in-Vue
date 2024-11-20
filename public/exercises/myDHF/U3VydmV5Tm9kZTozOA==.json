@@ -1,0 +1,231 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Assortment",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Answer the following questions on the subject of product range.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What distinguishes the basic range from the additional range?",
+              "isRequired": true,
+              "correctAnswer": "The basic assortment consists of the usual range of goods that make up the main part of the sale. The additional assortment rounds off the basic assortment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the difference between a wide and a narrow range?",
+              "isRequired": true,
+              "correctAnswer": "A broad assortment comprises many different product groups (sectors), a narrow one very few.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Assortment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the sentences you have started.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "An assortment is understood to be ...",
+              "isRequired": true,
+              "correctAnswer": "The totality of all goods offered by a retail business.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "A wide range of products includes goods from ...",
+              "isRequired": true,
+              "correctAnswer": "several to many industries.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "A narrow product range includes goods from ...",
+              "isRequired": true,
+              "correctAnswer": "one to two sectors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "A deep assortment offers ...",
+              "isRequired": true,
+              "correctAnswer": "lots of choice per item.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "A flat range offers ...",
+              "isRequired": true,
+              "correctAnswer": "little choice per item.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Assortment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "List two stores each with ...",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "wide range",
+              "isRequired": true,
+              "correctAnswer": "Examples: Globus department store, MMM supermarket",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "narrow range",
+              "isRequired": true,
+              "correctAnswer": "Examples: Navyboot shoe store, Christ watch store",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Assortment",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the following descriptions to the correct category of the assortment plan.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Articles with common features",
+              "choices": [
+                "Product groups",
+                "Article groups",
+                "Articles (varieties)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Article groups",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "Smallest unit in the range",
+              "choices": [
+                "Product groups",
+                "Article groups",
+                "Articles (varieties)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Articles (varieties)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "Differentiation according to certain aspects of use",
+              "choices": [
+                "Product groups",
+                "Article groups",
+                "Articles (varieties)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Product groups",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Assortment",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Is it a product group, an article group or an article?",
+          "elements": [
+            {
+              "name": "question15",
+              "rows": [
+                "Organic yogurt",
+                "Sawing machines",
+                "Fruit",
+                "Dairy products",
+                "Swimming trunks",
+                "Gala apples",
+                "Machines",
+                "Yoghurt",
+                "Jigsaw",
+                "Men's pants",
+                "Apples",
+                "Casual pants"
+              ],
+              "type": "matrix",
+              "title": "Differentiation according to certain aspects of use",
+              "columns": [
+                "Product group",
+                "Article group",
+                "Article (variety)"
+              ],
+              "correctAnswer": {
+                "Obst": "Product group",
+                "Äpfel": "Article group",
+                "Joghurt": "Article group",
+                "Badehosen": "Article (variety)",
+                "Maschinen": "Product group",
+                "Stichsäge": "Article (variety)",
+                "Bio-Joghurt": "Article (variety)",
+                "Gala-Äpfel": "Article (variety)",
+                "Herrenhosen": "Product group",
+                "Freizeithosen": "Article group",
+                "Milchprodukte": "Product group",
+                "Sägemaschinen": "Article group"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

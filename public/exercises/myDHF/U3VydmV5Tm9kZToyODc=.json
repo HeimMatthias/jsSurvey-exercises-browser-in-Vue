@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Formal requirements",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Founding an AG or GmbH",
+                "Buying a car with a consumer credit agreement",
+                "Conclude a marriage contract",
+                "Writing a handwritten will",
+                "Buy 150g of cheese in the supermarket",
+                "Buying a condominium",
+                "Leasing a home cinema system",
+                "Order a garden grill by mail order catalog"
+              ],
+              "type": "matrix",
+              "title": "Which formal requirement applies in the following examples?",
+              "columns": [
+                "Simple written form",
+                "Qualified written form",
+                "Public notarization (involvement of a notary)",
+                "Public notarization and entry in a public register",
+                "Informal"
+              ],
+              "correctAnswer": {
+                "Eine AG oder GmbH gründen": "Public notarization and entry in a public register",
+                "Eine Eigentumswohnung kaufen": "Public notarization and entry in a public register",
+                "Einen Ehevertrag abschliessen": "Public notarization (involvement of a notary)",
+                "Eine Home-Cinema-Anlage leasen": "Qualified written form",
+                "150g Käse im Supermarkt einkaufen": "Informal",
+                "Ein handgeschriebenes Testament verfassen": "Qualified written form",
+                "Ein Auto mittels Konsumkreditvertrag kaufen": "Qualified written form",
+                "Per Versandkatalog einen Gartengrill bestellen": "Informal"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

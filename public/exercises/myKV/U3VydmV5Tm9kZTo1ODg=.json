@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "Bedürfnisse und Güter",
+      "title": "Needs and goods",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which statement about needs and goods is correct and which is incorrect? Correct the incorrect statement.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The starting point for economic activity is the goods and services offered by companies to their customers.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "Allfällige Korrektur",
+              "type": "comment",
+              "title": "Possible correction",
+              "correctAnswer": "The starting point for economic activity is the needs of the people that are offered to customers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Needs and goods",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which statement about needs and goods is correct and which is incorrect? Correct the incorrect statement.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "As soon as subsistence and elective needs are covered, the economy can no longer continue to grow.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Possible correction",
+              "correctAnswer": "Needs are unlimited and can therefore never all be satisfied."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

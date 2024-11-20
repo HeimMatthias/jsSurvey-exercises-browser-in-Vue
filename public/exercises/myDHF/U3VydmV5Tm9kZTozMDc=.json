@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Customer types ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What type of customer are you dealing with in the following sales situations? ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Henrik enters the garden center, walks purposefully towards a particular lawn mower and asks for specific details and functions. ",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer requiring validity ",
+                "Grumbling customer ",
+                "Aggressive customer ",
+                "Insinuating customer"
+              ],
+              "correctAnswer": "Determined customer "
+            },
+            {
+              "name": "Marion, eine alleinerziehende Mutter, vergleicht intensiv die Preise der verschiedenen Kopfhörer und erkundigt sich nach dem Produkt mit dem besten Preis-Leistungs-Verhältnis. Sie erwähnt dabei die Preise, die sie im Onlinehandel gesehen hat.",
+              "type": "dropdown",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer in need of help ",
+                "Grumpy customer ",
+                "Aggressive customer ",
+                "Insinuating customer "
+              ],
+              "correctAnswer": "Price-conscious customer "
+            },
+            {
+              "name": "Giuseppe spricht laut über die Geschichte und die Qualität der Adidas-Schuhe und betont, wie wichtig es sei, seiner Marke treu zu bleiben.",
+              "type": "dropdown",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer requiring validity ",
+                "Grumbling customer ",
+                "Aggressive customer ",
+                "Insinuating customer "
+              ],
+              "correctAnswer": "Customer requiring validity "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Customer types ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What type of customer are you dealing with in the following sales situations? ",
+          "elements": [
+            {
+              "name": "Fiona kritisiert, dass beim letzten verbliebenen Pullover in ihrer Grösse die eine Naht nicht schön gerade sei. Sowieso könne man beim genauen Hinsehen erkennen, dass die Verarbeitung der Produkte schlechter sei als früher.",
+              "type": "dropdown",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer in need of help ",
+                "Grumpy customer ",
+                "Aggressive customer ",
+                "Insinuating customer "
+              ],
+              "correctAnswer": "Grumpy customer "
+            },
+            {
+              "name": "Rafik probiert zahlreiche Sonnenbrillen an – einige davon mehrmals. Trotz fachkundiger Beratung kann er sich nicht für ein Modell entscheiden.",
+              "type": "dropdown",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer requiring validity ",
+                "Grumbling customer ",
+                "Aggressive customer ",
+                "Insinuating customer "
+              ],
+              "correctAnswer": "Undecided customer "
+            },
+            {
+              "name": "Belinda zeigt sich verärgert über die lange Wartezeit im Möbelhaus und beschwert sich in harschem Ton beim Detailhandelsfachmann, als sie schliesslich Beratung erhält.",
+              "type": "dropdown",
+              "choices": [
+                "Determined customer ",
+                "Undecided customer ",
+                "Price-conscious customer ",
+                "Customer in need of help ",
+                "Grumpy customer ",
+                "Aggressive customer ",
+                "Insinuating customer "
+              ],
+              "correctAnswer": "Aggressive customer "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

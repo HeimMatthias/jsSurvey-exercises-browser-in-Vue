@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "VISA and Mastercard can only be used as a means of payment in Switzerland.",
+                "Twint is a young company and has less than 1/8 of the Swiss population as users.",
+                "Like VISA and Mastercard, Twint is a credit card with its own credit card number.",
+                "The fee incurred for credit card payments is paid by the seller.",
+                "A major advantage of cash is that there are no payment fees such as those charged by VISA, which amount to around 1-3%.",
+                "The tip for everyone is: you should either have cash or a credit card, both are unnecessary."
+              ],
+              "type": "matrix",
+              "title": "Where can you pay with the following means of payment?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "VISA und Mastercard können nur in der Schweiz als Zahlungsmittel verwendet werden.": "wrong",
+                "Twint ist wie die VISA und Mastercard eine Kreditkarte mit eigener Kreditkartennummer.": "wrong",
+                "Der Tipp für alle ist: Man soll entweder Bargeld oder eine Kreditkarte haben, beides ist unnötig.": "wrong",
+                "Die Gebühr, die bei der Kreditkartenbezahlung entsteht, zahlt der Verkäufer bzw. die Verkäuferin.": "right",
+                "Twint ist eine junge Unternehmung und hat weniger als 1/8 der Schweizer Bevölkerung als Nutzer und Nutzerinnen.": "wrong",
+                "Ein grosser Vorteil von Bargeld ist, dass keine Zahlungsgebühren anfallen wie beispielsweise bei VISA, welche rund 1–3% betragen.": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

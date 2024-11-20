@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Joint custody",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which legal regulation came into force on July 1, 2014?",
+              "correctAnswer": "Since July 1, 2014, the Swiss Civil Code (ZGB) has provided for joint parental custody as a rule - regardless of the parents' marital status."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the advantages of this new regulation?",
+              "correctAnswer": "It makes sense for the mother and father to take joint responsibility for the development and upbringing of their child, regardless of whether the parents are cohabiting, married, separated or divorced. This is also in line with the constitutional equality of men and women. Joint parental custody for unmarried parents now only requires the signing of a short form in which the parents confirm that they have agreed on custody, care, support and maintenance. In addition, parental custody can now only be denied to a father for important reasons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Joint custody",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What disadvantages can this regulation have?",
+              "correctAnswer": "If one parent refuses consent, joint custody is ordered by the authorities at the request of the other parent. However, if the parents are hopelessly at odds with each other, it is questionable whether they can cooperate with each other in matters concerning the children. The new law expects the parents to agree on issues of parental care. But what happens if they don't? The law does not provide for an arbitration board for parents who are at odds with each other."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What uncertainties does the new law harbor?",
+              "correctAnswer": "It is still unclear in which specific cases custody will be withdrawn from a parent. Is an ongoing conflict between the parents also a possible reason?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

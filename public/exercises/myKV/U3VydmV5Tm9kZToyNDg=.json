@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "The customer journey",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What was your last experience as a customer? Did you feel comfortable with your last purchase and would you consider your customer journey a positive one? What went well and what didn't? Share your experiences in a group of two and record your findings.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Think about what the optimal customer journey in your company looks like. What points does your customer go through in your company and what can you do to offer your customers the best possible experience? Record your thoughts.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

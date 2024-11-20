@@ -1,0 +1,281 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Subject area: What is my own role?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                {
+                  "text": "What language does the other person speak and understand?",
+                  "value": "What language does the other person speak and understand"
+                },
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Is there a fixed allocation of roles in this conversation?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Subject area: What relationship do I have with the other person?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What is important to the other side?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What is good about the relationship with the other person and what could be problematic?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Topic area: What influence do place and time have on the conversation?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "It's Monday morning at 8 o'clock."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Topic area: What are the motives and interests in the conversation?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "I tend to be objective and not emotional.",
+                "What are my counterpart's reasons for talking to me?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Topic area: What are the aim and topics of the conversation?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What topics should be discussed?",
+                "What do I want to achieve?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the respective subject areas. Note: There are not the same number of descriptions for each topic area. ",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Topic area: What are possible conflicts in a conversation and how can I proceed?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other side?",
+                "What will I pay particular attention to?",
+                "It's Monday morning at 8 o'clock.",
+                "What topics should be discussed?",
+                "What do I want to achieve?",
+                "What compromises are possible for me?",
+                "I tend to be objective and not emotional.",
+                "What is the most important thing for me in a solution?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could arise during the interview?",
+                "What is my relationship to the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my counterpart's reasons for talking to me?",
+                "What is good about the relationship with the other person and what could be problematic?",
+                "What influence do I want to have on the conversation?",
+                "How much influence can I have on the course of the conversation?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What arguments and counter-arguments can be found?",
+                "What will I pay particular attention to?",
+                "What compromises are possible for me?",
+                "What is the most important thing for me in a solution?",
+                "What challenges could arise during the interview?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

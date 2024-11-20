@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "name": "Rechte bei Lieferverzug",
+      "title": "Rights in the event of delayed delivery",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the graphic using the information from the previous text.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10-3_A9_Grafik_CHc1KHz.png\" />",
+              "name": "question1",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "Frage 1",
+          "type": "radiogroup",
+          "title": "1. late delivery =",
+          "choices": [
+            "Delivery",
+            "Delay in delivery",
+            "No delivery"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Delay in delivery",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 2",
+          "type": "radiogroup",
+          "title": "2. general business ...",
+          "choices": [
+            "Management",
+            "Business rules",
+            "Terms and conditions"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Terms and conditions",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 3",
+          "type": "radiogroup",
+          "title": "3. …",
+          "choices": [
+            "Yes",
+            "No",
+            "Perhaps"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Yes",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 4",
+          "type": "radiogroup",
+          "title": "4. general terms and conditions apply ...",
+          "choices": [
+            "Loss of delivery",
+            "Delivery",
+            "Delay in delivery"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Delay in delivery",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 5",
+          "type": "radiogroup",
+          "title": "5. withdrawal from the contract ...",
+          "choices": [
+            "is possible.",
+            "is not possible.",
+            "is perhaps possible."
+          ],
+          "isRequired": true,
+          "correctAnswer": "is not possible.",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 6",
+          "type": "radiogroup",
+          "title": "6. …",
+          "choices": [
+            "Yes",
+            "No",
+            "Perhaps"
+          ],
+          "isRequired": true,
+          "correctAnswer": "No",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 7",
+          "type": "radiogroup",
+          "title": "7. ... set.",
+          "choices": [
+            "Grace period",
+            "Ultimatum",
+            "Explanation"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Grace period",
+          "requiredErrorText": "Please answer the question."
+        },
+        {
+          "name": "Frage 8",
+          "type": "radiogroup",
+          "title": "8. ... from the contract is possible.",
+          "choices": [
+            "Failure",
+            "Solution",
+            "Resignation"
+          ],
+          "isRequired": true,
+          "correctAnswer": "Resignation",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<h1 class=\"survey__completed-title\">Congratiulations</h1>\n<p class=\"survey__completed-text\">You have successfully completed the exercise.</p>",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

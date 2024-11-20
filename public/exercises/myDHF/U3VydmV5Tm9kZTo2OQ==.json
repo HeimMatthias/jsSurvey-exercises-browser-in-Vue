@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain in your own words what is meant by \"value chain\", \"value creation\" and \"supply chain management\". ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "value chain:",
+              "isRequired": true,
+              "correctAnswer": "The value chain refers to all links in the creation process of a product/service, from production to the consumer.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Added value:",
+              "isRequired": true,
+              "correctAnswer": "Value creation is the creation of added value. This process takes place step by step.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Supply Chain Management:",
+              "isRequired": true,
+              "correctAnswer": "Supply chain management (SCM) is also known as \"supply chain management\", which aims to achieve long-term cooperation in a spirit of partnership between all companies involved. Productivity is increased at all stages of the value chain through agreements and coordinated processes. Costs are reduced in the process.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

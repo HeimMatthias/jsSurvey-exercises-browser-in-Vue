@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Termination",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Which statement regarding the termination of residential property is correct?",
+              "choices": [
+                "The termination is valid orally.",
+                "A fixed-term tenancy ends without notice.",
+                "Notice of termination must be contested within ten days.",
+                "The notice of termination must be in the post no later than the last working day before the end of the notice period."
+              ],
+              "isRequired": true,
+              "correctAnswer": "A fixed-term tenancy ends without notice.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

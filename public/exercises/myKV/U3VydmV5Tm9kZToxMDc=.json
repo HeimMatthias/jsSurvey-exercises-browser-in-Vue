@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Are absolute or relative rights affected in the following examples? Give reasons.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Her salary is CHF 900 according to her apprenticeship contract.",
+              "isRequired": true,
+              "correctAnswer": "You can only demand wages from your employer, so the right to wages is a relative right.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Your cell phone is stolen.",
+              "isRequired": true,
+              "correctAnswer": "Everyone must respect your ownership of your cell phone. The thief is therefore violating an absolute right.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You must pay your cell phone bill of CHF 50.",
+              "isRequired": true,
+              "correctAnswer": "The telephone company can only demand payment of the bill from you, so it only has a relative right.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "You have written a poem. Your colleague prints the poem in the school newspaper without your knowledge.",
+              "isRequired": true,
+              "correctAnswer": "Your colleague is violating an absolute right, namely your copyright to the poem.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Are absolute or relative rights affected in the following examples? Give reasons.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Unknown persons spray-paint the facade of the school building.",
+              "isRequired": true,
+              "correctAnswer": "The sprayers are violating the school's property rights, which is an absolute right.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "In sports class, a teammate fouls you roughly. You fall and break your arm.",
+              "isRequired": true,
+              "correctAnswer": "Your right to physical integrity applies to everyone. Your teammate has therefore violated an absolute right.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Your doctor will send you the invoice for the treatment of the broken arm.",
+              "isRequired": true,
+              "correctAnswer": "You have ordered the treatment. The doctor can only demand payment of the bill from you and not from your fellow patient. The doctor therefore only has a relative right.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

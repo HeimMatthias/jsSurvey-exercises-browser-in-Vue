@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "demonstration1",
+      "title": "Demonstration and tasting",
+      "elements": [
+        {
+          "name": "Aufrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Explain the difference between a demonstration and a tasting.",
+              "isRequired": true,
+              "correctAnswer": "Demonstration: A product is demonstrated/shown to customers (try out, see, hear, touch, etc.) \n\nTasting: A product is given to customers to try (consume, smell, taste, etc.).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Give three examples each of a demonstration and a tasting.",
+              "isRequired": true,
+              "correctAnswer": "Demonstration: drill, electric toothbrush, vacuum cleaner.  \nTasting: wine, pastries, chocolates  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

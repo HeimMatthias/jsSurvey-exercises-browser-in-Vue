@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Some labels are missing from the indirect leasing diagram. Assign the correct term to each number.",
+          "elements": [
+            {
+              "html": "\n<img style=\"width: 100%\" src=\"https://skillbox-my-detailhandel-dhf-prod.s3-eu-central-1.amazonaws.com/images/Leasing.original.png\" />",
+              "name": "question8",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "1",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Lessee"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "2",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Lessor"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "3",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Leasing contract"
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "4",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Purchase/ownership"
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "5",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Delivery (car)"
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "6",
+              "choices": [
+                "Delivery (car)",
+                "Lessee",
+                "Purchase/ownership",
+                "Lessor",
+                "Payment",
+                "Leasing contract"
+              ],
+              "correctAnswer": "Payment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "In leasing, the lessor finances an asset, e.g. a car, and allows the lessee to use the asset in return for compensation (leasing fee).",
+                "A leasing contract can be concluded verbally.",
+                "The leased asset can be returned to the lessor at the end of the contract or purchased at its residual value.",
+                "Leasing contracts with private individuals fall under the KKG, i.e. they enjoy increased legal protection.",
+                "Indirect leasing does not require the involvement of a bank because the installments are paid indirectly to the lessor.",
+                "In most cases, leasing is cheaper than buying.",
+                "In addition to the leasing installments, there are various additional costs associated with car leasing.",
+                "Leasing is suitable for capital goods because the leasing installment is considered an expense for tax purposes and the business income makes it easier to pay the installments.",
+                "Leasing and paying off are similar, except that leasing requires a larger down payment."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about leasing correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Ein Leasingvertrag kann mündlich abgeschlossen werden.": "Wrong",
+                "Leasing ist in den meisten Fällen günstiger als Kaufen.": "Wrong",
+                "Neben den Leasingraten fallen beim Autoleasing noch diverse zusätzliche Kosten an.": "Correct",
+                "Leasing und Abzahlung sind ähnlich, nur dass beim Leasing eine grössere Anzahlung geleistet werden muss.": "Wrong",
+                "Leasingverträge mit Privatpersonen fallen unter das KKG, d.h., sie geniessen einen erhöhten Rechtsschutz.": "Correct",
+                "Beim indirekten Leasing muss keine Bank mitwirken, weil die Raten indirekt der Leasinggeberin bezahlt werden.": "Wrong",
+                "Das Leasingobjekt kann der Leasinggeberin nach Vertragsablauf zurückgegeben werden oder zum Restwert gekauft werden.": "Correct",
+                "Das Leasing eignet sich für Investitionsgüter, denn die Leasingrate gilt steuerlich als Aufwand und dank den Geschäftseinnahmen wird die Ratenzahlung einfacher.": "Correct",
+                "Beim Leasing finanziert die Leasinggeberin ein Objekt, z.B. ein Auto, und überlässt dem Leasingnehmer die Nutzung des Objekts gegen eine Entschädigung (Leasinggebühr).": "Correct"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

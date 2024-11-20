@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Competencies or requirements?",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Sole signing authority for orders up to CHF 20,000",
+                "Commercial training",
+                "Conducting and leading team meetings",
+                "Reporting to the Head of Purchasing",
+                "At least four years of professional experience",
+                "Obtaining offers",
+                "Stays abroad for several years",
+                "Selection of suppliers"
+              ],
+              "type": "matrix",
+              "title": "Match the following statements from a job description for a commercial clerk to the correct division.",
+              "columns": [
+                "Competencies",
+                "Requirements"
+              ],
+              "correctAnswer": {
+                "Einholen von Offerten": "Competencies",
+                "Auswahl von Lieferanten": "Competencies",
+                "Kaufmännische Ausbildung": "Requirements",
+                "Mehrjährige Auslandsaufenthalte": "Requirements",
+                "Mindestens vier Jahre Berufserfahrung": "Requirements",
+                "Dem Abteilungsleiter Einkauf unterstellt": "Competencies",
+                "Durchführung und Leitung von Teamsitzungen": "Competencies",
+                "Alleinige Unterschriftsberechtigung für Bestellungen bis zu CHF 20 000.–": "Competencies"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

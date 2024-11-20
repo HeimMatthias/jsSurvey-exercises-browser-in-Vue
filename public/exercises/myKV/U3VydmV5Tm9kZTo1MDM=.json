@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Which answer is correct?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide which answer is correct.  ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "a) This obligation only applies to Swiss men. ",
+              "choices": [
+                "Official duty",
+                "Tax liability",
+                "Military duty"
+              ],
+              "correctAnswer": "Military duty"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "b) This tax is one of the indirect taxes. ",
+              "choices": [
+                "Property tax",
+                "Value added tax",
+                "Income tax"
+              ],
+              "correctAnswer": "Value added tax"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "c) Swiss citizenship is required for this right. ",
+              "choices": [
+                "Right to life",
+                "Protection from expulsion",
+                "Equal rights for men and women"
+              ],
+              "correctAnswer": "Protection from expulsion"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "d) Most human rights are set out in this document. ",
+              "choices": [
+                "Federal Constitution",
+                "Code of Obligations",
+                "Civil Code"
+              ],
+              "correctAnswer": "Federal Constitution"
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "e) This right is not a political right. ",
+              "choices": [
+                "Right of initiative",
+                "Voting rights",
+                "Citizenship"
+              ],
+              "correctAnswer": "Citizenship"
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "f) This is the number of valid signatures required for a popular initiative. ",
+              "choices": [
+                "50 000",
+                "100 000",
+                "150 000"
+              ],
+              "correctAnswer": "100 000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Which answer is correct?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide which answer is correct.  ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "g) In Switzerland, this can only be decided by the people. ",
+              "choices": [
+                "Changes to the Federal Constitution",
+                "Expenditure for the military",
+                "Increase in health insurance premiums"
+              ],
+              "correctAnswer": "Changes to the Federal Constitution"
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "h) This majority is required for the adoption of an optional referendum. ",
+              "choices": [
+                "double more",
+                "More people",
+                "Standsmore"
+              ],
+              "correctAnswer": "More people"
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "i) With this result, candidate A has achieved an absolute majority. ",
+              "choices": [
+                "110 votes out of 230",
+                "230 votes from 230",
+                "116 votes out of 230"
+              ],
+              "correctAnswer": "116 votes out of 230"
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "j) This election procedure is used to elect the Federal Council. ",
+              "choices": [
+                "Majorz",
+                "Proportional representation",
+                "Concordance"
+              ],
+              "correctAnswer": "Majorz"
+            },
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "k) These parties benefit from the proportional representation system. ",
+              "choices": [
+                "Large parties",
+                "left-wing parties",
+                "small parties"
+              ],
+              "correctAnswer": "small parties"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

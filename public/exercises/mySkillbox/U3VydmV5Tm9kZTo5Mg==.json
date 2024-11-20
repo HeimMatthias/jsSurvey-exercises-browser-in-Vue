@@ -1,0 +1,159 @@
+{
+  "pages": [
+    {
+      "name": "Entscheidungen1",
+      "title": "Decisions",
+      "elements": [
+        {
+          "name": "Aufgabe-1",
+          "type": "panel",
+          "title": "Anna is 17 and earns CHF 900 a month in her apprenticeship as a hairdresser. She has wanted an e-bike for a long time. She has saved CHF 1500 from birthdays and her salary. She lacks CHF 500 to buy a second-hand e-bike to her liking, which she could borrow from her parents and pay off in five months. How should Anna decide?",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Which decision tree is used here?",
+              "choices": [
+                "Decision tree 1",
+                "Decision tree 2"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Decision tree 1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Is Anna's available budget enough to buy the e-bike? ",
+              "isRequired": true,
+              "correctAnswer": "Yes, the savings make up 75% of the purchase price and CHF 100 per month is affordable for them. An interest-free loan from the parents also means there is no high risk of falling into a debt trap.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Does Anna have to restrict herself excessively elsewhere because of the purchase or expect follow-up costs (maintenance, etc.) that are too high for her budget? ",
+              "isRequired": true,
+              "correctAnswer": "No! If this e-bike is Anna's heart's desire, she will be able to do without the CHF 100 per month for five months.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Is the price unjustifiably high compared to the benefits (aesthetics, functionality, status symbol, etc.)?",
+              "isRequired": true,
+              "correctAnswer": "No! The e-bike can help to reduce public transport costs. Anna can use the e-bike in her free time and may then spend less money on other leisure activities. The price for a second-hand purchase seems very reasonable. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Interim conclusion:",
+              "isRequired": true,
+              "correctAnswer": "Purchase",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Does Anna cause direct damage with the purchase?",
+              "isRequired": true,
+              "correctAnswer": "No!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "Do you still have a bad feeling?",
+              "isRequired": true,
+              "correctAnswer": "No! When buying a used e-bike, Anna doesn't have a bad feeling.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "Decision:",
+              "isRequired": true,
+              "correctAnswer": "Purchase",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entscheidungen2",
+      "title": "Decisions",
+      "elements": [
+        {
+          "name": "Aufgabe-2",
+          "type": "panel",
+          "title": "Lena is 16 and still at school. As a climate activist, she travels a lot and needs a laptop and a cell phone for her work. Now the display on her cell phone has broken. The repair costs CHF 200, a new device would cost CHF 300 with her subscription. Her parents are prepared to give her up to CHF 300, she should decide on a solution herself. Should Lena buy a new cell phone?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Which decision tree is used here?",
+              "choices": [
+                "Decision tree 1",
+                "Decision tree 2"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Decision tree 1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Make a well-founded decision by working with the selected decision tree.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entscheidungen3",
+      "title": "Decisions",
+      "elements": [
+        {
+          "name": "Aufgabe-3",
+          "type": "panel",
+          "title": "Tom is an apprentice and loves eating avocados. However, he is bothered by the long transportation route and the water-intensive cultivation, which can lower the groundwater level in the countries where they are grown. In season (when the avocados are organically grown in Spain), he buys some, even if they cost CHF 3.40 each. But at the moment there are only conventional avocados from Spain at CHF 2.00 or organic and Fairtrade avocados from Peru at CHF 2.60. Should Tom buy the conventional avocados?",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Which decision tree is used here?",
+              "choices": [
+                "Decision tree 1",
+                "Decision tree 2"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Decision tree 2",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Make a well-founded decision by working with the selected decision tree.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

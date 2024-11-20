@@ -1,0 +1,122 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Antonyms",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Use an adjective to name the opposite (antonym) of the following ten character traits. Avoid the prefix -un. ",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "mindful",
+              "isRequired": true,
+              "correctAnswer": "reckless",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "diplomatic",
+              "isRequired": true,
+              "correctAnswer": "tactless",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "committed",
+              "isRequired": true,
+              "correctAnswer": "indifferent",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "conscientious",
+              "isRequired": true,
+              "correctAnswer": "careless",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "constructive",
+              "isRequired": true,
+              "correctAnswer": "destructive",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Antonyms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Use an adjective to name the opposite (antonym) of the following ten character traits. Avoid the prefix -un. ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "creative",
+              "isRequired": true,
+              "correctAnswer": "unimaginative",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "optimistic",
+              "isRequired": true,
+              "correctAnswer": "pessimistic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "sovereign",
+              "isRequired": true,
+              "correctAnswer": "incompetent",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "careful",
+              "isRequired": true,
+              "correctAnswer": "daredevil",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "appreciative",
+              "isRequired": true,
+              "correctAnswer": "contemptuous",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

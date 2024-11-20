@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Marketing communication tools",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are the primary instruments of marketing communication? Briefly describe each instrument using the characteristics of appearance, form and example.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Media advertising",
+              "correctAnswer": "Distribution via various media channels, broad target group to be addressed"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Public Relations",
+              "correctAnswer": "Maintaining relationships with customers, strengthening the company's reputation"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Sales promotion",
+              "correctAnswer": "Increase in short-term sales"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Sponsoring",
+              "correctAnswer": "Financial support for events, people, etc. Good reputation is promoted"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Event marketing",
+              "correctAnswer": "Events, direct contact with the target group"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

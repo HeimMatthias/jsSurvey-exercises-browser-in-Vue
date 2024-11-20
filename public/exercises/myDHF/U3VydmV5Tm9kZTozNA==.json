@@ -1,0 +1,211 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Demand and competition-oriented sales prices",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read the descriptions and indicate which type of demand-driven or competitive selling price is involved. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "The sales prices are set in such a way that they appear cheaper and that customers receive a cash bonus when paying in cash. They are therefore just below even franc amounts, the threshold values.",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Psychological price ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Individual items from the range at reduced prices. They are sold during a fixed offer period and/or in limited quantities (short-term low prices).",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Special offer ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Demand and competition-oriented sales prices",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the descriptions and indicate which type of demand-driven or competitive selling price is involved. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The aim of many retailers is to gain greater market share. With these prices, they try to poach some of the customers from their competitors or eliminate the competition. These prices are often below cost price. ",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Fighting price ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Retailers offer selected items at long-term low prices. These items are often specially highlighted in advertisements. Such offers are intended to bring customers into the store.",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Decoy price",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Demand and competition-oriented sales prices",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Read the descriptions and indicate which type of demand-driven or competitive selling price is involved. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "The manufacturer's recommended retail prices for branded products are often found in advertising, on brochures or on the packaging. The retailer can exceed or fall short of these recommended prices. ",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Target price",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "These are fixed prices, i.e. prices that the retailer may neither exceed nor fall below. If a retailer does not adhere to these fixed prices, the supplier can refuse to continue supplying him (delivery boycott). ",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Prescribed sales price ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Demand and competition-oriented sales prices",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Read the descriptions and indicate which type of demand-driven or competitive selling price is involved. ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Since there is no competition, the supplier can sell his goods and services at any price.",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Monopoly price ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Minimum prices are used to protect the interests of certain producers. Minimum prices may not be undercut. Maximum prices protect consumers, as these prices may not be exceeded. For social reasons, prices are set lower than they would be on the free market.",
+              "choices": [
+                "Target price",
+                "Monopoly price",
+                "State-influenced price ",
+                "Psychological price ",
+                "Prescribed sales price ",
+                "Special offer ",
+                "Fighting price ",
+                "Decoy price"
+              ],
+              "isRequired": true,
+              "correctAnswer": "State-influenced price ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

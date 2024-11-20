@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Leasing1",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "For which product is leasing widely used in the private sector? ",
+              "isRequired": true,
+              "correctAnswer": "Car",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Who is usually the owner of the leased products?",
+              "isRequired": true,
+              "correctAnswer": "Bank ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Which law sets out the conditions for leasing contracts?",
+              "isRequired": true,
+              "correctAnswer": "Consumer Credit Act (KKG)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What costs are added to the leasing rate for a car? ",
+              "isRequired": true,
+              "correctAnswer": "Insurance, road tax, fuel, service and repair costs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How long do I have to withdraw from a leasing contract?",
+              "isRequired": true,
+              "correctAnswer": "7 days",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What does the lessor have to check before concluding the contract?",
+              "isRequired": true,
+              "correctAnswer": "Creditworthiness of the lessee",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "What happens if you leave a leasing contract prematurely?",
+              "isRequired": true,
+              "correctAnswer": "Penalty fee is due.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "What is the basic principle regarding the costs of car leasing? ",
+              "isRequired": true,
+              "correctAnswer": "Leasing is always more expensive than buying.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why is it important in your profession to know the needs framework?",
+              "isRequired": true,
+              "correctAnswer": "By expertly clarifying the needs of your customers and finding out their buying motives and purchasing power as well as what they want to buy, you can select the product or products from the range that best meet their needs. The ultimate goal is sales success and satisfied customers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What information is particularly important when clarifying the needs framework so that the customer's expectations can be met? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Particularly important is the information that provides insight into the customer's buying motive. Knowledge of the buying motive enables retail employees to derive the customer's requirements for the product. The relevant product features and additional services can then be emphasized when presenting the goods.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Why do customers who want to buy the same thing not necessarily buy the same product? ",
+              "isRequired": true,
+              "correctAnswer": "Although customers often have the same desire to buy, their purchasing motives - i.e. the planned use of the product - are diverse. In addition to the purchase motive, purchasing power also influences the choice of the right product. Not everyone can (or wants to) spend the same amount of money in order to satisfy their desire to buy.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the difference between a need and a want?",
+              "isRequired": true,
+              "correctAnswer": "The need underlies the desire to buy and is rather vague in relation to the product. The need, on the other hand, is directly dependent on the purchase motive and purchasing power, meaning that only a reduced selection of suitable products can be considered.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

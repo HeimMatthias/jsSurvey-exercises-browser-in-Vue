@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "What goal should you generally pursue with a customer meeting?",
+              "choices": [
+                "Convince the customer.",
+                "Intimidate the customer.",
+                "Get to know the customer better.",
+                "Confuse the customer."
+              ],
+              "correctAnswer": [
+                "Convince the customer.",
+                "Get to know the customer better."
+              ]
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "The aim of customer meetings is to convince the customer of the service offered or to get to know him better in order to recommend a more suitable product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Why is it important to actively listen when talking to a customer?",
+              "choices": [
+                "Not to contradict the customer.",
+                "To impose your own opinion.",
+                "To understand the customer's needs.",
+                "To interrupt the customer at a suitable point."
+              ],
+              "correctAnswer": [
+                "To understand the customer's needs."
+              ]
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "The customer's needs should be better understood through proper listening."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "What role does empathy play in a successful customer meeting?",
+              "choices": [
+                "Empathy must not have any influence, otherwise you are biased.",
+                "Empathy is important in order to understand the customer's needs.",
+                "Empathy is irrelevant, only the product counts.",
+                "Empathy is only important for social conversations."
+              ],
+              "correctAnswer": [
+                "Empathy is important in order to understand the customer's needs."
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "Empathy helps you to be fully attuned to the customer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "What is the best way to deal with a customer's objections?",
+              "choices": [
+                "Ignore them and move on to the next point.",
+                "Convince the customer that their objections are unfounded.",
+                "Take the customer's objections seriously and offer solutions.",
+                "Criticize the customer for his objections."
+              ],
+              "correctAnswer": [
+                "Take the customer's objections seriously and offer solutions."
+              ]
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "The customer's objections should definitely be discussed and solutions sought."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "checkbox",
+              "title": "What is the difference between open and closed questions in a customer meeting?",
+              "choices": [
+                "Open questions should be asked in discussions with customers.",
+                "Open questions require only yes/no answers, closed questions encourage detailed answers.",
+                "Open questions encourage detailed answers, closed questions only require yes/no answers.",
+                "Open questions are suitable for informal discussions, closed questions for formal discussions."
+              ],
+              "correctAnswer": [
+                "Open questions should be asked in discussions with customers.",
+                "Open questions encourage detailed answers, closed questions only require yes/no answers."
+              ]
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "By answering open questions, the customer reveals a lot, which can help to better understand her needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Customer meetings",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Answer the following multiple-choice questions about customer meetings and briefly justify the solutions you have chosen. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "checkbox",
+              "title": "How can you build trust in a customer meeting?",
+              "choices": [
+                "By withholding important information.",
+                "By communicating honestly, transparently and reliably.",
+                "By criticizing the customer.",
+                "By being friendly and approachable."
+              ],
+              "correctAnswer": [
+                "By communicating honestly, transparently and reliably.",
+                "By being friendly and approachable."
+              ]
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "Open, honest and friendly communication helps to build trust."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

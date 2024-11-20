@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "title": "Interruption of supply chains",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions about the ECO report \"Corona pandemic interrupts supply chains\" (SRF 1, 8.2.2021). ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why were the supply chains interrupted?",
+              "isRequired": true,
+              "correctAnswer": "Lockdowns were imposed in numerous countries to contain the coronavirus pandemic. Production facilities in China, an important export country, were closed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why did container prices rise? ",
+              "isRequired": true,
+              "correctAnswer": "Following the resumption of production in China, demand is greater than supply and greater than transport capacity. There is a shortage of containers or the containers are not in Asia where they are needed. Shipping companies are increasing the prices for containers. The law of supply and demand applies.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Interruption of supply chains",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the following questions about the ECO report \"Corona pandemic interrupts supply chains\" (SRF 1, 8.2.2021). ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Show what effect this has on the prices of products in Switzerland.",
+              "isRequired": true,
+              "correctAnswer": "The higher transportation costs are passed on to consumers by the companies involved, i.e. the products become more expensive.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Why are goods sent around the world?",
+              "isRequired": true,
+              "correctAnswer": "In the past, transportation costs were very low. It is often much cheaper to produce goods in a low-wage country and pay for transportation than to manufacture the goods locally.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

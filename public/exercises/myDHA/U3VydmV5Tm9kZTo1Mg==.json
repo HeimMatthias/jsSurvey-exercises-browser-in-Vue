@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Der Lehrvertrag",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about your apprenticeship contract and your apprenticeship position.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What formal requirements apply to the conclusion of an apprenticeship contract?",
+              "isRequired": true,
+              "correctAnswer": "The apprenticeship contract must be in writing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Who signs the apprenticeship contract?",
+              "isRequired": true,
+              "correctAnswer": "The apprentice; in the case of minors: legal representative, training company/vocational training provider",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the role of the Cantonal Office for Vocational Education and Training?",
+              "isRequired": true,
+              "correctAnswer": "The Cantonal Office for Vocational Education and Training approves the apprenticeship contract and checks the content of the apprenticeship contract.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "List four points that must be regulated in the apprenticeship contract.",
+              "isRequired": true,
+              "correctAnswer": "Type of vocational training, vacations and time off, duration of apprenticeship, probationary period, working hours, salary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How long is the probationary period?",
+              "isRequired": true,
+              "correctAnswer": "1-3 months (maximum six months under special circumstances).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

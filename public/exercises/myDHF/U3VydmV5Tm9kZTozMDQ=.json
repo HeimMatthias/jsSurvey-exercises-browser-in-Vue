@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Division of labor ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The division of labor has something to do with specialization. ",
+                "The internal division of labor can lead to monotony. ",
+                "Example of economic division of labor: A car plant in Italy uses screws that were manufactured in Switzerland. ",
+                "Example of vertical economic division of labor: Three factories jointly produce ballpoint pens. ",
+                "Example of horizontal economic division of labor: The tableware produced in the porcelain factory is sold by the retailer. ",
+                "Specialization is more common in large companies than in small companies. "
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the division of labor correct or incorrect? ",
+              "columns": [
+                "Correct ",
+                "Wrong "
+              ],
+              "correctAnswer": {
+                "Die Arbeitsteilung hat etwas mit Spezialisierung zu tun. ": "Correct ",
+                "Die innerbetriebliche Arbeitsteilung kann zu Monotonie führen. ": "Correct ",
+                "In Grossbetrieben kommt Spezialisierung eher vor als in Kleinbetrieben. ": "Correct ",
+                "Beispiel für vertikale volkswirtschaftliche Arbeitsteilung: Drei Fabriken produzieren gemeinsam Kugelschreiber. ": "Wrong ",
+                "Beispiel für volkswirtschaftliche Arbeitsteilung: Ein Autowerk in Italien verwendet Schrauben, die in der Schweiz hergestellt wurden. ": "Wrong ",
+                "Beispiel für horizontale volkswirtschaftliche Arbeitsteilung: Das in der Porzellanfabrik produzierte Geschirr wird vom Detailhändler verkauft. ": "Wrong "
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

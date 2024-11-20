@@ -1,0 +1,168 @@
+{
+  "pages": [
+    {
+      "name": "Familienrecht",
+      "title": "Family law",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Determine whether the two correctly assess their situation from a legal perspective and correct them if necessary.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Samira and Christoph have been a couple for 5 years and finally want to get married and start a family. It is clear to Samira that she will keep her current name; after all, she runs her own dental practice, which is in her name. Christoph is not so happy with this solution, but perhaps Samira can be persuaded to give their children his name. Just a few months after their marriage, Samira becomes pregnant. They are both very excited about the little one they are about to meet. Samira doesn't care what the child's surname will be and actually complies with her husband's wish.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Family law",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Determine whether the two correctly assess their situation from a legal perspective and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "So far, the couple have hardly spoken about finances. However, in view of the impending birth, Samira would now like to know what assets her husband has and whether he has any debts. It is important to her to be financially secure. Christoph, however, thinks his financial situation is a private matter. He is still paying off a loan he took out a few years ago to afford an expensive car. He is ashamed of this and therefore wants to keep this secret to himself.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Christoph must inform Samira about his assets and debts. As his spouse, Samira has a right to receive information about his financial situation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Family law",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Determine whether the two correctly assess their situation from a legal perspective and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Christoph is relieved to have finally revealed his incriminating secret at Samira's insistence. Because he earns considerably less than Samira, they decide together that he will take care of the child and the household. Samira realizes that because of her high income, she will have to give Christoph a monthly allowance and a reasonable amount to spend as he wishes. But that is fine with her. On the other hand, she asks Christoph to give up the apartment they share and move near her practice. However, he would prefer to stay in the countryside, but has to give in to Samira's demands.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Although the change of residence seems sensible in Samira's eyes, she cannot make this decision alone; both must agree to the termination of the family home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Family law",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Determine whether the two correctly assess their situation from a legal perspective and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Samira finds a spacious, centrally located apartment 5 minutes' walk from her practice. Christoph realizes that this move makes sense in several respects and therefore agrees. The two immediately find a new tenant and move before the official notice period. No sooner have they finished furnishing everything than their daughter is born. A new life begins ... But the happiness doesn't last long. Samira and Christoph are often exhausted and clash more and more frequently. Just two years after the birth of their child, they decide to go their separate ways and initiate divorce proceedings. Samira knows that things are now getting financially tighter for her: She has to give Christoph half of the money she saved during the marriage and make additional maintenance payments, as he will continue to look after their daughter for the most part.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Family law",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Determine whether the two correctly assess their situation from a legal perspective and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Christoph wants one thing above all: as much distance as possible from Samira and her parents, who have been looking after the baby in the meantime when he has an important appointment. Despite Samira's resistance, he wants to move to another canton with his daughter.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Despite the divorce, Christoph and Samira have joint parental responsibility. This means, among other things, that they have to make all important decisions (such as moving to another canton) together."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

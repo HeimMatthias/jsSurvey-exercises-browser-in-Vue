@@ -1,0 +1,367 @@
+{
+  "pages": [
+    {
+      "name": "Wann schreibt man «das»?",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "I think ... absolute justice does not exist.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "The principle of ... taking neediness into account was new to me.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question2",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "He regrets that ... less solidarity is practiced today than in the past.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question6",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "She thinks ... a child ... growing up today should learn how important it is to act in solidarity.",
+              "choices": [
+                "that / that",
+                "that / that",
+                "that / that",
+                "that / that"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that / that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question8",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "If the house ... belonging to my neighbor were to burn down, I could offer my help.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question10",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "... we have social insurance in our country is a real privilege.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question12",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "dropdown",
+              "title": "We practiced with the decision tree for so long ... we are now real insurance professionals.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question14",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "dropdown",
+              "title": "Now I also know why the painting ... hanging in my grandparents' living room is insured.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question16",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "dropdown",
+              "title": "There are people who think it's excessive ... we insure so many things in Switzerland.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question18",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page9",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question19",
+              "type": "dropdown",
+              "title": "Is there something ... you consciously risk?",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question20",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page10",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel11",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "dropdown",
+              "title": "The risk-taking behavior ... my sister displays is frightening.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question22",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page11",
+      "title": "When do you write \"that\"?",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Use the substitute sample to decide whether \"DAS\" is spelled with one or two \"S \"s.",
+          "elements": [
+            {
+              "name": "question23",
+              "type": "dropdown",
+              "title": "... You recognize the THAT, ... is written with an S is something that nobody doubts.",
+              "choices": [
+                "that / that",
+                "that / that",
+                "that / that",
+                "that / that"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that / that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question24",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Levels of communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What level of communication is involved?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "What does the other person want to achieve? What should I do?",
+              "choices": [
+                "Relationship level",
+                "Appeal level",
+                "Self-disclosure level",
+                "Factual level"
+              ],
+              "correctAnswer": "Appeal level",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Here I learn something about the speaker's personality.",
+              "choices": [
+                "Relationship level",
+                "Appeal level",
+                "Self-disclosure level",
+                "Factual level"
+              ],
+              "correctAnswer": "Self-disclosure level",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Contains a statement about what the other person thinks about me.",
+              "choices": [
+                "Relationship level",
+                "Appeal level",
+                "Self-disclosure level",
+                "Factual level"
+              ],
+              "correctAnswer": "Relationship level",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "What is the issue? What is the situation?",
+              "choices": [
+                "Relationship level",
+                "Appeal level",
+                "Self-disclosure level",
+                "Factual level"
+              ],
+              "correctAnswer": "Factual level",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Levels of communication",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "rows": [
+                "No, I'm not going to finish it now.",
+                "I normally take on extra work without any problems, but today of all days I have something important to do.",
+                "You always come at the last minute! That's not right!",
+                "I will fulfill the task.",
+                "I'm annoyed because it's messing up my plans.",
+                "Give me a compliment, otherwise I'll leave you alone with the work.",
+                "Please find someone else.",
+                "Since when do you actually decide when I finish work - it's getting that far!"
+              ],
+              "type": "matrix",
+              "title": "Case study: Retail store, Saturday, 4.30 pm. The retail employee has actually finished work. She is packing up her personal belongings. Her boss comes in and asks her to finish some urgent work. The retail employee replies: \"Oh no, today of all days, that doesn't suit me at all today!\"\nCategorize the following messages that could be contained in the retail employee's statement into the four levels.\n",
+              "columns": [
+                "Factual content",
+                "Self-disclosure",
+                "Relationship note",
+                "Appeal"
+              ],
+              "correctAnswer": {
+                "«Ich werde die Aufgabe erfüllen.»": "Factual content",
+                "«Suchen Sie sich bitte jemand anderes.»": "Appeal",
+                "«Nein, ich werde das jetzt nicht fertig machen.»": "Factual content",
+                "«Ich bin verärgert, weil mir das meine Pläne durcheinanderbringt.»": "Self-disclosure",
+                "«Immer kommen Sie auf den letzten Drücker! Das ist nicht in Ordnung!»": "Relationship note",
+                "«Machen Sie mir ein Kompliment, sonst lasse ich Sie mit der Arbeit allein.»": "Relationship note",
+                "«Seit wann bestimmst du eigentlich, wann ich Feierabend mache – so weit kommt’s noch!»": "Relationship note",
+                "«Ich übernehme normalerweise problemlos zusätzliche Arbeiten, aber ausgerechnet heute habe ich noch etwas vor, das mir wichtig ist.»": "Self-disclosure"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

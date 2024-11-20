@@ -1,0 +1,287 @@
+{
+  "pages": [
+    {
+      "name": "Grundkonflikte",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign each of the concerns to one of the four basic conflicts.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Tax gasoline more heavily",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Extended environmental protection/liberal economic policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Expanding development aid",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Open foreign policy/restrictive migration policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Stop immigration",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Open foreign policy/restrictive migration policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grundkonflikte2",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign each of the concerns to one of the four basic conflicts.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Reduce unemployment benefit",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Ban abortions",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Liberal society/Law&Order",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Longer paternity leave",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grundkonflikte3",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign each of the concerns to one of the four basic conflicts.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Tax manager salaries more heavily",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Alcohol only from the age of 20",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Liberal society/Law&Order",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Store opening hours no longer regulated",
+              "choices": [
+                {
+                  "text": "Basic conflict: Expanded welfare state/restrictive fiscal policy",
+                  "value": "Basic conflict: Expanded welfare state/restrictive fiscal policy"
+                },
+                {
+                  "text": "Basic conflict: Liberal society/Law&Order",
+                  "value": "Basic conflict: Liberal society/Law&Order"
+                },
+                {
+                  "text": "Basic conflict: Extended environmental protection/liberal economic policy",
+                  "value": "Basic conflict: Extended environmental protection/liberal economic policy"
+                },
+                {
+                  "text": "Basic conflict: Open foreign policy/restrictive migration policy",
+                  "value": "Basic conflict: Open foreign policy/restrictive migration policy"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "Basic conflict: Extended environmental protection/liberal economic policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

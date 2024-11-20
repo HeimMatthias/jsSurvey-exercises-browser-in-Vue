@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Claims regarding the apprenticeship contract",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "An apprenticeship contract can be terminated by either party after the probationary period if a notice period of two months is observed.",
+                "The apprenticeship contract is approved by the Office for Vocational Education and Training.",
+                "The probationary period lasts three months for all apprentices.",
+                "All apprentices within a sector earn the same monthly wage."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements are true and which are false?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Wenn der Lehrbetrieb verkauft wird": "Correct",
+                "Wenn Lernende zu wenig Umsatz machen": "Falsch",
+                "Ein junger Mann hält einer alten Frau die Türe auf.": "Moral",
+                "Für alle Lernenden dauert die Probezeit drei Monate.": "Wrong",
+                "Wenn die berufsbildungsverantwortliche Person kündigt": "Falsch",
+                "Fahrzeuge, die von links kommen, haben keinen Vortritt.": "Law",
+                "Kim gibt ihren Freundinnen drei Küsschen auf die Wange.": "Customs",
+                "Der Lehrvertrag wird vom Amt für Berufsbildung genehmigt.": "Correct",
+                "Yashar ist ein vorsichtiger, rücksichtsvoller Autofahrer.": "Moral",
+                "Özge isst kein Fleisch, da ihr die Schlachttiere leidtun.": "Moral",
+                "Wenn Lernende mehr verkaufen als ausgebildete Verkäufer*innen": "Falsch",
+                "In der Schweiz ist die Mehrheit gegen die Einführung der Todesstrafe.": "Moral",
+                "Alle Lernenden innerhalb einer Branche verdienen den gleichen Monatslohn.": "Wrong",
+                "Für die Beerdigung seines Bruders bindet sich Leo traditionsgemäss eine schwarze Krawatte um.": "Customs",
+                "Ein Lehrvertrag kann nach der Probezeit beidseitig gekündigt werden, wenn eine Kündigungsfrist von zwei Monaten eingehalten wird.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

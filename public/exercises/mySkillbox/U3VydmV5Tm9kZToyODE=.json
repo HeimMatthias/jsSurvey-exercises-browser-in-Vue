@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "name": "Zusammenarbeit Schweiz-EU",
+      "title": "Switzerland-EU cooperation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "The Swiss cantons use all forms of economic cooperation among themselves. However, Switzerland works less closely with the EU. How can you tell?",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Mark the correct reason.",
+              "choices": [
+                "Switzerland has no access to the European free trade area. ",
+                "Switzerland does not form a customs, currency and economic union with the EU.",
+                "Switzerland only exports machines and watches to the EU."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Switzerland does not form a customs, currency and economic union with the EU.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

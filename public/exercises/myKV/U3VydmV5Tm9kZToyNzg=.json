@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The agent merely has to act diligently in the interests of the client, but does not owe any success.",
+                "The remuneration paid by the client to the agent is called the fee.",
+                "When a doctor treats a patient, she fulfills a mission.",
+                "A fee is owed for the order if this has been agreed or is customary.",
+                "An order must always be concluded in writing.",
+                "The agent shall not be liable if he fulfills the order carelessly.",
+                "An order can be terminated or revoked at any time.",
+                "Anyone who terminates or revokes an order at the wrong time must compensate the agent for the damage incurred."
+              ],
+              "type": "matrix",
+              "title": "Are the statements about the order correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Ein Auftrag muss immer schriftlich abgeschlossen werden.": "wrong",
+                "Ein Auftrag kann jederzeit gekündigt oder widerrufen werden.": "right",
+                "Die Vergütung des Auftraggebers an den Beauftragten nennt man Honorar.": "right",
+                "Wenn eine Ärztin eine Patientin behandelt, erfüllt sie einen Auftrag.": "right",
+                "Der Beauftragte haftet nicht, wenn er den Auftrag unsorgfältig erfüllt.": "wrong",
+                "Beim Auftrag ist ein Honorar geschuldet, wenn dies vereinbart wurde oder üblich ist.": "right",
+                "Wer einen Auftrag zur Unzeit kündigt oder widerruft, muss dem Beauftragten den entstandenen Schaden ersetzen.": "right",
+                "Die Beauftragte muss lediglich sorgfältig im Interesse des Auftraggebers tätig werden, schuldet aber keinen Erfolg.": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the following situation and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Martin Durrer, Katja's fiancé, has a dentist appointment on Friday morning at 11 am. The night before, he celebrates his bachelor party with friends. On Friday he wakes up at 10.45 a.m. and realizes that he has neither the time nor the inclination to go to the dentist. Without further ado, he calls the practice and cancels his appointment. A few weeks later, he receives the bill from the dentist for the missed appointment. However, Martin is of the opinion that he doesn't have to pay it because he canceled his appointment. Is he right? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No, Martin is not right. An order can be terminated or revoked at any time. However, if the termination or revocation is made at an inopportune time, the damage incurred must be compensated. Since Martin canceled the appointment at very short notice, it was no longer possible for the dentist to schedule another patient for this time - accordingly, Martin must pay for the damages incurred by the dentist as a result of his non-appearance (Art. 404 para. 2 CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

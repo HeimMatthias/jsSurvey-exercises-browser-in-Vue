@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Store sales",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Now answer the following questions using the table structure of partial results:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) What was the turnover of the Basel branch?",
+              "correctAnswer": "CHF 2 420 936.65"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "b) What was the lowest total turnover in Zurich?",
+              "correctAnswer": "CHF 570 666.00"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "c) How many total sales were higher than 80,000?",
+              "correctAnswer": "15"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "d) What was the average turnover in Lucerne in the quarter?",
+              "correctAnswer": "CHF 18 921.96"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "e) How many average sales were less than CHF 20,000?",
+              "correctAnswer": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

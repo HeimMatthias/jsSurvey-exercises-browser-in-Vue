@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Personal insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What benefits does the health insurance company provide under basic insurance?",
+              "correctAnswer": "Doctor's visit, laboratory, medication, hospital general ward, emergency treatment abroad, maternity costs."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is a franchise?",
+              "correctAnswer": "Insured persons pay at least the first CHF 300 and at most the first CHF 2500 of their treatment costs per calendar year themselves. This amount is called the deductible and can be determined by the insured person."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How can health insurance premiums be reduced?",
+              "correctAnswer": "Switch to the cheapest health insurance company, increase your deductible, get a second opinion from another doctor, HMO model, Telmed model, save on supplementary insurance, people on low incomes can claim premium reductions, live healthily"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

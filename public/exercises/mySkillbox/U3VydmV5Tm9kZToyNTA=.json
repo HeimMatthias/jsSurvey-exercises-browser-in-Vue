@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "Demokratie",
+      "title": "Direct, indirect and semi-direct democracy",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In Switzerland, voters were able to influence the issue of the nuclear phase-out twice - once directly and once indirectly. In Germany, the people only had an indirect say. Now read the first part of the instrument \"Direct, indirect and semi-direct democracy\" and then complete the following sentences:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "In Germany, the people were able to have an indirect say on the nuclear phase-out by ...",
+              "isRequired": true,
+              "correctAnswer": "... elected the parliament that decided on the exit.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "In Switzerland, the people were able to have an indirect say on the nuclear phase-out by ...",
+              "isRequired": true,
+              "correctAnswer": "... elected the parliament that prepared the exit.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "In Switzerland, the people were also able to have a direct say on the nuclear phase-out by ...",
+              "isRequired": true,
+              "correctAnswer": "... voted on the energy strategy (or the phase-out or the new law).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Switzerland is a semi-direct democracy because the electorate can ... and ... influence ....",
+              "isRequired": true,
+              "correctAnswer": "Switzerland is a semi-direct democracy because the electorate can influence issues directly and indirectly.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Demokratie2",
+      "title": "Direct, indirect and semi-direct democracy",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M6_A1_Grafik_AbQsZAf.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "Frage 5",
+              "rows": [
+                "Referendum",
+                "Voting",
+                "Elections",
+                "Initiative"
+              ],
+              "type": "matrix",
+              "title": "Assign the co-determination rights according to the diagram. Tip: One term belongs to the intersection of the two forms of democracy.",
+              "columns": [
+                "semi-direct democracy",
+                "Indirect democracy",
+                "Intersection"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Wahlen": "Intersection",
+                "Abstimmung": "semi-direct democracy",
+                "Initiative": "semi-direct democracy",
+                "Referendum": "semi-direct democracy"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Demokratie3",
+      "title": "Direct, indirect and semi-direct democracy",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M6_A1_Grafik_AbQsZAf.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Using the diagram and the two terms \"direct\" and \"indirect right of co-determination\", explain why Swiss citizens have a dual role in politics:",
+              "isRequired": true,
+              "correctAnswer": "Swiss citizens may elect representatives (indirect right of co-determination) and vote on a regular basis (direct right of co-determination). They can also bring about referendums themselves by supporting an optional referendum or a popular initiative (direct right of co-determination).\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

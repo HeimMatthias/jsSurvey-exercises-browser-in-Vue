@@ -1,0 +1,224 @@
+{
+  "pages": [
+    {
+      "name": "Ski-Gebiet Alpina1",
+      "title": "Alpina ski area",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "The \"Alpina\" ski area has switched to a \"dynamic\" price model. The prices for the day passes change every day. The basic price for the day pass is CHF 50. Let's take a closer look at the respective reasons for price changes on four ski days.\nOn day 1, the snow conditions are optimal and the weather is very good. \nOn day 2 it is raining. \nDay 3 is a Sunday.\nDay 4 is just before the end of the season. The two neighboring ski areas, which are similar in size, have already closed.",
+          "elements": [
+            {
+              "name": "Entscheiden Sie, ob die jeweilige Ursache primär die Angebots- oder die Nachfrageseite betrifft.",
+              "rows": [
+                {
+                  "text": "Tag 1",
+                  "value": "Tag 1"
+                },
+                {
+                  "text": "Tag 2",
+                  "value": "Tag 2"
+                },
+                {
+                  "text": "Tag 3",
+                  "value": "Tag 3"
+                },
+                {
+                  "text": "Tag 4",
+                  "value": "Tag 4"
+                }
+              ],
+              "type": "matrix",
+              "title": "Decide whether the cause primarily affects the supply side or the demand side.",
+              "columns": [
+                {
+                  "text": "The supply is primarily affected.",
+                  "value": "The supply is primarily affected."
+                },
+                {
+                  "text": "Demand is primarily affected.",
+                  "value": "Demand is primarily affected."
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Tag 1": "Betroffen ist primär die Nachfrage.",
+                "Tag 2": "Betroffen ist primär die Nachfrage.",
+                "Tag 3": "Betroffen ist primär die Nachfrage.",
+                "Tag 4": "Betroffen ist primär das Angebot.",
+                "Tag 1": "Demand is primarily affected.",
+                "Tag 2": "Demand is primarily affected.",
+                "Tag 3": "Demand is primarily affected.",
+                "Tag 4": "The supply is primarily affected."
+              },
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "rows": [
+                {
+                  "text": "Tag 1",
+                  "value": "Tag 1"
+                },
+                {
+                  "text": "Tag 2",
+                  "value": "Tag 2"
+                },
+                {
+                  "text": "Tag 3",
+                  "value": "Tag 3"
+                },
+                {
+                  "text": "Tag 4",
+                  "value": "Tag 4"
+                }
+              ],
+              "type": "matrix",
+              "title": "Decide whether supply or demand is increasing or decreasing.",
+              "columns": [
+                {
+                  "text": "Supply or demand is high/increasing.",
+                  "value": "Supply or demand is high/increasing."
+                },
+                {
+                  "text": "The supply or demand is small/sinking.",
+                  "value": "The supply or demand is small/sinking."
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Tag 1": "Das Angebot resp. die Nachfrage ist gross/steigt.",
+                "Tag 2": "Das Angebot resp. die Nachfrage ist klein/sinkt.",
+                "Tag 3": "Das Angebot resp. die Nachfrage ist gross/steigt.",
+                "Tag 4": "Das Angebot resp. die Nachfrage ist klein/sinkt.",
+                "Tag 1": "Supply or demand is high/increasing.",
+                "Tag 2": "The supply or demand is small/sinking.",
+                "Tag 3": "Supply or demand is high/increasing.",
+                "Tag 4": "The supply or demand is small/sinking."
+              },
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "rows": [
+                {
+                  "text": "Day 1",
+                  "value": "Day 1"
+                },
+                {
+                  "text": "Day 2",
+                  "value": "Day 2"
+                },
+                {
+                  "text": "Day 3",
+                  "value": "Day 3"
+                },
+                {
+                  "text": "Day 4",
+                  "value": "Day 4"
+                }
+              ],
+              "type": "matrix",
+              "title": "Decide whether prices will fall or rise as a result",
+              "columns": [
+                {
+                  "text": "Prices fall",
+                  "value": "Prices fall"
+                },
+                {
+                  "text": "Rising prices",
+                  "value": "Rising prices"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Tag 1": "Rising prices",
+                "Tag 2": "Prices fall",
+                "Tag 3": "Rising prices",
+                "Tag 4": "Rising prices"
+              },
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Note the market law that is affected on day 1. ",
+              "isRequired": true,
+              "correctAnswer": "Market law 2: Demand > supply = prices rise",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ski-Gebiet Alpina2",
+      "title": "Alpina ski area",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "The \"Alpina\" ski area has fewer customers this year than last year because there is often no snow at all. Almost all other ski resorts in the region are experiencing the same situation. Many ski resorts are therefore trying to attract customers with low prices for day tickets.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What does this development mean for the number of ski resorts in this region in the long term? Formulate an assumption based on a market law. Make a note of the market law as well as the assumption.",
+              "isRequired": true,
+              "correctAnswer": "The number of ski resorts will fall in the long term = market law 4: prices fall = supply falls\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ski-Gebiet Alpina3",
+      "title": "Alpina ski area",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "The \"Alpina\" ski resort also has problems with the strong Swiss franc.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Write down the technical term for the exchange price of currencies such as CHF, euros or dollars and the name of the market on which currencies are exchanged.",
+              "isRequired": true,
+              "correctAnswer": "Exchange rate/foreign exchange market",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Note the market law that is responsible for the CHF strengthening.",
+              "isRequired": true,
+              "correctAnswer": "Market law 2: Demand > supply = prices rise",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Explain to a colleague why the strong CHF is a problem for the \"Alpina\" ski resort.",
+              "isRequired": true,
+              "correctAnswer": "A strong CHF makes Swiss products and services (such as day tickets for a ski resort) more expensive for foreign guests. As a result, their demand decreases and the turnover of ski resorts falls. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

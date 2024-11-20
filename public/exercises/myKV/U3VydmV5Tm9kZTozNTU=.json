@@ -1,0 +1,116 @@
+{
+  "pages": [
+    {
+      "name": "Informationsgespräch",
+      "title": "Information meeting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Prepare for a fictitious informational interview together with someone from your class.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "In pairs, think about what the content of this information meeting should be.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What questions will help you prepare for the interview?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: What do I want to know? Why do I need the figures, data and facts? What experiences have I already had with the person I am talking to? How do I plan the structure of the conversation? How do I formulate the key points in the conversation? What goals am I pursuing with the conversation? What do I want to find out, understand (better), be able to assess? What do I need the information for? What should be the result at the end of the conversation - not the content, but the goal of the conversation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How can you build a good relationship, create a pleasant atmosphere and convey appreciation?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, advice on solutions: Create a pleasant atmosphere, show interest in the person you are talking to, don't rush.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Information meeting",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you open the conversation? How do you clarify the reason for the conversation? How do you explain the reason for the conversation? How do you formulate the background and expectations for this conversation?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: Establish agreement, explain the reason for the conversation, formulate the background and expectations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How do you organize the main part of the conversation (dialogue)?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: Information exchange, information collection, questions for root cause analysis according to Kiefer (2001), information organization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How do you go about finding a solution?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: Develop joint solution and reach agreement, weight solutions, decide which solution applies, query acceptance, check whether the solution is based on a shared view of the problem, clarify next steps, define to-dos, create timetable",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Information meeting",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "How do you conclude the conversation?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: Relationship management: Thanking and appreciating for cooperation and information.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "How do you prepare for this interview?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, solution tips: Reflection on the information received, documentation if necessary, planning your own next steps, recording outstanding points",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

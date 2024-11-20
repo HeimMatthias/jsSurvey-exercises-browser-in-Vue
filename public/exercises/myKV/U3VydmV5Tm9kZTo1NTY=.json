@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Telephone note",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You have now heard the phone call. What information is important to you? Make sure you have written down all the information. Work with your notes and answer the following questions:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "1. what is the caller's name?",
+              "correctAnswer": "Franko Kovac",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "2. what is the name of the company the caller works for and where is it based?",
+              "correctAnswer": "Inforama, Frankfurt",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "3. what is the order number?",
+              "correctAnswer": "784201",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "4. when was the order placed?",
+              "correctAnswer": "March 12",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Telephone note",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "You have now heard the phone call. What information is important to you? Make sure you have written down all the information. Work with your notes and answer the following questions:",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "5. what was the order at the time?",
+              "correctAnswer": "At the time, Mr. Kovac ordered 30 chairs with covers in the color anthracite.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "6 What changes should be made to the order?",
+              "correctAnswer": "Mr. Kovac would like to order 10 new chairs with covers in anthracite (B 50), 10 chairs in the color blue (B 51) and 10 chairs in the color green (B 53).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "7. when should the new delivery arrive?",
+              "correctAnswer": "Next week",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "8. what else does the caller have to do before the order is triggered?",
+              "correctAnswer": "He must confirm the new order.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Produktivität",
+      "title": "Productivity",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Describe how productivity could be increased in the following four situations. Formulate a proposal and explain which of the two principles is affected.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Samuel has recently got a girlfriend and would like to have a little more \tfree time to spend with her. Nevertheless, he doesn't want to neglect school. He therefore wonders how he could make learning more productive. He usually just reads the material over and over until he can memorize everything.",
+              "isRequired": true,
+              "correctAnswer": "Suggestion: Samuel could concentrate specifically on the content that he has not yet mastered and then practise this specifically by making structured sketches. Reason: This way, he would have to spend less time (less input) to understand the given learning material (fixed output) > minimum principle.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Isabelle meets her friends on the riverbank in the evening. They make a fire to keep warm. However, they find it tedious that they have to keep adding branches so that the fire doesn't go out. At the same time, they don't feel like putting in any more effort.",
+              "isRequired": true,
+              "correctAnswer": "Suggestion: You could use thicker pieces of wood instead of branches. Justification: With the same effort (fixed input), the fire would burn longer (greater output) > maximum principle.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Ramon is doing an apprenticeship as a chef and is in the process of preparing salad plates for the lunch service. His boss thinks he is working too slowly. Ramon sets himself the goal of preparing 50 plates the next morning instead of just 30 like today.",
+              "isRequired": true,
+              "correctAnswer": "Suggestion: Ramon could discuss with his boss how he can increase his speed without additional stress. Reason: This would allow him to prepare more plates (greater output) in one morning (fixed input) > Maximum principle.\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

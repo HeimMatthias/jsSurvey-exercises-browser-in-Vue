@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "Bildbeschreibung",
+      "title": "Image description",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the questions below for the selected picture from subtask a).",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Think about the style in which this picture was painted (close to nature, changing nature, abstract). Use the \"What is art?\" tool as a guide:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Use the \"View and evaluate images\" tool to look at your work: first go through all the steps in the tool and make notes in keywords:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Put your notes into a coherent, coherent form. To do this, use the phrases from the \"Talking and writing about works\" tool:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

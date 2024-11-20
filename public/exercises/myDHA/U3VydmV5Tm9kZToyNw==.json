@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "title": "Egg shortage",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions about the newspaper article \"Eggs for Christmas cookies missing - prices massively higher\" (Blick, 30.11.2022). ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What was the situation on the Swiss egg market just before Christmas 2022? ",
+              "isRequired": true,
+              "correctAnswer": "Swiss eggs became scarce and the import quotas were used up.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are import quotas?",
+              "isRequired": true,
+              "correctAnswer": "Import quotas are imposed by the state. They specify the quantity of a product that may be imported into Switzerland from abroad each year.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "To which influencing factor can the import quotas be attributed?",
+              "isRequired": true,
+              "correctAnswer": "This is a state intervention (external influencing factor).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Egg shortage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the newspaper article \"Eggs for Christmas cookies missing - prices massively higher\" (Blick, 30.11.2022). ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What other influencing factor plays a key role in the egg shortage shortly before Christmas?",
+              "isRequired": true,
+              "correctAnswer": "Customer behavior. The demand for eggs is high.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What effect does the egg shortage have on the price?",
+              "isRequired": true,
+              "correctAnswer": "The price will rise.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Egg shortage",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the newspaper article \"Eggs for Christmas cookies missing - prices massively higher\" (Blick, 30.11.2022). ",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How is Migros responding to the egg shortage? ",
+              "isRequired": true,
+              "correctAnswer": "Migros puts Swiss eggs on the shelves that deviate from the norm and would not be sold under normal circumstances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What are the causes of the egg shortage? ",
+              "isRequired": true,
+              "correctAnswer": "Many chickens had to be killed due to bird flu. In addition, many farmers have reduced or completely stopped production due to increased costs.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

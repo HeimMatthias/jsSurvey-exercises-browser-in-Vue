@@ -1,0 +1,127 @@
+{
+  "pages": [
+    {
+      "name": "Lehrverträge vergleichen",
+      "title": "Compare apprenticeship contracts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Welche Art von Rechtsvorschrift regelt die Berufsunfallversicherung im Lehrvertrag?",
+              "type": "radiogroup",
+              "title": "What type of legal provision governs occupational accident insurance in the apprenticeship contract?",
+              "choices": [
+                "Mandatory legal provision",
+                "relatively mandatory legal provision",
+                "Dispositive legal provision",
+                "no legal provision at all"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Mandatory legal provision",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lehrverträge vergleichen1",
+      "title": "Compare apprenticeship contracts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Welche Art von Rechtsvorschrift regelt den Bruttolohn im Lehrvertrag?",
+              "type": "radiogroup",
+              "title": "What type of legal provision regulates the gross wage in the apprenticeship contract?",
+              "choices": [
+                "Mandatory legal provision",
+                "relatively mandatory legal provision",
+                "Dispositive legal provision",
+                "no legal provision at all"
+              ],
+              "isRequired": true,
+              "correctAnswer": "no legal provision at all",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lehrverträge vergleichen2",
+      "title": "Compare apprenticeship contracts",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Welche Art von Rechtsvorschrift regelt die Ferien im Lehrvertrag?",
+              "type": "radiogroup",
+              "title": "What type of legal provision regulates vacation in the apprenticeship contract?",
+              "choices": [
+                "Mandatory legal provision",
+                "relatively mandatory legal provision",
+                "Dispositive legal provision",
+                "no legal provision at all"
+              ],
+              "isRequired": true,
+              "correctAnswer": "relatively mandatory legal provision",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründen Sie Ihre Entscheidung.",
+              "type": "comment",
+              "title": "Give reasons for your decision.",
+              "isRequired": true,
+              "correctAnswer": "All apprentices are granted at least five weeks' vacation in all apprenticeship years.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lehrverträge vergleichen3",
+      "title": "Compare apprenticeship contracts",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Welche Art von Rechtsvorschrift regelt die Kosten aus dem Besuch der schulischen Bildung?",
+              "type": "radiogroup",
+              "title": "What type of legislation regulates the costs arising from attending school education?",
+              "choices": [
+                "Mandatory legal provision",
+                "relatively mandatory legal provision",
+                "Dispositive legal provision",
+                "no legal provision at all"
+              ],
+              "isRequired": true,
+              "correctAnswer": "no legal provision at all",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

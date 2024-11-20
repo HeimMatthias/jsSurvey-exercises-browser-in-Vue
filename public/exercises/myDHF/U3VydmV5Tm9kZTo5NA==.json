@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "Welthandel",
+      "title": "World trade",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Import and export of Switzerland\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are Switzerland's most important trading partners? ",
+              "isRequired": true,
+              "correctAnswer": "Germany, Italy, France and the USA",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the names of the treaties with which Switzerland is seeking access to the European market? ",
+              "isRequired": true,
+              "correctAnswer": "Bilateral agreements between Switzerland and the EU",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What points were negotiated bilaterally with the EU? ",
+              "isRequired": true,
+              "correctAnswer": "Bilateral agreements I: movement of persons, air transport, land transport, agriculture, public procurement, technical barriers to trade, research; Bilateral agreements II: police cooperation (Schengen), asylum (Dublin), taxation of savings income, processed agricultural products, combating fraud, environment, pensions, media, statistics, education\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "World trade",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What role do foreign workers play in Switzerland? ",
+              "isRequired": true,
+              "correctAnswer": "Foreign workers make a decisive contribution to the well-being of the Swiss economy. Around 25 percent of all people living in Switzerland are foreign nationals.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How do the foreign workers working in Switzerland today differ from the foreign workers in the 1960s?",
+              "isRequired": true,
+              "correctAnswer": "In contrast to the 1960s, it is mainly highly qualified foreign workers who come to Switzerland.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is meant by economic globalization? ",
+              "isRequired": true,
+              "correctAnswer": "Aspects of economic globalization: World trade in goods is increasing. Production takes place where it is cheapest. The amount of capital being moved from one country to another is constantly increasing. Companies are relocating their headquarters abroad. Large corporations are the main participants in global trade. Markets are being opened up and barriers to trade removed. The companies that are active worldwide have more and more power. Politics and therefore national governments have become weaker.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "World trade",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Which major trading blocs in the global economy do you know? ",
+              "isRequired": true,
+              "correctAnswer": "NAFTA (USA/North America), EU and EEA (Europe), Japan and ASEAN countries (Asia), BRICS, MERCOSUR\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What is the purpose of the WTO? ",
+              "isRequired": true,
+              "correctAnswer": "The WTO aims to promote the trade of goods and services between nations and, to this end, to dismantle trade barriers. It also aims to protect intellectual property worldwide and secure access to public procurement markets.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What are the three pillars of the WTO?",
+              "isRequired": true,
+              "correctAnswer": "GATT (General Agreement on Tariffs and Trade), GATS (General Agreement on Trade and Services), TRIPS (Trade-related Aspects of Intellectual Property Rights)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

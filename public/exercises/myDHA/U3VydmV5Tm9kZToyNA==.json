@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Are the jeans displayed and priced as a binding offer? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Yes, goods displayed in the shop window are considered a binding offer and must be sold at the advertised price.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Manuela actually wants to sell the jeans for CHF 150. However, she has mistakenly written CHF 140 on the display in the shop window. A customer now wants to buy a pair of jeans for CHF 140. Does Manuela have to sell the pants at the lower price? Explain the facts of the case.",
+              "isRequired": true,
+              "correctAnswer": "Yes, this is an insignificant error that the customer was unable to detect. Manuela must therefore sell at least one pair of jeans for CHF 140.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "comment",
+              "title": "Would Manuela have to sell the pants if she had forgotten a zero in the letter and had only written CHF 15 instead of CHF 150? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "In this case, Manuela would not have to return the trousers at the lower price, as this was a material error. The customer had to expect that this very low price could not be correct and that a mistake had been made in the letter.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unemployment insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment insurance\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is unemployment insurance?",
+              "isRequired": true,
+              "correctAnswer": "If you lose your job, you do not automatically receive unemployment benefits (so-called daily allowances). With the exception of university graduates, everyone has to prove that they were gainfully employed before becoming unemployed. The decisive factors for receiving daily allowances are how long you have been in employment and how old you are. In the event of redundancy, it is important to register with the relevant office as early as possible - depending on the canton, with the municipality of residence or the RAV.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How many days is the entitlement to unemployment insurance for people under 55 who have paid AHV contributions without interruption in the last 24 months?",
+              "isRequired": true,
+              "correctAnswer": "400 Tage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,138 @@
+{
+  "pages": [
+    {
+      "name": "Entwicklungen",
+      "title": "Self-assessment",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Entscheiden Sie für die folgenden Entwicklungen, ob hauptsächlich die Ausgabe- oder die Einnahmeseite der AHV betroffen ist. Entscheiden Sie zudem jeweils, ob die Ausgaben/Einnahmen aufgrund dieser Entwicklung zu- oder abnehmen werden. Ein Beispiel zeigt, wie es gemeint ist.",
+              "rows": [
+                "I organize my work well in my apprenticeship.",
+                {
+                  "text": "I use different working techniques.",
+                  "value": "I use different working techniques.in Switzerland is increasing."
+                },
+                "I always draw up a plan for studying for exams.",
+                "I visualize complex topics.",
+                "I work systematically on a factual text."
+              ],
+              "type": "matrix",
+              "title": "Assess your methodological skills. Note down measures to improve in these areas for the areas where you rate \"Often does not apply\".",
+              "columns": [
+                "Mostly true",
+                "Often does not apply"
+              ],
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Possible measures for improvement:",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Self-assessment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                {
+                  "text": "I take responsibility for my actions.",
+                  "value": "I take responsibility for my actions. "
+                },
+                "I can work well independently.",
+                {
+                  "text": "I keep calm and maintain an overview in hectic times. ",
+                  "value": "I keep calm and maintain an overview in hectic times."
+                },
+                "I am open to new ideas.",
+                "I can adapt well to new situations."
+              ],
+              "type": "matrix",
+              "title": "Assess your self-competence. Note down measures to improve in these areas for the areas where you rate \"Often does not apply\".",
+              "columns": [
+                "Mostly true",
+                "Often does not apply"
+              ],
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Possible measures for improvement:",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Self-assessment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "rows": [
+                {
+                  "text": "I am actively involved in teamwork.",
+                  "value": "I am actively involved in teamwork. "
+                },
+                "I express myself clearly in discussions.",
+                {
+                  "text": "I keep calm and maintain an overview in hectic times. ",
+                  "value": "I keep calm and maintain an overview in hectic times."
+                },
+                "I deal constructively with criticism of myself.",
+                "I behave calmly and objectively in conflict situations."
+              ],
+              "type": "matrix",
+              "title": "Assess your social skills. Note down measures to improve in these areas for the positions with the assessment \"Often does not apply\".",
+              "columns": [
+                "Mostly true",
+                "Often does not apply"
+              ],
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Possible measures for improvement:",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

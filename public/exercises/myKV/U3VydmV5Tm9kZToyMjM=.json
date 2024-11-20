@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Purchase contract",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "You order a new sweater from an online store.",
+                "A farmer buys Lizzy the dairy cow.",
+                "Your employer sells you an old computer at a low price because she is replacing the equipment with the latest generation.",
+                "A farmer buys 20 acres of pasture land.",
+                "You bid for a used smartphone at Ricardo.",
+                "A farmer buys 800 kg of feed meal."
+              ],
+              "type": "matrix",
+              "title": "What types of sales contracts are involved in the following examples?",
+              "columns": [
+                "Species purchase",
+                "Generic purchase",
+                "Purchase of land"
+              ],
+              "correctAnswer": {
+                "Ein Bauer kauft 20 Aren Weideland.": "Purchase of land",
+                "Ein Bauer kauft 800 kg Futtermehl.": "Generic purchase",
+                "Ein Bauer kauft die Milchkuh Lizzy.": "Species purchase",
+                "Sie ersteigern bei Ricardo ein gebrauchtes Smartphone.": "Species purchase",
+                "Sie bestellen in einem Onlineshop einen neuen Pullover.": "Generic purchase",
+                "Ihre Arbeitgeberin verkauft Ihnen günstig einen alten Computer, weil sie die Geräte durch solche der neuesten Generation ersetzt.": "Species purchase"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Purchase contract",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Her teacher buys a vacation apartment in the Franches-Montagnes.",
+                "For the upcoming engagement, choose two rings from the jeweler and have the inscription \"Love you\" engraved.",
+                "Her teacher orders a new hiking rucksack from a mail-order company for the upcoming school trip.",
+                "Your employer buys a new office building.",
+                "You order 25 sausages from the butcher for the class party.",
+                "Her teacher buys a fox-red 1969 Porsche 911 S from a classic car dealer."
+              ],
+              "type": "matrix",
+              "title": "What types of sales contracts are involved in the following examples?",
+              "columns": [
+                "Species purchase",
+                "Generic purchase",
+                "Purchase of land"
+              ],
+              "correctAnswer": {
+                "Ihre Arbeitgeberin kauft ein neues Bürogebäude.": "Purchase of land",
+                "Ihre Lehrerin kauft sich eine Ferienwohnung in den Freibergen.": "Purchase of land",
+                "Sie bestellen für das Klassenfest beim Metzger 25 Bratwürste.": "Generic purchase",
+                "Ihre Lehrerin kauft sich bei einem Oldtimerhändler einen fuchsroten Porsche 911 S Baujahr 1969.": "Species purchase",
+                "Ihre Lehrerin bestellt sich bei einer Versandhändlerin für die anstehende Klassenfahrt einen neuen Wanderrucksack.": "Generic purchase",
+                "Für die anstehende Verlobung suchen Sie beim Juwelier zwei Ringe aus und lassen die Inschrift «Love you» eingravieren.": "Species purchase"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

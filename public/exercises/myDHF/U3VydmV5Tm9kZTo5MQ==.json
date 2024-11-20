@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Rechte und Pflichten",
+      "title": "Rights and obligations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Rights and duties\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name five rights and five duties of each learner.",
+              "isRequired": true,
+              "correctAnswer": "Rights: Regulation of working hours; five weeks' vacation per apprenticeship year for young people up to the age of 20; compulsory lessons at vocational school count as working hours; if a school day consists of at least eight lessons, no more work is required on the same day; attendance of free subjects or support courses during working hours is permitted for up to half a day per week without deduction of salary; duties: Carry out the instructions of those responsible for vocational training; maintain business confidentiality; no undeclared work; regular attendance at vocational school; full commitment to passing the qualification procedures",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name five duties of vocational trainers.",
+              "isRequired": true,
+              "correctAnswer": "Training apprentices in accordance with the training program; coordinating the training with the subjects at the vocational school; informing apprentices about measures in connection with the apprenticeship and granting them the right to have a say; informing legal representatives if the apprenticeship is not proceeding in accordance with the regulations; assigning work orders relevant to the profession",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the requirements for a training company?",
+              "isRequired": true,
+              "correctAnswer": "The training company must train the apprentices in accordance with the official training regulations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Describe the path to be taken if problems arise during the apprenticeship. ",
+              "isRequired": true,
+              "correctAnswer": "The learner should first ask himself or herself who is responsible for which problems, then talk to a neutral person of trust and then have a discussion with the person responsible for vocational training. If the conflict cannot be resolved, the apprenticeship supervisory committee must be informed.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

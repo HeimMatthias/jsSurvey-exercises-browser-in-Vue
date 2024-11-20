@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "You are unemployed through your own fault or because you have quit your job yourself. What consequences can this have for the payment of unemployment benefit? Look up Art. 30 of the AVIG (Unemployment Insurance Act).",
+              "isRequired": true,
+              "correctAnswer": "The cantonal office may suspend the payment of unemployment benefit for a maximum of 60 days, depending on fault.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you do in the event of termination during the notice period and why?",
+              "isRequired": true,
+              "correctAnswer": "Start looking for a new job during the notice period. / Prepare new application documents. / Think carefully about what kind of work you would like to do and whether a career change might be an option. / Keep the documents (letters of application, job offers, rejection letters, etc.) that you have to submit to the RAV advisor when receiving unemployment benefit in a safe place so that you do not lose a lot of time after you have been made redundant. / Contact the relevant office as early as possible (depending on the canton, either the local authority or the RAV).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Sie haben nach der Lehre keine Stelle gefunden oder haben Pech gehabt und Ihre Stelle verloren. Die Arbeitsmarktbehörden (RAV) sind da, um Ihnen mit verschiedenen Kursen, Programmen zur vorübergehenden Beschäftigung, Berufspraktika usw. eine rasche Eingliederung in den Arbeitsmarkt zu erleichtern. Dabei verbessern Sie Ihre Kenntnisse, erlernen neue Techniken, knüpfen Kontakte und halten sich auf dem Laufenden."
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

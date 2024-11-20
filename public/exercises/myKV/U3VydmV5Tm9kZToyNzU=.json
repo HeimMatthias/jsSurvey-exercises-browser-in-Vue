@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "Beendigung1",
+      "title": "Termination of the apprenticeship",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the case studies and answer whether and how the apprenticeships can be terminated.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Two weeks after starting his apprenticeship, Sandro bitterly regrets his career choice. He wants to break off his apprenticeship and start another one.",
+              "isRequired": true,
+              "correctAnswer": "Sandro can terminate the apprenticeship during the probationary period with a notice period of seven days (Art. 346 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "After five weeks, Carole's training company realizes that she does not have sufficient math and German skills for the job and wants to end the apprenticeship with her.",
+              "isRequired": true,
+              "correctAnswer": "Unless the parties have agreed otherwise, a probationary period of three months applies (Art. 344a para. 3 CO). During this probationary period, the training company may terminate the apprenticeship relationship with Carole with seven days' notice (Art. 346 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Nino is in his second year of training. When he oversleeps once and is late for work, his vocational trainer is so annoyed that he wants to dismiss Nino without notice, even though Nino is usually reliable.",
+              "isRequired": true,
+              "correctAnswer": "After the end of the probationary period, the apprenticeship can only be terminated without notice for good cause. However, a one-off delay is not an important reason. Termination without notice is therefore not possible.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Termination of the apprenticeship",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the case studies and answer whether and how the apprenticeships can be terminated.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Laura is always late for work and sometimes she even turns blue. Despite repeated warnings from the training company, she does not change her behavior.",
+              "isRequired": true,
+              "correctAnswer": "Laura's behavior cannot be expected of the training company in good faith. The training company can therefore terminate the apprenticeship without notice (Art. 346 para. 2 and Art. 337 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Georges thinks he earns far too little as an apprentice. Because he is always short of money, he repeatedly helps himself to the store till. When Georges is caught, his training company wants to dismiss him without notice.",
+              "isRequired": true,
+              "correctAnswer": "As the training company cannot reasonably be expected to accept Georges' behavior in good faith, the training company may terminate the apprenticeship without notice (Art. 346 para. 2 and Art. 337 CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Acting professionally on bad days",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Erick works in a small hotel in the Bernese Oberland and is known for his humor and good mood. This has a positive effect on his relationship with the guests. However, he has been feeling down for a few days. How can you support him so that he still makes a professional impression when looking after guests?",
+              "isRequired": true,
+              "correctAnswer": "Approach Erick in an undisturbed moment and ask if he would like to talk about the things that are bothering him. If he is open to talking, listen to him actively and discuss possible solutions with him. Continue to stay in contact with him. If he doesn't want to talk, reassure him that you are there for him if he changes his mind.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Have you already had a bad day in your company or have you noticed that a colleague is not feeling well? How did you react in this situation? Exchange ideas in groups of two.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "Situation1",
+      "title": "Comment on Sandro's answers.",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Why do you want to change employer?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Sandro's answer:",
+              "readOnly": true,
+              "defaultValue": "Bei meiner jetzigen Stelle gefällt es mir nicht besonders. Die Chemie zwischen mir und meinem Chef stimmt einfach nicht. Und ausserdem brauche ich mal Abwechslung.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Your comment:",
+              "isRequired": true,
+              "correctAnswer": "Motivation relates only to the past (current job) rather than the job he is applying for. Do not talk about bad relationships with the current employer. Variety is good, but rephrase: \"I am looking for a new challenge.\"",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Comment on Sandro's answers.",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Why do you want to work in our company of all places?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Sandro's answer:",
+              "readOnly": true,
+              "defaultValue": "Die Stelle war halt ausgeschrieben, und die SBB kennen alle.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Your comment:",
+              "isRequired": true,
+              "correctAnswer": "Sandro gives the impression that he doesn't care where he works. However, he should focus on SBB as an employer and explain why he wants to work for the railroad. The fact that everyone knows SBB is perfectly valid, but he should also package this a little better. \"I would be delighted to be able to contribute my expertise to Switzerland's largest and most important public transport operator.\"",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Comment on Sandro's answers.",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Why should we hire you of all people?",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Sandro's answer:",
+              "readOnly": true,
+              "defaultValue": "Ich bin gut, das sehen Sie auch in meinen Zeugnissen. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Your comment:",
+              "isRequired": true,
+              "correctAnswer": "Arrogant and flippant answer. In particular, Sandro needs to establish a link between the requirements in the advertisement and his professional qualifications (training, programming skills, ability to work under pressure, willingness to work 2 shifts).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Comment on Sandro's answers.",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "What are your strengths?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Sandro's answer:",
+              "readOnly": true,
+              "defaultValue": "Ich bin immer locker drauf und lasse mich nicht stressen.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Your comment:",
+              "isRequired": true,
+              "correctAnswer": "Sandro's relaxed attitude may be pleasant for his colleagues at work, but it's not a plus for his employer (perhaps he doesn't take his tasks seriously?). Not letting himself get stressed is definitely a positive thing. But here, too, Sandro needs to be more careful in his wording and establish a connection to his work: \"I don't let myself get flustered even in tricky work situations, which has often helped me with work that has to be done under time pressure.\"",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Comment on Sandro's answers.",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "What are your weaknesses?",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Sandro's answer:",
+              "readOnly": true,
+              "defaultValue": "Habe ich welche? Na ja, ich komme morgens nicht so schnell aus dem Bett. Aber dafür drehe ich abends dann umso mehr auf.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Your comment:",
+              "isRequired": true,
+              "correctAnswer": "Funny remarks are not appropriate in a job interview. His difficulty getting out of bed is unfavorable in view of the 2-shift operation. Sandro is better off addressing a weakness that SBB can easily put up with as an employer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

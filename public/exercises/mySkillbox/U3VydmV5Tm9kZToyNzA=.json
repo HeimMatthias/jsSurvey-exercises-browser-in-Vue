@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "WOOP-Technik 1",
+      "title": "WOOP technology",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read the \"Realizing resolutions\" tool. Use the WOOP technique to help the father with his resolutions. Write in the first person:",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Step 1: Identify a wish/intention (Wish)",
+              "isRequired": true,
+              "correctAnswer": "Wish: I want to be a good father and rebuild the broken relationship with my daughter.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Step 2: What it would be like if the wish came true (outcome)",
+              "isRequired": true,
+              "correctAnswer": "Outcome: I would feel so relieved and happy. It would give my life meaning again. And I would finally be rid of my guilty conscience.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Step 3: Internal obstacles that stand in the way of the wish (Obstacle)",
+              "isRequired": true,
+              "correctAnswer": "Obstacle: My biggest obstacle is my reliving addiction and the unresolved separation from my two partners.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Step 4: Make an if-then plan (plan)",
+              "isRequired": true,
+              "correctAnswer": "Plan: If I feel the urge to escape into the past again, I will look at a photo of my daughter to remind me of my most important goal in life and give me strength. Addendum: And if I realize that my craving or addiction is too strong, I will immediately sign up for therapy.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Der Vater weiss eigentlich genau, dass er in seinem Leben einiges ändern müsste. So nimmt er sich beispielsweise vor, an einem Tag nur zwei Stunden vor der Relive Box zu verbringen oder mehr Sport zu machen. Kennen Sie das auch? Welche Vorsätze wollten Sie sich schon lange vornehmen und haben es dann doch nicht geschafft?"
+    },
+    {
+      "name": "WOOP-Technik 2",
+      "title": "WOOP technology",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Make a resolution of your own that you would like to implement. This can also be something quite banal, such as doing your homework before watching series on Netflix. Also make a note of all 4 WOOP steps: ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Step 1:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Step 2:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Step 3:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Step 4:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "WOOP technology",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

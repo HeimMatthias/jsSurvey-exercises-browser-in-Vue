@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Votes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the following federal votes were accepted or rejected. Give brief reasons for your answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Yes votes: 1,102,436 No votes: 877,466 Votes: 10 Yes, 12 No Majority required: Double majority",
+              "isRequired": true,
+              "correctAnswer": "Popular majority: Yes, majority of the cantons: No\nThus, the double majority was not achieved. The federal vote was rejected due to a negative majority of the cantons.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Yes votes: 1,402,436 No votes: 774,665 Votes: 19 Yes, 4 No Majority required: Double majority",
+              "isRequired": true,
+              "correctAnswer": "Popular majority: Yes, majority of the cantons: Yes\nThus, a double majority was achieved. The federal vote was therefore accepted.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Yes votes: 934 234 No votes: 954 524 States: 14 Yes, 9 No Required majority: Popular majority",
+              "isRequired": true,
+              "correctAnswer": "The vote was rejected due to a negative majority. The positive majority of the cantons has no influence on the popular majority.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

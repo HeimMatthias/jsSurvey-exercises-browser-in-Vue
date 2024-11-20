@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "Tastenkombinationen1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Search for the keyboard shortcuts for the following commands:",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "save",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + S",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Save as",
+              "isRequired": true,
+              "correctAnswer": "F12",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "search",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + F",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Call up help",
+              "isRequired": true,
+              "correctAnswer": "F1 (or Alt + M)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Search for the keyboard shortcuts for the following commands:",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Undo command",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Z",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Repeat command",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Y",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Show/hide paragraph marks",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + 3",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "jump to the beginning of the document",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Home",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

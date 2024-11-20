@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Data section",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How many used Toyota cars can a customer choose from?",
+              "correctAnswer": "6"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Which other buttons were also colored at the same time - without your intervention?",
+              "correctAnswer": "The years, mileages, colors, types and prices of the selected cars are also displayed - for further restriction, e.g. only limousines."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "A customer is only interested in red cars. Which two Toyota models can you offer him now?",
+              "correctAnswer": "Corolla and RAV4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Data section",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "A customer wants a Subaru that is less than ten years old. What can you offer her?",
+              "correctAnswer": "2 Outback 3, vintage 2016"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Someone inquires about a used car with a price between CHF 8000.00 and CHF 15 000.00. How many cars can you offer?",
+              "correctAnswer": "8 Trolley"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "The same customer further restricts the specifications: The car should have less than 100,000km. How many cars can he choose from now?",
+              "correctAnswer": "5 Trolleys"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "What can you say now about the cheapest car on offer?",
+              "correctAnswer": "DAEWOO Nubira, year 2017, a blue station wagon with 92 923km, which costs CHF 10 000.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

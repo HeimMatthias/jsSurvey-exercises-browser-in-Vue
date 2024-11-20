@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Assign terms",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign these terms correctly: premium, deductible, excess",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Deductible 2: I pay 10% of every doctor's and hospital bill myself.",
+              "isRequired": true,
+              "correctAnswer": "Deductible",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "A kind of monthly membership fee for health insurance.",
+              "isRequired": true,
+              "correctAnswer": "Premium",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Deductible 1: I pay the first medical costs myself each year up to a self-determined amount.",
+              "isRequired": true,
+              "correctAnswer": "Franchise",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

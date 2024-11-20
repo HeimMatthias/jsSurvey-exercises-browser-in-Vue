@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "name": "BIP",
+      "title": "Gross domestic product (GDP)",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Begründen Sie Ihre Entscheidung von oben, indem Sie unten alle Kategorien ankreuzen, die zutreffen.",
+              "rows": [
+                "The Burkhardt bakery sells pastries.",
+                "Alejandro bakes a cake for his family as a househusband.",
+                "Amina has a car accident, luckily it's only a fender bender that needs to be repaired.",
+                "The federal government is building the NRLA rail tunnels through the Alps.",
+                "Lorenzo works as a volunteer carer for the elderly.",
+                "Rita gives her neighbors an unused children's bike.",
+                "Marco repairs a motorcycle in his workshop."
+              ],
+              "type": "matrix",
+              "title": "Indicate whether the gross domestic product (GDP) increases or remains unchanged for the following activities.",
+              "columns": [
+                "GDP rises",
+                "GDP unchanged"
+              ],
+              "correctAnswer": {
+                "Die Bäckerei Burkhardt verkauft Gebäck.": "GDP rises",
+                "Die Bäckerei Burkhardt produziert Gebäck.": "BIP steigt",
+                "Marco repariert in seinem Betrieb ein Motorrad.": "GDP rises",
+                "Lorenzo arbeitet ehrenamtlich als Altenbetreuer.": "GDP unchanged",
+                "Der Bund baut die NEAT-Eisenbahntunnel durch die Alpen.": "GDP rises",
+                "Rita schenkt ihren Nachbarn ein ungebrauchtes Kindervelo.": "GDP unchanged",
+                "Alejandro backt als Hausmann für seine Familie einen Kuchen.": "GDP unchanged",
+                "Amina hat einen Autounfall, zum Glück entsteht nur Blechschaden, der repariert werden muss.": "GDP rises"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

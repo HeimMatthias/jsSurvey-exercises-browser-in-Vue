@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Marktversagen",
+      "title": "Market failure",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions on the subject of market failure.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How does a monopoly differ from an oligopoly?",
+              "isRequired": true,
+              "correctAnswer": "In a monopoly, a single supplier faces many buyers. In an oligopoly, there are a few (at least two) suppliers facing many customers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why are monopolies harmful?",
+              "isRequired": true,
+              "correctAnswer": "Due to the lack of competition, monopolists can sell their products at a price that is higher than the market price. This allows them to make a high profit at the expense of consumers. There is also a risk that monopolies are less innovative and neglect research and development, as their products are not threatened by competing products.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain the term \"public goods\" in one sentence.",
+              "isRequired": true,
+              "correctAnswer": "Public goods are goods that no one can be excluded from using.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

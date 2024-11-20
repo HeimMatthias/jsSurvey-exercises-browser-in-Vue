@@ -1,0 +1,252 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Consumer credit",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Are the statements about consumer credit correct or incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Consumer credit agreements can be concluded in any form.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "Consumer credit agreements must be concluded in writing and the most important points must be listed in the agreement (Art. 9 ff. KKG).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Anyone who regrets concluding a consumer credit agreement is out of luck; they are bound by the contract.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The consumer can revoke a consumer credit agreement in writing within 14 days (Art. 16 KKG).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The lender must check the consumer's creditworthiness before taking out a consumer loan.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Consumer credit",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Are the statements about consumer credit correct or incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "If the lender violates its obligations to check creditworthiness, it loses its claims to interest and costs.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Contracts concluded for professional or commercial purposes are not subject to the Consumer Credit Act.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justification:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "A consumer loan is the cheapest way to finance your consumption.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The cheapest option is a cash purchase. Consumer credit incurs interest and other costs.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Consumer credit",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Are the statements about consumer credit correct or incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "The lender may charge any interest rate for a consumer loan.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The Federal Council sets the maximum permissible interest rate for consumer credit agreements. This is currently 10%. A higher rate of 12% applies to credit and debit cards (Art. 1 of the Ordinance to the Consumer Credit Act, VKKG).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Consumers must provide information about their financial situation before they can take out a consumer loan.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Justification:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Consumer credit",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Are the statements about consumer credit correct or incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "The Consumer Credit Act applies to credit cards if the balance can be paid in installments.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "Justification:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question19",
+              "type": "radiogroup",
+              "title": "The period for revoking a consumer credit agreement begins as soon as the Central Credit Information Office approves the loan.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question20",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The period for revoking a consumer credit agreement begins as soon as the consumer has received a copy of the agreement.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

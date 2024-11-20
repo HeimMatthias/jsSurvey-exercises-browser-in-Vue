@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by the binding nature of an offer?",
+              "isRequired": true,
+              "correctAnswer": "Commitment refers to how the supplier must adhere to his offer - i.e. whether he must sell his product or not if the buyer accepts the offer.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How do you differentiate between binding and non-binding offers? Explain.",
+              "isRequired": true,
+              "correctAnswer": "Binding offers must be complied with and are enforceable in court. Non-binding offers, on the other hand, do not have to be honored.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "rows": [
+                "A promotional item advertised in a newspaper advertisement",
+                "A sofa at the home furnishings fair, marked with price old CHF 2500.-, new CHF 2100.-",
+                "A written offer with the note \"while stocks last\"",
+                "A genuine Rolex watch in the shop window at CHF 230.",
+                "A work of art in the salesroom at CHF 5600 with the note \"sold\"",
+                "A vacation home on the \"Immovent\" Internet portal at CHF 450,000.",
+                "A blender in the shop window, labeled CHF 68.",
+                "A telephone offer from a retailer for 100 smartphone cases at CHF 12.50 each"
+              ],
+              "type": "matrix",
+              "title": "Offers can be binding or non-binding according to the law. Please mark the appropriate box in the table.",
+              "columns": [
+                "binding",
+                "non-binding"
+              ],
+              "correctAnswer": {
+                "Eine echte Rolexuhr im Schaufenster zu CHF 230.–": "non-binding",
+                "Ein Mixer im Schaufenster, angeschrieben mit CHF 68. –": "binding",
+                "Eine briefliche Offerte mit dem Vermerk «solange Vorrat»": "non-binding",
+                "Ein Aktionsartikel, der in einem Zeitungsinserat angepriesen wird": "non-binding",
+                "Ein Ferienhäuschen im Internetportal «Immovent» zu CHF 450 000.–": "non-binding",
+                "Ein Kunstwerk im Verkaufsraum zu CHF 5600.– mit Vermerk «verkauft»": "non-binding",
+                "Ein Sofa an der Wohnmesse, angeschrieben mit Preis alt CHF 2500.–, neu CHF 2100.–": "binding",
+                "Ein telefonisches Angebot eines Händlers bezüglich 100 Smartphonehüllen zu CHF 12.50 pro Stück": "binding"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Explain the difference between a material error and an immaterial error.",
+              "isRequired": true,
+              "correctAnswer": "If a product is clearly, i.e. obviously, incorrect, this is a material error. An immaterial error is an error that cannot be detected by most customers.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

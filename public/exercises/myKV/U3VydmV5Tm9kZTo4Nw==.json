@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "Tastenkombinationen1",
+      "title": "Shortcuts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Search for the shortcuts using the keyboard and enter them. Tip: If you hover over the command icons in the command groups, many keyboard commands will be displayed.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Fat",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + F",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Italics",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + K",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Underline",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + U",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Superscript",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + 1",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Shortcuts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Search for the shortcuts using the keyboard and enter them. Tip: If you hover over the command icons in the command groups, many keyboard commands will be displayed.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Increase font size step by step",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + <",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Reduce font size step by step",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + <",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Increase font size point by point",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + 9",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Reduce font size point by point",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + 8",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

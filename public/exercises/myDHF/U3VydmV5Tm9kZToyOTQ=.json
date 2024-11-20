@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Key figures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What is the key figure or technical term described?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Corresponds to the value of all goods and services sold, i.e. the amount of money received.",
+              "correctAnswer": "Turnover",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "These are discounts that are granted to customers.",
+              "correctAnswer": "Revenue reductions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Costs incurred through the operation of a business. They cannot be directly allocated to a specific item.",
+              "correctAnswer": "Overheads",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Is the number (quantity) of items sold in a specific time period.",
+              "correctAnswer": "Paragraph",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Key figures",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What is the key figure or technical term described?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Corresponds to the difference between revenue and cost of goods sold.",
+              "correctAnswer": "Gross profit",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "This is the amount of money that the company actually receives from the sale.",
+              "correctAnswer": "Net sales",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "These are products that are offered at reduced prices because they need to be sold as quickly as possible.",
+              "correctAnswer": "Liquidations",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Indicates the stock level in units or francs at which the goods must be reordered and thus determines the time of reassortment.",
+              "correctAnswer": "Reorder point",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Key figures",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "What is the key figure or technical term described?",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Products that are returned by customers.",
+              "correctAnswer": "Returns",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Shows how often the average stock is renewed (sold) per year.",
+              "correctAnswer": "Stock turnover",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Refers to the positive amount that remains when the total costs (expenses) are deducted from the total income (revenue).",
+              "correctAnswer": "Profit (net profit)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

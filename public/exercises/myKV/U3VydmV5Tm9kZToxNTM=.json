@@ -1,0 +1,278 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Thème : Quel est mon propre rôle ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Is there a fixed division of roles in this discussion?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Thème : Quelle relation est-ce que j'entretiens avec mon vis-à-vis ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?"
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Thème : Quelle est l'importance du lieu et de l'heure de la discussion ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "C'est lundi matin 8 heures."
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Thème : Quels sont les motifs et les intérêts dans la discussion ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "I am rather concrete and not emotional.",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?"
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Thème : Quel est l'objectif et les thèmes de la discussion ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?"
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Thèmes",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Attribuez les différentes descriptions aux thèmes correspondants. Remarque : il n'y a pas le même nombre de descriptions pour chaque thème.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Thème : Quels sont les conflits potentiels dans la discussion et comment puis-je procéder ?",
+              "choices": [
+                "What are the arguments and counter-arguments?",
+                "Qu'est-ce qui est important pour la partie adverse ?",
+                "À quoi devrai-je veiller en particulier ?",
+                "C'est lundi matin 8 heures.",
+                "What issues need to be addressed in the discussion?",
+                "Quel but je cherche à atteindre ?",
+                "Quels compromis sont possibles pour moi ?",
+                "I am rather concrete and not emotional.",
+                "What is the most important thing for me in resolving the conflict?",
+                "Is there a fixed division of roles in this discussion?",
+                "What dangers could arise during the discussion?",
+                "Quelle est ma relation avec les parties impliquées ?",
+                "Quelle langue parle et comprend l'autre personne?",
+                "What are the reasons why my vis-à-vis is taking part in the discussion?",
+                "What is going well in the relationship with my vis-à-vis and what could be more problematic?",
+                "Quelle influence est-ce que je souhaite exercer sur la discussion ?",
+                "To what extent can I exert an influence on the course of the discussion?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What are the arguments and counter-arguments?",
+                "À quoi devrai-je veiller en particulier ?",
+                "Quels compromis sont possibles pour moi ?",
+                "What is the most important thing for me in resolving the conflict?",
+                "What dangers could arise during the discussion?"
+              ],
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

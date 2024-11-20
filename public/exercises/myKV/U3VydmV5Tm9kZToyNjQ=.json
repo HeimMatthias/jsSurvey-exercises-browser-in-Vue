@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the main difference between a non-fiction text and a literary text?",
+              "isRequired": true,
+              "correctAnswer": "A non-fiction text depicts reality as accurately as possible, whereas a literary text represents an invented reality.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are literary texts also called?",
+              "isRequired": true,
+              "correctAnswer": "as fictional texts  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Which three genres are literary texts divided into?",
+              "isRequired": true,
+              "correctAnswer": "Epic, poetry, drama ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which genre do poems belong to?",
+              "isRequired": true,
+              "correctAnswer": "Poetry",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Which genre do novels and fables belong to?",
+              "isRequired": true,
+              "correctAnswer": "Epic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Which three forms of use can non-fiction texts be divided into?",
+              "isRequired": true,
+              "correctAnswer": "Private, semi-public and public factual texts",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which form of use do minutes of meetings belong to?",
+              "isRequired": true,
+              "correctAnswer": "to the semi-public factual texts",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

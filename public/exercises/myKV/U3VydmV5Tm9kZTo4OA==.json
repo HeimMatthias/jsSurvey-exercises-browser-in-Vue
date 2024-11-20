@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Tastenkombinationen1",
+      "title": "For fast",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What is the smallest/largest font size you can assign?",
+              "isRequired": true,
+              "correctAnswer": "1pt resp. 1638pt",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Can you assign a font size of 9.5pt?",
+              "isRequired": true,
+              "correctAnswer": "Yes",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

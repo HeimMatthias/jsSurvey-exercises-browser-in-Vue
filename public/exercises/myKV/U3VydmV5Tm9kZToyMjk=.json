@@ -1,0 +1,225 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Leasing of an item for private use",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer goods leasing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Party who transfers an object to a third party for use",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Lessor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Consideration paid by the lessee to the lessor",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing rate",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Subject of a lease",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leased object",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Provision of an item for use for a certain period of time in return for leasing installments",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Leasing of an item for the production of goods",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Capital goods",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Leasing",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Form of leasing in which a manufacturer or supplier itself acts as lessor",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Direct leasing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Form of leasing in which a leasing company assumes the financing of the leased asset",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Indirect leasing",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Provision of an item for use in return for rent",
+              "choices": [
+                "Leasing rate",
+                "Lessor",
+                "Leasing",
+                "Leased object",
+                "Indirect leasing",
+                "Rent",
+                "Direct leasing",
+                "Capital goods",
+                "Consumer goods leasing"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Rent",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

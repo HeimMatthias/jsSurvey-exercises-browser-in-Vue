@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "zielaufgabe1",
+      "title": "Aim and task of advertising",
+      "elements": [
+        {
+          "name": "Aufrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the aim of advertising?",
+              "isRequired": true,
+              "correctAnswer": "The main aim of advertising is to sell products or services, i.e. to generate sales.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name the tasks of advertising.",
+              "isRequired": true,
+              "correctAnswer": "Make the product/service known. \nExplain possible uses and features. \nDescribe the advantages to consumers. \nPut the company and all its services in the spotlight.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

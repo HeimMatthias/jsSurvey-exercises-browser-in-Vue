@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "Entwicklungen",
+      "title": "Developments",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Entscheiden Sie für die folgenden Entwicklungen, ob hauptsächlich die Ausgabe- oder die Einnahmeseite der AHV betroffen ist. Entscheiden Sie zudem jeweils, ob die Ausgaben/Einnahmen aufgrund dieser Entwicklung zu- oder abnehmen werden. Ein Beispiel zeigt, wie es gemeint ist.",
+              "rows": [
+                "Birth rate in Switzerland is rising.",
+                "Life expectancy in Switzerland is increasing.",
+                "Retirement age in Switzerland is increasing overall.",
+                "General interest rate level rises.",
+                "The economic situation worldwide and in Switzerland is poor.",
+                "Retirement age for women is raised.",
+                "The state uses tax revenue to increase its contributions to the AHV."
+              ],
+              "type": "matrix",
+              "title": "For the following developments, decide whether the expenditure or income side of the AHV is mainly affected. Also decide in each case whether expenditure/income will increase or decrease as a result of this development. ",
+              "columns": [
+                "Revenue is increasing.",
+                "Revenue decreases.",
+                "Expenditure is increasing.",
+                "Expenditure decreases."
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Volljährigkeit": "Ja, unumstritten",
+                "Urteilsfähigkeit": "umstritten",
+                "Lösungsvariante A": "eher links",
+                "Lösungsvariante B": "eher rechts",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Handlungsunfähigkeit": "umstritten",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Das Rentenalter wird erhöht.": "Ausgaben nehmen ab",
+                "Allgemeines Zinsniveau steigt.": "Revenue is increasing.",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten",
+                "Geburtenrate in der Schweiz steigt.": "Revenue is increasing.",
+                "Rentenalter der Frauen wird erhöht.": "Expenditure decreases.",
+                "Lebenserwartung in der Schweiz nimmt zu.": "Expenditure is increasing.",
+                "Rentenalter in der Schweiz nimmt insgesamt zu.": "Expenditure decreases.",
+                "Wirtschaftliche Lage weltweit und in der Schweiz ist schlecht.": "Revenue decreases.",
+                "Der Staat verwendet Steuereinnahmen und erhöht damit seine Beiträge an die AHV.": "Revenue is increasing.",
+                "In der Schweiz sinkt die Geburtenrate: Weniger junge Erwerbstätige zahlen in die AHV ein.": "Einnahmen nehmen ab",
+                "Die Menschen werden immer älter. Dadurch steigt auch die durchschnittliche Anzahl der AHV-Bezugsjahre.": "Ausgaben nehmen zu",
+                "Deutlich mehr ausländische Arbeitskräfte wandern in die Schweiz ein. Die Zuwanderung der Arbeitskräfte erhöht die Zahl der Arbeitnehmenden in Schweizer Firmen.": "Einnahmen nehmen zu"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Political parties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "There are political parties in Switzerland that would like to solve the AHV funding problem by generally increasing the retirement age (= measure 3 in the table on page 1 of this exercise). Is this solution more of a left-wing or a right-wing solution? Put a cross in the box.",
+              "choices": [
+                "rather left",
+                "more to the right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "more to the right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründen Sie Ihre Entscheidung, indem Sie auf den passenden Grundkonflikt Bezug nehmen.",
+              "type": "comment",
+              "isRequired": true,
+              "correctAnswer": "This concerns the basic conflict of \"increased state redistribution of income\" versus \"less state redistribution of income, no further expansion, but rather dismantling of the welfare state\". With a general increase in the retirement age, the welfare state will not be further expanded, but rather dismantled. This is therefore a more right-wing solution.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

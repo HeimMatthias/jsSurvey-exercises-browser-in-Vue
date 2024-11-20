@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Common payment terms\n",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Prepayment, advance payment and credit note procedure (GSV) mean the same thing.",
+                "The collection risk is zero if the customer pays in advance.",
+                "The Swiss Code of Obligations states that the customer has a right to payment of the invoice within 30 days.",
+                "Let's assume you have to take your bike to a bike mechanic because it has broken down. She will demand payment immediately when you return the repaired bike.",
+                "Article 75 of the Swiss Code of Obligations states that the customer is entitled to a 2% discount.",
+                "With an LSV payment method, the invoice is paid automatically.",
+                "A synonym for fast payment discount is net.",
+                "If a customer is not solvent (does not have enough funds), then it is better for her to select \"payable within 30 days\" instead of an installment payment.",
+                "The General Terms and Conditions are the GTCs.",
+                "If you use a debit card to pay for an online purchase directly at the time of ordering, this is called prepayment."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on \"standard payment terms\" correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Ein Synonym für Schnellzahlrabatt ist Netto.": "wrong",
+                "Die Allgemeinen Geschäftsbedingungen sind die AGBs.": "right",
+                "Das Inkassorisiko ist gleich null, wenn der Kunde im Voraus bezahlt.": "right",
+                "Bei einem LSV-Zahlungsverfahren wird die Rechnung automatisch bezahlt.": "right",
+                "Vorauskasse, Vorkasse und Gutschriftverfahren (GSV) bedeuten dasselbe.": "wrong",
+                "Im Artikel 75 des Obligationenrechts steht, dass der Kunde ein Recht auf 2% Skonto hat.": "wrong",
+                "Das Obligationenrecht hält fest, dass die Kundin ein Recht auf eine Zahlung der Rechnung innert 30 Tagen hat.": "wrong",
+                "Das Obligationenrecht hält fest, dass die Kundin ein Recht auf eine Zahlung der Rechnung innert 30 Tagen hat. ": "falsch",
+                "Wenn Sie mit einer Debitkarte einen Onlinehandel direkt bei der Bestellung bezahlen, dann nennt man das Vorkasse.": "right",
+                "Wenn eine Kundin nicht liquide ist (nicht genug Geldmittel hat), dann ist es für sie besser, «zahlbar innert 30 Tagen» anzuwählen anstatt einer Ratenzahlung.": "wrong",
+                "Wenn eine Kundin nicht liquide ist (nicht genug Geldmittel hat), dann ist es für sie besser, «zahlbar innert 30 Tagen» anzuwählen anstatt einer Ratenzahlung. ": "falsch",
+                "Nehmen wir an, Sie müssen Ihr Fahrrad wegen einer Panne zur Velomechanikerin bringen. Sie wird bei der Rückgabe des reparierten Fahrrads die Zahlung sofort verlangen.": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

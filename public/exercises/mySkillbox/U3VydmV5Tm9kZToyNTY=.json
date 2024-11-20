@@ -1,0 +1,212 @@
+{
+  "pages": [
+    {
+      "name": "Grundkonflikte1",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide whether the statements are politically left-wing or right-wing. ",
+          "elements": [
+            {
+              "name": "Grundkonflikt: Ausgebauter Sozialstaat vs. restriktive Finanzpolitik",
+              "rows": [
+                "Social welfare in Switzerland should be cut without replacement.",
+                "Young unemployed people should receive more support from the state.",
+                "Young unemployed people should receive less support from the state.",
+                "Health insurance premiums should be paid by every private individual without state support.",
+                "Rich people in Switzerland pay more tax than poor people. This difference should be increased.",
+                "Rich people in Switzerland pay more taxes than poor people. This difference should be reduced.",
+                "Anyone who has been unemployed in the Zurich region for a long time receives around CHF 2600 from social welfare. This amount should be increased.",
+                "Anyone who has been unemployed in the Zurich region for a long time receives around CHF 2600 from social welfare. This amount should be reduced.",
+                "The state should abolish social welfare and instead pay every adult living here (whether with or without a job) a basic income of CHF 2000.",
+                "In future, the state should pay health insurance premiums from tax revenues (instead of everyone paying them out of their own pocket). Taxes would have to be increased to achieve this."
+              ],
+              "type": "matrix",
+              "title": "Basic conflict: expanded welfare state vs. restrictive fiscal policy",
+              "columns": [
+                {
+                  "text": "Links",
+                  "value": "Links"
+                },
+                {
+                  "text": "Right",
+                  "value": "Right"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Man sollte in der Schweiz die Sozialhilfe ohne Ersatz kürzen.": "Right",
+                "Junge Arbeitslose sollten durch den Staat stärker unterstützt werden.": "Links",
+                "Junge Arbeitslose sollten durch den Staat schwächer unterstützt werden.": "Right",
+                "Krankenkassenprämien sollte jede private Person selbst bezahlen, ohne staatliche Unterstützung.": "Right",
+                "Reiche Menschen bezahlen in der Schweiz mehr Steuern als Arme. Diese Differenz sollte erhöht werden.": "Links",
+                "Reiche Menschen bezahlen in der Schweiz mehr Steuern als Arme. Diese Differenz sollte verringert werden.": "Right",
+                "Wer in der Region Zürich seit langer Zeit arbeitslos ist, erhält von der Sozialhilfe ca. CHF 2600. Dieser Betrag sollte erhöht werden.": "Links",
+                "Wer in der Region Zürich seit langer Zeit arbeitslos ist, erhält von der Sozialhilfe ca. CHF 2600. Dieser Betrag sollte verringert werden.": "Right",
+                "Der Staat sollte die Sozialhilfe abschaffen und stattdessen jeder hier wohnhaften erwachsenen Person (ob mit oder ohne Job) ein Grundeinkommen von CHF 2000.- bezahlen.": "Links",
+                "Künftig sollte der Staat die Krankenkassenprämien aus den Steuereinnahmen bezahlen (statt dass sie jeder aus der eigenen Tasche bezahlt). Die Steuern müssten dazu erhöht werden.": "Links"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grundkonflikte2",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the statements are politically left-wing or right-wing. ",
+          "elements": [
+            {
+              "name": "Grundkonflikt 2: Liberale Gesellschaft vs. Law & Order",
+              "rows": [
+                "Homosexuals should be able to marry.",
+                "Homosexuals should not be able to marry.",
+                "For example, the state should ban headgear with religious symbolism.",
+                "The state should ban abortions in order to protect unborn life.",
+                "Smoking weed is harmful to health, so the state should punish it.",
+                "Women and couples should be able to decide for themselves whether to terminate a pregnancy.",
+                "Every adult should be allowed to decide for themselves whether they want to smoke weed or not.",
+                "Despite terrorism, the state should keep surveillance (internet, public space, etc.) to a minimum.",
+                "The state should increase surveillance everywhere (Internet, public spaces, etc.) for our own security.",
+                "Everyone should be allowed to decide for themselves how they dress and whether they want to wear headgear with religious symbolism, for example"
+              ],
+              "type": "matrix",
+              "title": "Basic conflict: Liberal society vs. law & order",
+              "columns": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Homosexuelle sollten heiraten können.": "Links",
+                "Homosexuelle sollten nicht heiraten können.": "Right",
+                "Der Staat sollte z. B. Kopfbedeckungen mit religiöser Symbolik verbieten.": "Right",
+                "Der Staat sollte Abtreibungen verbieten, um das ungeborene Leben zu schützen.": "Right",
+                "Kiffen ist gesundheitsschädigend, der Staat sollte das Kiffen deshalb bestrafen.": "Right",
+                "Frauen bzw. Paare sollten selbst entscheiden können, ob sie eine Schwangerschaft abbrechen.": "Links",
+                "Jeder erwachsene Mensch sollte selbstständig entscheiden dürfen, ob er kiffen will oder nicht.": "Links",
+                "Trotz Terrorismus sollte der Staat die Überwachung (Internet, öffentlicher Raum usw.) auf ein Minimum beschränken.": "Links",
+                "Der Staat sollte zu unserer eigenen Sicherheit die Überwachung überall (Internet, öffentlicher Raum usw.) verstärken.": "Right",
+                "Jeder Mensch sollte selbstständig entscheiden dürfen, wie er sich anzieht und ob er z. B. Kopfbedeckungen mit religiöser Symbolik tragen will": "Links"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grundkonflikte3",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the statements are politically left-wing or right-wing. ",
+          "elements": [
+            {
+              "name": "Grundkonflikt 3: Ausgebauter Umweltschutz vs. Liberale Wirtschaftspolitik",
+              "rows": [
+                "Mopeds with gasoline engines should be banned.",
+                "Plastic cutlery should be banned in favor of environmental protection.",
+                "Driving is already so expensive that gasoline taxes should be lowered.",
+                "I should be able to decide for myself how much and what kind of waste I produce.",
+                "State-owned companies such as Swiss Post or SBB should not be privatized under any circumstances.  ",
+                "Aviation and car fuel should be taxed (made more expensive) to protect the environment.",
+                "More post offices in Switzerland should be closed because we no longer need many of them.",
+                "State-owned companies would offer their services much more cheaply if they were privatized.",
+                "I should be able to decide for myself how many mopeds/cars/trains I want to drive or how many airplane kilometers I want to fly.",
+                "Post offices are important for village life and for older people. No more post offices should therefore be closed in Switzerland."
+              ],
+              "type": "matrix",
+              "title": "Basic conflict: Extended environmental protection vs. liberal economic policy",
+              "columns": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Man sollte Mopeds mit Benzinmotoren verbieten.": "Links",
+                "Man sollte Plastikbesteck zugunsten des Umweltschutzes verbieten.": "Links",
+                "Das Autofahren ist schon so teuer, dass man die Benzinsteuern senken sollte.": "Right",
+                "Ich sollte selbst entscheiden dürfen, wie viel und welchen Abfall ich produziere.": "Right",
+                "Staatliche Unternehmen wie die Post oder die SBB sollten auf keinen Fall privatisiert werden.  ": "Links",
+                "Man sollte zugunsten des Umweltschutzes das Flug- und Autobenzin stärker besteuern (verteuern).": "Links",
+                "Es sollten weitere Poststellen in der Schweiz geschlossen werden, weil wir viele nicht mehr brauchen.": "Right",
+                "Staatliche Unternehmen würden ihre Dienstleistungen viel günstiger anbieten, wenn sie privatisiert würden.": "Right",
+                "Ich sollte selbst entscheiden können, wie viel Moped/Auto/Eisenbahn ich fahren oder Flugzeugkilometer ich fliegen will.": "Right",
+                "Poststellen sind wichtig für das Dorfleben und für ältere Menschen. Es sollten deshalb keine weiteren Poststellen in der Schweiz geschlossen werden.": "Links"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grundkonflikte4",
+      "title": "Basic conflicts",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the statements are politically left-wing or right-wing. ",
+          "elements": [
+            {
+              "name": "Grundkonflikt 4: Offene Aussenpolitik vs. Restriktive Migrationspolitik",
+              "rows": [
+                "Switzerland should help refugees less than it has done so far.",
+                "Switzerland should do more to help refugees than it has so far.",
+                "The bottom line is that globalization is a negative development for Switzerland.",
+                "On balance, globalization is a positive development for Switzerland.",
+                "Switzerland's accession to the EU would be disadvantageous for Switzerland on balance.",
+                "Switzerland's accession to the EU would be advantageous for Switzerland on balance.",
+                "The Bilateral Agreements with the EU are disadvantageous for Switzerland on balance.",
+                "On balance, the bilateral agreements with the EU are advantageous for Switzerland.",
+                "One of Switzerland's strengths is that people of different nationalities live here.",
+                "One of Switzerland's weaknesses is that people of different nationalities live here."
+              ],
+              "type": "matrix",
+              "title": "Basic conflict: Open foreign policy vs. restrictive migration policy",
+              "columns": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Die Schweiz sollte Flüchtlingen weniger helfen, als es bis jetzt der Fall ist.": "Right",
+                "Die Schweiz sollte Flüchtlingen stärker helfen, als es bis jetzt der Fall ist.": "Links",
+                "Die Globalisierung ist für die Schweiz unter dem Strich eine negative Entwicklung.": "Right",
+                "Die Globalisierung ist für die Schweiz unter dem Strich eine positive Entwicklung.": "Links",
+                "Ein Beitritt der Schweiz zur EU wäre für die Schweiz unter dem Strich nachteilig.": "Right",
+                "Ein Beitritt der Schweiz zur EU wäre für die Schweiz unter dem Strich vorteilhaft.": "Links",
+                "Die Bilateralen Verträge mit der EU sind für die Schweiz unter dem Strich nachteilig.": "Right",
+                "Die Bilateralen Verträge mit der EU sind für die Schweiz unter dem Strich vorteilhaft.": "Links",
+                "Es ist eine Stärke der Schweiz, dass Menschen mit unterschiedlichen Nationalitäten hier leben.": "Links",
+                "Es ist eine Schwäche der Schweiz, dass Menschen mit unterschiedlichen Nationalitäten hier leben.": "Right"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

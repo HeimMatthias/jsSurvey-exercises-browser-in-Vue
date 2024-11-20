@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Employment contract",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Mark the correct answers with a cross.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which of the following behaviors generally constitute a breach of duty by the employee?",
+              "choices": [
+                "Refusal of the secretary to clean windows",
+                "Acceptance of a free ticket to a concert in return for the promise to bring the boss tea three times an hour",
+                "Secretarial work during the day if you are only employed for the night watch",
+                "Disclosure of the manufacturing information of a product to an independent inventor",
+                "Refusal to work overtime due to poor organization and chronic understaffing",
+                "Drunkenness after work"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Secretarial work during the day if you are only employed for the night watch",
+                "Disclosure of the manufacturing information of a product to an independent inventor"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Employment contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Mark the correct answers with a cross.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "In which laws can you find the legal basis for employment contracts? Tick the correct answers.",
+              "choices": [
+                "Criminal Code",
+                "Code of Obligations",
+                "Debt, debt collection and bankruptcy law",
+                "Labor law"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Code of Obligations",
+                "Labor law"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Employment contract",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Mark the correct answers with a cross.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Does an employee have to work overtime? ",
+              "choices": [
+                "No, the Labor Act expressly prohibits overtime work.",
+                "Yes, if they are expressly mentioned in the contract.",
+                "Yes, if they are necessary from an operational point of view and reasonable for the employee.",
+                "This is decided by the employer on their own authority."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Yes, if they are necessary from an operational point of view and reasonable for the employee."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

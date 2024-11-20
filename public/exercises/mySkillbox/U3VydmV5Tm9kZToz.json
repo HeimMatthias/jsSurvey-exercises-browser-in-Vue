@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Zielbeziehungen",
+      "title": "Target relationships",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": " Die Konzertbesucherinnen und -besucher möchten wenig Eintritt bezahlen, der Veranstalter möglichst viele Besucherinnen und Besucher anlocken. Handelt es sich hier um einen Zielkonflikt oder eine Zielharmonie?",
+              "type": "radiogroup",
+              "title": " The concertgoers want to pay a small entrance fee, while the organizer wants to attract as many visitors as possible. Is this a conflict of objectives or a harmony of objectives?",
+              "choices": [
+                "Target harmony",
+                "Conflict of objectives"
+              ],
+              "colCount": 2,
+              "isRequired": true,
+              "correctAnswer": "Target harmony",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zielbeziehungen1",
+      "title": "Target relationships",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Viele Besucherinnen und Besucher  möchten drinnen rauchen. Dem Veranstalter ist die Gesundheit seiner Mitarbeitenden und Gäste wichtig. Handelt es sich hier um einen Zielkonflikt oder eine Zielharmonie?",
+              "type": "radiogroup",
+              "title": "Many visitors want to smoke indoors. The health of employees and guests is important to the event organizer. Is this a conflict of objectives or a harmony of objectives?",
+              "choices": [
+                "Target harmony",
+                "Conflict of objectives"
+              ],
+              "colCount": 2,
+              "isRequired": true,
+              "correctAnswer": "Conflict of objectives",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zielbeziehungen2",
+      "title": "Target relationships",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Die Veranstalter möchten möglichst viele Getränke verkaufen, die Stadt möchte aus Kosten- und Umweltschutzgründen möglichst wenig Abfall entsorgen müssen. Handelt es sich hier um einen Zielkonflikt oder eine Zielharmonie?",
+              "type": "radiogroup",
+              "title": "The organizers want to sell as many drinks as possible, while the city wants to have to dispose of as little waste as possible for reasons of cost and environmental protection. Is this a conflict of objectives or a harmony of objectives?",
+              "choices": [
+                "Target harmony",
+                "Conflict of objectives"
+              ],
+              "colCount": 2,
+              "isRequired": true,
+              "correctAnswer": "Conflict of objectives",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zielbeziehungen",
+      "title": "Target relationships",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Die Bands möchten eine möglichst gute Akustik, die Besucher ein qualitativ hochstehendes Konzert. Handelt es sich hier um einen Zielkonflikt oder eine Zielharmonie?",
+              "type": "radiogroup",
+              "title": "The bands want the best possible acoustics, the visitors want a high-quality concert. Is this a conflict of objectives or a harmony of objectives?",
+              "choices": [
+                "Target harmony",
+                "Conflict of objectives"
+              ],
+              "colCount": 2,
+              "isRequired": true,
+              "correctAnswer": "Target harmony",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

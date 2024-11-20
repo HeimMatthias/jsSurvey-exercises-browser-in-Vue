@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "Verknüpfungsmittel",
+      "title": "Linking means that display an enumeration",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the appropriate word in each case. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "I don't just want to memorize the exam material, I want to ... understand it.",
+              "choices": [
+                "and",
+                "also",
+                "also"
+              ],
+              "isRequired": true,
+              "correctAnswer": "also",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "The EU plays a major role in our economic development; in terms of peace policy ... .",
+              "choices": [
+                "in addition",
+                "likewise",
+                "also"
+              ],
+              "isRequired": true,
+              "correctAnswer": "likewise",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "Reliability, a sense of responsibility ... punctuality are important in professional life.",
+              "choices": [
+                "or",
+                "also",
+                "and"
+              ],
+              "isRequired": true,
+              "correctAnswer": "and",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verknüpfungsmittel2",
+      "title": "Linking means that display an enumeration",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the appropriate word in each case. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "Everyone makes mistakes; ... politicians are human.",
+              "choices": [
+                "and",
+                "likewise",
+                "also"
+              ],
+              "isRequired": true,
+              "correctAnswer": "also",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "After my apprenticeship, I want to find a good job, move into a shared flat and ... pass my car test.",
+              "choices": [
+                "in addition",
+                "or",
+                "and"
+              ],
+              "isRequired": true,
+              "correctAnswer": "in addition",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "radiogroup",
+              "title": "In the future, we will probably only make cashless payments, ... robots will probably take over some of our work.",
+              "choices": [
+                "also",
+                "and",
+                "likewise"
+              ],
+              "isRequired": true,
+              "correctAnswer": "also",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "radiogroup",
+              "title": "I think that creativity, communication ... problem-solving skills are becoming increasingly important.",
+              "choices": [
+                "also",
+                "and",
+                "in addition"
+              ],
+              "isRequired": true,
+              "correctAnswer": "and",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

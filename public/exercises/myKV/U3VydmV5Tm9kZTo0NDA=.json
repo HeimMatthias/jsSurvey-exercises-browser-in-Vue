@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Business transactions of a cab company",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Passengers pay the fare for completed journeys in cash.",
+                "The cab company buys a new vehicle against invoice.",
+                "An invoice arrives from a garage for service work on vehicles.",
+                "The garage invoice is settled by bank transfer.",
+                "A loan debt is repaid by bank transfer.",
+                "The interest on the loan debt is transferred by the bank.",
+                "The cab company receives an invoice for the vehicle insurance.",
+                "The owner increases his deposit by transferring it to the bank account.",
+                "The cab company transfers the rent for the office through the bank.",
+                "Gasoline purchases for the vehicles are paid in cash.",
+                "A used vehicle is sold against invoice.",
+                "The wages of the drivers are transferred by the bank.",
+                "A customer settles the cab company's claim by transferring it to the bank.",
+                "The telephone bill for the last month arrives.",
+                "The bank credits interest to the cab company's account."
+              ],
+              "type": "matrix",
+              "title": "Are the following business transactions of a cab company recognized in profit or loss or not? Does the profit increase or decrease in the case of transactions recognized in profit or loss?",
+              "columns": [
+                "affecting net income: profit greater",
+                "affecting net income: profit less than",
+                "not recognized in profit or loss"
+              ],
+              "correctAnswer": {
+                "Benzinbezüge für die Fahrzeuge werden bar bezahlt.": "affecting net income: profit less than",
+                "Die Telefonrechnung für den letzten Monat trifft ein.": "affecting net income: profit less than",
+                "Ein gebrauchtes Fahrzeug wird gegen Rechnung verkauft.": "not recognized in profit or loss",
+                "Das Taxiunternehmen kauft ein neues Fahrzeug gegen Rechnung.": "not recognized in profit or loss",
+                "Die Löhne der Chauffeure werden durch die Bank überwiesen.": "affecting net income: profit less than",
+                "Fahrgäste zahlen die Fahrtaxen für ausgeführte Fahrten bar.": "affecting net income: profit greater",
+                "Eine Darlehensschuld wird durch Banküberweisung zurückbezahlt.": "not recognized in profit or loss",
+                "Der Zins für die Darlehensschuld wird durch die Bank überwiesen.": "affecting net income: profit less than",
+                "Die Bank schreibt dem Taxiunternehmen einen Zins auf dem Konto gut.": "affecting net income: profit greater",
+                "Das Taxiunternehmen erhält eine Rechnung für die Fahrzeugversicherung.": "affecting net income: profit less than",
+                "Die Rechnung einer Garage für Servicearbeiten an Fahrzeugen trifft ein.": "affecting net income: profit less than",
+                "Die verbuchte Rechnung der Garage wird durch Banküberweisung beglichen.": "not recognized in profit or loss",
+                "Das Taxiunternehmen überweist den Mietzins für das Büro durch die Bank.": "affecting net income: profit less than",
+                "Der Eigentümer erhöht seine Einlage durch Überweisung auf das Bankkonto.": "not recognized in profit or loss",
+                "Ein Kunde begleicht die Forderung des Taxiunternehmens durch Überweisung auf die Bank.": "not recognized in profit or loss"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

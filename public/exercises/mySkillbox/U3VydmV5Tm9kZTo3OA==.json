@@ -1,0 +1,171 @@
+{
+  "pages": [
+    {
+      "name": "Fälle zuordnen",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the following cases to one of the four categories. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "18-year-old Alessandra is doing an apprenticeship as a gardener and wants to book a trip to Mallorca.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung1",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Alessandra is of legal age and capable of judgment in the situation described.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "19-year-old Jonas lives in an assisted shared flat because he is manic-depressive. In his manic phase, he wants to buy all sorts of things that would go way beyond his budget. Now he wants to buy a scooter for CHF 3000.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung2",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Although Jonas is of legal age, his capacity to make decisions is limited due to his illness.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "12-year-old Sandro would like to buy a skateboard for CHF 50 with the pocket money he has saved.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung3",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "In this specific situation, Sandro is capable of judgment but not yet of legal age.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fälle zuordnen1",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "30-year-old Svenja is severely mentally disabled and therefore lives in a residential home where she receives round-the-clock care. She would like to buy her own car.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full incapacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung4",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Although Svenja is of legal age, she is unable to make decisions due to her severe disability.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "17-year-old Antonella is passionate about rugby and would like to use her pocket money to buy new equipment for CHF 200.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Limited capacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung5",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Although Antonella is capable of judgment with regard to her purchase, she is not yet of legal age.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "5-year-old Robin wants to buy a high-quality drone for CHF 2000 because he saw a teenager filming his friends in the playground.",
+              "choices": [
+                "Full capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Full incapacity to act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Full incapacity to act",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung6",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Robin is neither of legal age nor capable of judgment with regard to his desired purchase (small experience - big consequences).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

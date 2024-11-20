@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "One question is addressed exclusively to others.",
+                "A question can be addressed to yourself and others. ",
+                "A question is only asked verbally. ",
+                "A question can be asked verbally or non-verbally. ",
+                "A question is a reply. ",
+                "A question can be asked consciously or unconsciously.",
+                "A question is a request.",
+                "One question is aimed at a small number of addressees. "
+              ],
+              "type": "matrix",
+              "title": "What features characterize questions?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Eine Frage ist eine Entgegnung. ": "Wrong",
+                "Eine Frage wird nur verbal gestellt. ": "Wrong",
+                "Eine Frage stellt eine Aufforderung dar.": "Correct",
+                "Eine Frage richtet sich an wenige Adressaten. ": "Wrong",
+                "Eine Frage ist ausschliesslich an andere adressiert.": "Wrong",
+                "Eine Frage kann an sich und andere adressiert sein. ": "Correct",
+                "Eine Frage kann verbal oder nonverbal gestellt sein. ": "Correct",
+                "Eine Frage kann bewusst oder unbewusst geäussert sein.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A question is always deliberately formulated. ",
+                "One question usually answers itself. ",
+                "A question refers to a trigger of the question. ",
+                "A question can only be answered non-verbally. ",
+                "A question awaits an answer. ",
+                "A question is an act of desperation. ",
+                "A question can be answered verbally or non-verbally. ",
+                "The reaction leaves one question unanswered. "
+              ],
+              "type": "matrix",
+              "title": "What features characterize questions?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Eine Frage erwartet eine Antwort. ": "Correct",
+                "Eine Frage lässt die Reaktion offen. ": "Correct",
+                "Eine Frage ist ein Akt der Verzweiflung. ": "Wrong",
+                "Eine Frage ist stets bewusst formuliert. ": "Wrong",
+                "Eine Frage beantwortet sich in der Regel selbst. ": "Wrong",
+                "Eine Frage kann nur nonverbal beantwortet werden. ": "Wrong",
+                "Eine Frage bezieht sich auf einen Auslöser der Frage. ": "Correct",
+                "Eine Frage kann verbal oder nonverbal beantwortet werden. ": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

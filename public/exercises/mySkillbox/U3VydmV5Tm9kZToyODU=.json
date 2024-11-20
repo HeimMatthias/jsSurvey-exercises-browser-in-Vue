@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "Marktgesetze",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Because the demand for Swiss meat is increasing, the price of Swiss meat is rising (market law 2). Assume how supply and demand will change as a result of this price increase for Swiss meat. Base your reasoning on a market law:",
+              "isRequired": true,
+              "correctAnswer": "As meat prices rise, more producers will seize the opportunity to earn money by selling meat. This will increase the supply. At the same time, some consumers will reduce their meat consumption at these prices and switch to other products. This reduces demand. Conclusion: Market Law 3 comes into play.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marktgesetze2",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Think about how you would react to the increase in the price of meat products instead of the snack operator from order 5. This will make your most important ingredient more expensive. Will you also increase the sales price per kebab as a result of the higher meat purchase prices?",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Using the laws of the market, explain what long-term impact a price increase would have on the demand for kebabs:",
+              "isRequired": true,
+              "correctAnswer": "If the price of kebabs rises, demand falls (market law 3).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "With the help of the \"Means of expression for internal conflicts\", describe the conflict of objectives that the snack operator has to face.",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, the snack operator could earn more per kebab with a price increase; on the other hand, the snack operator would be able to sell fewer kebabs because the demand for kebabs would fall.  Alternative: Although the snack operator could put less meat in the kebab, which would reduce his costs, some customers might take offense at this.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marktgesetze3",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Whether it really makes sense to increase the price per kebab can only be assessed on the basis of concrete figures. Due to the price increase of the meat, the snack operator would have to increase his income and thus his turnover (turnover = number of kebabs sold x price per piece) so that he does not have to reduce his salary. So far, he has sold an average of 65 kebabs per day for CHF 10. We assume that a price increase of CHF 2 per kebab would reduce sales by 15 kebabs. A price increase of CHF 1 would only reduce demand by 5 units.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Calculate the turnover with and without the price increase of CHF 1 and CHF 2 respectively. You therefore need to make a total of three calculations:",
+              "isRequired": true,
+              "correctAnswer": "Sales without price increase: 10 x 65 = 650; sales with price increase of CHF 2: 12 x 50 = 600; sales with price increase of CHF 1: 11 x 60 = 660\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Make a recommendation to the snack operator based on your calculation and assessment.",
+              "isRequired": true,
+              "correctAnswer": "We can only recommend a price increase of CHF 1. This would increase his turnover by CHF 10. A price increase of CHF 2 is not worthwhile because it would reduce his turnover by CHF 50. Either way, the snack operator will unfortunately not be able to pay himself his current salary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

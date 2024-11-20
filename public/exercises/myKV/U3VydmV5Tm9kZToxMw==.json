@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Tastaturbefehle1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which keyboard shortcuts do you use to enter the following non-printable characters?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Tabulator jump",
+              "isRequired": true,
+              "correctAnswer": "Tab/Ctrl + Tab",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "protected space",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + Leertaste",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Show all characters",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Shift + 3",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which keyboard shortcuts do you use to enter the following non-printable characters?",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Manual line break",
+              "isRequired": true,
+              "correctAnswer": "Shift + Return",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "conditional hyphen",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Divis",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Manual page break",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Enter",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

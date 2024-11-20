@@ -1,0 +1,117 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte1",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Solve problems 1 and 2 using a suitable instrument from the instrument box.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10_A16_Sachverhalt.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10_A16_Sachverhalt2.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/Abstand.png\" />",
+              "name": "question9",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The legal rules lead to different solutions for the two cases: \nDecide which of the two can withdraw from the contract and which cannot. Give brief and precise reasons for your two decisions:",
+              "isRequired": true,
+              "correctAnswer": "Situation 1: Mia cannot withdraw from the contract. In principle, the following applies here: A purchase is a purchase. The store is not legally obliged to take the dress back. However, there are stores that are accommodating. \nFact 2: Bastian can withdraw from the contract. Leasing contracts can be canceled within 14 days of receiving a copy of the contract.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sachverhalte2",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Solve problems 1 and 2 using a suitable instrument from the instrument box.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10_A16_Sachverhalt.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10_A16_Sachverhalt2.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/Abstand.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "What reasons prompted the Swiss legislator to allow withdrawal from the contract in one of the two cases? Tick all the correct reasons!",
+              "choices": [
+                "The legislator wants to protect the weaker party to the contract.",
+                "The legislator wants contracts to be honored at all times.",
+                "The legislator wants to protect the more powerful contracting party.",
+                {
+                  "text": "The legislator wants to protect a contracting party from hasty action with serious consequences.",
+                  "value": "The legislator wants to protect a contracting party from hasty action with serious consequences. "
+                },
+                "The legislator wants to grant a contracting party a longer period of reflection.",
+                "The possibility of withdrawal corresponds to protection under consumer law."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The legislator wants to protect the weaker party to the contract.",
+                "The possibility of withdrawal corresponds to protection under consumer law.",
+                "The legislator wants to grant a contracting party a longer period of reflection.",
+                "The legislator wants to protect a contracting party from hasty action with serious consequences. "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sachverhalte3",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Solve the problem 3. Use a suitable instrument from the instrument box as an aid.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10_A16_Sachverhalt3.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10-4_A15_Rechtliche-Regel.png\" /><img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/Abstand.png\" />",
+              "name": "question8",
+              "type": "html"
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Convert the legal rule for fact 3 into an if-then statement by completing the sentence accordingly. Tip: You can simply omit the term \"explanatory error\".",
+              "isRequired": true,
+              "placeHolder": "Wenn eine durch einen Fehler verursachte …, dann …",
+              "correctAnswer": "If there is a massive difference between the price quoted and the actual value of the object of purchase due to an error, then a seller can rely on this and therefore does not have to sell the object at the price quoted.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What price can Paula now buy the T-shirt for? Give reasons. Tip: Think about whether the if part is fulfilled.",
+              "isRequired": true,
+              "correctAnswer": "The difference between the quoted price (CHF 30) and the actual value of the purchased item (CHF 35) is not significant -> If part not fulfilled -> Then part does not apply => The store must give Paula the T-shirt for CHF 30.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

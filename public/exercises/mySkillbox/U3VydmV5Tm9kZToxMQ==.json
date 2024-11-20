@@ -1,0 +1,254 @@
+{
+  "pages": [
+    {
+      "name": "Pflichtverletzungsgrad",
+      "title": "Degree of breach of duty",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "An apprentice regularly arrives at work a few minutes late.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                " Minor/one-off",
+                " minor/multiple",
+                " coarse/one-off",
+                " coarse/multiple"
+              ],
+              "isRequired": true,
+              "correctAnswer": " Minor / multiple",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question4",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichtverletzungsgrad1",
+      "title": "Degree of breach of duty",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "One day, a trainee is caught smoking pot by his boss during working hours, even though this is strictly forbidden in the company.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "2",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                " Minor/one-off",
+                " minor/multiple",
+                " coarse/one-off",
+                " coarse/multiple"
+              ],
+              "isRequired": true,
+              "correctAnswer": " coarse / single use",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question6",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichtverletzungsgrad2",
+      "title": "Degree of breach of duty",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "An apprentice (hairdresser) has to clean his boss's car once a week.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "7",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                " Minor/one-off",
+                " minor/multiple",
+                " coarse/one-off",
+                " coarse/multiple"
+              ],
+              "isRequired": true,
+              "correctAnswer": " coarse / multiple",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question10",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question11",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Pflichtverletzungsgrad3",
+      "title": "Degree of breach of duty",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "An apprentice is shouted at by her boss because of an unsatisfactory grade.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "What obligation is being violated here?",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "6",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                " Minor/one-off",
+                " minor/multiple",
+                " coarse/one-off",
+                " coarse/multiple"
+              ],
+              "isRequired": true,
+              "correctAnswer": " Minor / one-off",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question14",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question15",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<h1 class=\"survey__completed-title\">Congratiulations</h1>\n<p class=\"survey__completed-text\">You have successfully completed the exercise.</p>",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

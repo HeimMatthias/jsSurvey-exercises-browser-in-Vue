@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Strategies to increase profits",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A new delivery van is purchased to replace an existing vehicle.",
+                "Higher discounts can be negotiated with a material supplier.",
+                "Employees' salaries will be increased by 2.5 %.",
+                "The depreciation of vehicles can be reduced.",
+                "The contribution rate for the pension fund is increased.",
+                "The bank increases the interest rate on the loan debt.",
+                "An employee who leaves the company will not be replaced.",
+                "A provider with lower premiums is chosen for car insurance.",
+                "Additional furniture is purchased for the office.",
+                "A used vehicle is sold and no longer replaced.",
+                "The expense allowances for employees must be increased.",
+                "The bonuses for employees will be reduced."
+              ],
+              "type": "matrix",
+              "title": "The management of Malergeschäft Meierhofer GmbH is not satisfied with the net profit in the annual financial statements. Can profits be increased next year with the following measures?",
+              "columns": [
+                "Improvement in net profit: yes",
+                "Improvement in net profit: no"
+              ],
+              "correctAnswer": {
+                "Ein austretender Mitarbeiter wird nicht ersetzt.": "Improvement in net profit: yes",
+                "Der Beitragssatz für die Pensionskasse wird erhöht.": "Improvement in net profit: no",
+                "Die Abschreibung der Fahrzeuge kann reduziert werden.": "Improvement in net profit: yes",
+                "Die Löhne der Mitarbeitenden werden um 2,5 % erhöht.": "Improvement in net profit: no",
+                "Für das Büro werden zusätzliche Möbel angeschafft.": "Improvement in net profit: no",
+                "Die Bank erhöht den Zinssatz für die Darlehensschuld.": "Improvement in net profit: no",
+                "Die Gratifikationen für die Mitarbeitenden werden reduziert.": "Improvement in net profit: yes",
+                "Ein gebrauchtes Fahrzeug wird verkauft und nicht mehr ersetzt.": "Improvement in net profit: yes",
+                "Die Spesenentschädigungen für die Mitarbeitenden müssen erhöht werden.": "Improvement in net profit: no",
+                "Mit einem Materiallieferanten können höhere Rabatte ausgehandelt werden.": "Improvement in net profit: yes",
+                "Als Ersatz eines bestehenden Fahrzeuges wird ein neuer Lieferwagen gekauft.": "Improvement in net profit: no",
+                "Für die Autoversicherungen wird ein Anbieter mit tieferen Prämien gewählt.": "Improvement in net profit: yes"
+              },
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

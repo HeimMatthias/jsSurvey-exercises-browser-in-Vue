@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Psychosocial risks and their consequences",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Write down what is meant by psychosocial risks and what the consequences are if psychosocial risks occur.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Psychosocial risks:",
+              "isRequired": true,
+              "correctAnswer": "Psychosocial risks refer to the risk of health impairments. Psychosocial risks arise from inadequate work design and organization as well as from an unfavourable social environment at work. / Psychosocial risks due to excessive demands, e.g. stress, burn-out, monotony / Psychosocial risks due to violations of personal integrity, e.g. bullying, sexual harassment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Consequences of psychosocial risks:",
+              "isRequired": true,
+              "correctAnswer": "Psychosocial risks can have a negative impact on: the psyche: depression, anxiety disorders, etc. / the body: musculoskeletal disorders, cardiovascular diseases, diabetes, etc. / work behavior: Withdrawal, loss of motivation, drop in performance, increased consumption of alcohol and psychoactive substances, etc. / the company: loss of performance, medical costs, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Psychosocial risks and their consequences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Psychosocial risks can be addressed just as systematically as other health and safety risks.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What precautions does your training company take to protect against psychosocial risks?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Where do you see potential for optimization in your training company?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

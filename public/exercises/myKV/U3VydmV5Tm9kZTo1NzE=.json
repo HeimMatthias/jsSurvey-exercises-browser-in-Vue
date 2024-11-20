@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sort",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Sort the Excel list of used cars according to the specifications and then answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "... in ascending order of the year of the cars. What is the model name of the oldest used car on offer?",
+              "correctAnswer": "Polo 55."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "... in ascending order by car make, then by type and by price. How many Opels are on offer?",
+              "correctAnswer": "Four pieces."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "... by price (lowest price at the top). How much does the most expensive used car on offer cost?",
+              "correctAnswer": "CHF 165 250.00 (BMW M6)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

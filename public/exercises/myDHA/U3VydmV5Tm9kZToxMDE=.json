@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Powers ",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Government",
+                "Case law",
+                "Federal Court",
+                "Application of law",
+                "Legislation",
+                "Parliament",
+                "Federal Council"
+              ],
+              "type": "matrix",
+              "title": "Decide which state authority the terms on the left belong to.",
+              "columns": [
+                "Legislative",
+                "Executive",
+                "Judiciary"
+              ],
+              "correctAnswer": {
+                "Bundesrat": "Executive",
+                "Parlament": "Legislative",
+                "Regierung": "Executive",
+                "Bundesgericht": "Judiciary",
+                "Rechtssetzung": "Legislative",
+                "Rechtsprechung": "Judiciary",
+                "Rechtsanwendung": "Executive"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

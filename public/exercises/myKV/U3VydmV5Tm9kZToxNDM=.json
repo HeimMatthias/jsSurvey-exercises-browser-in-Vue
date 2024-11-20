@@ -1,0 +1,142 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "Which of the following words are abstract nouns?",
+              "choices": [
+                "the exam questions",
+                "exam anxiety",
+                "the examination grade",
+                "exam preparation"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "exam anxiety",
+                "exam preparation"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What are the names of the three genus forms? Give the German and Latin names.",
+              "isRequired": true,
+              "correctAnswer": "masculine/masculine; feminine/feminine; neuter/neuter ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is special about nouns like people, expenses, vacation?",
+              "isRequired": true,
+              "correctAnswer": "They only occur in the plural and have no grammatical gender.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What grammatical gender do nominalizations have? Give two examples.",
+              "isRequired": true,
+              "correctAnswer": "noun/neuter noun. Examples: learning, the best, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How is the plural form of the nouns Glück and Streit formed?",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "with a paraphrase: the strokes of luck, the disputes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are homonyms? Give an example.",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "Nouns with the same form but different meanings, example: the bank = financial institution and seat",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What are the names of the four cases? Give the Latin name and the German name.",
+              "isRequired": true,
+              "correctAnswer": "Nominative (Werfall), accusative (Wenfall), dative (Wemfall), genitive (Wesfall)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the standard form of the sentence \"This is my supervisor's office\"?",
+              "isRequired": true,
+              "correctAnswer": "This is my supervisor's office.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "demonstration1",
+      "title": "Advertising",
+      "elements": [
+        {
+          "name": "Aufrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How does advertising differ from sales promotion?",
+              "isRequired": true,
+              "correctAnswer": "Advertising usually takes place outside the store, sales promotion inside the store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the principles of advertising?",
+              "isRequired": true,
+              "correctAnswer": "Advertising should be clear.\nAdvertising should be true.\nAdvertising should be economical.\nAdvertising should be effective.\nAdvertising should be up-to-date.\nAdvertising should be repeated.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do the letters in the AIDA formula stand for?",
+              "isRequired": true,
+              "correctAnswer": "A: Attention, I: Interest, D: Desire, A: Action",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

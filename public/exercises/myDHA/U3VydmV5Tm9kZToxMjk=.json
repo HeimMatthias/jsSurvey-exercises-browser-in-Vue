@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Role of insurance companies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Household contents insurance ",
+                "Accident insurance ",
+                "Theft insurance ",
+                "Personal liability insurance ",
+                "Health insurance ",
+                "Building insurance ",
+                "Comprehensive insurance ",
+                "Life insurance"
+              ],
+              "type": "matrix",
+              "title": "Assign the following insurance policies to the corresponding insurance types. \n\nPut in the letters V, P or S: V = property insurance; P = personal insurance; S = property insurance.",
+              "columns": [
+                "V = Asset insurance",
+                "P = Personal insurance",
+                "S = Property insurance"
+              ],
+              "correctAnswer": {
+                "Krankenkasse ": "P = Personal insurance",
+                "Lebensversicherung": "P = Personal insurance",
+                "Unfallversicherung ": "P = Personal insurance",
+                "Hausratversicherung ": "S = Property insurance",
+                "Gebäudeversicherung ": "S = Property insurance",
+                "Diebstahlversicherung ": "S = Property insurance",
+                "Teilkaskoversicherung ": "S = Property insurance",
+                "Privathaftpflicht-Versicherung ": "V = Asset insurance"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

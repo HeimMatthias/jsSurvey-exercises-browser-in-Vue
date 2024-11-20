@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Convert the simple sentences into compound sentences and sentence structures as shown in the example. Pay attention to the given sentence pattern. Example: \"Now I have to wait an hour. I missed the bus.\".",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "HS, NS:",
+              "readOnly": true,
+              "defaultValue": "Nun muss ich eine Stunde warten, weil ich den Bus verpasst habe. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "NS, HS:",
+              "readOnly": true,
+              "defaultValue": "Weil/Da ich den Bus verpasst habe, muss ich nun eine Stunde warten.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "I enjoy working with her. You can rely on her.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "HS, HS:",
+              "isRequired": true,
+              "correctAnswer": "I like working with her because you can rely on her. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "NS, HS:",
+              "isRequired": true,
+              "correctAnswer": "Because I can rely on her, I enjoy working with her. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "We can hardly believe it. She has made it to the final.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "HS, NS:",
+              "isRequired": true,
+              "correctAnswer": "We can hardly believe that she made it to the final. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "NS, HS:",
+              "isRequired": true,
+              "correctAnswer": "We can hardly believe that she made it to the final. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "I'll support you with your work. You have to help me with the move.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "HS, HS:",
+              "isRequired": true,
+              "correctAnswer": "I support you in your work, but you have to help me with the move.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "NS, HS:",
+              "isRequired": true,
+              "correctAnswer": "If/when you help me move, I will support you in your work.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "The weather is bad. We decide not to visit the open-air cinema.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "HS, HS:",
+              "isRequired": true,
+              "correctAnswer": "The weather is bad, so we don't go to the open-air cinema.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "NS, HS:",
+              "isRequired": true,
+              "correctAnswer": "Because the weather is bad, we don't go to the open-air cinema.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Sentence combinations and sentence structures",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "We had landed. We then went straight to baggage reclaim.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "HS, NS:",
+              "isRequired": true,
+              "correctAnswer": "We went straight to baggage reclaim after we landed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "NS, HS:",
+              "isRequired": true,
+              "correctAnswer": "After we landed, we went straight to baggage reclaim.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

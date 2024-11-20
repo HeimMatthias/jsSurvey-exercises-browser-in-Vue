@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Income statement",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the income statement.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does an income statement show?",
+              "isRequired": true,
+              "correctAnswer": "The income statement compares the expenses and income of an accounting period (usually one year).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What can you see from an income statement?",
+              "isRequired": true,
+              "correctAnswer": "The income statement shows what funds have been used for and what funds have been earned. The comparison results in a positive or negative difference, which shows the profit or loss.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do the terms \"cost of goods sold\" and \"revenue from goods sold\" mean? Explain both in one sentence each.",
+              "isRequired": true,
+              "correctAnswer": "The cost of goods sold is the amount that a company has paid for the purchase of its goods. Revenue from goods is the amount that a company has earned from the sale of its goods.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

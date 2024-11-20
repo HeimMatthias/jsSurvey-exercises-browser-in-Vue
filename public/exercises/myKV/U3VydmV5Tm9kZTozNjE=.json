@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Respectful communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "How can the following sentences be formulated respectfully?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You’ve forgotten to get back to me yet again.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: It is important to me to be kept informed about progress. Can you please inform me next time?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "You never give a thought to how I’m doing.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: I would appreciate it if you asked about my well-being.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why do you always arrive late?",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: I've noticed that you often arrive late. Why is that?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "You exasperate me when you leave the projector on after the meeting.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: It bothers me when you don't switch off the projector after the meeting. It increases our energy costs unnecessarily and is not ecologically friendly. Please switch off the projector after the next meeting.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "How can the following sentences be formulated respectfully?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "It would be nice if you supported me more often!",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: Please help me with the monthly accounts.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "I would like you to show more commitment!",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: Please be proactive in future and let me know when you've finished your work and have free capacity again.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Please understand me!",
+              "isRequired": true,
+              "correctAnswer": "This request is not clear. What is meant by “understand”? Consideration, or verbal understanding, or is this a request for support? Possible answer: Please take my point of view into account as service quality is important to me. Next time, come to me if you’re not sure about something before you send the quotation to the customer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,116 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Why is lifelong learning important?",
+              "isRequired": true,
+              "correctAnswer": "It is the key to professional and personal success.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the three types of generic skills?",
+              "isRequired": true,
+              "correctAnswer": "Social competence, personal competence and methodological competence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Where is the most knowledge and skills acquired?",
+              "isRequired": true,
+              "correctAnswer": "outside of school learning, e.g. in the family",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Why is expertise important?",
+              "isRequired": true,
+              "correctAnswer": "It is the basis for correct argumentation, action and decision-making.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What makes people competent?",
+              "isRequired": true,
+              "correctAnswer": "the application of knowledge in practice",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How can you retain what you have learned better?",
+              "isRequired": true,
+              "correctAnswer": "by linking content",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Through which channel does an auditory type learn best?",
+              "isRequired": true,
+              "correctAnswer": "about hearing (ears)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is the name of the type of learner who learns best by sight?",
+              "isRequired": true,
+              "correctAnswer": "Visual learning type (eyes)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

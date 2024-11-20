@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Expense and income accounts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which important expense and income accounts are required in the restaurant sector?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Most important yield:",
+              "isRequired": true,
+              "correctAnswer": "Service income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "  Important expenses: ",
+              "isRequired": true,
+              "correctAnswer": "Personnel expenses, premises expenses, food purchases",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Expense and income accounts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which important expense and income accounts are required in the mountain railroad industry?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Most important yield:",
+              "isRequired": true,
+              "correctAnswer": "Transporter yield",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "  Important expenses: ",
+              "isRequired": true,
+              "correctAnswer": "Personnel expenses, depreciation and amortization, plant maintenance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Expense and income accounts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which important expense and income accounts are required in the painting business?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Most important yield:",
+              "isRequired": true,
+              "correctAnswer": "Operating income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "  Important expenses: ",
+              "isRequired": true,
+              "correctAnswer": "Personnel expenses, purchase of materials, vehicle expenses",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Expense and income accounts",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which important expense and income accounts are required in the book publishing industry?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Most important yield:",
+              "isRequired": true,
+              "correctAnswer": "Income from teaching materials",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "  Important expenses: ",
+              "isRequired": true,
+              "correctAnswer": "Printing costs, personnel expenses, advertising expenses",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Expense and income accounts",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Which important expense and income accounts are required in the construction industry?",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Most important yield:",
+              "isRequired": true,
+              "correctAnswer": "Operating income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "  Important expenses: ",
+              "isRequired": true,
+              "correctAnswer": "Purchase of materials, personnel expenses, depreciation and amortization",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

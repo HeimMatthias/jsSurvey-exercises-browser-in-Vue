@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Modal verbs",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe how the modal verbs in the following sentences modify the statement.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "You may charge expenses for this work.",
+              "isRequired": true,
+              "correctAnswer": "Permission, authorization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "You can charge expenses for this work.",
+              "isRequired": true,
+              "correctAnswer": "Possibility, permission",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "You should charge expenses for this work.",
+              "isRequired": true,
+              "correctAnswer": "Request",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "You must charge expenses for this work.",
+              "isRequired": true,
+              "correctAnswer": " Commitment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

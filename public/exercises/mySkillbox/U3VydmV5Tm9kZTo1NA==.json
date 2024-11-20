@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Title of the exercise",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Task (optional)",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Question 1 (Single Input)"
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Question 2 (Comment Input)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Name der Übung1",
+      "title": "Title of the exercise",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Task (optional)",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Question 3"
+            },
+            {
+              "name": "Frage 4",
+              "type": "text",
+              "title": "Question 4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

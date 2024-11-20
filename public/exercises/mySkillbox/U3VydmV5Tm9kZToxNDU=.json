@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "Grafiken lesen",
+      "title": "Read graphics",
+      "elements": [
+        {
+          "name": "question 1",
+          "type": "panel",
+          "title": "Complete the sentences you have started.",
+          "elements": [
+            {
+              "name": "Orientieren: Diese Grafik vergleicht …",
+              "type": "comment",
+              "title": "Orientation: This graphic compares ...",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Read graphics",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the sentences you have started.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Understanding: First and foremost ... ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Read graphics",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Complete the sentences you have started.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Understanding: It is noticeable that ...",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Read graphics",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Complete the sentences you have started.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Understand: Compared to 2008 ... ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

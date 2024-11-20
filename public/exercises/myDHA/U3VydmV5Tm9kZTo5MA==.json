@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Water and resource consumption",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How much water do you estimate you use on average per day?",
+              "correctAnswer": "Each person's water consumption is individual. However, the average consumption is 160 liters of drinking water per day.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Make a note of what you need water for and estimate your water consumption for each area.",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Water and resource consumption",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Compare your table with the statistics from energie-umwelt.ch.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-detailhandel-dha-prod.s3-eu-central-1.amazonaws.com/images/C_LJ1_LF2_M2_A1_Tabelle.original.png\" />",
+              "name": "question6",
+              "type": "html"
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Record your findings.",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Water and resource consumption",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "When do you consciously act \"environmentally friendly\" in everyday life? When do you not act in an \"environmentally friendly\" way? Make a note of examples of both types of behavior.",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Are there ways in which you can be more \"environmentally friendly\" in your everyday life? Think about them and write them down.",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

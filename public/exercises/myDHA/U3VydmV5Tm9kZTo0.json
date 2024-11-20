@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "name": "Lieferkette verstehen1",
+      "title": "Understanding the supply chain",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Explain the following terms in one sentence each. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Supply chain ",
+              "isRequired": true,
+              "correctAnswer": "The supply chain is the distribution channel from the producer to the consumer.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Forwarder",
+              "isRequired": true,
+              "correctAnswer": "Freight forwarders are companies that specialize in the delivery of goods. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lieferkette verstehen2",
+      "title": "Understanding the supply chain",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Put the players in the retail chain in a logical order. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "1st stage",
+              "choices": [
+                "Wholesaler ",
+                "Producer ",
+                "Detailer ",
+                "Consumer ",
+                "Original producer "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Original producer ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "2nd stage",
+              "choices": [
+                "Wholesaler ",
+                "Producer ",
+                "Detailer ",
+                "Consumer ",
+                "Original producer "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Producer ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "3rd stage",
+              "choices": [
+                "Wholesaler ",
+                "Producer ",
+                "Detailer ",
+                "Consumer ",
+                "Original producer "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wholesaler ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "4th stage",
+              "choices": [
+                "Wholesaler ",
+                "Producer ",
+                "Detailer ",
+                "Consumer ",
+                "Original producer "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Detailer ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "5th stage",
+              "choices": [
+                "Wholesaler ",
+                "Producer ",
+                "Detailer ",
+                "Consumer ",
+                "Original producer "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lieferkette verstehen4",
+      "title": "Understanding the supply chain",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which goods tend to be sold directly and which indirectly? Assign the following goods to the preferred distribution channel and add your own example for each: (1) custom-made products, (2) industrial robots, (3) canned goods, (4) food, (5) clothing, (6) very valuable (expensive) goods, (7) bulk goods ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Direct sales channel ",
+              "isRequired": true,
+              "correctAnswer": "(1) one-off production, (2) industrial robots, (6) very valuable (expensive) goods ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Indirect sales channel ",
+              "isRequired": true,
+              "correctAnswer": "(3) canned goods, (4) food, (5) clothing, (7) bulk goods ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

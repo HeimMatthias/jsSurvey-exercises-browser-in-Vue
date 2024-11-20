@@ -1,0 +1,154 @@
+{
+  "pages": [
+    {
+      "name": "Fremdwörter1",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Find the right foreign word.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Opening hours should be made more flexible; this requires more conservative laws. ",
+              "isRequired": true,
+              "correctAnswer": "more liberal",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "The commercialization of urban residential property can lead to higher rents because buyers want to earn as much as possible. ",
+              "isRequired": true,
+              "correctAnswer": "Privatization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Our teacher has a monotonous management style; she gives us quite a lot of freedom. ",
+              "isRequired": true,
+              "correctAnswer": "liberal",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fremdwörter2",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Find the right foreign word.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "text",
+              "title": "People will only consume sustainably with an audience. They will not change their behavior on their own. ",
+              "isRequired": true,
+              "correctAnswer": "Regulations",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "text",
+              "title": "Don't be so alternative! It's good to try something new!",
+              "isRequired": true,
+              "correctAnswer": "conservative",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "text",
+              "title": "I find it unnecessary that French is a legal subject.",
+              "isRequired": true,
+              "correctAnswer": "obligatory",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fremdwörter3",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Find the right foreign word.",
+          "elements": [
+            {
+              "name": "Frage 7",
+              "type": "text",
+              "title": "There are preventative sports programs at our school. I'm thinking about attending one.",
+              "isRequired": true,
+              "correctAnswer": "optional",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "text",
+              "title": "Oh my God, he just lets everything happen to him. I've never seen such a patriotic person.",
+              "isRequired": true,
+              "correctAnswer": "passive",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 9",
+              "type": "text",
+              "title": "We are trying to prevent immigration with an optional migration policy.",
+              "isRequired": true,
+              "correctAnswer": "restrictive",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fremdwörter4",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Find the right foreign word.",
+          "elements": [
+            {
+              "name": "Frage 10",
+              "type": "text",
+              "title": "Conservative people usually like ceremonies, such as the Federal Field Shooting, yodeling or Hornussen. ",
+              "isRequired": true,
+              "correctAnswer": "Traditions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 11",
+              "type": "text",
+              "title": "Everyone is happy if they can go to hospital in an emergency. That's why an affordable healthcare system is in the public interest.",
+              "isRequired": true,
+              "correctAnswer": "Interest",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

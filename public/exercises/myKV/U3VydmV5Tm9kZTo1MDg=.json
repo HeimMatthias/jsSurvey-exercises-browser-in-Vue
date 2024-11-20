@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Non-violent communication",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_GLF4_M12_A6_gewaltfreie-Kommunikation.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "rows": [
+                "It disgusts and annoys me.",
+                "We all want to stay healthy and deposit our food here.",
+                "I wanted to put the food I brought in the communal fridge, but I found a moldy yogurt of yours there.",
+                "That's why I ask you to keep an eye on your food and dispose of spoiled products before they get moldy or smelly."
+              ],
+              "type": "matrix",
+              "title": "Livio is standing in front of the fridge in the company's communal kitchen when Sahida enters.\nCategorize the following statements by Livio according to the four steps of non-violent communication.",
+              "columns": [
+                "Wish",
+                "Need",
+                "Feeling",
+                "Observation"
+              ],
+              "correctAnswer": {
+                "Es ekelt und nervt mich.": "Feeling",
+                "Wir wollen ja alle gesund bleiben und unser Essen hier deponieren.": "Need",
+                "Deshalb bitte ich dich, deine Esswaren im Auge zu behalten und verdorbene Produkte zu entsorgen, bevor sie schimmeln oder stinken.": "Wish",
+                "Ich habe mein mitgebrachtes Essen in den gemeinsamen Kühlschrank legen wollen, doch dort habe ich ein verschimmeltes Joghurt von dir gefunden.": "Observation"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

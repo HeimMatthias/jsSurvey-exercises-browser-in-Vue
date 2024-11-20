@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "What goal would you pursue as a rule in a discussion with a customer?",
+              "choices": [
+                "To persuade the customer.",
+                "To intimidate the customer.",
+                "To get to know the customer better.",
+                "To confuse the customer."
+              ],
+              "correctAnswer": [
+                "To persuade the customer.",
+                "To get to know the customer better."
+              ]
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "The aim of discussions with customers is to convince the customer about the goods or services offered or to get to know him better so that you can recommend a more suitable product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Why is it important to listen actively when you have a conversation with a customer?",
+              "choices": [
+                "To not contradict the customer.",
+                "To impose your own opinion.",
+                "To understand the customer's needs.",
+                "To interrupt the customer at the right point."
+              ],
+              "correctAnswer": [
+                "To understand the customer's needs."
+              ]
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "By listening properly, you should be able to understand the customer's needs better."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "What role does empathy play in a successful conversation with a customer?",
+              "choices": [
+                "Empathy should not have any influence, otherwise you are prejudiced.",
+                "Empathy is important to understand the customer's needs.",
+                "Empathy is irrelevant, only the product counts.",
+                "Empathy is only important in social conversations."
+              ],
+              "correctAnswer": [
+                "Empathy is important to understand the customer's needs."
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "Empathy helps you to be totally focussed on the customer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "What is the best way to deal with objections by a customer?",
+              "choices": [
+                "Ignore them and pass on to the next point.",
+                "Convince the customer that his objections are unfounded.",
+                "Take the customer's objections seriously and offer solutions.",
+                "Criticize the customer for his objections."
+              ],
+              "correctAnswer": [
+                "Take the customer's objections seriously and offer solutions."
+              ]
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "The customer's objections should always be discussed and solutions should be sought."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "checkbox",
+              "title": "What is the difference between open and closed questions in a discussion with a customer?",
+              "choices": [
+                "Open questions should be asked in conversations with customers.",
+                "Open questions only require yes/no answers, closed questions require detailed answers.",
+                "Open questions require detailed answers, closed questions only require yes/no answers.",
+                "Open questions are suitable for informal conversations, closed questions for formal conversations."
+              ],
+              "correctAnswer": [
+                "Open questions should be asked in conversations with customers.",
+                "Open questions require detailed answers, closed questions only require yes/no answers."
+              ]
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "By answering open questions the customer discloses a lot of information, which can be helpful in understanding their needs better."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Discussions with customers",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Answer the multiple choice questions about discussions with customers below and give brief reasons for your chosen solutions. Multiple answers may be correct.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "checkbox",
+              "title": "How can you build trust in a conversation with a customer?",
+              "choices": [
+                "By holding back important information.",
+                "By communicating honestly, transparently and reliably.",
+                "By criticising the customer.",
+                "By being friendly and approachable."
+              ],
+              "correctAnswer": [
+                "By communicating honestly, transparently and reliably.",
+                "By being friendly and approachable."
+              ]
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "correctAnswer": "Open, honest and friendly communication helps to build trust."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

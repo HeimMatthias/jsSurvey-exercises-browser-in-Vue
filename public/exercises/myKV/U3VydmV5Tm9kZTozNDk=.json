@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Processus de réclamation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Put the six stages of the complaint process in order.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Étape 1",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Se taire",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Étape 2",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Écouter",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Étape 3",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Noter",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Étape 4",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "S'excuser",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Étape 5",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Remercier",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Étape 6",
+              "choices": [
+                "Écouter",
+                "S'excuser",
+                "Remercier",
+                "Se taire",
+                "Noter",
+                "Traiter"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Traiter",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

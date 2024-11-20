@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Spartipps",
+      "title": "Saving tips",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Give the main character of the interview you have read three specific tips that are tailored to their situation. Use the terms fixed and variable costs.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Tips for Jonas",
+              "isRequired": true,
+              "correctAnswer": "1. you should discuss your bills, reminders and threats of seizure with a debt advisor (see caritas-schuldenberatung.ch or schuldeninfo.ch) or a trusted person and then draw up a budget. You can save a lot of money in the long term, especially on fixed costs, for example by choosing cheaper health insurance or a cheaper cell phone subscription.\n2. As long as you haven't paid off your debts, you absolutely have to do without the latest and most expensive things. For example, take a look around online swap meets and store in second-hand stores. This way, you can massively reduce your variable costs and therefore your short-term expenses.\n3. Avoid branded products; they are usually much more expensive and not necessarily better quality than other products. \n4. Keep a written record of everything you spend - including everything you order by credit card, in online stores or on account. This will help you keep track of your spending. \n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Tips for Linus",
+              "isRequired": true,
+              "correctAnswer": "1. you should definitely make a plan for how you can pay off your debts. It's best to draw up a budget with a debt advisor (see caritas-schuldenberatung.ch or schuldeninfo.ch) or someone you trust. You can save a lot of money in the long term, especially when it comes to fixed costs, for example by choosing cheaper health insurance or a cheaper cell phone subscription.\n2. You will also see that you can massively reduce your variable costs by reducing your grass consumption and going out. This could massively reduce your costs in the short term.\n3. Only take as much money with you when you go out as you want to spend and leave your credit card at home.\n4. See if you can find a shared flat so you can cut your housing costs considerably.\n5. If you invite your friends over, split the costs between you. It's actually a good idea to celebrate at home, because alcohol and food, for example, are much cheaper if you buy them from a wholesaler instead of consuming them in clubs.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Tips for Sam",
+              "isRequired": true,
+              "correctAnswer": "1. you should definitely get an overview of your debts with the help of a debt advisor (see caritas-schuldenberatung.ch or schuldeninfo.ch) or someone you trust and then draw up a budget. You can save a lot of money in the long term, especially when it comes to fixed costs, for example by choosing cheaper health insurance or a cheaper cell phone subscription.\n2. Seek help from friends or professionals so that you can stop the uncontrolled consumption you use to compensate for your worries. \n3. Look around online swap meets and store in second-hand stores. This way you can massively reduce your variable costs and therefore your short-term spending.\n4. Keep a written record of everything you spend - including everything you order by credit card, in online stores or on account. This will give you an overview of your spending. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

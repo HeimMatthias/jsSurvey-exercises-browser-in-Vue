@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "name": "Wohnungsfaktoren1",
+      "title": "Housing factors",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Let's assume that city governments lower rents by law and then fix them. Would such a measure reduce or increase the housing shortage in the trendy big cities?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Justify your answer by referring to the relevant market law.",
+              "isRequired": true,
+              "correctAnswer": "The housing shortage would tend to increase. Market law: prices fall\n\n⇨ Supply of rental apartments falls (because it is unattractive for real estate companies as there is no profit to be made)\n\n⇨ Demand for rental apartments rises (because the low rents make living in these trendy cities even more attractive)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

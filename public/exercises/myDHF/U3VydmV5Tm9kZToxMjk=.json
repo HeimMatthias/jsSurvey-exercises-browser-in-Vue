@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Retail trade",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the characteristics of a specialist store?",
+              "isRequired": true,
+              "correctAnswer": "A specialist store stocks a large selection of items from a product group in different price ranges with complementary services.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How does a specialty store differ from a specialist store?",
+              "isRequired": true,
+              "correctAnswer": "The specialty store specializes in a section of the product range of a specialist store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the characteristics of a supermarket?",
+              "isRequired": true,
+              "correctAnswer": "Supermarkets offer a range of products suitable for self-service and often have a low price level.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you describe a specialist store?",
+              "isRequired": true,
+              "correctAnswer": "Specialty stores are large businesses that concentrate on a few product groups (sectors) and offer a very wide range of products. They are often conveniently located and have a large sales area. The price level tends to be low.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Retail trade",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "What characterizes a department store?",
+              "isRequired": true,
+              "correctAnswer": "A department store works on the principle of \"everything under one roof\". It has a broad and deep product range, distinctive customer services, elaborate facilities and a medium to high price level. Department stores are large-scale operations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Why do shopping centers use buzzwords like \"shopping experience\" and \"fun\" in their advertising?",
+              "isRequired": true,
+              "correctAnswer": "Shopping centers want to turn shopping into a leisure activity.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "What is a convenience store?",
+              "isRequired": true,
+              "correctAnswer": "Convenience stores sell everyday consumer goods and consumables. They often have extended opening hours and are also open on Sundays and public holidays.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

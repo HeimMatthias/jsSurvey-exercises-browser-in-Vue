@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "name": "Perspektivenwechsel",
+      "title": "Change of perspective",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Step 1: Recognize the problem\n",
+          "elements": [
+            {
+              "name": "panel1",
+              "type": "panel",
+              "title": "Step 2: My own position ",
+              "elements": [
+                {
+                  "name": "Frage2",
+                  "type": "comment",
+                  "title": "Do you consider the fact that the manufacture of cheap products is associated with external effects to be a major or a minor problem? Give your opinion briefly and succinctly.",
+                  "isRequired": true,
+                  "requiredErrorText": "Please answer the question."
+                }
+              ]
+            }
+          ],
+          "description": "Ist bereits ausgeführt (die Herstellung von Billigprodukten erzeugt in verschiedener Hinsicht externe Effekte). "
+        }
+      ]
+    },
+    {
+      "name": "Perspektivenwechsel2",
+      "title": "Change of perspective",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Step 3: Change of perspective",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Make a note of two other important players. Tip: One actor lives in the country of manufacture, the other in Switzerland, for example.",
+              "isRequired": true,
+              "correctAnswer": "Consumers, e.g. in Switzerland / employees (adults and children) of companies that produce (or have produced) cheap products.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "In das Problem sind mindestens vier wichtige Akteure involviert. Zwei davon sind: 1. Unternehmen, die Billigprodukte herstellen (lassen), 2. Gesellschaft im Herstellungsland, die Umweltproblemen ausgesetzt ist. "
+        }
+      ]
+    },
+    {
+      "name": "Perspektivenwechsel3",
+      "title": "Change of perspective",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Step 4: Conflicting objectives",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M4_A6_Perspektivenwechsel.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Employees <–> Company",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, employees want a decent wage and healthy working conditions. On the other hand, companies want to achieve the highest possible profits. The higher the wages or expenses/costs for production, the lower the profits.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Society in the country of manufacture that is exposed to environmental problems <–> Company",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, the environment can only remain intact if it is not polluted. On the other hand, environmental protection measures result in higher costs and therefore lower profits for companies.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Consumers <–> Workers & society in the country of production, which is exposed to environmental problems",
+              "isRequired": true,
+              "correctAnswer": "Consumers want to pay as little as possible for products. However, cheap products can only be manufactured if (among other things) workers' wages are reduced and no additional costs are incurred for environmental protection measures.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Studieren Sie die Grafik. Beschreiben Sie, welche Zielkonflikte zwischen folgenden Akteuren bestehen."
+        }
+      ]
+    },
+    {
+      "name": "Perspektivenwechsel4",
+      "title": "Change of perspective",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Step 5: Options for action",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Consumers: ",
+              "isRequired": true,
+              "correctAnswer": "Avoiding cheap goods (in some cases), buying sustainably produced goods, shopping in second-hand stores, campaigning politically for more sustainable and fairer production conditions in manufacturing countries.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Company:",
+              "isRequired": true,
+              "correctAnswer": "Increase prices, take adequate environmental protection measures, reduce profits.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Beschreiben Sie für folgende Akteure mögliche Handlungsoptionen:"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

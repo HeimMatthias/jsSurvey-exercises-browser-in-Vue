@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "page4",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Sind folgende Aussagen zur Eheschliessung richtig oder falsch? Recherchieren Sie, wo Sie nicht weiterkommen.",
+              "rows": [
+                "Today, the engagement has no legal significance, only a symbolic one.",
+                "In order to get married, you must submit an application to the relevant registry office.",
+                {
+                  "text": "Marriage is a contract between two people that can be concluded informally. In order for the marriage to be legally valid, it is therefore sufficient to give each other a verbal promise of marriage.",
+                  "value": "Marriage is a contract between two people that can be concluded informally. In order for the marriage to be legally valid, it is therefore sufficient to give each other a verbal promise of marriage."
+                },
+                "The dissolution of the engagement may have legal consequences.",
+                "Couples can only marry if they have been engaged to be married for at least one year.",
+                "Anyone who has reached the age of 18 and is capable of judgment is capable of marriage.",
+                "The marriage of siblings is also prohibited if the relationship is due to adoption.",
+                "A person who is still married but has been separated from their spouse for more than two years may remarry.",
+                "Couples are free to choose whether they prefer to get married at the registry office or in church.",
+                "If the bride and groom can agree on one person, one maid of honor or best man is sufficient instead of two."
+              ],
+              "type": "matrix",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Die Auflösung der Verlobung kann rechtliche Konsequenzen haben.": "Correct",
+                "Ehefähig ist, wer das 18. Altersjahr vollendet hat und urteilsfähig ist.": "Correct",
+                "Die Verlobung hat heute keine rechtliche, sondern nur noch eine symbolische Bedeutung.": "Wrong",
+                "Paare können nur heiraten, wenn sie vorher mindestens ein Jahr zusammen verlobt waren.": "Wrong",
+                "Paare können frei wählen, ob sie lieber auf dem Standesamt oder in der Kirche heiraten möchten.": "Wrong",
+                "Um heiraten zu können, muss man beim zuständigen Zivilstandsamt ein entsprechendes Gesuch stellen.": "Correct",
+                "Können sich die Brautleute auf eine Person einigen, reicht auch eine Trauzeugin oder ein Trauzeuge anstatt zwei.": "Wrong",
+                "Eine Person, die zwar noch verheiratet ist, aber länger als zwei Jahre vom Ehegatten getrennt lebt, darf wieder heiraten.": "Wrong",
+                "Die Eheschliessung von Geschwistern ist auch dann verboten, wenn die Verwandtschaft auf eine Adoption zurückzuführen ist.": "Correct",
+                "Die Ehe ist ein Vertrag zwischen zwei Menschen, der formlos  abgeschlossen werden kann. Damit die Ehe rechtlich gültig ist,  genügt es also, wenn man sich gegenseitig mündlich das  Eheversprechen gibt.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

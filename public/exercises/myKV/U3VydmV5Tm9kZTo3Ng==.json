@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Law Accounting obligation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                {
+                  "text": "Sole proprietorship with an annual turnover of CHF 327,000",
+                  "value": "Sole proprietorship with an annual turnover of CHF 327,000"
+                },
+                "Limited liability company with a turnover of CHF 197,000",
+                "Public limited company with a turnover of CHF 3 278 000.",
+                "Sports club with a turnover of CHF 143,000",
+                "General partnership with a turnover of CHF 418,000",
+                "Sole proprietorship with an annual turnover of CHF 1 182 400",
+                "Public limited company with a turnover of CHF 117,000",
+                "Limited partnership with a turnover of CHF 624,000",
+                "Limited liability company with a turnover of CHF 921,000",
+                "Association with an economic purpose and a turnover of CHF 892,000"
+              ],
+              "type": "matrix",
+              "title": "Are the following companies required by law to keep accounts?",
+              "columns": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": {
+                "Sportverein mit einem Umsatz von CHF 143 000.–": "No",
+                "Aktiengesellschaft mit einem Umsatz von CHF 117 000.–": "Yes",
+                "Aktiengesellschaft mit einem Umsatz von CHF 3 278 000.–": "Yes",
+                "Kollektivgesellschaft mit einem Umsatz von CHF 418 000.–": "No",
+                "Kommanditgesellschaft mit einem Umsatz von CHF 624 000.–": "Yes",
+                "Einzelunternehmen mit einem Jahresumsatz von CHF 327 000.–": "No",
+                "Einzelunternehmen mit einem Jahresumsatz von CHF 1 182 400.–": "Yes",
+                "Verein mit wirtschaftlichem Zweck und einem Umsatz von CHF 892 000.–": "Yes",
+                "Gesellschaft mit beschränkter Haftung mit einem Umsatz von CHF 197 000.–": "Yes",
+                "Gesellschaft mit beschränkter Haftung mit einem Umsatz von CHF 921 000.–": "Yes"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

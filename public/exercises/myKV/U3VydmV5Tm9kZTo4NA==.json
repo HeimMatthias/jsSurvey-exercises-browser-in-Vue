@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Financial or operational accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "These figures are for internal use only.",
+                "These figures are required for the annual financial statements.",
+                "These figures show where the costs were incurred.",
+                "The preparation of these accounts is regulated by law.",
+                "This accounting consists of three sub-accounts.",
+                "The figures in these accounts result in the balance sheet and income statement."
+              ],
+              "type": "matrix",
+              "title": "Do the following statements relate to financial accounting (Fibu) or management accounting (Bebu)?",
+              "columns": [
+                "Financial accounting",
+                "Bebu"
+              ],
+              "correctAnswer": {
+                "Diese Buchhaltung besteht aus drei Teilrechnungen.": "Bebu",
+                "Diese Zahlen werden für die Jahresrechnung gebraucht.": "Financial accounting",
+                "Die Erstellung dieser Buchhaltung ist gesetzlich geregelt.": "Financial accounting",
+                "Diese Zahlen sind nur für den internen Gebrauch bestimmt.": "Bebu",
+                "Bei diesen Zahlen ist ersichtlich, wo die Kosten angefallen sind.": "Bebu",
+                "Die Zahlen dieser Buchhaltung ergeben Bilanz und Erfolgsrechnung.": "Financial accounting",
+                "Die Zahlen können wegen stillen Reserven ungenau oder verfälscht sein.": "Bebu"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Financial or operational accounting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The shareholders of a large company receive these figures.",
+                "Business transactions are recorded in this accounting system on an ongoing basis.",
+                "These figures are required for VAT accounting.",
+                "These figures show the profit per product group.",
+                "Hidden reserves can distort these figures."
+              ],
+              "type": "matrix",
+              "title": "Do the following statements relate to financial accounting (Fibu) or management accounting (Bebu)?",
+              "columns": [
+                "Financial accounting",
+                "Bebu"
+              ],
+              "correctAnswer": {
+                "Stille Reserven können diese Zahlen verfälschen.": "Financial accounting",
+                "Bei diesen Zahlen ist der Gewinn je Produktegruppe ersichtlich.": "Bebu",
+                "Die Aktionäre einer grossen Gesellschaft erhalten diese Zahlen.": "Financial accounting",
+                "In dieser Buchhaltung werden die Geschäftsfälle laufend erfasst.": "Financial accounting",
+                "Der Verwaltungsrat benötigt diese Zahlen für wichtige Entscheide.": "Bebu",
+                "Diese Zahlen werden für die Abrechnung der Mehrwertsteuer benötigt.": "Financial accounting"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

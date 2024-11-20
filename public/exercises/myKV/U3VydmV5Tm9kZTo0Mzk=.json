@@ -1,0 +1,129 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Changes in the balance sheet",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A vehicle is purchased against invoice.",
+                "A customer settles an outstanding invoice by transferring it to the bank account.",
+                "The business owner increases the capital by paying it into the bank account.",
+                "Office furniture is purchased with immediate cash payment.",
+                "A supplier debt is converted into a loan.",
+                "A loan is granted to a business partner and paid out via the bank account.",
+                "Cash is withdrawn from the bank account for the business cash register."
+              ],
+              "type": "matrix",
+              "title": "What type of balance sheet changes are involved in the following cases?",
+              "columns": [
+                "Active exchange",
+                "Liability swap",
+                "Capital procurement",
+                "Capital repayment"
+              ],
+              "correctAnswer": {
+                "Einladung zum Kundenapéro": "Angebote und Anfragen ",
+                "Zahlungsmahnung an Kunde F.": "Rechnungen und Mahnungen ",
+                "Monatsauszug des Kundenkontos": "Rechnungen und Mahnungen ",
+                "Bestätigung des Liefertermins": "Bestätigungen",
+                "Garantieschein mit Lieferbestätigung": "Lieferscheine ",
+                "Bestätigung der Retoure wegen Mängeln": "Reklamationsbearbeitung",
+                "Ein Fahrzeug wird gegen Rechnung gekauft.": "Capital procurement",
+                "Offertstellung für die Reparatur der Waschmaschine": "Offerten und Bestellungen",
+                "Ein Kundenguthaben wird in ein Darlehen umgewandelt.": "Aktivtausch",
+                "Büromöbel werden mit sofortiger Barzahlung gekauft.": "Active exchange",
+                "Eine gebrauchte Maschine wird gegen Rechnung verkauft.": "Aktivtausch",
+                "Ein gebrauchtes Fahrzeug wird gegen Barzahlung verkauft.": "Active exchange",
+                "Eine Lieferantenschuld wird in ein Darlehen umgewandelt.": "Liability swap",
+                "Die Bank belastet die Abzahlung der Hypothek auf dem Konto.": "Kapitalrückzahlung",
+                "Vom Bankkonto wird Bargeld für die Geschäftskasse bezogen.": "Active exchange",
+                "Eine Lieferantenrechnung wird durch Banküberweisung beglichen.": "Kapitalrückzahlung",
+                "Eine Darlehensschuld wird durch Banküberweisung zurückbezahlt.": "Capital repayment",
+                "Eine Liegenschaft wird gekauft und durch Banküberweisung bezahlt.": "Aktivtausch",
+                "Der Geschäftsinhaber bringt eine Büroeinrichtung in das Unternehmen ein.": "Kapitalbeschaffung",
+                "Der Geschäftsinhaber erhöht das Kapital durch Einzahlung auf das Bankkonto.": "Capital procurement",
+                "Ein Kunde begleicht eine offene Rechnung durch Überweisung auf das Bankkonto.": "Active exchange",
+                "Einem Geschäftspartner wird ein Darlehen gewährt und über das Bankkonto ausbezahlt.": "Active exchange"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Changes in the balance sheet",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "A supplier invoice is settled by bank transfer.",
+                "A property is purchased and paid for by bank transfer.",
+                "A loan debt is repaid by bank transfer.",
+                "A used vehicle is sold against cash payment.",
+                "The business owner brings office equipment into the company.",
+                "The bank debits the repayment of the mortgage to the account.",
+                "A customer credit balance is converted into a loan.",
+                "A used machine is sold against invoice."
+              ],
+              "type": "matrix",
+              "title": "What type of balance sheet changes are involved in the following cases?",
+              "columns": [
+                "Active exchange",
+                "Liability swap",
+                "Capital procurement",
+                "Capital repayment"
+              ],
+              "correctAnswer": {
+                "Einladung zum Kundenapéro": "Angebote und Anfragen ",
+                "Zahlungsmahnung an Kunde F.": "Rechnungen und Mahnungen ",
+                "Monatsauszug des Kundenkontos": "Rechnungen und Mahnungen ",
+                "Bestätigung des Liefertermins": "Bestätigungen",
+                "Garantieschein mit Lieferbestätigung": "Lieferscheine ",
+                "Bestätigung der Retoure wegen Mängeln": "Reklamationsbearbeitung",
+                "Ein Fahrzeug wird gegen Rechnung gekauft.": "Capital procurement",
+                "Offertstellung für die Reparatur der Waschmaschine": "Offerten und Bestellungen",
+                "Ein Kundenguthaben wird in ein Darlehen umgewandelt.": "Active exchange",
+                "Büromöbel werden mit sofortiger Barzahlung gekauft.": "Active exchange",
+                "Eine gebrauchte Maschine wird gegen Rechnung verkauft.": "Active exchange",
+                "Ein gebrauchtes Fahrzeug wird gegen Barzahlung verkauft.": "Active exchange",
+                "Eine Lieferantenschuld wird in ein Darlehen umgewandelt.": "Liability swap",
+                "Die Bank belastet die Abzahlung der Hypothek auf dem Konto.": "Capital repayment",
+                "Vom Bankkonto wird Bargeld für die Geschäftskasse bezogen.": "Active exchange",
+                "Eine Lieferantenrechnung wird durch Banküberweisung beglichen.": "Capital repayment",
+                "Eine Darlehensschuld wird durch Banküberweisung zurückbezahlt.": "Capital repayment",
+                "Eine Liegenschaft wird gekauft und durch Banküberweisung bezahlt.": "Active exchange",
+                "Der Geschäftsinhaber bringt eine Büroeinrichtung in das Unternehmen ein.": "Capital procurement",
+                "Der Geschäftsinhaber erhöht das Kapital durch Einzahlung auf das Bankkonto.": "Capital procurement",
+                "Ein Kunde begleicht eine offene Rechnung durch Überweisung auf das Bankkonto.": "Active exchange",
+                "Einem Geschäftspartner wird ein Darlehen gewährt und über das Bankkonto ausbezahlt.": "Active exchange"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

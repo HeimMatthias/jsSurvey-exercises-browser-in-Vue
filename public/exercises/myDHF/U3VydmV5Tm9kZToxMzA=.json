@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Retail and product range",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A company that sells goods to retailers is engaged in retail trade.",
+                "Specialty stores have a wide and deep assortment.",
+                "Specialty stores specialize in one product group.",
+                "Specialty stores are mostly located in the agglomeration.",
+                "Department stores advertise with the motto: Everything under one roof.",
+                "Discount grocery stores only employ well-trained staff.",
+                "Supermarkets have less than 60% food items.",
+                "Shopping centers only have retail businesses as tenants.",
+                "Convenience stores are often open 365 days a year."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements are correct? Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Supermärkte haben weniger als 60% Food-Artikel.": "Wrong",
+                "Convenience-Stores sind häufig 365 Tage geöffnet.": "Correct",
+                "Fachmärkte befinden sich meist in der Agglomeration.": "Correct",
+                "Ein Unternehmen, das Waren an Detaillisten vermittelt.": "Falsch",
+                "Fachgeschäfte haben ein breites und tiefes Sortiment.": "Correct",
+                "Spezialgeschäfte sind auf eine Warengruppe spezialisiert.": "Correct",
+                "Warenhäuser werben mit dem Motto: Alles unter einem Dach.": "Wrong",
+                "Einkaufszentren haben nur Detailhandelsbetriebe als Mieter.": "Wrong",
+                "Ein Unternehmen, das Waren an Detaillisten vermittelt, betreibt Ladenhandel.": "Wrong",
+                "Lebensmitteldiscounter beschäftigen ausschliesslich gut ausgebildetes Personal.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Retail and product range",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In a department store, the product range is adapted to customer requirements. What impact do the adjustments below have on the product range? Give reasons for your answer in each case. Possible answers: narrower, deeper, wider, flatter or unchanged",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Two new lipstick brands are added to the range in the cosmetics department.",
+              "isRequired": true,
+              "correctAnswer": "Deeper, as the selection of lipsticks is increased.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Customers are now offered products for dogs and cats in the newly opened pet department.",
+              "isRequired": true,
+              "correctAnswer": "Broader, as a further sector is added to the range.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "As the teddy bears from China are not selling well, they are being replaced by teddy bears made in Switzerland.",
+              "isRequired": true,
+              "correctAnswer": "Unchanged, one article is simply replaced by another.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Printers of a certain brand are no longer offered in the electronics department.",
+              "isRequired": true,
+              "correctAnswer": "Flatter, as the choice of printers becomes smaller.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

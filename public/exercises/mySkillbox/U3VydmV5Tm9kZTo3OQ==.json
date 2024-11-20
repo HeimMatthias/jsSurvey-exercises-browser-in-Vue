@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "Urteilsfähigkeit",
+      "title": "Judgment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In pairs, classify the four cases correctly.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "16-year-old Petar, a trainee car mechatronics technician, would like to buy a second-hand moped for CHF 300. His parents do not agree. Petar has savings of CHF 2000.",
+              "choices": [
+                "Little experience + few consequences = controversial judgment",
+                "Great experience + great consequences = controversial judgment",
+                "Little experience + major consequences = not capable of judgment",
+                "extensive experience + minor consequences = capable of judgment + sufficient financial means = contract is legally valid",
+                "extensive experience + minor consequences = capable of judgment, but insufficient financial means = contract is not legally valid"
+              ],
+              "isRequired": true,
+              "correctAnswer": "extensive experience + minor consequences = capable of judgment + sufficient financial means = contract is legally valid",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urteilsfähigkeit1",
+      "title": "Judgment",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "In pairs, classify the four cases correctly.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "10-year-old Lauri is very interested in drones. Now he wants to buy a remote-controlled drone for CHF 99. His parents do not agree. He has the money for it, as he has savings of CHF 500.",
+              "choices": [
+                "Little experience + few consequences = controversial judgment",
+                "Great experience + great consequences = controversial judgment",
+                "Little experience + major consequences = not capable of judgment",
+                "extensive experience + minor consequences = capable of judgment + sufficient financial means = contract is legally valid",
+                "extensive experience + minor consequences = capable of judgment, but insufficient financial means = contract is not legally valid"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Little experience + few consequences = controversial judgment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urteilsfähigkeit2",
+      "title": "Judgment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In pairs, classify the four cases correctly.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "14-year-old Linda wants to marry her 15-year-old boyfriend Martin.",
+              "choices": [
+                "Little experience + few consequences = controversial judgment",
+                "Great experience + great consequences = controversial judgment",
+                "Little experience + major consequences = not capable of judgment",
+                "extensive experience + minor consequences = capable of judgment + sufficient financial means = contract is legally valid",
+                "extensive experience + minor consequences = capable of judgment, but insufficient financial means = contract is not legally valid"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Little experience + major consequences = not capable of judgment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urteilsfähigkeit4",
+      "title": "Judgment",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "In pairs, classify the four cases correctly.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "16-year-old Petra, a trainee car mechatronics technician, would like to buy a second-hand car for CHF 9000. Her parents do not agree. Petra has savings of CHF 2000.",
+              "choices": [
+                "Little experience + few consequences = controversial judgment",
+                "Great experience + great consequences = controversial judgment",
+                "Little experience + major consequences = not capable of judgment",
+                "extensive experience + minor consequences = capable of judgment + sufficient financial means = contract is legally valid",
+                "extensive experience + minor consequences = capable of judgment, but insufficient financial means = contract is not legally valid"
+              ],
+              "isRequired": true,
+              "correctAnswer": "extensive experience + minor consequences = capable of judgment, but insufficient financial means = contract is not legally valid",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

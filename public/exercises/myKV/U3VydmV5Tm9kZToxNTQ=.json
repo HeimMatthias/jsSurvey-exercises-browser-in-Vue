@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Vocational training laws",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Reshape the sentences according to the example. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "An apprenticeship contract is concluded between the learner and the VET provider.",
+              "readOnly": true,
+              "defaultValue": "Lernende und Lehrbetrieb schliessen miteinander einen Vertrag ab.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "The apprenticeship contract is concluded at the beginning for the entire duration of the basic vocational training.",
+              "isRequired": true,
+              "correctAnswer": "The apprenticeship contract is valid for the entire duration of the apprenticeship.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The apprenticeship contract must be approved by the competent cantonal authority. No fees may be charged for approval.",
+              "isRequired": true,
+              "correctAnswer": "The cantonal authority (office) must approve the apprenticeship contract and may not charge anything for it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Vocational training laws",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Reshape the sentences according to the example.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "If the apprenticeship contract is terminated, the education provider must immediately notify the cantonal authority and, if applicable, the vocational school.",
+              "isRequired": true,
+              "correctAnswer": "If an apprenticeship contract is terminated, the training company must inform the cantonal authorities immediately. If necessary, the company must also inform the vocational school.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "If a company is closed or no longer provides VET in accordance with the statutory provisions, the cantonal authorities shall ensure, as far as possible, that any initial VET can be duly completed.",
+              "isRequired": true,
+              "correctAnswer": "In the following cases, the cantonal authority supports apprentices in completing their apprenticeship in another company: a) If a training company has to close. b) If the training company does not comply with the regulations.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

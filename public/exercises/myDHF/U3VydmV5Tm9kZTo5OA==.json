@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "name": "Auswirkungen",
+      "title": "Effects",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the question for the following case study.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The sports store \"Schneespur GmbH\" is a specialist store for winter sports articles in a famous Swiss winter sports resort. Its range includes winter clothing, ski and snowboard equipment, sledges and winter boots and a ski and snowboard service. However, climate change means that very little snow falls in winter, if any at all. What economic impact does climate change have on the sports store \"Schneespur GmbH\" in this specific case?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

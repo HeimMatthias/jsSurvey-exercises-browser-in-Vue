@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Working abroad",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Working abroad\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name five reasons in keywords that lead to emigration or immigration\n",
+              "isRequired": true,
+              "correctAnswer": "Reasons for emigration: war, social and political unrest, corruption, poor economy, high unemployment, lack of future, high crime rate, environmental and natural disasters such as earthquakes, drought, flooding. Reasons for immigration: good wages, job opportunities (companies abroad), compatriots already there, security, no corruption, livelihood.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain briefly and in complete sentences: How do today's\nimmigrants differ from previous immigrants?",
+              "isRequired": true,
+              "correctAnswer": "Over the past few years, the formerly poorly educated immigrants have turned into average to very well-educated immigrants. In the 1990s, more than half of immigrants came from outside the EU; today, around 85% come from the EU. In the past, only around 20 percent had a higher level of education; today, this figure is around 58 percent of new immigrants. Today, the proportion of immigrants in employment is over 50 percent, compared to just under 20 percent in the past.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Explain in your own words exactly what the Agreement on the Free Movement of Persons (AFMP) means.",
+              "isRequired": true,
+              "correctAnswer": "The Agreement on the Free Movement of Persons (AFMP) is a treaty between Switzerland and the EU and allows EU citizens unrestricted access to the Swiss labor market. This means that anyone who finds a job here can work and earn money, but must also pay taxes. In return, Swiss nationals are also allowed to work in the EU.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "On the one hand, the Swiss economy and the public sector are demanding a large number of skilled workers who are not available in sufficient numbers on the Swiss labor market and are therefore being brought in from the EU. On the other hand, voters are calling for immigration to be limited. Explain this dilemma.",
+              "isRequired": true,
+              "correctAnswer": "The Swiss economy is service-oriented (3rd sector) and highly specialized. Companies want to grow, invest and earn - especially when the economy is booming. Hospitals are also looking for medically trained staff. This creates a high demand for specialized and well-trained workers and specialists who are not available in sufficient numbers on the Swiss market. This is why foreign specialists are \"brought\" to Switzerland. However, the increase in the number of people also causes housing shortages, more expensive rents, traffic jams and overcrowded trains. A massive increase in the number of foreigners triggers fears and unease. This is why the electorate is calling for immigration to be limited (mass immigration initiative).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

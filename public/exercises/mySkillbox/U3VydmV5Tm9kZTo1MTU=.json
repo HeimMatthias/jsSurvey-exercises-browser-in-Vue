@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Trial period",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "The legal provision that regulates this probationary period under employment law is Art. 335b CO: ",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A10_Rechtsvorschriften_2J1D90S.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "It reads as follows in an if-then formulation: \"If a deviating agreement has been made by written agreement or collective employment contract, the probationary period may be shorter or longer than one month, but no longer than three months.\" Now apply the if-then formulation to contractual element 1 and decide whether it is legal.",
+              "isRequired": true,
+              "correctAnswer": "If a deviating agreement has been made by written agreement or collective employment contract",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Name der Übung1",
+      "title": "Overtime",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "The legal provision that regulates this issue of overtime under labor law is Art. 335b CO. It reads as follows: ",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A10_Rechtsvorschriften2_Dtl7Fjz.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Is contractual element 2 advantageous for Alma? Answer the question by referring to Art. 335b CO.",
+              "isRequired": true,
+              "correctAnswer": "Yes, the contractual element is advantageous because paragraph 3 only provides for a surcharge of 25% (unless otherwise agreed).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Duty of confidentiality",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "The legal provision that regulates these confidentiality rules under employment law is Art. 312a para. 4 CO:",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A10_Rechtsvorschriften3.original.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Form the second part of the sentence (after the semicolon) into an appropriate if-then statement. The beginning of the sentence should help you with this.",
+              "isRequired": true,
+              "placeholder": "Wenn es zur Wahrung der berechtigten Interessen …",
+              "correctAnswer": "If it is necessary to protect the legitimate interests of the employer, the employee may be obliged to maintain confidentiality even after the employment relationship has ended. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

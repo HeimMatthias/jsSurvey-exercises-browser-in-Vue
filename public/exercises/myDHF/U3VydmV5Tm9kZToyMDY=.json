@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unemployed - What to do?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment - What to do?\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Where can you get information on unemployment and work?",
+              "isRequired": true,
+              "correctAnswer": "Regional employment centers (RAV), online portal: arbeit.swiss",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What functions does a job have for the job holder?",
+              "isRequired": true,
+              "correctAnswer": "Regulated daily routine, contact with coworkers, self-esteem, earnings, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do you do if you find out that you are going to be dismissed?",
+              "isRequired": true,
+              "correctAnswer": "It is advantageous to start looking for a new job during the notice period. This involves preparing new application documents. In addition, you should rethink your life and think carefully about what you want to do and whether a career change might be an option.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Unemployed - What to do?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Do some research on arbeit.swiss and other sites. Answer the following questions in keywords.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What preparations do jobseekers make for registering with the RAV?",
+              "isRequired": true,
+              "correctAnswer": "Register with the RAV during the notice period or in the event of imminent dismissal, keep the letter of dismissal, request an interim reference from the employer.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What documents do I need to bring with me to the RAV?",
+              "isRequired": true,
+              "correctAnswer": "Official identity card or foreigner's identity card, social security card, health insurance card, copy of current application documents, CV, job references, diplomas, letter of application, letter of termination, employment contracts for the last 24 months. For the unemployment insurance fund: application for unemployment benefit, certificate of employment for the last two years, copies of most recent employment contracts with payslips and notices of termination, medical certificates for the last 24 months, copy of bank or postal account card, copy of official ID.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What can jobseekers expect from the RAV?",
+              "isRequired": true,
+              "correctAnswer": "Job search support, obligation to cooperate: rights and obligations relating to the payment of unemployment benefits, counseling sessions during the notice period, discussing skills, motivation and career goals, application documents, advice on application strategy, HR advisor information on job vacancies, training and employment programs and courses.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

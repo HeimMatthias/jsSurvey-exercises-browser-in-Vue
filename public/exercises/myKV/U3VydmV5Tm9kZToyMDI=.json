@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Grammatical tense",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Put the verbs in the correct grammatical tense.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Yesterday we (realized) that we (forgot) to send out the invitations.",
+              "isRequired": true,
+              "correctAnswer": "Yesterday we realized that we had forgotten to send out the invitations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "After they (leave) the office, I (tidy up), (put out) the lights and (finish) work as well.",
+              "isRequired": true,
+              "correctAnswer": "After she had left the office, I tidied up, switched off the lights and called it a day.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "We (start) the meeting as soon as all learners (arrive).",
+              "isRequired": true,
+              "correctAnswer": "We start the meeting as soon as all the students have arrived. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Grammatical tense",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Put the verbs in the correct grammatical tense.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Yesterday he (want to) see the presentation that we (prepare) at school.",
+              "isRequired": true,
+              "correctAnswer": "Yesterday he wanted to see the presentation we had prepared at school.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Hardly anyone knows what is still to come.",
+              "isRequired": true,
+              "correctAnswer": "Hardly anyone can know what is yet to come.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "At that time, everything (go) very quickly: I (submit) my application, two days later the HR manager (call) me, (conduct) a short telephone interview, immediately afterwards they (invite) me to an interview for the next day and after this interview I (have) the job.",
+              "isRequired": true,
+              "correctAnswer": "Everything happened very quickly back then: I submitted my application, two days later the HR manager called me, conducted a short telephone interview, immediately afterwards she invited me to an interview for the next day and after this interview I got the job.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

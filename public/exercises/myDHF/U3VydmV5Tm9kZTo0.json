@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Arten des Grosshandels1",
+      "title": "Types of wholesale",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "What type of wholesaler is behind the addresses (two types fit each answer)?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Mohammed Co, trade in ocean-going vessels, Dammam, Saudi Arabia",
+              "isRequired": true,
+              "correctAnswer": "Specialty wholesaler, sales wholesaler",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Ken Import/Export, Chur ",
+              "isRequired": true,
+              "correctAnswer": "Assortment wholesaler (probably several sectors), sales wholesaler ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Binz Herbert AG, food import, Baden",
+              "isRequired": true,
+              "correctAnswer": "Specialty wholesaler, sales wholesaler",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Types of wholesale",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What type of wholesaler is behind the addresses (two types fit each answer)?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Union AG, scrap iron trading, Dübendorf",
+              "isRequired": true,
+              "correctAnswer": "Specialty wholesaler, buying wholesaler",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Prodega, Cash & Carry, Dietikon",
+              "isRequired": true,
+              "correctAnswer": "Specialty wholesaler (food), pick-up wholesaler",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Sony Generalimport, Zurich",
+              "isRequired": true,
+              "correctAnswer": "Specialty wholesaler, sales wholesaler",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

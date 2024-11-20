@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unemployment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What has changed in the retail trade in recent years?",
+              "isRequired": true,
+              "correctAnswer": "Greater competition, stores of international chains, online shopping, purchases abroad, jobs in the retail trade are being lost. New jobs in logistics, digital offerings.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the causes of unemployment?",
+              "isRequired": true,
+              "correctAnswer": "Structural change, e.g. in the retail trade; new technologies, IT, Internet",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Unemployment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Unemployment\".",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Conduct a survey to investigate the shopping behavior of young people, families and older people: For example, shopping at international chains such as H&M, C&A, Aldi and others, shopping in nearby countries and online shopping. Present your results in a graph, for example. In addition, show what effects the change in the population's shopping behavior has on the job market and find out how retail specialists can train for these new tasks after their apprenticeship.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "In retail, the number of jobs on the store floor is decreasing and new jobs are being created in logistics and the development of digital products. Find out how you can train for these new roles after your apprenticeship.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

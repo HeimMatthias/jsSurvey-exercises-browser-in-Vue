@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Research the term \"Plug and Play\" (PnP) and explain it in your own words (possibly with an example).",
+              "isRequired": true,
+              "correctAnswer": "Plug and Play, also known as PnP for short, to be able to plug in/connect new devices - usually peripheral devices - without having to install drivers or make settings. (typically: USB)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Research the term \"hot-plugging\" and explain it in your own words (possibly with an example).",
+              "isRequired": true,
+              "correctAnswer": "Hot-plugging (or hot-swapping) is a technology that allows computer components to be replaced during regular operation. Well-known interfaces that support hot-plugging are USB interfaces and IEEE 1394/FireWire, but SATA also supports hot-plug technology.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

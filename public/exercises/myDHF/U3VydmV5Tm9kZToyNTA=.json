@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "UWG - Case study",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Marianne Graber wants to include a new stain cleaner in the range of her retail business that is not very environmentally friendly and therefore advertises with the following text: \"You can now buy the stain cleaner 'Meister Pepper' from us. This cleans your clothes and furniture particularly well, at least better than all the products available from the Meier household goods store. What's more, our stain cleaner is 100% biodegradable. Buy from us, because only in our store will you receive expert advice!\"",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What unfair advertising and sales methods does this advertising text violate? In your justification, go into detail about the sentences in the text.",
+              "isRequired": true,
+              "correctAnswer": "The advertising text violates the following points of the Federal Act against Unfair Competition: 1. causing confusion: The imitation of a well-known product with a similar name is prohibited. Marianne Graber is therefore not allowed to offer a product with the name \"Meister Pepper\", as this could be confused with the products of the \"Meister Propper\" brand.\n2. Denigration: Denigrating and slandering competitors is prohibited. Marianne Graber is therefore not allowed to claim that her stain cleaner is better than all of her competitor's products.\n3. Deception of consumers: The dangerousness of products must not be concealed. Marianne Graber is therefore not allowed to say that her stain cleaner is 100% biodegradable if it is in fact not environmentally friendly. \n4. Self-boasting: No one may gain an advantage in competition by making untrue or misleading statements about themselves. Marianne Graber is therefore not allowed to claim that customers only receive expert advice in her store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How can the Meier household goods store defend itself against this advertising text?",
+              "isRequired": true,
+              "correctAnswer": "The Meier household goods store can take legal action against this violation of the Federal Act against Unfair Competition. First and foremost, it can demand that the incorrect and misleading statements be corrected and published. Furthermore, the Meier household goods store can claim damages, satisfaction and the return of any profit that Marianne Graber has made with the help of the unfair advertising text. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Describe who is mainly protected by the Federal Act against Unfair Competition.",
+              "isRequired": true,
+              "correctAnswer": "The UCA is intended to ensure fair and undistorted economic competition. Consumers and competitors are the main beneficiaries of this.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

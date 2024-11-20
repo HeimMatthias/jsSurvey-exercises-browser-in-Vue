@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Debit or credit?",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "Supplier issues invoice for delivery of goods.",
+                "Return of merchandise to suppliers.",
+                "Supplier charges interest for late payment.",
+                "Supplier grants a special discount of 8%.",
+                "Supplier invoice is paid by bank transfer.",
+                "The trustee issues an invoice for a consultation.",
+                "The trustee grants a discount due to a complaint.",
+                "A 3% discount can be deducted from a supplier invoice.",
+                "A supplier invoice is paid in cash.",
+                "Used furniture can be given to a supplier in payment."
+              ],
+              "type": "matrix",
+              "title": "On which side of the \"Trade payables\" account are the following transactions booked?",
+              "columns": [
+                "Target",
+                "Have"
+              ],
+              "correctAnswer": {
+                "Eine Lieferantenrechnung wird bar bezahlt.": "Target",
+                "Lieferant gewährt einen Sonderrabatt von 8%.": "Target",
+                "Rücksendung von Handelswaren an Lieferanten.": "Target",
+                "Lieferant stellt Rechnung für Warenlieferung.": "Have",
+                "Der Treuhänder stellt Rechnung für eine Beratung.": "Have",
+                "Lieferantenrechnung wird durch Banküberweisung beglichen.": "Target",
+                "Aufgrund einer Reklamation gewährt der Treuhänder einen Rabatt.": "Target",
+                "Bei einer Lieferantenrechnung können 3% Skonto abgezogen werden.": "Target",
+                "Lieferant verrechnet einen Verzugszins wegen verspäteter Zahlung.": "Have",
+                "Einem Lieferanten können gebrauchte Möbel an Zahlung gegeben werden.": "Target"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

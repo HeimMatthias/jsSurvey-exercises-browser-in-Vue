@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is Paul Watzlawick's insight? Please add. We can ...",
+              "correctAnswer": "not communicate."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What can poor communication do in business? Name three consequences.",
+              "correctAnswer": "Misunderstandings, extra work, damage to image, financial losses"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Into which two areas is verbal communication divided?",
+              "correctAnswer": "Written and oral communication"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is non-verbal communication? Give three examples.",
+              "correctAnswer": "Facial expressions, gestures, gaze, posture, external appearance"
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is paraverbal communication? Give three examples.",
+              "correctAnswer": "Voice pitch, volume, speaking style, speaking tempo, speech melody, pronunciation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is meant by \"congruence between the what and the how\" in relation to communication?",
+              "correctAnswer": "Consistency between what you say and how you say it."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What should you pay attention to in terms of posture? Name three points in keywords.",
+              "correctAnswer": "Upright, calm (not swaying), relaxed shoulders, centered arms, hands above the edge of the table"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What should you look out for in gestures? Name three points in keywords.",
+              "correctAnswer": "Small, calm arm movements, open arm position, do not hold objects, do not scratch yourself, do not adjust your hairstyle"
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Why should breaks be used deliberately, for example during a lecture?",
+              "correctAnswer": "They enable eye contact and increase the audience's attention."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What should I look out for in my hairstyle, for example when talking to customers?",
+              "correctAnswer": "It should not interfere with talking and should not hinder eye contact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

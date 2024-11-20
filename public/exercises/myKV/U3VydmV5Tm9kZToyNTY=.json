@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What are surveys often used for in a business context?",
+              "isRequired": true,
+              "correctAnswer": "to survey customer satisfaction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What should I pay particular attention to in the questions?",
+              "isRequired": true,
+              "correctAnswer": "Unambiguous, clear questions; only one fact per question",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are the advantages of the 4-point scale?",
+              "isRequired": true,
+              "correctAnswer": "Completion and evaluation are simple; neutral center position is not possible",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How can the response rate be increased?",
+              "isRequired": true,
+              "correctAnswer": "with an incentive (e.g. competition)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Why should the questionnaires always be evaluated by several people?",
+              "isRequired": true,
+              "correctAnswer": "Better control and therefore fewer errors",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "At what point in the documentation and/or presentation can the personal assessment be incorporated?",
+              "isRequired": true,
+              "correctAnswer": "at the end (concluding remarks, conclusion)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

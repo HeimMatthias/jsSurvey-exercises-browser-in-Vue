@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "Rechtsvorschriften",
+      "title": "Legislation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Entscheiden Sie in folgenden Fällen, ob es sich um zwingende, relativ zwingende oder dispositive Rechtsvorschriften handelt.",
+              "rows": [
+                "The learner must do everything possible to achieve the learning objective.",
+                "The maximum permitted daily working time is nine hours.",
+                "The apprenticeship contract must always be in writing to be valid.",
+                "The employer must grant the apprentice at least five weeks' vacation per apprenticeship year up to the age of 20.",
+                "The day's work, excluding breaks, must fall within a maximum period of twelve hours.",
+                "The employer must pay the salary that has been agreed or determined by the standard or collective employment contract."
+              ],
+              "type": "matrix",
+              "title": "In the following cases, decide whether the legal provisions are mandatory, relatively mandatory or dispositive.",
+              "columns": [
+                "Mandatory legal provisions",
+                "Relatively mandatory legislation",
+                "Dispositive legal provisions"
+              ],
+              "correctAnswer": {
+                "Volljährigkeit": "Ja, unumstritten",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Handlungsunfähigkeit": "umstritten",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten",
+                "Die lernende Person muss alles tun, um das Lernziel zu erreichen.": "Mandatory legal provisions",
+                "Der Lehrvertrag bedarf zu seiner Gültigkeit immer der Schriftform.": "Mandatory legal provisions",
+                "Die maximale zulässige tägliche Arbeitszeit beträgt neun Stunden.": "Relatively mandatory legislation",
+                "Die Tagesarbeit muss, mit Entschluss der Pausen, innerhalb eines Zeitraumes von höchstens zwölf Stunden liegen.": "Relatively mandatory legislation",
+                "Der Arbeitgeber hat den Lohn zu bezahlen, der verabredet oder durch Normal- oder Gesamtarbeitsvertrag bestimmt ist.": "Mandatory legal provisions",
+                "Der Arbeitgeber hat der lernenden Person bis zum vollendeten 20. Altersjahr wenigstens fünf Wochen Ferien pro Lehrjahr zu gewähren.": "Relatively mandatory legislation"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Legislation",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

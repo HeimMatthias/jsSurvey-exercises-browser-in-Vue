@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Gedicht",
+      "title": "Poem",
+      "elements": [
+        {
+          "name": "Schreiben Sie in die Textfelder, wer das in der heutigen Zeit in der Schweiz sein könnte. Zwei Beispiele sind bereits notiert.",
+          "type": "panel",
+          "title": "Write in the text boxes who this could be in Switzerland today. Two examples have already been noted.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Those who are doing well",
+              "isRequired": true,
+              "defaultValue": "z.B. die Erwerbstätigen",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "those who are less well off",
+              "isRequired": true,
+              "defaultValue": "z.B. die Arbeitslosen",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

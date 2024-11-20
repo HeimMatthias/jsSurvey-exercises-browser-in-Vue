@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sorting principles",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Write down which principle the following abbreviations stand for and describe the principle in your own words. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "FIFO:",
+              "isRequired": true,
+              "correctAnswer": "First in – First out: Die Artikel, die zuerst eingelagert wurden, werden auch zuerst ausgelagert.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "FEFO:",
+              "isRequired": true,
+              "correctAnswer": "First expired – First out: Die Artikel mit dem frühesten Ablaufdatum werden zuerst ausgelagert.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "LIFO:",
+              "isRequired": true,
+              "correctAnswer": "Last in - First out: The items that were put away last are removed first.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Sorting principles",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Name the goods/groups of goods that are sorted according to the respective principle. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "FIFO:",
+              "isRequired": true,
+              "correctAnswer": "Non-food items, goods affected by depreciation over time",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "FEFO:",
+              "isRequired": true,
+              "correctAnswer": "Food, goods with an expiration date",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "LIFO:",
+              "isRequired": true,
+              "correctAnswer": "Building materials such as gravel, stones, etc.; heavy objects that have no expiration date and are difficult to move (concrete slabs, iron bars, etc.)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

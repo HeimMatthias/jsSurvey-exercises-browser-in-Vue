@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Forms of service and sales",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Place current offers and special offers in the entrance area and in the immediate vicinity of the checkouts.",
+                "Customers can be directed to the center or to the left by the targeted arrangement of the product displays at the store entrance.",
+                "The low-traffic central area will be transformed into a marketplace with presentations of consumer groups, current events and an attractive impulse purchase offer.",
+                "Weaker sales zones (corners, side rooms, center of the room, rear part of the salesroom, left aisle sides) are enhanced with attractive products, i.e. you present sales-active articles there.",
+                "Use signs to guide customers to the product groups."
+              ],
+              "type": "matrix",
+              "title": "Assign the following statements to the respective form of service and sale. ",
+              "columns": [
+                "Self-service",
+                "Pre-selection and full service"
+              ],
+              "correctAnswer": {
+                "Mit Hinweisschildern zu den Warengruppen leiten Sie die Kundschaft.": "Self-service",
+                "Aktuelle Angebote, Aktionsplätze (= Bremser) platzieren Sie in der Eingangszone und in unmittelbarer Nähe der Kassen.": "Self-service",
+                "Durch die gezielte Anordnung der Warenträger am Geschäftseingang können die Kundinnen und Kunden in die Mitte oder nach links gelenkt werden.": "Pre-selection and full service",
+                "Der frequenzschwache Mittelraum wird zum Aktions- und Marktplatz mit Bedarfsgruppenpräsentationen, Aktualitäten und einem attraktiven Impulskaufangebot.": "Pre-selection and full service",
+                "Verkaufsschwächere Zonen (Ecken, Nebenräume, Raummitte, hinterer Teil des Verkaufsraums, linke Gangseiten) wertet man mit attraktiven Produkten auf, d.h., Sie präsentieren dort verkaufsaktive Artikel.": "Self-service"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

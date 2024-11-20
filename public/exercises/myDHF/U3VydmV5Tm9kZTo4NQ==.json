@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Phasen des Verkaufsgesprächs",
+      "title": "Phases of the sales pitch",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Please mark the correct answers with a cross. Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "How many phases does the sales pitch have?",
+              "choices": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "3"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "What are the correct names for the phases of the sales pitch?",
+              "choices": [
+                "Final phase",
+                "Welcome phase ",
+                "Contact phase ",
+                "Consultation phase",
+                "Payment phase ",
+                "Offer phase "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Final phase",
+                "Contact phase ",
+                "Offer phase "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Phases of the sales pitch",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Please mark the correct answers with a cross. Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Which terms are assigned to the contact phase?",
+              "choices": [
+                "Upgrading the product ",
+                "Greeting at the right time of day ",
+                "Determination of the purchase motive  ",
+                "Goods template "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Greeting at the right time of day ",
+                "Determination of the purchase motive  "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "What factors influence the sequence of the sales conversation so that the order and number of individual steps can deviate from the typical sequence?",
+              "choices": [
+                "Company size ",
+                "Industry ",
+                "Location ",
+                "Operating form",
+                "Product ",
+                "Number of employees "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Industry ",
+                "Operating form",
+                "Product "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Divorce",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Nick and Alina Colombo have been married for 13 years and have two children aged ten and twelve. Now they have grown apart and both want a divorce. An acquaintance has told them that they need to file for divorce. Is that true?",
+              "correctAnswer": "No, if both spouses want a divorce, they can file a joint petition for divorce with the court (Art. 111 and 112 ZGB)."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Nick and Alina not only agree that they want a divorce, but also about the consequences of the divorce. What are the next steps?",
+              "correctAnswer": "You can draw up a divorce agreement and submit it to the court at the same time as the divorce petition. The court will check this agreement for any defects and approve it if it is in order (Art. 111 ZGB)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Divorce",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What consequences of the divorce do Nick and Alina have to settle in the divorce agreement? What consequences of the divorce do they not have to settle?",
+              "correctAnswer": "They must agree on the division of assets, the allocation of the family home, maintenance for the children and, if applicable, for one of the spouses, the division of occupational benefits and custody and visiting rights with regard to the children. \nThe couple do not have to decide what their surnames will be in future. In principle, both spouses keep their previous names after the divorce, although the spouse who has taken the other's name is free to change back to their maiden name."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What happens if Nick and Alina only agree on some of the consequences of the divorce? Do they then have to file a lawsuit? ",
+              "correctAnswer": "No, it is still a divorce by mutual consent. Nick and Alina can settle the points on which they agree in an agreement and the court will then decide on the issues on which they could not agree."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is the legal situation if Franz and Frieda have been living apart for some time, but still live in the same apartment and only Frieda wants a divorce? Can Frieda enforce the divorce against Franz's will?",
+              "correctAnswer": "Frieda can apply to the court for a divorce. However, in order for her petition to be granted, she and Franz must have been separated for at least two years (unless there are serious reasons why it is no longer reasonable to expect the marriage to continue). Frieda must therefore live separately from Franz for another two years before her divorce petition can be successful."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

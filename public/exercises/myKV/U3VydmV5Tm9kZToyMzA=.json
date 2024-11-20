@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What percentage of new cars in Switzerland are leased?",
+              "isRequired": true,
+              "correctAnswer": "In 2021, it was 59% of all new cars, i.e. more than half.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What are the \"pitfalls\" of leasing, according to debt advice?",
+              "isRequired": true,
+              "correctAnswer": "Premature termination of a leasing contract is very expensive. In addition, there are often unexpected additional costs at the end of the lease term, for example if the maximum number of kilometers is exceeded. In addition, many people who lease a car are unaware of the exact terms of the leasing contract and assume that the car belongs to them at the end of the contract. But this is not true: whoever leases a car is not the owner. At best, you get a contractually agreed right to buy the car at the end of the lease term.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How much does leasing actually cost?",
+              "isRequired": true,
+              "correctAnswer": "You should expect to pay three times the monthly leasing rate.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What two possible alternatives to leasing does the article recommend?",
+              "isRequired": true,
+              "correctAnswer": "The cheapest option is a cash purchase. If you don't have the necessary funds, it may also be worth considering a personal loan instead of leasing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "In the example presented in the article, the interest rate is 4.9% for leasing and 7.9% for consumer credit. Nevertheless, the total costs at the end (when the vehicle is taken over) are practically the same. How can this be?",
+              "isRequired": true,
+              "correctAnswer": "The insurance costs for leasing are more expensive than for a purchased vehicle. In addition, the lessee must buy the vehicle at its residual value if he wants to take it over at the end of the contract period. The payment of the residual value and the higher insurance costs roughly correspond to the difference between the two interest rates.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

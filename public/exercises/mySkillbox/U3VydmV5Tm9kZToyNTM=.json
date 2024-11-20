@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "Bundesstaat versus Zentralstaat1",
+      "title": "Federal state versus central state",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Use the tool to assign the two business variants to the state organizations \"federal state\"/\"central state\" and the terms \"centralized\"/\"decentralized\" by completing the cloze text.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Variant 1: Is ... organized like a ... .",
+              "isRequired": true,
+              "correctAnswer": "Is organized decentrally, like a federal state.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Variant 2: Is ... organized like a ... .",
+              "isRequired": true,
+              "correctAnswer": "Is centrally organized, like a central state.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bundesstaat versus Zentralstaat2",
+      "title": "Federal state versus central state",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Now derive the disadvantages of the two state organizations from the advantages of the two business models.",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Disadvantages of central government:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Disadvantages Federal State:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bundesstaat versus Zentralstaat3",
+      "title": "Federal state versus central state",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Take another look at variant 1 of your business model. In pairs, think about how you would have to change it so that it would function completely decentrally (like a confederation of states). ",
+          "elements": [
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Write down your proposal and compare it with that of another group and discuss the differences.",
+              "isRequired": true,
+              "correctAnswer": "It is not me (the founder of the restaurant), but the restaurant managers who decide among themselves which tasks are assigned to me. This means that I also lose my decision-making authority.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

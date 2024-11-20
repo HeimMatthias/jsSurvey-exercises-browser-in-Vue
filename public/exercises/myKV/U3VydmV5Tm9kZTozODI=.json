@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Vision, mission statement, values or strategy?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "One step better every day",
+                "We want to assert ourselves on the market with the help of our size and consistency.",
+                "Our promises to our customers",
+                "We are independent in our program design.",
+                "Our promise to society",
+                "We are credible and responsible.",
+                "Our ambition is to achieve sustainable improvement in dimensions X, Y and Z by 2030.",
+                "Make the World a Better Place."
+              ],
+              "type": "matrix",
+              "title": "Assign the following text excerpts to the vision, mission statement, values or strategy.",
+              "columns": [
+                "Strategy",
+                "Vision",
+                "Values",
+                "Mission statement"
+              ],
+              "correctAnswer": {
+                "Täglich einen Schritt besser": "Vision",
+                "Make the World a Better Place.": "Vision",
+                "Unser Versprechen an die Gesellschaft": "Mission statement",
+                "Wir sind glaubwürdig und verantwortungsvoll.": "Values",
+                "Wir sind in der Programmgestaltung unabhängig.": "Values",
+                "Unsere Versprechen an unsere Kundinnen und Kunden": "Mission statement",
+                "Wir wollen uns mithilfe unserer Grösse und Beständigkeit auf dem Markt behaupten.": "Strategy",
+                "Unsere Ambition ist es, uns bis 2030 in den Dimensionen X, Y, Z nachhaltig zu verbessern.": "Strategy"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Fallbeispiele1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Describe what you would do if you were Farida, Remo and Marisa.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Case 1: Farida applies for a job as a carpenter. After her compulsory schooling, she completed a year of work experience in a daycare center. However, she wants to delete this from her CV. After all, it has nothing to do with the job she is applying for.",
+              "isRequired": true,
+              "correctAnswer": "Farida should definitely mention this internship so that there are no gaps in her CV.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiele2",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe what you would do if you were Farida, Remo and Marisa.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Case 2: Remo had to drop out of his first apprenticeship as a painter after just four months because his performance at school was unsatisfactory. After that, he didn't want to do anything at first and stayed at home for two months. Finally, his father persuaded him to go on a six-month language course in England. There he attended school in the mornings and helped out in the host family's bakery in the afternoons. He enjoyed this work so much that he is now applying for an apprenticeship as a baker-confectioner. He doesn't want to mention the fact that he dropped out of his apprenticeship on his CV.",
+              "isRequired": true,
+              "correctAnswer": "Remo could give this year a positive mark as follows: During the first four months of my initial training as a painter, I realized that the activities and school content did not suit me. I therefore decided to take a different career path. I spent two months reassessing my career choice and then completed a six-month language course in England. I lived with a host family there, where I was allowed to help out in their bakery in the afternoons. I enjoyed the work so much that I was not only able to improve my English in England, but also found my dream job.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiele3",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Describe what you would do if you were Farida, Remo and Marisa.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Case 3: Marisa doesn't really know what to write about her leisure activities on her CV. She prefers to chill out with her friends, likes to watch Netflix series, sometimes looks after her two little brothers (mainly because her parents pay her to do so) and trains once a week at the Winterthur Dance Academy. ",
+              "isRequired": true,
+              "correctAnswer": "She can indicate dancing and looking after the children. Both activities indicate certain interests and skills.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

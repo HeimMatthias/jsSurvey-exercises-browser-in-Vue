@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "To be on first or last name terms?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "You are responsible for receiving suppliers and are unsure whether you should be on first-name terms with a supplier because he is just a little older than you. What options can you think of to respond to this situation?",
+              "isRequired": true,
+              "correctAnswer": "Remain polite: Whether you are unsure of yourself or not, you should always remain polite. A polite and respectful form of address such as \"Hello\" or \"Hello\" is always appropriate / Wait and see: If you are unsure whether you should be on first-name terms with the supplier, you can first wait and see how the supplier behaves towards you. If the supplier addresses you as \"du\", you can do the same. If the supplier addresses you as \"you\", you should also address the supplier as \"you\" / Assess the situation: You can also try to consider the situation. If the supplier is significantly older or higher-ranking, it is usually appropriate to address them as a first name. If the supplier is younger or at the same hierarchical level, you can ask the supplier if it is okay to be on first-name terms.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Have you already offered or been offered the \"you\" to someone? How did it make you feel? Do you prefer to work in a more personal working environment where people are on a first-name basis or do you prefer a more distant first-name basis? Exchange ideas in small groups.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

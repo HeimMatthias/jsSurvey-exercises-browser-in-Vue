@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "The 1st pillar",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"The 1st pillar - state pension provision\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How is the AHV financed?",
+              "isRequired": true,
+              "correctAnswer": "The AHV is financed via salary percentages, half by employees and half by employers. A portion is also contributed by alcohol and tobacco taxes as well as other tax revenues.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the EO?",
+              "isRequired": true,
+              "correctAnswer": "The EO is the income compensation scheme. Thanks to it, all those performing military service receive salary compensation, which is financed from salary percentages. Recruits have a fixed rate and those who complete a refresher course receive up to 75 percent of their insured salary. The amount of salary compensation from the EO depends on whether someone has children or other persons to support.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Explain the mechanism of redistribution in the calculation of AHV pensions.",
+              "isRequired": true,
+              "correctAnswer": "The wage differences between rich and poor are equalized through the calculation of AHV pensions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

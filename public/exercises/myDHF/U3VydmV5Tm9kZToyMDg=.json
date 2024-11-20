@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Taxes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions about the text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the most important public tasks of the state?",
+              "isRequired": true,
+              "correctAnswer": "Social welfare, transport, national defense, agriculture, education and research",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why do citizens have to pay taxes?",
+              "isRequired": true,
+              "correctAnswer": "The state has public duties and must provide public facilities and infrastructure services: Schools (education), public and private transport, national defense, old-age provision, waste disposal, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What types of taxes are there?",
+              "isRequired": true,
+              "correctAnswer": "There are indirect and direct taxes at federal, cantonal and municipal level.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What does an application dossier contain?",
+              "isRequired": true,
+              "correctAnswer": "Letter of application (cover letter), curriculum vitae in tabular form, copies of all references, copies of professional or academic qualifications, copies of diplomas/certificates of further education, references (recommendations)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Market research ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about market research. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the three areas of interest in market research?",
+              "correctAnswer": "Facts (factual research), opinions (opinion research) and motives (motive research)"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which area of market research is suitable for clarifying whether the promotional items are in the most frequented places in your company?",
+              "correctAnswer": "Market observation: Observation of the flow of customers through your business with a camera or by sales staff. "
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Who/what is the subject of the market research? (In other words: about whom/what is information collected?)",
+              "correctAnswer": "Customers; competition; own retail business; market environment "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Market research ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about market research. ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "What does a retail company want to find out through market research? Put a cross in the box.",
+              "choices": [
+                "How the retailer's market is made up.",
+                "How much money customers have.",
+                "How the range is structured.",
+                "How the competition works."
+              ],
+              "correctAnswer": [
+                "How the retailer's market is made up.",
+                "How the competition works."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

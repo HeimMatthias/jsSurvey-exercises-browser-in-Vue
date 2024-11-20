@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Information and communication concept",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In this exercise, you will deal with operational information and communication concepts.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Specify exactly what an operational information and communication concept is.",
+              "correctAnswer": "The corporate information and communication concept describes all corporate activities, i.e. marketing, customer care, media appearances and communication with employees."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the advantages of such a concept?",
+              "correctAnswer": "Written presentation of all relevant facts on corporate communication; strategic planning of all measures; holistic view of the topic of communication; all goals at a glance; elaboration of the essential points; a stable framework for practical orientation; means of explanation to third parties\noverview for monitoring deadlines; costs and successes"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What parts does the company information and communication concept usually consist of?",
+              "correctAnswer": "Analysis: analysis of the status quo of all previous communication measures; strategy: guiding idea that defines the communication goals (messages, channels, target groups, etc.); measures: Outline of exactly how the strategy will be implemented (instruments, budget, etc.)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

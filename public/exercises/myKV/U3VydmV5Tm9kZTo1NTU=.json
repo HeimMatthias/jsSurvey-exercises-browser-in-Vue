@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Termination without notice",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Marco is caught stealing from the store till.",
+                "The company's two apprentices, Laura and Fernando, have fallen in love and are in a relationship.",
+                "Danja falsifies receipts for an external training course paid for by her employer.",
+                "David learns that his employer is on the verge of bankruptcy and can therefore no longer pay his wages. He resigns without notice to take up a position with another company.",
+                "Michaela was out too late the night before, so she overslept and is late for work.",
+                "Pilot Eric is caught smoking a joint during a stopover at Amsterdam airport.",
+                "Ben has already repeatedly attracted negative attention because he has made lewd comments to female employees; now he has harassed a colleague in the elevator and grabbed her bottom.",
+                "Amir is late for work for the third time in a few weeks because his little daughter is ill, so he couldn't drop her off at nursery and had to organize a babysitting service at short notice.",
+                "Matteo and a colleague clash over a difference of opinion, whereupon Matteo punches his colleague in the face.",
+                "Selina is caught passing on secret business data to a rival company.",
+                "Dominik makes a private phone call to his girlfriend during working hours and is caught by his boss. ",
+                "Construction worker Udo leaves the building site to do some quick shopping, even though he is expressly forbidden to leave the workplace.",
+                "During training, Luca tells a colleague that his boss is a jerk; he doesn't realize that his boss is sitting behind him and listening in on the conversation.",
+                "The boss learns that office worker Jessica took ecstasy during her vacation in Ibiza.",
+                "Philipp works as a temp in a movie theater and regularly lets colleagues into the theater for free. His employer finds out about it."
+              ],
+              "type": "matrix",
+              "title": "Mark with a cross whether termination without notice is justified or not in the case studies in the following exercise.",
+              "columns": [
+                "justified",
+                "not justified"
+              ],
+              "correctAnswer": {
+                "Marco wird beim Diebstahl aus der Geschäftskasse erwischt.": "justified",
+                "Danja fälscht Abrechnungsbelege einer auswärtigen Weiterbildung, die ihr Arbeitgeber bezahlt.": "justified",
+                "Selina wird dabei erwischt, wie sie geheime Geschäftsdaten an eine Konkurrenzfirma weiterleitet.": "justified",
+                "Die Chefin erfährt, dass die Büroangestellte Jessica in ihren Ferien in Ibiza Ecstasy genommen hat.": "not justified",
+                "Pilot Eric wird erwischt, als er bei einem Zwischenstopp auf dem Amsterdamer Flughafen einen Joint raucht.": "justified",
+                "Michaela war am Vorabend zu lange im Ausgang, hat sich deshalb verschlafen und kommt verspätet zur Arbeit.": "not justified",
+                "Die beiden Lernenden des Unternehmens, Laura und Fernando, haben sich ineinander verliebt und führen eine Beziehung.": "not justified",
+                "Dominik führt während der Arbeitszeit ein privates Telefongespräch mit seiner Freundin und wird dabei vom Chef erwischt. ": "not justified",
+                "Philipp arbietet als Aushilfe in einem Kino und lässt regelmässig Kollegen gratis in den Saal. Sein Arbeitgeber erfährt davon.": "not justified",
+                "Luca erzählt im Training einer Kollegin, sein Chef sei ein Depp; er merkt nicht, dass sein Chef gerade hinter ihm sitzt und das Gespräch mithört.": "not justified",
+                "Matteo und ein Arbeitskollege geraten aufgrund einer Meinungsverschiedenheit aneinenader, worauf Matteo seinem Kollegen die Faust ins Gesicht schlägt.": "justified",
+                "Bauarbeiter Udo verlässt die Baustelle, um rasch ein paar Einkäufe zu erledigen, obschon ihm das Verlassen des Arbeitsplatzes ausdrücklich untersagt ist.": "justified",
+                "Ben fiel bereits wiederholt negativ auf, weil er gegenüber Mitarbeiterinnen anzügliche Sprüche klopfte; nun hat er im Lift eine Kollegin bedrängt und ihr an den Hintern gefasst.": "justified",
+                "David erfährt, dass sein Arbeitgeber unmittelbar vor dem Konkurs steht und die Löhne deshalb nicht mehr bezahlen kann. Er kündigt fristlos, um eine Stelle bei einem anderen Unternehmen anzutreten.": "justified",
+                "Amir kommt zum dritten Mal innert weniger Wochen zu spät zur Arbeit, weil seine kleine Tochter krank ist, er sie deshalb nicht in der Kita abgegeben konnte und kurzfristig einen Hütedienst organisieren musste.": "not justified"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

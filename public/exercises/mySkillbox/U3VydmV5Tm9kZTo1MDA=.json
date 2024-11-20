@@ -1,0 +1,180 @@
+{
+  "pages": [
+    {
+      "name": "Situation1",
+      "title": "Situation 1",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the relevant problem and specify the situation.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Sandra sends a registered letter of termination of her rental apartment on behalf of her roommates on March 21 because she can move into a new apartment on July 1. No termination dates were noted in the rental agreement. Her 2 flatmates (co-tenants) want to move out at the same time as her and look for a new apartment together.",
+              "choices": [
+                "Notice period",
+                "Formal error"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Formal error",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Clarification of the situation:",
+              "isRequired": true,
+              "correctAnswer": "The termination is only valid if all co-tenants sign it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situation2",
+      "title": "Situation 2",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Select the relevant problem and specify the situation.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Marco wants to leave his current apartment by 15.9. at the latest, as he is going on a trip around the world for a year. On July 13, he sends the registered letter of termination to the post office. A 3-month notice period was agreed in the rental contract.",
+              "choices": [
+                "Notice period",
+                "Formal error"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Notice period",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Clarification of the situation:",
+              "isRequired": true,
+              "correctAnswer": "Even if Marco sends his letter of termination in mid-July, the 3-month notice period does not start until the end of the month. 31.7. + 3 months = 30.10. The tenancy therefore only ends on 30.10. He still has to pay the rent for this period if he cannot find a suitable new tenant.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situation3",
+      "title": "Situation 3",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the relevant problem and specify the situation.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Jerome wants to move to another city with his partner (registered partnership). While his partner is on vacation, he draws up the notice of termination, signs it and posts it on January 18. They want to move into their new apartment on May 1.",
+              "choices": [
+                "Notice period",
+                "Formal error"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Formal error",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Clarification of the situation:",
+              "isRequired": true,
+              "correctAnswer": "If registered partners do not co-sign the notice of termination, it is deemed invalid.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situation4",
+      "title": "Situation 4",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Select the relevant problem and specify the situation.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Mrs. Matter wants to make her condominium, which she is currently renting, available to her daughter, who is starting her studies on 1.9. She writes a personal letter to the husband of the young couple who are currently renting the apartment and sends it by registered mail on June 20.",
+              "choices": [
+                "Notice period",
+                "Formal error"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Formal error",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Clarification of the situation:",
+              "isRequired": true,
+              "correctAnswer": "Mrs. Matter made two formal errors: Firstly, she would have to use an official form for a valid termination and secondly, she would have to send it to both spouses separately.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Situation 5",
+      "title": "Situation 5",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Select the relevant problem and specify the situation.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Mr. Garbani wants to completely renovate his apartment building. The work is due to start on February 1. On November 30, he sends a registered letter of termination to all tenants in the form of the official form. A 3-month notice period was agreed in the rental agreement.",
+              "choices": [
+                "Notice period",
+                "Formal error"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Notice period",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Clarification of the situation:",
+              "isRequired": true,
+              "correctAnswer": "Mr. Garbani's notice of termination is only deemed to have been received on the day on which the tenants receive the registered letter. His notice of termination will reach the tenants on December 1 at the earliest. However, this is too late to give notice on February 1, as the notice period does not start until December 31, which means that the end of the tenancy is postponed to March 31. Additional note for interested parties: Some tenants will certainly demand a so-called tenant extension. This will mean that Mr. Garbani will most likely not be able to start the renovation work on 1 April. A tenant extension is intended to give a tenant more time to find a new apartment if the termination of the contract would result in hardship for her or her family that cannot be justified by the landlord's interests.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

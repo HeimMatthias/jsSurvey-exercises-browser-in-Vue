@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Prescribe problem",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "The screen only displays the following message \"no video input\". Think carefully about where the problem could be located.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Could the problem be with the screen's power cable?",
+              "isRequired": true,
+              "correctAnswer": "No, the screen is still supplied with power.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are your first solutions?",
+              "isRequired": true,
+              "correctAnswer": "Check the plug connection, reconnect the graphics cable, switch off the PC and monitor and switch on again.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Unfortunately, that didn't help. It could be that something is broken. Which three devices could be damaged?",
+              "isRequired": true,
+              "correctAnswer": "The graphics cable, the computer or the screen.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you check whether the fault lies with the first device?",
+              "isRequired": true,
+              "correctAnswer": "Replace the graphics cable and check whether the screen now has an input.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

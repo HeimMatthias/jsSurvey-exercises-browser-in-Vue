@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Management accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "It is an important management tool for the MB.",
+                "The figures may be distorted due to tax optimization.",
+                "According to the Swiss Code of Obligations, all companies must keep a Bebu.",
+                "The structure and form of the Bebu are prescribed by law.",
+                "The Bebu is intended for internal and external stakeholders.",
+                "It can be seen in which departments the costs were incurred.",
+                "In Bebu, the profit or loss is calculated for each product group.",
+                "The Bebu can be managed completely independently of the Fibu.",
+                "The exact costs are determined in cost element accounting.",
+                "The Bebu figures form the basis for the tax return."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on management accounting (Bebu) correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Aufbau und Form der Bebu sind im Gesetz vorgeschrieben.": "Wrong",
+                "Sie stellt ein wichtiges Führungsinstrument für die GL dar.": "Correct",
+                "Sie stellt ein wichtiges Führungs-instrument für die GL dar.": "Richtig",
+                "Die Bebu kann völlig unabhängig von der Fibu geführt werden.": "Wrong",
+                "In der Kostenartenrechnung werden die genauen Kosten ermittelt.": "Correct",
+                "Die Bebu ist für interne und externe Anspruchsgruppen bestimmt.": "Wrong",
+                "Die Zahlen der Bebu bilden die Grundlage für die Steuererklärung.": "Wrong",
+                "Die Zahlen können aufgrund der Steueroptimierung verfälscht sein.": "Wrong",
+                "Alle Unternehmen müssen gemäss Obligationenrecht eine Bebu führen.": "Wrong",
+                "In der Bebu wird der Gewinn oder Verlust je Produktegruppe ermittelt.": "Correct",
+                "Es ist ersichtlich, in welchen Abteilungen die Kosten angefallen sind.": "Correct"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

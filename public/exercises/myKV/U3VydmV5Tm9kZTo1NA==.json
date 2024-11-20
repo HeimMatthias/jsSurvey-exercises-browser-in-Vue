@@ -1,0 +1,185 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign the stakeholder groups.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Persons and/or companies who purchase the product ",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Customers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "People who make their labor and knowledge available to the company",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Employees",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Authority that enforces the legal framework",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "State",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Companies that are active in the same industry",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Competition",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the stakeholder groups.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Associations of persons who want to assert different interests vis-à-vis the company",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Institutions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Persons and/or companies that supply the company with raw materials or goods for resale",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Suppliers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Persons and/or companies that provide the company with financial resources for a certain period of time but are not themselves owners of the company",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Lenders",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Persons and/or companies who provide the company with permanent financial resources and become co-owners",
+              "choices": [
+                "Customers",
+                "State",
+                "Employees",
+                "Institutions",
+                "Competition",
+                "Lenders",
+                "Suppliers",
+                "Equity provider/owner"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Equity provider/owner",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

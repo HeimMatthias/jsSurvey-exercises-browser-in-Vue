@@ -1,0 +1,168 @@
+{
+  "pages": [
+    {
+      "name": "Ungeschickt oder unproblematisch?1",
+      "title": "Clumsy or unproblematic?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "First decide whether the respective action is rather clumsy or unproblematic by ticking the appropriate box. If you classify an action as \"awkward\", then show exactly what is awkward about it. Aid: \"Application procedure and contract conclusion\" tool.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Maya's gross annual salary is CHF 50,000 and her net annual salary is CHF 47,000. She applies for an apartment that costs CHF 1500.-/month net and CHF 1700.-/month gross.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "The gross rent is too high in view of Maya's salary because the gross monthly rent makes up more than a third of her net income: \nCHF 1700.- (gross monthly rent) > CHF 1306.- (CHF 47 000.-/12 = net monthly salary = CHF 3917.-/3 = CHF 1306.-)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "In the application form, she points out without being asked that she is a non-smoker and has no pets (both of which are true).",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "No justification necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ungeschickt oder unproblematisch?2",
+      "title": "Clumsy or unproblematic?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "First decide whether the respective action is rather clumsy or unproblematic by ticking the appropriate box. If you classify an action as \"awkward\", then show exactly what is awkward about it. Aid: \"Application procedure and contract conclusion\" tool.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "She politely points out to the real estate company that she does not have to answer the question about her approximate annual income.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "This question is permissible because the landlord rightly wants to assess whether the tenant can pay the rent without any problems. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "She politely points out to the real estate company that she does not have to answer the question about the duration of her current employment relationship.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "She does not actually have to answer this question, but she should still state that she has been employed by the same company for years (even if this point is not true). This will not reduce her chances.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ungeschickt oder unproblematisch?3",
+      "title": "Clumsy or unproblematic?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "First decide whether the respective action is rather clumsy or unproblematic by ticking the appropriate box. If you classify an action as \"awkward\", then show exactly what is awkward about it. Aid: \"Application procedure and contract conclusion\" tool.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "She applies for a rental apartment that can be terminated for the first time after 4 years.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "This long rental period without the option to terminate is only recommended if the price-performance ratio of the apartment is obviously attractive. In this case, Maya could simply find a new tenant.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "She encloses a current extract from the debt collection register with her application documents without being asked.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justification:",
+              "correctAnswer": "No justification necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

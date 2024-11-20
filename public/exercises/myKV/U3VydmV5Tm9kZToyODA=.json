@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.  ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the four sentence elements?",
+              "isRequired": true,
+              "correctAnswer": "Subject, predicate, object, adverbial",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How can the sentence elements be determined?",
+              "isRequired": true,
+              "correctAnswer": "with the displacement sample (changeover sample)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which part of the sentence remains in the same place when the sentence is changed?",
+              "isRequired": true,
+              "correctAnswer": "the conjugated verb",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Which clause is always in the nominative case?",
+              "isRequired": true,
+              "correctAnswer": "the subject",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.  ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What are the four objects?",
+              "isRequired": true,
+              "correctAnswer": "Accusative object, dative object, genitive object, prepositional object",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is the Latin name for the adverbial of place?",
+              "isRequired": true,
+              "correctAnswer": "local adverbial",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the Latin name for the adverbial of reason?",
+              "isRequired": true,
+              "correctAnswer": "causal adverbial",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What position do attributes and appositions have within a sentence?",
+              "isRequired": true,
+              "correctAnswer": "They are parts of a sentence element and therefore not independent sentence elements.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

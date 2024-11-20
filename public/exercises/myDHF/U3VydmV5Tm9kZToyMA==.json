@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Stellenarten",
+      "title": "Job types",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Characterize the job types below in keywords.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Management positions (instances)",
+              "isRequired": true,
+              "correctAnswer": "Are superior to other departments and thus perform management tasks; have decision-making and directive powers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Executing agencies",
+              "isRequired": true,
+              "correctAnswer": "Have no subordinate positions and no management tasks; they have decision-making powers but no authority to issue orders.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Staff units",
+              "isRequired": true,
+              "correctAnswer": "They are auxiliary bodies that support and relieve other bodies; they have no authority to issue orders.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

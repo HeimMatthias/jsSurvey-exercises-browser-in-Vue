@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For every statement, decide whether it is true or false. Also correct the statements you judge to be false.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The aim of a needs assessment is to ask targeted questions to sell a product immediately.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "The aim is to understand the customer's needs and not to make a sale immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "For every statement, decide whether it is true or false. Also correct the statements you judge to be false.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Open and positive body language is important in order to gain the customer's trust.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "true"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "For every statement, decide whether it is true or false. Also correct the statements you judge to be false.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "You should ignore objections by the customer. Instead of considering them, highlight additional product characteristics.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Handling objections effectively requires you to acknowledge and address the customer's doubts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "For every statement, decide whether it is true or false. Also correct the statements you judge to be false.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "Closing techniques are used to motivate the customer to make a quick buying decision.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "They are aimed at encouraging closure of a deal without putting the customer under pressure."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

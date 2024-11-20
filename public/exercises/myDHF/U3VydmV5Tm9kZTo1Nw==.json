@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Comparative prices",
+      "elements": [
+        {
+          "name": "Aufrag",
+          "type": "panel",
+          "title": "There are three ways to specify comparison prices. Which comparison price is described in each case?  ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Comparison of your own price with that of the competition:  ",
+              "isRequired": true,
+              "correctAnswer": "Competitor comparison",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Comparison of your own, currently valid price with your own, previously valid price:",
+              "isRequired": true,
+              "correctAnswer": "Self-comparison",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Comparison of your own, currently valid price with your own, later valid price:",
+              "isRequired": true,
+              "correctAnswer": "Introductory price",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

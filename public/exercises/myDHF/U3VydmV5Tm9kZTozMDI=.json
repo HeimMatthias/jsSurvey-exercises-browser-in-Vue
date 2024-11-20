@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Rules for placing orders",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are the consequences if ... ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "... the instructions are unclear or ambiguous? ",
+              "correctAnswer": "There is room for interpretation. At best, the order is executed differently than intended. "
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "... the arrangements are incomplete? ",
+              "correctAnswer": "Important information is missing. The order is delayed, executed incorrectly or only partially. "
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "... the orders are inappropriate? ",
+              "correctAnswer": "There is a risk that the person performing the task is over- or under-challenged. Both can lead to lack of concentration, mistakes, accidents or frustration. People who are under- or overworked no longer enjoy coming to work or even call in sick. The mood in the workplace deteriorates. "
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "... the orders are not justifiable or difficult to justify? ",
+              "correctAnswer": "The person carrying out the task cannot understand the purpose of the assignment or why the task has been delegated to them. This leads to a lack of understanding, lack of motivation and frustration. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

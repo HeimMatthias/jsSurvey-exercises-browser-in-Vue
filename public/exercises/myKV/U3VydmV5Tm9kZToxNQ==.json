@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Tastaturbefehle1",
+      "title": "Document information",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Status bar: View the word count or select the CHECK tab to answer the following questions:",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "How many characters (characters with spaces) does the text have?",
+              "isRequired": true,
+              "correctAnswer": "2012 Characters with spaces",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How many words, characters, paragraphs does the text have?",
+              "isRequired": true,
+              "correctAnswer": "266 words, 1753 characters without spaces, 6 paragraphs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How large is the file (kB)?",
+              "isRequired": true,
+              "correctAnswer": "23 kB",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "When was the text written (saved): Date, time? (Note: The date and time correspond to the time when the file was made available to you).",
+              "isRequired": true,
+              "correctAnswer": "14.12.2018, 7:50 pm",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "When was the file last saved? Date, time?",
+              "isRequired": true,
+              "correctAnswer": "possibly from you?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Look up the following terms and explain them:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Panama Papers:",
+              "isRequired": true,
+              "correctAnswer": "Disclosure of confidential data confirming money laundering, tax offenses and other crimes committed by private individuals and companies from around 80 countries.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Freedom of the press:",
+              "isRequired": true,
+              "correctAnswer": "Anyone is allowed to disseminate their opinion via any medium.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Propaganda:",
+              "isRequired": true,
+              "correctAnswer": "Systematic dissemination of political, ideological or similar ideas and opinions. ideas and opinions with the aim of influencing the general consciousness of the population in a certain way.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Look up the following terms and explain them:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Censorship:",
+              "isRequired": true,
+              "correctAnswer": "Censorship is used to prevent, restrict or falsify unwanted or unauthorized content. It can affect both text and images.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "relevant:",
+              "isRequired": true,
+              "correctAnswer": "significant, important",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

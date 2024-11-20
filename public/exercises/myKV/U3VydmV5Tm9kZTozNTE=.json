@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Foley-Geräusche",
+      "title": "Foley noises",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the advantage of Foley sounds?",
+              "isRequired": true,
+              "correctAnswer": "They can be recorded exactly as required and used for production. / The quality is impeccable as they are recorded in the studio. / No interference from camera or sound men moving around the set.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the disadvantages of Foley sounds?",
+              "isRequired": true,
+              "correctAnswer": "They sound fake if they are not recorded carefully. / Production is time-consuming. / Production requires an expensive infrastructure.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why are there Foley artists?",
+              "isRequired": true,
+              "correctAnswer": "There are sounds that can hardly be recorded in reality. / Foley recordings allow you to control the sounds very well. / The authenticity of films can be enormously enhanced by their effects. / There are no limits to creativity with Foley recordings.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Working abroad",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Working abroad\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name five key words for each of the reasons that lead to emigration or immigration.",
+              "isRequired": true,
+              "correctAnswer": "Reasons for emigration: war, social and political unrest, corruption, poor economy, high unemployment, lack of future, high crime rate, environmental and natural disasters such as earthquakes, drought, flooding. Reasons for immigration: good wages, job opportunities (companies abroad), compatriots already there, security, no corruption, livelihood.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain briefly and in complete sentences: How do today's\nimmigrants differ from previous immigrants?",
+              "isRequired": true,
+              "correctAnswer": "Over the past few years, immigration that used to be poorly educated has turned into immigration with average to very good qualifications. In the 1990s, more than half of immigrants came from outside the EU; today, around 85% come from the EU. In the past, only around 20 percent had a higher level of education; today, this figure is around 58 percent of new immigrants. Today, the proportion of immigrants in employment is over 50 percent, compared to just under 20 percent in the past.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Explain in your own words exactly what the Agreement on the Free Movement of Persons (fZa) means.",
+              "isRequired": true,
+              "correctAnswer": "The Agreement on the Free Movement of Persons (AFMP) is a treaty between Switzerland and the EU and allows EU citizens unrestricted access to the Swiss labor market. This means that anyone who finds a job here can work and earn money, but must also pay taxes. In return, Swiss nationals are also allowed to work in the EU.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the percentage of foreigners in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "The proportion of foreigners in Switzerland in 2021 is just under 26 percent.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

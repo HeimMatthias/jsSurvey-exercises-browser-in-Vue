@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Documentation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Time frame of the individual work packages (WP)",
+                "List of project costs",
+                "Dependencies between the individual APs",
+                "Intermediate steps of the project",
+                "Division of the project into sub-projects/AP"
+              ],
+              "type": "matrix",
+              "title": "Determine what kind of documentation can document or explain the questions.",
+              "columns": [
+                "Structure plan",
+                "Milestones",
+                "Gantt chart",
+                "Network plan ",
+                "Cost analysis instruments "
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Auflistung der Projektkosten": "Cost analysis instruments ",
+                "Zwischenschritte des Projektes": "Milestones",
+                "Abhängigkeiten zwischen den einzelnen AP": "Network plan ",
+                "Aufteilung des Projektes in Teilprojekte/AP": "Structure plan",
+                "Zeitliche Ausdehnung der einzelnen Arbeitspakete (AP)": "Gantt chart"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

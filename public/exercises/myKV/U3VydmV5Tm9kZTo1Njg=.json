@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Copyrights",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Research information on metadata for files and look for brief and comprehensible information on the following questions:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is this? Sometimes photos are so good that you may have wondered how they were actually taken. Surprisingly, photos don't just store the image, but also some metadata. Go back to Wikimedia and look for a picture, e.g. the picture of the day. What metadata is stored for the image? What do you learn about the production of the image? \nTip: You have to scroll a little. ",
+              "correctAnswer": "You will find out which camera model was used to take the picture and the name of the camera manufacturer. You can also find out the exposure time, the light intensity, the ISO number and the date and time of production. File name, access rights and date of last modification, as seen in the properties of a file."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You have stored a marketing portfolio on your work server. Sometimes your vocational trainer writes new jobs into your portfolio. Can you find out who last changed your marketing portfolio without opening it? Where can you find this?",
+              "correctAnswer": "In all files (*.docx, *.xlsx etc. and in image files). If you right-click in Explorer and select \"Properties\", you can find out who last changed your file under \"Details\". This means that hardly anything can be changed secretly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

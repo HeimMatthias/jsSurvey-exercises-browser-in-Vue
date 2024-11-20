@@ -1,0 +1,133 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Various questions about retail ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name five reasons why prices in specialist and specialty stores tend to be high.",
+              "isRequired": true,
+              "correctAnswer": "Individual responses, such as: extensive specialist advice from trained staff; balanced, extremely wide range of high-quality products (items on offer are expensive in terms of cost price, with a corresponding sales risk); sophisticated atmosphere, upmarket store fittings; elaborate presentation of goods; often relatively expensive location (high rental costs, expensive warehouses); excellent services",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Various questions about retail",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Yara Moser works as a retail assistant in a supermarket. She discusses the characteristics of these types of business with Ralph Haag, who works in a specialist store.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "a) On a separate sheet of paper, describe a supermarket from your area of experience. Describe the product range, location, prices of the products on offer and the size of the store. If possible, illustrate your description with drawings, pictures and photos.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "b) What are the most important features of a supermarket? Highlight these on your sheet.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "c) On a separate sheet of paper, describe a specialist store from your area of experience. Describe the product range, location, prices of the products on offer and the size of the business. If possible, illustrate your description with drawings, pictures and photos.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "d) What are the most important features of a specialist store? Highlight these on your sheet.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "e) Compare the supermarket with the specialist store. Present the main differences.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Various questions about retail",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "In a department store, the product range is adapted to customer requirements. What impact do the adjustments below have on the product range? Give reasons for your answer in each case.\n\nPossible answers: narrower, deeper, wider, flatter or unchanged\n",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "a) Two new lipstick brands are added to the range in the cosmetics department.",
+              "isRequired": true,
+              "correctAnswer": "Deeper, as the selection of lipsticks is increased.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "b) Customers are now offered products for dogs and cats in the newly opened pet department.",
+              "isRequired": true,
+              "correctAnswer": "Broader, as a further sector is added to the range.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "c) As the teddy bears from China sell poorly, they are replaced by teddy bears made in Switzerland.",
+              "isRequired": true,
+              "correctAnswer": "Unchanged, one article is simply replaced by another.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "d) Printers of a certain brand are no longer offered in the electronics department.",
+              "isRequired": true,
+              "correctAnswer": "Flatter, as the choice of printers becomes smaller.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

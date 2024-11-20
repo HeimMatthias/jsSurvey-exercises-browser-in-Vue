@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Ehe",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the significance of the engagement?",
+              "isRequired": true,
+              "correctAnswer": "The engagement is a probationary period for a partnership and serves as preparation for marriage. It is therefore equivalent to a marriage vow.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What preparations need to be made for the marriage?",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, certain requirements must be met (age of consent and capacity of judgment). Secondly, the bride and groom must present the necessary documents (e.g. civil status certificate) in person at the registry office at the bride's or groom's place of residence and apply for the marriage.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the obstacles to marriage?",
+              "isRequired": true,
+              "correctAnswer": "The bride and groom must be capable of judgment and of legal age, i.e. at least 18 years old. In addition, there are marriage bans between close relatives, and an existing marriage cannot be remarried.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Name three legal consequences of marriage.",
+              "isRequired": true,
+              "correctAnswer": "Marriage makes it possible to change the surname, the spouses jointly own property and income, jointly provide for the family, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What legal consequences can the dissolution of an engagement have? Look up Art. 90 to 93 of the Swiss Civil Code.",
+              "isRequired": true,
+              "correctAnswer": "If the engagement is broken off, gifts that were given with a view to marriage can be reclaimed. Expenses incurred in preparation for the marriage and for the marriage must also be reimbursed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What are the different matrimonial property regimes?",
+              "isRequired": true,
+              "correctAnswer": "Participation in acquired property; community of property; separation of property",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Explain the two terms for participation in inheritance: Own property and inheritance.",
+              "isRequired": true,
+              "correctAnswer": "Personal property: The assets and personal belongings brought into the marriage as well as inheritances and gifts received during the marriage. Gains: The assets acquired during the marriage, such as earned income, income from personal property, lottery winnings, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

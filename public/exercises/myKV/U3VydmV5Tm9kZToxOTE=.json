@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "Extraordinary expenses have no impact on the company's profit.",
+                "Operating profit is the profit from ordinary, ongoing business activities.",
+                "Overheads are general costs that are listed in the second level of the three-level income statement.",
+                "Losses from receivables are recognized in the second stage of the three-stage income statement.",
+                "If additional depreciation is posted, the gross profit will be lower."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the three-step income statement correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Ausserordentliche Aufwände haben keinen Einfluss auf den Unternehmensgewinn.": "Wrong",
+                "Wenn zusätzliche Abschreibungen gebucht werden, wird der Bruttogewinn kleiner.": "Wrong",
+                "Beim Betriebsgewinn handelt es sich um den Gewinn aus der normalen, laufenden Geschäftstätigkeit.": "Correct",
+                "Verluste aus Forderungen werden in der zweiten Stufe der dreistufigen Erfolgsrechnung berücksichtigt.": "Wrong",
+                "Gemeinkosten sind allgemeine Kosten, die in der zweiten Stufe der dreistufigen Erfolgsrechnung aufgeführt werden.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "If the overheads are lower than the gross profit, an operating loss is incurred.",
+                "If a customer can deduct a discount, the gross profit will be lower.",
+                "The operating profit is always lower than the company profit.",
+                "Additional extraordinary expenses lead to a reduction in the company's profit.",
+                "Advertising expenses are reported in the third stage of the three-stage income statement."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the three-step income statement correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Der Betriebsgewinn ist immer kleiner als der Unternehmensgewinn.": "Wrong",
+                "Wenn ein Kunde einen Rabatt abziehen kann, wird der Bruttogewinn kleiner.": "Correct",
+                "Wenn die Gemeinkosten kleiner sind als der Bruttogewinn, entsteht ein Betriebsverlust.": "Wrong",
+                "Werbeaufwände werden in der dritten Stufe der dreistufigen Erfolgsrechnung angegeben.": "Wrong",
+                "Zusätzliche ausserordentliche Aufwände führen dazu, dass der Unternehmensgewinn kleiner wird.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

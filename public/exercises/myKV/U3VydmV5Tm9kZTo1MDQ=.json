@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) Why is Switzerland described as a special democratic case? ",
+              "correctAnswer": "Compared to other democracies, the Swiss people have far more opportunities for direct co-determination."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "b) What is the purpose of the separation of powers? ",
+              "correctAnswer": "Limiting the power of the authorities and mutual control"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "c) Who represents the judiciary at federal level in Switzerland? ",
+              "correctAnswer": "the Federal Court"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "d) Which authority is the executive power in Switzerland at federal level? ",
+              "correctAnswer": "the Federal Council"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "e) Who elects the legislative authority in Switzerland? ",
+              "correctAnswer": "by the people (by the sovereign)"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "f) Which two chambers make up the federal parliament, the legislature? ",
+              "correctAnswer": "from the National Council and the Council of States"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "g) What is meant by a militia parliament? ",
+              "correctAnswer": "The members of parliament perform their work on a part-time basis. "
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "h) What is the difference in terms of the composition of parliamentary groups and committees? ",
+              "correctAnswer": "Political groups consist of members of the same party, and various parties are represented in committees. "
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "i) How are the 200 seats in the National Council allocated? ",
+              "correctAnswer": "according to the population of the cantons"
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "j) How many seats in the Council of States does a full canton and how many does a half-canton benefit from? ",
+              "correctAnswer": "Whole canton two, half canton one"
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "k) Why is the Federal Council referred to as a concordance government?",
+              "correctAnswer": "The most important parties are represented and share responsibility for the government. "
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "l) What is meant by the principle of collegiality? ",
+              "correctAnswer": "The Federal Council always decides jointly and represents its decisions as a unified opinion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "m) Which Latin term is used to express the fact that the President of the Swiss Confederation has no more power than the other members of the government? ",
+              "correctAnswer": "Primus inter Pares"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "n) What is the main task of the Federal Chancellor? ",
+              "correctAnswer": "the administrative management of the Federal Chancellery, i.e. the staff unit of the Federal Council"
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "o) What does the Department of Home Affairs deal with? Name three areas. ",
+              "correctAnswer": "Social security, pensions, health, racism"
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "p) By whom and for how long are the federal judges elected? ",
+              "correctAnswer": "by the United Federal Assembly (NR and SR) for six years"
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "q) In which year was Switzerland's first federal constitution drawn up? ",
+              "correctAnswer": "1848"
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "r) What consequences does Swiss neutrality have for the Swiss Armed Forces? ",
+              "correctAnswer": "It must not take part in the wars of other states."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

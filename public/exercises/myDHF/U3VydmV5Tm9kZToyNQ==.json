@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "name": "Handelsbetriebe",
+      "title": "Trading companies",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "State the key messages of the following text:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "A trading form is a group of trading companies that have similar or identical characteristics. Trading companies are divided into foreign and domestic trading companies. The trading activities of domestic trading companies mainly take place within national borders. A distinction is made between wholesale trade (procures goods in large quantities and sells them on to businesses) and retail trade (ensures that the population is supplied with all kinds of goods). Foreign trade companies, on the other hand, are involved in import trade (importing goods from abroad into Switzerland), export trade (exporting goods from Switzerland to other countries) or transit trade (onward transportation of goods from one foreign country to another).",
+              "isRequired": true,
+              "correctAnswer": "Trading companies are divided into foreign trade and domestic trade companies. Domestic trading companies focus on trade within a country. Foreign trade companies, on the other hand, are active in import trade, export trade or transit trade.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

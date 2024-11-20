@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What is the name of the communication model that describes the exchange of messages?",
+              "isRequired": true,
+              "correctAnswer": "Transmitter-receiver model",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the technical term for feedback? ",
+              "isRequired": true,
+              "correctAnswer": "Feedback",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the technical term for the reciprocal exchange of messages? ",
+              "isRequired": true,
+              "correctAnswer": "Interaction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Why is clear pronunciation important?",
+              "isRequired": true,
+              "correctAnswer": "to prevent misunderstandings",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How can a sender avoid misunderstandings?",
+              "isRequired": true,
+              "correctAnswer": "with clear, correct and customer-oriented (recipient-oriented) messages",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Why are notes suitable for recording important content?",
+              "isRequired": true,
+              "correctAnswer": "It is a technically and materially simple instrument.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "How should the main branches of a mind map be arranged?",
+              "isRequired": true,
+              "correctAnswer": "clockwise",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What is the name of the note-taking technique that requires a lot of creativity?",
+              "isRequired": true,
+              "correctAnswer": "Sketchnote",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

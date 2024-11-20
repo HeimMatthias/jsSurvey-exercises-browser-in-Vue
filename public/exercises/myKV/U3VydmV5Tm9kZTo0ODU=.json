@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide for each affirmation whether it is true or false. In addition, a champ de texte must be placed next to each affirmation in order to be able to correct it.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The purpose of an analysis of requirements is to pose specific questions in order to sell a product immediately.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The objective is to understand the client's needs and not to sell immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide for each affirmation whether it is true or false. In addition, a champ de texte must be placed next to each affirmation in order to be able to correct it.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "An open and positive corporate language is important for gaining the client's trust.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "vrai"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide for each affirmation whether it is true or false. In addition, a champ de texte must be placed next to each affirmation in order to be able to correct it.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Vous devriez ignorer les objections de la clientèle, soulignez plutôt les autres caractéristiques du produit.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The effective treatment of objections favors the identification and treatment of the client's complaints."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide for each affirmation whether it is true or false. In addition, a champ de texte must be placed next to each affirmation in order to be able to correct it.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The conclusion techniques are used to motivate the client to make a quick purchase decision.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Their aim is to promote sales without pushing the client to buy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

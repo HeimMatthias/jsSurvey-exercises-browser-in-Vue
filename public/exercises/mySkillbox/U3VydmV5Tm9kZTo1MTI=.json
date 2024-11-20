@@ -1,0 +1,106 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte",
+      "title": "AHV",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M5_A5_Netzwerk_Auj4jx7.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Find the two main causes (= elements in the network) of the financing problem in the network.",
+              "isRequired": true,
+              "correctAnswer": "Birth rates in Switzerland too low; rising life expectancy in Switzerland",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "AHV",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M5_A5_Netzwerk.original.png\" />",
+              "name": "question6",
+              "type": "html"
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Now find the 3 elements in the network that can be essential parts of a solution to the financing problem. Tip: Two elements can be derived directly from the network. One element primarily reduces expenditure, but also increases income slightly. The people have already approved a change to this element in the fall of 2022.",
+              "isRequired": true,
+              "correctAnswer": "Increase public contributions and/or social security contributions; increase retirement age.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "AHV",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Politically, the following 2 proposals are being discussed, among others:",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M5_A5_politische-Vorschlaege.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Use the tool \"The four basic political conflicts\" to determine which of these is visible here: ",
+              "isRequired": true,
+              "correctAnswer": "Increased state redistribution of income",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Now decide which of the two proposals is politically more to the left and which is more to the right. ",
+              "isRequired": true,
+              "correctAnswer": "Proposal 1 = more to the left, proposal 2 = more to the right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Give reasons for your classification.",
+              "isRequired": true,
+              "correctAnswer": "Reasons for proposal 1: Financing the AHV via more tax revenue leads to a greater redistribution of income due to tax progression = more to the left; reasons for proposal 2: Reduction in expenditure = less welfare state = more to the right",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

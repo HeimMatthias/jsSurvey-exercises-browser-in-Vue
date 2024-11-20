@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Examples",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Argue on the basis of feature, advantage and benefit. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Your customer has told you that she attaches particular importance to having a contact person.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: Our company stands for personal customer service (characteristic). This has the advantage for you that misunderstandings and information backlogs are avoided (advantage) and thus guarantees you constantly increasing efficiency in cooperation (benefit). ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Your customer is signaling to you that he is interested in a long-term collaboration.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: We offer individual solutions for our customers (feature). This has the advantage for you that we take all your wishes and priorities into account (advantage), which ensures a stable and cooperative partnership in the long term (benefit).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Your customer makes it clear that she attaches great importance to flexibility.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: In addition to the classic service 1, we also offer our customers service 2 (feature). This has the advantage that we can take on the entire spectrum for you and offer you both instruments (advantage). In this way, you can use our service flexibly and save time and money (benefit).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Your customer has had bad experiences with unprofessional service providers.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: We provide top training for our internal employees in all relevant areas (features). The advantage for you is a high level of legal certainty (advantage) and also top service at all times (benefit).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

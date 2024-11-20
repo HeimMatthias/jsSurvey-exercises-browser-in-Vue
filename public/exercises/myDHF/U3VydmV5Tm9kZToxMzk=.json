@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Traffic",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Mobility needs as well as the purposes and means of transportation change again and again over the course of a lifetime.",
+                "Switzerland has a very dense transportation network with excellent and safe roads and a very reliable public transport service.",
+                "Switzerland is self-sufficient and does not import any food.",
+                "In terms of the means of transportation used, the car dominates private transport.",
+                "Children often travel by non-motorized means of transport.",
+                "50% of households own a car and 90% of households own a bicycle.",
+                "It is not uncommon for means of transportation to be combined for a trip.",
+                "Electric cars have replaced petrol cars on Swiss roads.",
+                "Means of transportation have not only become faster, but also safer.",
+                "The frequency and the way we move around has an impact on nature."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements are true and which are false? Put a cross in the box.",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Kinder sind oft mit nicht motorisierten Verkehrsmitteln unterwegs.": "right",
+                "Nicht selten werden die Verkehrsmittel für eine Reise kombiniert.": "right",
+                "Die Schweiz ist Selbstversorger und importiert keine Nahrungsmittel.": "wrong",
+                "50% der Haushalte besitzen ein Auto und 90% der Haushalte ein Fahrrad.": "wrong",
+                "Auf Schweizer Strassen haben Elektro-Autos die Benzinautos verdrängt.": "falsch",
+                "Verkehrsmittel sind nicht nur schneller, sondern auch sicherer geworden.": "right",
+                "Bei den verwendeten Verkehrsmitteln dominiert das Auto den Individualverkehr.": "right",
+                "Die Häufigkeit sowie die Art und Weise, wie wir uns fortbewegen, hat Auswirkungen auf die Natur.": "right",
+                "Die Mobilitätsbedürfnisse sowie die Verkehrszwecke und -mittel ändern sich im Verlauf des Lebens immer wieder.": "right",
+                "Die Schweiz hat ein sehr dichtes Verkehrsnetz, mit ausgezeichneten und sicheren Strassen sowie einem sehr zuverlässigen ÖV-Angebot.": "richtig"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

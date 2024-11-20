@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Nachhaltigkeit",
+      "title": "Sustainability",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Sustainable development\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Explain the importance of biodiversity.",
+              "isRequired": true,
+              "correctAnswer": "Biodiversity is understood to mean the conservation of: Diversity of ecosystems: habitats such as water, forests, alpine areas; diversity of species: animals, plants, fungi, microorganisms; diversity of genes: breeds and varieties of wild and cultivated species\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the findings of the WWF's \"Living Planet Report\"?",
+              "isRequired": true,
+              "correctAnswer": "Over the last 33 years, the LPI has fallen by around 30 percent overall. The index of terrestrial species has fallen by 31 percent, that of freshwater species by 28 percent and that of marine species by 27 percent. The decline in populations in the tropics is particularly dramatic: since 1970, the index of tropical species has fallen by 55 percent.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is Switzerland doing to preserve biodiversity?",
+              "isRequired": true,
+              "correctAnswer": "Conservation of biodiversity (animals, plants, fungi, microorganisms); sustainable use of parts of biodiversity\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Sustainability",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What contribution could each and every one of us make to preserving biodiversity?",
+              "isRequired": true,
+              "correctAnswer": "Protecting nature, caring for the environment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "In which parts of the world is there an urgent need for action?",
+              "isRequired": true,
+              "correctAnswer": "The destruction of tropical rainforests (especially in Latin America and Southeast Asia) has the most serious impact on global diversity. Although these only cover around seven percent of the earth's surface, they probably contain more than 50 percent of animal and plant species.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Cash",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How much cash do you currently have in your wallet?",
+              "isRequired": true,
+              "correctAnswer": "individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Where or for which purchases do you spend your cash?",
+              "isRequired": true,
+              "correctAnswer": "individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Cash",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "In your opinion, what are the advantages and disadvantages of cash?",
+              "isRequired": true,
+              "correctAnswer": "individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What other means of payment do you use? Name the means of payment and state the situations in which you use them.",
+              "isRequired": true,
+              "correctAnswer": "individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Cash",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What means of payment are accepted in your training company?",
+              "isRequired": true,
+              "correctAnswer": "individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

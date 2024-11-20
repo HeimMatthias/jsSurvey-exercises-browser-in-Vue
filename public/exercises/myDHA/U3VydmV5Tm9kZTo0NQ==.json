@@ -1,0 +1,113 @@
+{
+  "pages": [
+    {
+      "name": "Corporate Identity",
+      "title": "Corporate Identity",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which measures belong to the CI area mentioned? Please mark with a cross. Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Corporate Design",
+              "choices": [
+                "Logo",
+                "Clothing regulations ",
+                "Team spirit",
+                "Store layout",
+                "Standards"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Logo",
+                "Store layout"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Corporate Behaviour",
+              "choices": [
+                "Logo",
+                "Clothing regulations ",
+                "Team spirit",
+                "Wording ",
+                "Jingle"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Clothing regulations ",
+                "Team spirit"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Corporate Identity",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which measures belong to the CI area mentioned? Please mark with a cross. Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Corporate Communication",
+              "choices": [
+                "Newsletter ",
+                "Corporate values",
+                "Fair Trade ",
+                "Instagram",
+                "Cash desk area"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Newsletter ",
+                "Instagram"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Corporate Culture",
+              "choices": [
+                "Newsletter  ",
+                "Corporate values ",
+                "Fair Trade ",
+                "Instagram",
+                "Cash desk area"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Corporate values ",
+                "Fair Trade "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

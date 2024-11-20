@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Liquidity effect of business transactions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The trust company issues invoices for consulting services.",
+                "Wages are paid by bank transfer.",
+                "The invoice for the furniture insurance arrives.",
+                "The bank credits interest to the account.",
+                "The trust company purchases a vehicle against invoice.",
+                "Clients pay recorded fee invoices to the bank account.",
+                "The rent for the rooms is paid by bank transfer."
+              ],
+              "type": "matrix",
+              "title": "Are the following business transactions of a trust company cash-effective or non-cash-effective? Do the cash and cash equivalents increase or decrease in the cash-effective business transactions?",
+              "columns": [
+                "Effect on liquidity: Increase",
+                "Effect on liquidity: Decrease",
+                "Non-cash effective"
+              ],
+              "correctAnswer": {
+                "Die Bank schreibt auf dem Konto einen Zins gut.": "Effect on liquidity: Increase",
+                "Die Löhne werden durch Banküberweisung bezahlt.": "Effect on liquidity: Decrease",
+                "Die Rechnung für die Mobiliarversicherung trifft ein.": "Non-cash effective",
+                "Das Treuhandunternehmen kauft ein Fahrzeug gegen Rechnung.": "Non-cash effective",
+                "Das Treuhandunternehmen stellt Rechnungen für Beratungen.": "Non-cash effective",
+                "Kunden zahlen verbuchte Honorarrechnungen auf das Bankkonto.": "Effect on liquidity: Increase",
+                "Der Mietzins für die Räume wird durch Banküberweisung bezahlt.": "Effect on liquidity: Decrease"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Liquidity effect of business transactions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "A posted supplier invoice is paid by the bank.",
+                "The trust company grants a loan and pays it out through the bank.",
+                "The vehicles are depreciated directly.",
+                "The trust company pays gasoline purchases in cash.",
+                "A customer pays the fee for a consultation in cash.",
+                "The trust company buys office supplies for cash.",
+                "Used office furniture is sold against invoice.",
+                "The bill for the electricity consumption in the offices arrives."
+              ],
+              "type": "matrix",
+              "title": "Are the following business transactions of a trust company cash-effective or non-cash-effective? Do the cash and cash equivalents increase or decrease in the cash-effective business transactions?",
+              "columns": [
+                "Effect on liquidity: Increase",
+                "Effect on liquidity: Decrease",
+                "Non-cash effective"
+              ],
+              "correctAnswer": {
+                "Die Fahrzeuge werden direkt abgeschrieben.": "Non-cash effective",
+                "Das Treuhandunternehmen zahlt Benzinbezüge bar.": "Effect on liquidity: Decrease",
+                "Ein Kunde zahlt das Honorar für eine Beratung bar.": "Effect on liquidity: Increase",
+                "Gebrauchte Büromöbel werden gegen Rechnung verkauft.": "Non-cash effective",
+                "Das Treuhandunternehmen kauft Büromaterial gegen Barzahlung.": "Effect on liquidity: Decrease",
+                "Die Rechnung für den Stromverbrauch in den Büros trifft ein.": "Non-cash effective",
+                "Eine verbuchte Lieferantenrechnung wird durch die Bank bezahlt.": "Effect on liquidity: Decrease",
+                "Das Treuhandunternehmen gewährt ein Darlehen und zahlt es durch die Bank aus.": "Effect on liquidity: Decrease"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

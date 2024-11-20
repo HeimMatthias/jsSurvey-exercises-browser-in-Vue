@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Euro-franc exchange rate",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "You live and work in Switzerland and spend your vacation on Mallorca every spring.",
+                "You run a hotel in Switzerland and make most of your money from guests from Germany and France.",
+                "You live and work in Switzerland and order a large quantity of special pasta from Italy online.",
+                "You live and work in France and enjoy spending your skiing vacation in Davos in winter.",
+                "You produce Emmental cheese and are dependent on your cheese being bought abroad.",
+                "You live in Switzerland and have won a German TV show. The prize money will be paid out to you in euros.",
+                "You live in Switzerland close to the German border and regularly do your shopping in Germany."
+              ],
+              "type": "matrix",
+              "title": "The euro-franc exchange rate in March 2023 is around 0.99. Ten years earlier, in March 2013, it was still around 1.22. For the following examples, assess which exchange rate is more advantageous (more favorable) for you in each case. Put a cross in the appropriate box. ",
+              "columns": [
+                "1.22 (2013)",
+                "0.99 (2023)"
+              ],
+              "correctAnswer": {
+                "Sie leben und arbeiten in Frankreich und verbringen im Winter Ihren Skiurlaub gerne in Davos.": "1.22 (2013)",
+                "Sie leben und arbeiten in der Schweiz und verbringen Ihre Ferien jeden Frühling auf Mallorca.": "0.99 (2023)",
+                "Sie produzieren Emmentaler Käse und sind darauf angewiesen, dass Ihr Käse im Ausland gekauft wird.": "1.22 (2013)",
+                "Sie führen ein Hotel in der Schweiz und machen Ihr Geld vor allem mit Gästen aus Deutschland und Frankreich.": "1.22 (2013)",
+                "Sie leben in der Schweiz nahe an der deutschen Grenze und tätigen Ihre Einkäufe regelmässig in Deutschland.": "0.99 (2023)",
+                "Sie leben und arbeiten in der Schweiz und bestellen im Internet eine grosse Menge spezieller Pasta aus Italien.": "0.99 (2023)",
+                "Sie leben in der Schweiz und haben in einer deutschen TV-Show gewonnen. Die Siegesprämie wird Ihnen in Euro ausbezahlt.": "1.22 (2013)"
+              },
+              "isAllRowRequired": true
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-detailhandel-dhf-prod.s3-eu-central-1.amazonaws.com/images/A_LJ2_LF3_A10b_Quellenangabe.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

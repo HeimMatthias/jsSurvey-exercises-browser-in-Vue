@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Aussagen zu den Gerechtigkeitsprinzipien",
+      "title": "Statements on the principles of justice",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "Put a cross next to the statement that best corresponds to your sense of justice and give reasons for your choice. ",
+              "choices": [
+                {
+                  "text": "I think the principle that takes performance into account is the fairest.",
+                  "value": "I think the principle that takes performance into account is the fairest."
+                },
+                {
+                  "text": "I think the principle that rewards performance is the fairest.       ",
+                  "value": "I think the principle that rewards performance is the fairest.       "
+                },
+                {
+                  "text": "I think the principle that punishes the polluter is the fairest.                 ",
+                  "value": "I think the principle that punishes the polluter is the fairest.                 "
+                },
+                {
+                  "text": "I think the principle that treats everyone equally is the fairest.                      ",
+                  "value": "I think the principle that treats everyone equally is the fairest.                      "
+                },
+                {
+                  "text": "I think the principle that takes account of need is the fairest. ",
+                  "value": "I think the principle that takes account of need is the fairest. "
+                }
+              ],
+              "isRequired": true,
+              "commentText": "Begründung",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Reason"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

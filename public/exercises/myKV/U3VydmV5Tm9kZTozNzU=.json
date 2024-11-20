@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Payroll accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "You are viewing Mrs. Hedwig Muster's payslip for the month of June 2023. Answer the following questions about the June 2023 payslip:",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/A_2LJ_LF2_A10_Lohnabrechnung.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How high is the employee's relative and absolute contribution to the 1st pillar?",
+              "isRequired": true,
+              "correctAnswer": "In % (relative): 5.3%; absolute: CHF 478.85 (5.3% of 9034.65, i.e. including 13th month's salary) ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How high is the contribution to the 1st pillar paid by the employer? ",
+              "isRequired": true,
+              "correctAnswer": "The same proportion as that of female employees",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the 13th month's salary? How is it calculated for Ms. Muster? ",
+              "isRequired": true,
+              "correctAnswer": "A 13th month's salary is often agreed, usually paid half in June and half in December. In Ms. Muster's case, the 13th is slightly less than 50%, which indicates that she has not always earned as much in the months since January (possibly unpaid leave, starting work later in the year, etc.) or that she only started the job after January.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Payroll accounting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You are viewing Mrs. Hedwig Muster's payslip for the month of June 2023. Answer the following questions about the June 2023 payslip:",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/A_2LJ_LF2_A10_Lohnabrechnung.original.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How much was the contribution to the pension fund in June 23?",
+              "isRequired": true,
+              "correctAnswer": "Ms. Muster's contribution amounted to CHF 705.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "How does the difference between gross wages and net wages come about?",
+              "isRequired": true,
+              "correctAnswer": "Gross salary minus deductions for compulsory insurance equals the net salary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What is the KTG1 contribution?",
+              "isRequired": true,
+              "correctAnswer": "The company has obviously taken out daily sickness insurance for its employees. If this insurance is taken out, a share of the costs may be deducted from the employee's salary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What other elements should be on a well-structured payslip?",
+              "isRequired": true,
+              "correctAnswer": "Payroll period, social security number, payment date and account details of the employee",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

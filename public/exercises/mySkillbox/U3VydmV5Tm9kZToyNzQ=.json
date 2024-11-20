@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "Verknüpfungsmittel",
+      "title": "Linking means that limit or specify something",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In the following exercise, select the appropriate linking means in each case. There is always only one correct solution.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "In this topic you will not only learn about economic, ... but also political contexts.",
+              "choices": [
+                "although",
+                "however",
+                "but"
+              ],
+              "isRequired": true,
+              "correctAnswer": "but",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "I would like to have my own business one day ... but not have to carry so much responsibility.",
+              "choices": [
+                "except",
+                "however",
+                "although"
+              ],
+              "isRequired": true,
+              "correctAnswer": "however",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "My boss can count on me to do my job well ... unfortunately not on me to come to work on time.",
+              "choices": [
+                "except",
+                "but",
+                "although"
+              ],
+              "isRequired": true,
+              "correctAnswer": "but",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verknüpfungsmittel2",
+      "title": "Linking means that limit or specify something",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In the following exercise, select the appropriate linking means in each case. There is always only one correct solution.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "She is ... untalented in sport, but strong in politics. ",
+              "choices": [
+                "although ",
+                "however",
+                "neither"
+              ],
+              "isRequired": true,
+              "correctAnswer": "although ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "He is interested in almost everything ... the economy.\n",
+              "choices": [
+                "except",
+                "however",
+                "still",
+                "neither"
+              ],
+              "isRequired": true,
+              "correctAnswer": "except",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

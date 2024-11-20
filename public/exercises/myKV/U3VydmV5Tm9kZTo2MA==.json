@@ -1,0 +1,137 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Company model",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Goal harmony means that the realization of one goal impairs the realization of another goal. ",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "An example of a conflict of objectives: Suppliers want a long-term relationship, customers want long opening hours.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "A distinction is made between three target relationships: target neutrality (also known as target indifference), target harmony and target conflict. ",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Suppliers, customers and competitors are stakeholders of a company",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Company model",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The demands of the various stakeholder groups can trigger conflicts of interest.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Goal neutrality is given if the realization of two goals is possible without impairment.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The Juvenile Penal Code is part of the social environment.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "If a company has to make employees redundant, the social and economic environmental spheres are affected.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

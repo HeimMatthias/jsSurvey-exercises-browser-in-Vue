@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Functions for job holders",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "A job has various functions for the job holder. Select the appropriate answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Most professional tasks can only be carried out in collaboration with other people. This enables employees to live in a social environment.",
+              "choices": [
+                "Activity and competence",
+                "Timing",
+                "Social recognition",
+                "Contacts and cooperation",
+                "Personal identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contacts and cooperation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "The role in the job, the work task and the knowledge that one has the necessary knowledge and skills to master the work are the basis for the development of identity and self-esteem.",
+              "choices": [
+                "Activity and competence",
+                "Timing",
+                "Social recognition",
+                "Contacts and cooperation",
+                "Personal identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Personal identity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Experience in dealing with a job leads to a feeling of competence (ability to act), which is important for the motivation to act. ",
+              "choices": [
+                "Activity and competence",
+                "Timing",
+                "Social recognition",
+                "Contacts and cooperation",
+                "Personal identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Activity and competence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Employees experience social recognition through their own performance and through cooperation with others.",
+              "choices": [
+                "Activity and competence",
+                "Timing",
+                "Social recognition",
+                "Contacts and cooperation",
+                "Personal identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social recognition",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Work structures the daily, weekly and annual routine. Leisure time and vacations are part of the \"working world\".",
+              "choices": [
+                "Activity and competence",
+                "Timing",
+                "Social recognition",
+                "Contacts and cooperation",
+                "Personal identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Timing",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

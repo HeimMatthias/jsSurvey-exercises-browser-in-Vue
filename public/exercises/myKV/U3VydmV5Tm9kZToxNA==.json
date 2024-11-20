@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Tastaturbefehle1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For professionals: Did you know?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Where do you use a protected space?",
+              "isRequired": true,
+              "correctAnswer": "unattractive separation at the right edge of the text, e.g. 15 km (km on new line, spelling rule)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Where do you use a conditional hyphen?",
+              "isRequired": true,
+              "correctAnswer": "unattractive separation at the right edge of the text (e.g. asparagus-the)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Where do you use a manual line break?",
+              "isRequired": true,
+              "correctAnswer": "Date does not quite fit on one line (not easy to read)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Where do you use a manual page break?",
+              "isRequired": true,
+              "correctAnswer": "Start new page instead of paragraphs (many empty paragraphs)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How do you quickly close a document, the associated program and shut down the PC?",
+              "isRequired": true,
+              "correctAnswer": "1. Alt + F4 (file closed); 2. ALT + F4 (program closed); 3. Alt + F4 and OK (PC is shut down)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

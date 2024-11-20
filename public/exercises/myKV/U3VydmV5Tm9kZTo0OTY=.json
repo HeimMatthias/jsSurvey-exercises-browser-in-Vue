@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Requirements for a story ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "What requirements must be met in order to develop a unique, non-interchangeable story that engages and intrinsically motivates the audience?",
+              "choices": [
+                "History creates identity.",
+                {
+                  "text": "The history of a company is presented with a timeline.",
+                  "value": "The history of a company is presented with a timeline. "
+                },
+                "The story reflects the company's DNA.",
+                "The story makes the company and its achievements tangible and tangible.",
+                "The story creates an attention-grabbing, distinctive positioning against the competition.",
+                "The story should be as factual as possible, without much emotion.",
+                "The story grabs the listener, who ideally makes a positive purchase decision.",
+                "The story contains as many details as possible in order to convey as much information as possible."
+              ],
+              "correctAnswer": [
+                "History creates identity.",
+                "The story reflects the company's DNA.",
+                "The story makes the company and its achievements tangible and tangible.",
+                "The story creates an attention-grabbing, distinctive positioning against the competition.",
+                "The story grabs the listener, who ideally makes a positive purchase decision."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does the abbreviation RPM mean in connection with magnetic hard disks?",
+              "isRequired": true,
+              "correctAnswer": "Round per minute indicates the number of hard disk revolutions per minute; the faster it rotates, the faster the data is ready for processing (shorter access time).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The term \"defragmentation\" was used for magnetic hard disks in basic knowledge. What is it and how does it work?",
+              "isRequired": true,
+              "correctAnswer": "Data is not necessarily stored on a hard disk in a logical order. For example, data from a Word document could be stored in different places on the hard disk. This means that the read head has to move more to collect the data of this Word document. During defragmentation, the operating system arranges the files in logical (related) data blocks one after the other on the storage medium. This makes access faster as the read/write arm has to cover shorter distances until it has found the entire file.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is meant by the term \"partitioning\"? Research the term and describe what happens during partitioning.",
+              "isRequired": true,
+              "correctAnswer": "A hard disk can be (virtually) divided into several independent partitions (each partition/part is given a different name: C:/Main disk, D:/Data, E:/Music, etc.).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

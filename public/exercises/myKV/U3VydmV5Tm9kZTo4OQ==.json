@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Questions about the video",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What are the older generation's criticisms of the younger generation?",
+              "isRequired": true,
+              "correctAnswer": "The younger generation is lazy and disrespectful. An older gentleman points out: \"The young should ask themselves the question: if I have other priorities, who will pay for them?\"",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why does Leonie struggle with a 40-hour week?",
+              "isRequired": true,
+              "correctAnswer": "There are lots of things you can try and do (eating out, meeting up with friends, traveling, etc.). "
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Aleksandra Tulej criticized Generation Z on social media: \"Dear Generation Z, we need to talk about your work ethic.\" What triggered this post?",
+              "isRequired": true,
+              "correctAnswer": "This post has polarized: Two camps have formed. One side supports Aleksandra Tulej's statement and the other side vehemently rejects her criticism. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Questions about the video",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What aspects of an employer are important to Generation Z?",
+              "isRequired": true,
+              "correctAnswer": "(1) flexible working time models, (2) work-life balance, (3) respect from the employer, (4) money and (5) job security",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What are the limits of Generation Z's desire for less work?",
+              "isRequired": true,
+              "correctAnswer": "Those who work less also earn less. However, the cost of living (rent, health insurance premiums, food, etc.) is high. Depending on the job, a part-time salary may not be enough. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

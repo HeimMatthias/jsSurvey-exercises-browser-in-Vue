@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Cloudcomputing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "According to this audio text, what is meant by cloud computing?",
+              "isRequired": true,
+              "correctAnswer": "Working on the computer with data from the network.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the advantages according to the audio text?",
+              "isRequired": true,
+              "correctAnswer": "The software does not need to be kept up to date, as the provider ensures that computer crashes have no consequences.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What disadvantages are mentioned?",
+              "isRequired": true,
+              "correctAnswer": "Only access when you are online, providers can go bankrupt, some providers analyze usage data.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

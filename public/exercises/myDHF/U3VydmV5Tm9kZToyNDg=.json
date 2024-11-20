@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sales arguments",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the following questions on the types of sales arguments and tick the appropriate answer. All questions relate to the sales pitch. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Which two factors are decisive for a successful advertising argument? ",
+              "choices": [
+                "Credible communication and good availability of the product",
+                "Coherent communication and an attractive price-performance ratio",
+                "A broad product range and a high level of customer satisfaction",
+                "High product quality and an appealing product presentation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Coherent communication and an attractive price-performance ratio",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "What is a possible commercial argument?",
+              "choices": [
+                "Increase in productivity",
+                "Improving health",
+                "Increase creativity",
+                "Promotion of social interaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Increase in productivity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "What is the aim of a technical argument?",
+              "choices": [
+                "Explaining the argumentation technique to customers",
+                "To persuade the customer to choose the product with the highest performance",
+                "Convince customers of the technical features and functions of the product",
+                "Emphasize the technical complexity of the product"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Convince customers of the technical features and functions of the product",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Sales arguments",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the following questions on the types of sales arguments and tick the appropriate answer. All questions relate to the sales pitch. ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Which of the following statements is NOT a quality argument? ",
+              "choices": [
+                "The product meets the needs and expectations of customers.",
+                "The product is made from high-quality materials.",
+                "The product is inexpensive and affordable.",
+                "The product complies with the applicable quality standards."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The product is inexpensive and affordable.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "What is the aim of a utility argument?",
+              "choices": [
+                "Convince customers of the aesthetic qualities of the product",
+                "Convince customers that the product has a functional benefit",
+                "To show the customer that the product meets her individual needs",
+                "Getting the customer to buy the product for emotional reasons"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Convince customers that the product has a functional benefit",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "What is the function of emotional arguments?",
+              "choices": [
+                "Emotional arguments are used to explain the content of the product or service.",
+                "Emotional arguments have no function in a sales pitch.",
+                "Emotional arguments are used to convince customers with technical information and specifications.",
+                "Emotional arguments aim to address the needs, desires and personal values of the customer and create an emotional connection."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Emotional arguments aim to address the needs, desires and personal values of the customer and create an emotional connection.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,153 @@
+{
+  "pages": [
+    {
+      "name": "Übung 1",
+      "title": "Part of the corporate identity",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Name the corresponding part of the corporate identity for the following observations.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Logo and company on the customer invoice",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Design",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Adoption of common management criteria for the company",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Behaviour",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Redesign of the addresses in the customer counter area of a bank",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Design",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Binding regulations on the size, color and luminosity of store signs for all stores.",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Design",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Part of the corporate identity",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Name the corresponding part of the corporate identity for the following observations.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Regulation of announcements about internal company processes to the outside world",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Storage system for templates for internal and external customers",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Design",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Consistent appearance of posts on Instagram",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Design",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Adoption of a joint charter of values on leadership styles",
+              "choices": [
+                "Corporate Design",
+                "Corporate Communication",
+                "Corporate Behaviour",
+                "Corporate Culture"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate Culture",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

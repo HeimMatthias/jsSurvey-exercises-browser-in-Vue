@@ -1,0 +1,260 @@
+{
+  "pages": [
+    {
+      "name": "Entscheidung der Zahlungsart1",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "I buy a laptop from Interdiscount (offline).",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Debit card",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question1",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "I don't need cash, the debit card is an accepted means of payment and the time required is also minimal.",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    },
+    {
+      "name": "Entscheidung der Zahlungsart2",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "I buy an energy drink at the kiosk.",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cash",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "Payment by cash and debit card (up to CHF 30 possible without a code) is quick.",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    },
+    {
+      "name": "Entscheidung der Zahlungsart3",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "I pay my monthly rent.",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Standing order",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question5",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "Regular invoice for a fixed amount > standing order, because it saves time (the amount is transferred automatically).",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    },
+    {
+      "name": "Entscheidung der Zahlungsart4",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "I pay my cell phone bill.",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Standing order",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question7",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "Regular invoices for different amounts > direct debit. Or regular invoices for a fixed amount > standing order. Both options save time, as the amount is automatically debited from my account.",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    },
+    {
+      "name": "Entscheidung der Zahlungsart5",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "I order shoes online from Zalando.",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "PayPal",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question9",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "Online payment in Germany > PayPal. Uncomplicated, encrypted and accepted payment method on the Internet.",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    },
+    {
+      "name": "Entscheidung der Zahlungsart6",
+      "title": "When which payment method?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "You should also decide in your favor in the following everyday situations. Discuss the cases in pairs and give reasons for your choice in each case.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "I rent a PubliBike.",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Payment app",
+                "Invoice",
+                "Internet banking",
+                "PayPal",
+                "Standing order",
+                "Direct debit",
+                "E-Banking"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Payment app",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question11",
+          "type": "comment",
+          "title": "Reason",
+          "isRequired": true,
+          "correctAnswer": "In this case, I can only pay by app, but I have to deposit a means of payment (Visa, Postcard or Mastercard).",
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

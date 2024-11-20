@@ -1,0 +1,163 @@
+{
+  "pages": [
+    {
+      "name": "Organisation1",
+      "title": "Organization",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The organizational structure regulates the timing of work processes. ",
+                "The job is the smallest organizational unit. ",
+                "Tasks, competencies and responsibilities must always be coordinated in order to avoid ambiguities and conflicts. ",
+                "Staff positions and executive positions are also referred to as line positions. ",
+                "An organization chart shows the official channels, i.e. how information flows from top to bottom and from bottom to top. ",
+                "A company breakdown by function is suitable for small and medium-sized companies. ",
+                "Large spans of control make sense if the subordinate units have different or creative work. ",
+                "The advantage of a broad-based structure is the fast and good promotion opportunities. ",
+                "The aim of an optimal process organization is to minimize throughput times and maximize capacity utilization. ",
+                "A flowchart is suitable for illustrating the process organization of a company. "
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the subject of organization correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die Stelle ist die kleinste organisatorische Einheit. ": "right",
+                "Die Aufbauorganisation regelt die zeitlichen Abläufe der Arbeitsprozesse. ": "wrong",
+                "Stabsstellen und ausführende Stellen werden auch als Linienstellen bezeichnet. ": "wrong",
+                "Vorteil einer Breitengliederung sind die schnellen und guten Aufstiegsmöglichkeiten. ": "wrong",
+                "Ein Flussdiagramm eignet sich, um die Ablauforganisation eines Unternehmens darzustellen. ": "right",
+                "Eine Unternehmensgliederung nach Funktionen eignet sich für kleinere und mittlere Unternehmen. ": "right",
+                "Grosse Kontrollspannen sind dann sinnvoll, wenn die unterstellten Einheiten verschiedenartige oder kreative Arbeiten haben. ": "wrong",
+                "Ziel einer optimalen Ablauforganisation sind die Minimierung der Durchlaufzeiten sowie die Maximierung der Kapazitätsauslastung. ": "right",
+                "Aufgaben, Kompetenzen und Verantwortung müssen stets aufeinander abgestimmt werden, damit Unklarheiten und Konflikte vermieden werden. ": "right",
+                "Ein Organigramm bildet den Dienstweg ab, zeigt also, wie der Informationsfluss von oben nach unten und von unten nach oben zu erfolgen hat. ": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Organization",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which term matches the following statements?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Shows the integration of jobs within a company.",
+              "choices": [
+                "Guidance ",
+                "Process organization ",
+                "Mission statement ",
+                "Democratic management style ",
+                "Organizational chart "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Organizational chart ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Employee and qualification interviews are common.",
+              "choices": [
+                "Guidance ",
+                "Process organization ",
+                "Mission statement ",
+                "Democratic management style ",
+                "Organizational chart "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Democratic management style ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Regulates the timing of work processes.",
+              "choices": [
+                "Guidance ",
+                "Process organization ",
+                "Mission statement ",
+                "Democratic management style ",
+                "Organizational chart "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Process organization ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Organization",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which term matches the following statements?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Helps to ensure the continuity of business policy.",
+              "choices": [
+                "Guidance ",
+                "Process organization ",
+                "Mission statement ",
+                "Democratic management style ",
+                "Organizational chart "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Mission statement ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "This includes the formation and implementation of wills.",
+              "choices": [
+                "Guidance ",
+                "Process organization ",
+                "Mission statement ",
+                "Democratic management style ",
+                "Organizational chart "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Guidance ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

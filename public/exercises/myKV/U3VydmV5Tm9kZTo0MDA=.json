@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Calculations",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Cost price + overheads = cost price",
+                "Cost price + gross profit = net revenue",
+                "Overheads - net profit = gross profit",
+                "Cost price - net profit = net revenue",
+                "Overheads + net profit = cost of goods sold",
+                "Net revenue - cost price = gross profit",
+                "Gross profit - net profit = overheads",
+                "Gross profit + net profit = net revenue",
+                "Overheads + net profit = gross profit",
+                "Net proceeds - net profit = cost price",
+                "Gross profit + cost price = cost price",
+                "Net revenue - gross profit = cost of goods sold"
+              ],
+              "type": "matrix",
+              "title": "Are the following calculations correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Bruttogewinn + Reingewinn = Nettoerlös": "wrong",
+                "Gemeinkosten + Reingewinn = Bruttogewinn": "right",
+                "Gemeinkosten + Reingewinn = Selbstkosten": "wrong",
+                "Nettoerlös – Reingewinn = Selbstkosten": "right",
+                "Selbstkosten – Reingewinn = Nettoerlös": "wrong",
+                "Bruttogewinn – Reingewinn = Gemeinkosten": "right",
+                "Gemeinkosten – Reingewinn = Bruttogewinn": "wrong",
+                "Nettoerlös – Bruttogewinn = Selbstkosten": "wrong",
+                "Bruttogewinn + Einstandspreis = Selbstkosten": "wrong",
+                "Einstandspreis + Bruttogewinn  = Nettoerlös": "right",
+                "Einstandspreis + Gemeinkosten  = Selbstkosten": "right",
+                "Nettoerlös – Einstandspreis = Bruttogewinn": "right"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

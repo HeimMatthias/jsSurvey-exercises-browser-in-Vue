@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How does the adjective differ from the other parts of speech?",
+              "isRequired": true,
+              "correctAnswer": "The adjective is increasable.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "How can adjectives be formed?",
+              "isRequired": true,
+              "correctAnswer": "Through compounds (composites) or derivations from verbs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Why should expressions such as \"super\", \"mega\", \"crazy\" not be used in business communication?",
+              "isRequired": true,
+              "correctAnswer": "They are considered colloquial.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are the three increments called?",
+              "isRequired": true,
+              "correctAnswer": "Positive, comparative, superlative",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "When is \"like\" used in comparisons and when is \"as\" used?",
+              "isRequired": true,
+              "correctAnswer": "wie",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What should be considered in constructive communication with regard to the use of adjectives?",
+              "isRequired": true,
+              "correctAnswer": "Positive adjectives should be used. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

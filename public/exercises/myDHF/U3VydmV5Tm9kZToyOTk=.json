@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Mini Case: Wool sweater ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "The sweater shrunk the first time it was washed, so this is a hidden defect. As the customer fulfilled her duty of notification and reported the defect immediately, her claim for a refund is justified. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "The seller is not liable for defects caused by improper use (Art. 201 OR - notice of defects). The care instructions can be found on the product. In addition, the seller verbally pointed this out when she handed over the sweater to the customer in perfect condition. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Mini Case: Wool sweater ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "As this is not a warranty case, the legally prescribed goodwill measures apply. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "There is no legal obligation to offer goodwill measures. Goodwill is by definition voluntary. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Mini Case: Wool sweater ",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "If the customer can show that the damage is due to a manufacturing defect (e.g. incorrect care instructions on the label), the seller is obliged to provide a warranty. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "The customer could hardly have detected the defect during a normal inspection of the product and therefore did not disregard her duty to inspect (Art. 201 CO - notice of defects). The retailer would therefore be liable for this defect, which is only recognizable during use (Art. 197 CO - Warranty). "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "name": "Wohnungstypen",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations. If no clear definitions can be derived from individual pictures, look up the relevant terms.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Definition Wohnungstyp",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen2.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen3.png\" />",
+              "name": "question4",
+              "type": "html"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen4.png\" />",
+              "name": "question6",
+              "type": "html"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen5.png\" />",
+              "name": "question8",
+              "type": "html"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen6.png\" />",
+              "name": "question10",
+              "type": "html"
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Apartment types",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Look at the pictures in the exercise and then define the apartment types using the definitions and explanations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_Wohnungstypen7.png\" />",
+              "name": "question12",
+              "type": "html"
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Definition of apartment type:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

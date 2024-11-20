@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Subject & predicate",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Over half of all apprentices come from the canton of St. Gallen. ",
+                "Either I or my colleague will accompany you.  ",
+                "Two dozen eggs cost less than 10 francs.  ",
+                "Around 1.5 tons of steel were needed for the new bridge.  ",
+                "The USA currently has very high inflation. ",
+                "A narrow majority of voters were in favor. ",
+                "She is one of the few women to head a global corporation. "
+              ],
+              "type": "matrix",
+              "title": "Check whether the congruence between subject and predicate is correct. Correct the incorrect forms.",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die USA haben zurzeit eine sehr hohe Inflation. ": "right",
+                "Zwei Dutzend Eier kostet weniger als 10 Franken.  ": "wrong",
+                "Eine knappe Mehrheit der Stimmberechtigten war dafür. ": "right",
+                "Entweder ich oder meine Kollegin wird euch begleiten.  ": "right",
+                "Für die neue Brücke wurde rund 1,5 Tonnen Stahl benötigt.  ": "falsch",
+                "Für die neue Brücke wurde rund 1,5 Tonnen Stahl benötigt.  ": "wrong",
+                "Sie ist eine der wenigen Frauen, die einen Weltkonzern leitet. ": "wrong",
+                "Über die Hälfte aller Lernenden stammen aus dem Kanton St. Gallen. ": "wrong"
+              },
+              "isAllRowRequired": true
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Corrections:",
+              "correctAnswer": "More than half of all apprentices come from the canton of St. Gallen. Two dozen eggs cost less than 10 francs.\nAbout 1.5 tons of steel were needed for the new bridge.\nShe is one of the few women to manage a global corporation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

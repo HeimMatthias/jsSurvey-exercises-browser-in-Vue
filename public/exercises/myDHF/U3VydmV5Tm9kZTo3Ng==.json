@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Zusammenleben",
+      "title": "Living together",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What forms of cohabitation are there?",
+              "isRequired": true,
+              "correctAnswer": "Possible forms of cohabitation are marriage, single-parent families, registered partnerships, cohabitation, rainbow families, patchwork families or shared accommodation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How has the family developed and the distribution of roles in households changed?",
+              "isRequired": true,
+              "correctAnswer": "New forms of cohabitation have gained in importance. More and more women are working and men are playing a greater role in the household and raising children. Nevertheless, we are still a long way from an equal distribution of roles.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name the characteristics of cohabitation and its advantages and disadvantages.",
+              "isRequired": true,
+              "correctAnswer": "The characteristic of cohabitation is that a man and woman live together without a marriage certificate. Advantages: A cohabiting couple can separate relatively easily, can make tax savings and draw two full AHV pensions (married couples receive one and a half pensions). Disadvantages: There is no legal relationship, matrimonial property rights are not protected. Children are treated like children born out of wedlock. In the event of death, the survivor has no fixed inheritance share. Entitlements to AHV and pension fund benefits cease.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What aspects of living in a shared flat should you regulate in writing?",
+              "isRequired": true,
+              "correctAnswer": "An inventory list should be kept. Costs incurred, such as rent and insurance, should be distributed fairly and set out in a contract, as should notice periods and the use of shared rooms. The tenancy agreement should be signed by all flatmates.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

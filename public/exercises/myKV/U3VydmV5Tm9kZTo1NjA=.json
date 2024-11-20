@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Trial apprenticeships",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Orientation level students are always allowed to complete taster apprenticeships in your company.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What security measures and restrictions are in place to ensure that tasters get a real insight into the work and can also participate, but do not have access to non-public business documents?",
+              "correctAnswer": "Individual answers"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Ask at the training company and exchange ideas in a small group.",
+              "correctAnswer": "Individual answers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "It is half a meter long, has brown fur, lays eggs, can swim and suckles its young. What is it?",
+              "isRequired": true,
+              "correctAnswer": "Platypus",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Is there a machine that runs by itself without the need for gasoline, electricity, gas, etc.? What do you call such a thing?",
+              "isRequired": true,
+              "correctAnswer": "No, there are no so-called perpetual motion machines.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "If you win the lottery, you have to pay tax on the winnings - between a quarter and half of the winnings, depending on where you live. In which canton would you have to pay the least tax if you won the lottery?",
+              "isRequired": true,
+              "correctAnswer": "Train",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Did you know that you are not the same height in the morning and in the evening? How big is the difference and why?",
+              "isRequired": true,
+              "correctAnswer": "One to two centimeters, because the intervertebral discs of the spine are compressed during the day.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Form of the contracts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For certain contracts, the law stipulates what form the contract must take (formal requirements).",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "There are three different formal requirements: What could they be?",
+              "choices": [
+                "Beautiful handwriting",
+                "Simple written form",
+                "Double foldability",
+                "Secret signature",
+                "Qualified written form",
+                "Public notarization",
+                "Public lecture"
+              ],
+              "correctAnswer": [
+                "Simple written form",
+                "Qualified written form",
+                "Public notarization"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

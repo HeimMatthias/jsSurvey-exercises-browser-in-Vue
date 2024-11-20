@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Politics and parties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Politics and political parties\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "List the governing parties in Switzerland. ",
+              "isRequired": true,
+              "correctAnswer": "SVP, SP, FDP and the center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name non-governmental parties in Switzerland. ",
+              "isRequired": true,
+              "correctAnswer": "Greens, GLP, EVP",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is an association? ",
+              "isRequired": true,
+              "correctAnswer": "An association is an association of individuals or companies. It represents the common interests of its members and attempts to assert these in politics.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What functions does an association perform? ",
+              "isRequired": true,
+              "correctAnswer": "Associations inform and inform their members about political matters, influence government policy and sometimes negotiate collective labor agreements.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do youth parliaments do?",
+              "isRequired": true,
+              "correctAnswer": "They represent the interests of young people and offer them the opportunity to become politically involved.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

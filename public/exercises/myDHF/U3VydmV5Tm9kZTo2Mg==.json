@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Fragrance marketing",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why do so many people like the scent of vanilla?",
+              "isRequired": true,
+              "correctAnswer": "Because breast milk contains vanilla. Powdered milk also contains vanilla, even more so than breast milk. We were born with vanilla, so to speak.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How is the room fragrance distributed in the Swissotel Berlin and how much does this type of sales promotion measure cost?",
+              "isRequired": true,
+              "correctAnswer": "Via the ventilation system. One container costs 149 euros and lasts one month.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Fragrance marketing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why does the hotel manager rely on scent marketing?",
+              "isRequired": true,
+              "correctAnswer": "To increase customer loyalty. The fragrance should help to create a positive customer experience.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How does science explain the effect of fragrances on customer behavior?",
+              "isRequired": true,
+              "correctAnswer": "Scents are absorbed through the nose and transmitted directly to the centers in the brain that are responsible for feelings/emotions and also for memory. If I perceive a fragrance in a department store with which I associate positive emotions, then I will linger longer in this department store. And consequently consume more, so the thinking goes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

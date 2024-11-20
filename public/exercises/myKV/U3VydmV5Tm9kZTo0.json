@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Under which generic term are the various cinematic forms of representation summarized? ",
+              "isRequired": true,
+              "correctAnswer": "Media art ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the main advantage of film over photography?",
+              "isRequired": true,
+              "correctAnswer": "Events can be displayed in animated form.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What development steps followed the silent movie? Name four steps.",
+              "isRequired": true,
+              "correctAnswer": "Sound film/color film/special effects/computer-generated films",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which three film genres are distinguished?",
+              "isRequired": true,
+              "correctAnswer": "Feature film/documentary/commercial",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is part of the mise en scène?",
+              "isRequired": true,
+              "correctAnswer": "Design of the scenery/props/arrangement and movement of the actors and actresses",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "In which two design elements does the camera play the decisive role?",
+              "isRequired": true,
+              "correctAnswer": "Shooting perspective and setting size ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

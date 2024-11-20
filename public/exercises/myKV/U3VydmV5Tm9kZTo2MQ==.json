@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which environmental sphere is mainly meant?",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Description text for case 1 which must now be selected. It should contain a lot of text.",
+                "Description text for case 2 which must now be selected. It should contain a lot of text.",
+                "Description text for case 3 which must now be selected. It should contain a lot of text.",
+                "Description text for case 4 which must now be selected. It should contain a lot of text.",
+                "Description text for case 5 which must now be selected. It should contain a lot of text."
+              ],
+              "type": "matrix",
+              "columns": [
+                "Example text for selection 1",
+                "Example text for selection 2",
+                "Example text for selection 3",
+                "Example text for selection 4",
+                "Example text for selection 5",
+                "Example text for selection 6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

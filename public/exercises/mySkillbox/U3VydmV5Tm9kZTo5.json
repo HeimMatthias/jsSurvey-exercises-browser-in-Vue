@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "name": "Konzentrationstipps",
+      "title": "Concentration tips",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M6-2c_Beispiel_MyrdfZd.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What are your concentration tips?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

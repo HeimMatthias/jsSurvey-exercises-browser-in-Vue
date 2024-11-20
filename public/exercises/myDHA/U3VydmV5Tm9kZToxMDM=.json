@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "The formation of opinion",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"The formation of political opinion\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What do you mean by the word \"opinion\"?",
+              "isRequired": true,
+              "correctAnswer": "An opinion is what someone thinks about something. An opinion is something personal, a matter of opinion.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which groups shape an individual's opinion?",
+              "isRequired": true,
+              "correctAnswer": "Reference groups, face-to-face groups and the family shape an individual's opinion.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why does the family have the strongest influence on an individual's opinion?",
+              "isRequired": true,
+              "correctAnswer": "Because the opinion of family members is often heavily weighted.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the significance of the mass media?",
+              "isRequired": true,
+              "correctAnswer": "The mass media has a strong influence on opinion formation. Many people find out about what is happening in the world through mass media such as radio, newspapers, TV and social media and thus learn about certain points of view.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

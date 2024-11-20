@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "name": "Textbausteine",
+      "title": "Facts of the case ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Your colleague Carla tells you that she ordered a laptop online from the online retailer OHA. Two days after placing the order, OHA contacted her by email and informed her that the device was now 5% more expensive. Is the online retailer allowed to do this?",
+          "elements": [
+            {
+              "name": "Beantworten Sie die Frage mit einem Ja oder Nein; darf der Onlinehändler das?",
+              "type": "radiogroup",
+              "choices": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": "Yes"
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Now arrange the text modules below in the numbering so that the order of the legal steps is correct.",
+              "isRequired": true,
+              "correctAnswer": "Text module 1, text module 4, text module 2, text module 5, text module 3",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M9-3_Textbausteine.png\" />",
+              "name": "Frage 3",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Textbausteine2",
+      "title": "Facts of the case ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Complete the incomplete sentences of the text modules in such a way that they provide a comprehensive legal explanation of your decision. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Prices and other contractual contents published on the Internet are not ... .",
+              "isRequired": true,
+              "correctAnswer": "Prices and other contractual contents published on the Internet are not binding.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "With the ... I as the buyer make the seller (here OHA) a binding offer to buy the laptop for ... as stated in the online store.",
+              "isRequired": true,
+              "correctAnswer": "By placing the order, I as the buyer make the seller (in this case OHA) a binding offer to buy the laptop at the price stated in the online store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "In order for a legally valid contract to be concluded, OHA would have to accept Carla's offer. OHA does not do this! ",
+              "isRequired": true,
+              "correctAnswer": "No supplement necessary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "If OHA proposes a ... price by e-mail, it is submitting a new binding offer to Carla.",
+              "isRequired": true,
+              "correctAnswer": "If OHA proposes a different price by e-mail, it submits a new binding offer to Carla.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "This offer can be made by Carla ... or ... .",
+              "isRequired": true,
+              "correctAnswer": "Carla can accept or decline this offer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question8",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

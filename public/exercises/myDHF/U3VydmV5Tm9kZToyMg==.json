@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Means of payment and payment methods",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What means of payment can be used to fulfill a purchase contract?",
+              "isRequired": true,
+              "correctAnswer": "With cash, book money or money substitutes.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you mean by cash replacement?",
+              "isRequired": true,
+              "correctAnswer": "Checks and vouchers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How can I make a partial cash payment?",
+              "isRequired": true,
+              "correctAnswer": "If only one of the two business partners has an account with the post office or a bank, either the debtor pays cash into the creditor's account at the post office or bank counter or the debtor transfers the amount owed from his account, which is paid to the creditor in cash.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Means of payment and payment methods",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Name the payment method described in each case.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Zoé Dietiker, debtor, pays with cash that the creditor receives.",
+              "isRequired": true,
+              "correctAnswer": "Cash payment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Ignaz Brada deposits cash as a debtor at the post office counter for crediting to the creditor's postal account.",
+              "isRequired": true,
+              "correctAnswer": "Partial cash payment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Karim Bucher, debtor, transfers the amount owed from his bank account to a postal account of the creditor.",
+              "isRequired": true,
+              "correctAnswer": "Cashless payment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

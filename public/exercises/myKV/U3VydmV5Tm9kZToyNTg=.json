@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Excel functions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "How many people own a car with air conditioning? How did you get Excel to show you the correct number of people?",
+              "isRequired": true,
+              "correctAnswer": "Select column I, \"Find and select\" command, \"Replace\" tab, search for \"Yes\", replace with \"Yes\", \"Replace all\" button, Excel displays (and executes) the number of replacements. There are 14 people.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "You are looking for the data record of Mr. Rothen or Mr. Roten. What is this customer's first name?",
+              "isRequired": true,
+              "correctAnswer": "Remo (line 25)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "You can't remember exactly which street someone lives on - something about Sonnenbühlstrasse. What is the correct address (street, street number)? Also explain how you found this address.",
+              "isRequired": true,
+              "correctAnswer": "Sonnbühlstrasse 11 (line 31). \n \"Search and Select\" command, \"Search\" tab, search for \"Sonnbühlstrasse\", Excel displays the cell name below the search window: $D$31 ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "You are looking for a customer whose surname begins with \"S\". You know that he drives a VW Golf GTI. How did you find this customer? \nTip: Only search for names beginning with \"S\" and display them individually.",
+              "isRequired": true,
+              "correctAnswer": "Select column \"Name\", open search window, search for: S*, with the option \"Compare entire cell content\", display individually. \nSolution: Ruth Stocker (line 29)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

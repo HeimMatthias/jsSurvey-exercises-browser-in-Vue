@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "Rollen",
+      "title": "Rollers",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read and analyze the following situation. Think about Paula's hierarchical position in relation to other people, what expectations are placed on her and how you would divide the respective expectations into can, should and must expectations.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A6_Situation.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Briefly explain your decision (can, should or must expectation?).",
+              "isRequired": true,
+              "correctAnswer": "Possible solution: All work colleagues (other apprentices and trainees) and the boss are hierarchically above Paula anyway. Many of them expect Paula to subordinate herself to the group even in her free time on Friday evenings, according to the motto: \"Car mechanics work and drink 'hard' together\". This expectation corresponds to a target expectation because it is tantamount to a collegial duty that is associated with negative social sanctions (\"comments from colleagues\" and \"she is tolerated\"). The target expectation is exacerbated by the fact that her colleagues and boss are all hierarchically above her.\nThe volleyball colleagues (hierarchically equal) and the coach (hierarchically above Paula in this role) expect her to come to training. This expectation also corresponds to a target expectation because Paula is committed to the ambitious team. One conceivable negative social sanction here is that she is not allowed to play in the championship matches.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Show how the conflict could be resolved in the area of conflicting expectations.",
+              "isRequired": true,
+              "correctAnswer": "Possible solution: Paula reveals her role conflict to her work colleagues and makes it clear to them how important volleyball training is to her. She also asks them to help her find a solution.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

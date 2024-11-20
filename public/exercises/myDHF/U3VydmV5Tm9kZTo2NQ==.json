@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Product labeling",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Is it enough if you only state the detailed price when selling yogurts?",
+              "isRequired": true,
+              "correctAnswer": "No. For measurable goods, you must also specify the base price.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Are you allowed to price an item of clothing at CHF 100 and then charge VAT on top when you collect it?",
+              "isRequired": true,
+              "correctAnswer": "No. All goods and services offered on the sales floor must be marked with the final price, i.e. including VAT.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Is it permissible to display the price of a bar of chocolate only on the shelf?",
+              "isRequired": true,
+              "correctAnswer": "Yes, detailed prices must be written on the goods themselves or immediately next to them (e.g. on the shelf).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

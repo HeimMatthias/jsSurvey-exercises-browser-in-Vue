@@ -1,0 +1,131 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "When do we speak of a simple partnership?",
+              "isRequired": true,
+              "correctAnswer": "If at least two persons join together to achieve a common goal, a common purpose, this is a simple partnership.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the disadvantage of a sole proprietorship?",
+              "isRequired": true,
+              "correctAnswer": "The success of the company depends on the sole responsibility and ability of the owner. Illness and old age usually put the continuation of the company in question. In addition, the limited financial resources and work overload of the owner also place limits on the development of a sole proprietorship.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What needs to be considered when naming a general partnership?",
+              "isRequired": true,
+              "correctAnswer": "The name of a general partnership is freely selectable with the addition of the legal form or its abbreviation \"KlG\".",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "What is a limited partner?",
+              "isRequired": true,
+              "correctAnswer": "The limited partner is a partner in a limited partnership who, unlike the general partner, is only liable up to the limited partnership amount (an amount entered in the commercial register). For them, the focus is on financial\nparticipation.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question25",
+              "type": "comment",
+              "title": "What bodies must a stock corporation have?",
+              "isRequired": true,
+              "correctAnswer": "General Meeting of Shareholders, Board of Directors and auditors",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question26",
+              "type": "comment",
+              "title": "What are the advantages of a public limited company?",
+              "isRequired": true,
+              "correctAnswer": "Facilitated capital procurement, liability limited to the participation, anonymity, succession independent of persons, tradability of bearer shares (shares)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question27",
+              "type": "comment",
+              "title": "How does a GmbH differ from a stock corporation?",
+              "isRequired": true,
+              "correctAnswer": "In contrast to an AG, the shareholders must have their names entered in the commercial register. The minimum capital of a GmbH (called share capital) is only CHF 20,000, whereas a minimum share capital of CHF 100,000 is required to form an AG. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "What is the purpose of a cooperative in general?",
+              "isRequired": true,
+              "correctAnswer": "The purpose of a cooperative is not primarily to make a profit, but to provide benefits for the members of the cooperative.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question19",
+              "type": "comment",
+              "title": "Which legal form do you choose if you want to limit the risk of your personal loss?",
+              "isRequired": true,
+              "correctAnswer": "You choose a public limited company.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question20",
+              "type": "comment",
+              "title": "Which legal form do you choose if you want to bear the sole risk?",
+              "isRequired": true,
+              "correctAnswer": "You choose a sole proprietorship.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

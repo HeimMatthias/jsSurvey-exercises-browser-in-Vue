@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Determine verbs",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Write down all the verbs in the following proverbs and sayings and identify the verbs more precisely: full verb, auxiliary verb, modal verb.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What someone cannot tolerate in themselves also bothers them in others.",
+              "isRequired": true,
+              "correctAnswer": "ertragen = full verb, kann = modal verb, stört = full verb",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "If you want to reach your destination quickly, then you should walk slowly.",
+              "isRequired": true,
+              "correctAnswer": "come = full verb, want = modal verb, should = modal verb, go = full verb",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Pleasing everyone is an art that nobody can do.",
+              "isRequired": true,
+              "correctAnswer": "recht getan/recht tun = full verb, ist = full verb, kann = full verb",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Determine verbs",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Write down all the verbs in the following proverbs and sayings and identify the verbs more precisely: full verb, auxiliary verb, modal verb.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Whoever says A must also say B.",
+              "isRequired": true,
+              "correctAnswer": "says = full verb, must = modal verb, say = full verb ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Anyone who has lied once is not believed when they speak the truth.",
+              "isRequired": true,
+              "correctAnswer": "lied = full verb, has = auxiliary verb, believes = full verb, speaks = full verb",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

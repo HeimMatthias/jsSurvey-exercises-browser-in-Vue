@@ -1,0 +1,118 @@
+{
+  "pages": [
+    {
+      "name": "Bundesstaat Schweiz1",
+      "title": "Federal State of Switzerland",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "In the following exercise, determine which assessment criterion is used in each case.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The federal government should regulate which cantons take in how many refugees according to their size. It would be unfair if some cantons had to take in proportionately more refugees than others.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Equality or justice through equality",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Curricula should be prescribed by the federal government. It costs a lot of money if each canton has to produce its own teaching materials.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic efficiency (cost-benefit ratio)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Free leisure activities should be organized at municipal level in order to meet the specific needs of towns, villages and neighbourhoods.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bundesstaat Schweiz2",
+      "title": "Federal State of Switzerland",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In the following exercise, determine which assessment criterion is used in each case.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "The road network should be financed at federal level because it would be impossible for smaller cantons to pay for their own roads. This would result in smaller cantons having a worse road network than larger ones.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Equality or justice through equality",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Cantons should be allowed to determine the level of social benefits themselves because the cost of living varies from region to region.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Scholarships for pupils and students should be awarded according to the same criteria throughout Switzerland so that no one is disadvantaged because of their place of residence.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Equality or justice through equality",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

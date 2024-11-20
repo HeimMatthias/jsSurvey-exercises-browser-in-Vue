@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Cash loan",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "Any person with legal capacity can apply for a cash loan from a bank.",
+                "A cash loan between friends does not require a written contract.",
+                "A bank loan may bear interest of up to 12% per year.",
+                "A bank cash loan requires no collateral, but a credit check.",
+                "A bank loan must be used for a specific purpose.",
+                "The contract application is checked: Debt enforcement office, information office for consumer credit."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about cash credit (small loan, consumer credit) correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Ein Bankbarkredit darf bis zu 12% im Jahr verzinst werden.": "Correct",
+                "Ein Bankbarkredit muss für einen bestimmten Zweck gebraucht werden.": "Wrong",
+                "Ein Barkredit unter Freunden erfordert keinen schriftlichen Vertrag.": "Correct",
+                "Ein Bankbarkredit erfordert keine Sicherheiten, aber eine Bonitätsprüfung.": "Correct",
+                "Jede handlungsfähige Person kann bei einer Bank einen Barkredit beantragen.": "Correct",
+                "Der Vertragsantrag wird kontrolliert: Betreibungsamt, Infostelle für Konsumkredit.": "Correct"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Customer credit",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "With customer credit, customers receive cash from the retailer at an interest rate of up to 15%.",
+                "The creditor suffers a loss of interest because the money is not in the bank.",
+                "The retailer hopes that this will increase sales.",
+                "The retailer sells against a monthly invoice, for example.",
+                "The retailer bears no risk as he has already paid the supplier for the goods.",
+                "Paying off with retention of title also belongs to this category of loans."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about customer credit correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Der Detailhändler erhofft sich damit einen Mehrumsatz.": "Correct",
+                "Der Detailhändler verkauft dabei z.B. gegen Monatsrechnung.": "Correct",
+                "Das Abzahlen mit Eigentumsvorbehalt gehört auch unter diese Kategorie Kredite.": "Correct",
+                "Der Gläubiger erleidet einen Zinsverlust, da das Geld nicht auf der Bank liegt.": "Correct",
+                "Der Detailhändler trägt kein Risiko, er hat die Ware beim Lieferanten schon bezahlt.": "Wrong",
+                "Beim Kundenkredit erhält die Kundschaft vom Detailhändler Bargeld zu einem Zins bis 15%.": "Wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

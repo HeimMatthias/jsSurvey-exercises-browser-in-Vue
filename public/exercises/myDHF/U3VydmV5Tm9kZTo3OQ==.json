@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page4",
+      "title": "Case study",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Kavin and Dorothea have been married for twelve years and have three children aged between five and eleven. Now they have grown apart and both want a divorce. A friend has told them that they need to file for divorce.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Is that true?",
+              "isRequired": true,
+              "correctAnswer": "No, they can also jointly apply to the court for a divorce. They submit an agreement (convention) to the court.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What consequences of the divorce do Kavin and Dorothea have to settle in the divorce agreement? Which consequences of the divorce do they not have to settle?",
+              "isRequired": true,
+              "correctAnswer": "The divorce agreement must regulate: custody, maintenance contributions, division of assets and jointly saved pension contributions (AHV, occupational benefits, etc.). However, the following does not need to be regulated: the future place of residence.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What happens if Kavin and Dorothea only agree on some of the consequences of the divorce? Do they then have to file a lawsuit?",
+              "isRequired": true,
+              "correctAnswer": "No, in the case of disputed points, the spouses can still jointly request a divorce and declare that the consequences of the divorce on which they disagree should be assessed by the court.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the legal situation if Kavin and Dorothea have been living apart for some time, but still live in the same home and only Dorothea wants a divorce? Can Dorothea go ahead with the divorce against Kavin's wishes?",
+              "isRequired": true,
+              "correctAnswer": "Yes, she must file for divorce with the court. After the separation, Kavin can prevent the divorce for a maximum of two years.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

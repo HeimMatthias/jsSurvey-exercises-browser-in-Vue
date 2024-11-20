@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Souhaits des clients",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Certains souhaits des clients sont listés ci-après. Classez les concepts en fonction des différents besoins de la pyramide des besoins de Maslow.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Économiser",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins de sécurité",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Exclusivité",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins individuels",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Articles pour les fans d'un club de football",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins sociaux",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Accessibility",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins sociaux",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Souhaits des clients",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Certains souhaits des clients sont listés ci-après. Classez les concepts en fonction des différents besoins de la pyramide des besoins de Maslow.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Return or exchange",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins de sécurité",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Envoi neutre pour le climat",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accomplissement de soi",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Production respectueuse du climat",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accomplissement de soi",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Boire de l'eau",
+              "choices": [
+                "Accomplissement de soi",
+                "Besoins individuels",
+                "Besoins sociaux",
+                "Besoins de sécurité",
+                "Besoins physiologiques"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Besoins physiologiques",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

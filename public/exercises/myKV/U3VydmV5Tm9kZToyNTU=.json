@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What are the three different types of interview?",
+              "isRequired": true,
+              "correctAnswer": "Interview on the matter, on the opinion, on the person",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What does the quality of an interview depend on?",
+              "isRequired": true,
+              "correctAnswer": "of the questions asked",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is meant by the term \"authorization\" in the context of an interview?",
+              "isRequired": true,
+              "correctAnswer": "approving the text",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What should I pay particular attention to when transcribing interviews conducted in dialect?",
+              "isRequired": true,
+              "correctAnswer": "on the correct conversion into the standard language",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the three phases of an oral interview?",
+              "isRequired": true,
+              "correctAnswer": "Preparation, conducting the interview, processing",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How should the written interview text be structured?",
+              "isRequired": true,
+              "correctAnswer": "Title, introduction, questions and answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How can questions and answers be formally distinguished from each other? Name three possibilities.",
+              "isRequired": true,
+              "correctAnswer": "bold, italic, colored, by indentation, font type, font size",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

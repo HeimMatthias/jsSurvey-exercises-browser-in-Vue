@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What is this type of organization called?",
+              "isRequired": true,
+              "correctAnswer": "Staff-line organization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Which staff units can you recognize?",
+              "isRequired": true,
+              "correctAnswer": "Occupational Safety, Accounting, Controlling, Data Coordinator, IT Coordinator, Specialist Center Coordinator, Infrastructure, Human Resources/Pension, PR Coordinator, QM Coordinator, Property Insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How are the departments organized?",
+              "isRequired": true,
+              "correctAnswer": "They are organized as profit centers and within the profit centers according to branches (geographically).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why do you think this organization was chosen?",
+              "isRequired": true,
+              "correctAnswer": "The branches are not very large (1 to 2 employees) and are geographically separated. However, they all perform the same tasks. The profit center organization makes employees more responsible. They have to keep an eye on sales and costs and compete with the other profit centers. The aim of this organization is to ensure that employees are flexible and motivated, as there is a direct relationship between work and earnings.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What special feature can you recognize?",
+              "isRequired": true,
+              "correctAnswer": "Some employees hold several offices at the same time. M. Walker, for example, is both Chairman of the Executive Board and holder of the \"IT Coordinator\" and \"Specialist Center Coordinator\" staff positions. T. Wey, H. Stalder and others also hold several functions.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What difficulties can arise from this special feature?",
+              "isRequired": true,
+              "correctAnswer": "This makes it difficult to distinguish between the individual positions. It is unclear when and in which function one and the same person is authorized to issue instructions. In which cases, for example, may they have access to internal information and when not? In addition, the persons concerned have multiple responsibilities.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

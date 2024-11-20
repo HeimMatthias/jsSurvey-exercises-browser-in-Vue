@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "Entwicklungen",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "What does self-marketing involve?",
+              "isRequired": true,
+              "correctAnswer": "All activities to build the most positive personal image possible",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the aim of self-marketing?",
+              "isRequired": true,
+              "correctAnswer": "Building a sustainable positive image",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Why is the first impression crucial?",
+              "isRequired": true,
+              "correctAnswer": "Because people form judgments very quickly.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What attitude underlies the offensive self-portrayal?",
+              "isRequired": true,
+              "correctAnswer": "I can do that. That's what I do.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the risk of an offensive self-presentation?",
+              "isRequired": true,
+              "correctAnswer": "The person may appear overbearing or arrogant.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "What is the risk of a defensive self-presentation?",
+              "isRequired": true,
+              "correctAnswer": "The person may appear passive, insecure and less competent.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What is the biggest difference between self-marketing on the Internet and analog forms of self-presentation?",
+              "isRequired": true,
+              "correctAnswer": "An Internet presence makes me visible to a broad public and leaves a digital footprint.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

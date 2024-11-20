@@ -1,0 +1,235 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "The return protocol is irrelevant for the acceptance protocol.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Explanation:",
+              "correctAnswer": "A comparison with the return log helps to identify defects that you do not discover yourself. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?2",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The landlord and the new tenant should check the state of cleaning when they take over the apartment.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explanation:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?3",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The careful listing of all defects in the entry protocol helps the new tenant and not the landlord.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Explanation:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?4",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "If a new tenant discovers a defect a few days after signing the tenancy agreement, then the new tenant is out of luck. She is liable for this defect.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Explanation:",
+              "correctAnswer": "She has a few days to notify the landlord of any defects that she obviously did not cause.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?5",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The lifetime table plays a role above all in the return of the apartment.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Explanation:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?6",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "The service life table shows the service life of various furnishings in the home. ",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Explanation:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Richtig oder falsch?7",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Do the statements in the following exercise on taking over or handing over an apartment apply? Mark the correct answer in each case. If a statement is incorrect, explain what is wrong with it.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "The longer the remaining life of an item of furniture, the less you will have to pay for it as a tenant if you have damaged it. ",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Explanation:",
+              "correctAnswer": "The shorter the remaining service life of an item of furniture ...",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

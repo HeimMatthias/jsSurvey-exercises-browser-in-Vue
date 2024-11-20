@@ -1,0 +1,295 @@
+{
+  "pages": [
+    {
+      "name": "Nominalisierung1",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "Ergänzen Sie die fehlenden Wörter. Benutzen Sie pro Aufgabe denselben Wortstamm.",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "Add a verb and a noun with an article to the adjective \"schön\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung2",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Add an adjective and a noun with an article to the verb \"nutzen\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung3",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "Add an adjective and a verb to the noun \"the damage\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung4",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question22",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question26",
+              "type": "text",
+              "title": "Add an adjective and a noun with an article to the verb \"erhalten\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung5",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question32",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question37",
+              "type": "text",
+              "title": "Add an adjective and a noun with an article to the verb \"zerbrechen\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung6",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question42",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question48",
+              "type": "text",
+              "title": "Add a verb and a noun with an article to the adjective \"sick\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung7",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question52",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question59",
+              "type": "text",
+              "title": "Add an adjective and a verb to the noun \"the will\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung8",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question62",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question70",
+              "type": "text",
+              "title": "Add a verb and a noun with an article to the adjective \"exciting\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung9",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question72",
+              "type": "text",
+              "title": "Example",
+              "readOnly": true,
+              "isRequired": true,
+              "placeHolder": "Adjektiv: gross; Verb: vergrössern; Nomen mit Artikel: die Grösse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question81",
+              "type": "text",
+              "title": "Add an adjective and a verb to the noun \"der Geiz\".",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nominalisierung10",
+      "title": "Nominalization",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Fill in the missing words. Use the same root word for each task.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Nominalize three verbs and three adjectives from your list and build sentences from them.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

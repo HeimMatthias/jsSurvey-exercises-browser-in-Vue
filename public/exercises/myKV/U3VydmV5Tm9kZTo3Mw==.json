@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "What are language rules for? ",
+              "isRequired": true,
+              "correctAnswer": "to a functioning communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are the three areas of the German regulations?",
+              "isRequired": true,
+              "correctAnswer": "Grammar, spelling (orthography), punctuation (punctuation)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is considered a guide to the German language rules?",
+              "isRequired": true,
+              "correctAnswer": " Duden",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Which two areas can grammar be divided into?",
+              "isRequired": true,
+              "correctAnswer": "Word grammar and sentence grammar ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "From which two Greek words is the technical term \"orthography\" derived?",
+              "isRequired": true,
+              "correctAnswer": "from orthós (correct) and gráphein (to write)  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What is the purpose of correct punctuation?",
+              "isRequired": true,
+              "correctAnswer": "for structuring the text and thus for better understanding",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which two areas can punctuation be divided into?",
+              "isRequired": true,
+              "correctAnswer": "Punctuation marks and auxiliary characters",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Why shouldn't you rely on correction programs for punctuation?",
+              "isRequired": true,
+              "correctAnswer": "Correction programs are often unable to recognize sentence structures. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

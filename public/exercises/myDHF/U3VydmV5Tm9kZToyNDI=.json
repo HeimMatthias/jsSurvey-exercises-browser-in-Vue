@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Basic services",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "What are the basic benefits of health insurance?",
+              "choices": [
+                "Dental treatment costs and disability pension",
+                "Medical and drug costs",
+                "Sickness and hospital daily allowance",
+                "Hospitalization semi-private or private"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Sickness and hospital daily allowance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

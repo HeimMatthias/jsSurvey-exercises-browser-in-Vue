@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Course participation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions in the results line:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) How many people have registered for the web publishing course?",
+              "correctAnswer": "11"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "b) How many people have registered for the photo editing course?",
+              "correctAnswer": "12"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "c) How many people come from Lucerne?",
+              "correctAnswer": "12"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "d) How many people will start the course on 18.02.20xx?",
+              "correctAnswer": "12"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "e) How much does the course provider earn from the web publishing course?",
+              "correctAnswer": "CHF 8250.00"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "f) How much does the course provider earn on average from the women who attend a course?",
+              "correctAnswer": "CHF 5345.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

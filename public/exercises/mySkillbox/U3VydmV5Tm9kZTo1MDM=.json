@@ -1,0 +1,156 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Describe properties",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Specify the following adjectives by paraphrasing them. ",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Example: conscientious",
+              "readOnly": true,
+              "defaultValue": "pünktlich sein, ordentlich und sauber arbeiten, Aufträge fristgerecht ausführen, Termine einhalten.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Team player",
+              "isRequired": true,
+              "correctAnswer": "Being able to work together with others, contributing your own ideas, occasionally taking a step back, listening to others.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Flexible",
+              "isRequired": true,
+              "correctAnswer": "Being able to interrupt work when something important comes up, being able to work different hours, reacting openly to changes/unforeseen events.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "resilient",
+              "isRequired": true,
+              "correctAnswer": "Being physically robust, being able to cope with a heavy workload, being able to withstand mental stress.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Describe properties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Specify the following adjectives by paraphrasing them. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "communicative",
+              "isRequired": true,
+              "correctAnswer": "Being able to talk and exchange ideas with other people/customers, being open-minded, being able to sell a project.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "creative",
+              "isRequired": true,
+              "correctAnswer": "Having lots of ideas, being artistically talented, having a sense of aesthetics, finding unconventional solutions.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "open",
+              "isRequired": true,
+              "correctAnswer": "Sociable and outgoing, enthusiastic, willing to engage with new ideas/projects. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "curious",
+              "isRequired": true,
+              "correctAnswer": "Asking questions, wanting to know how things work, reacting openly to new things, wanting to develop further.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Describe properties",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Specify the following adjectives by paraphrasing them. ",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "organized",
+              "isRequired": true,
+              "correctAnswer": "Be able to organize your time, plan appointments and processes in such a way that you make the best use of your working time and do the most important things first.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "capable of conflict",
+              "isRequired": true,
+              "correctAnswer": "Be able to deal with disputes constructively, address problems, defuse situations.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "motivated",
+              "isRequired": true,
+              "correctAnswer": "Show initiative, take on tasks voluntarily, inspire/encourage others, contribute suggestions/your own ideas.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "independent",
+              "isRequired": true,
+              "correctAnswer": "Being able to organize yourself, solve problems yourself, know where to go for help.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1"
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "Vorteile1",
+      "title": "Advantages",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "In a plenary session, summarize the advantages of the following two options.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Advantages of variant 1:",
+              "isRequired": true,
+              "correctAnswer": "1. individual operators can adapt their offer, opening hours, etc. to local needs.\n2. Other stores can benefit from good or successful ideas.\n3. Those who can make their own decisions are more likely to identify with their work and are more motivated to do so.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Advantages of variant 2:",
+              "isRequired": true,
+              "correctAnswer": "1. whoever visits your restaurant, no matter where, can be sure that he/she will find the same offer everywhere, in the same quality, at the same opening hours, ... ... everywhere.\n2. Cost savings through standardized solutions (purchasing, personnel, planning, ...).\n3. Staff have the same working conditions in every store (equality & fairness).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vorteile2",
+      "title": "Advantages",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Justify which business option you would personally choose by weighing up the advantages: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

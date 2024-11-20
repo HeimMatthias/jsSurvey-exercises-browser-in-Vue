@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Treibhauseffekt",
+      "title": "Greenhouse effect",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which statements are correct? Put a cross in the box.",
+              "choices": [
+                "The greenhouse effect is a natural phenomenon. Without the greenhouse effect, life would not be possible as temperatures would be too low.",
+                "The greenhouse effect is intensified by human activities. Today we are speculating about the consequences of this increased greenhouse effect.",
+                "The consequences of the increased greenhouse effect can be accurately predicted. It is therefore possible to take rapid and targeted protective measures against the effects of climate change."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "The greenhouse effect is a natural phenomenon. Without the greenhouse effect, life would not be possible as temperatures would be too low.",
+                "The greenhouse effect is intensified by human activities. Today we are speculating about the consequences of this increased greenhouse effect."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

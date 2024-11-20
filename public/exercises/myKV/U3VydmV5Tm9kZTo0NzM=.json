@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Among the affirmations below, which are true and which are false? Si elles sont fausses, corrigez les affirmations.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Development of offers: When a company develops an offer for clients and potential clients, it must not necessarily ensure that it takes into account all of the client's needs and requirements.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Development of offers: When a company prepares an offer for clients and potential clients, it must ensure that it takes into account all of the client's needs and requirements. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Among the affirmations below, which are true and which are false? Si elles sont fausses, corrigez les affirmations.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Conduit d'entretiens : The techniques for conducting effective meetings must be practiced and, above all, used regularly.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "vrai"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Among the affirmations below, which are true and which are false? Si elles sont fausses, corrigez les affirmations.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "First of all, it is important to understand the needs and their relationships. This aspect is part of the topic \"Clarifying the budget and the calendar\".",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "This aspect is part of the preliminary meeting, i.e. the first contact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Among the affirmations below, which are true and which are false? Si elles sont fausses, corrigez les affirmations.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The identification of current difficulties is not a primary part of the analysis of needs and should be entrusted to the client.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Focusing on the specific difficulties that could derail the normal course of business is essential for analyzing the needs. The difficulties identified must be documented with precision in order to create a clear basis for possible solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

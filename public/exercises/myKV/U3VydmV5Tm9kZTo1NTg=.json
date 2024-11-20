@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Summer snow",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is this text about? Discuss in pairs.",
+              "correctAnswer": "The short story deals with joy and heartache, expectation and disappointment and shows how quickly life can change."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Write a summary.",
+              "correctAnswer": "Sommerschnee"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How is the woman, the protagonist, feeling at the beginning of the text? Support your statements with relevant passages from the text.",
+              "correctAnswer": "At the beginning of the text, the woman in \"Sommerschnee\" by Tanja Zimmermann is very happy and carefree. She seems to be unperturbed by anything and perceives the world around her with a positive attitude. Here are a few passages that support these statements:\n1. \"I don't care about anything, I feel good.\" (line 3) - This shows her carefree attitude and general well-being.\n2. \"The rain doesn't bother me, my boots are soaked, the train isn't coming.\" (line 3) - Despite adverse circumstances, she remains positive.\n3. \"A Mercedes pulls up next to me: 'Angel, I'll drive you home. I'm not afraid, I just sit next to an old woman, I feel safe, nothing can happen to me!\" (lines 4-6) - She shows confidence and feels safe in her surroundings.\n4. \"When I get off, everyone pushes each other, I let myself drift, I'm happy, I only think of you!\" (lines 11-12) - She is happy, seems in love and keeps thinking about the person she loves, probably her new boyfriend, which further reinforces her positive mood. \nThese passages show that the woman is happy, carefree and positive at the beginning of the text. She is not fazed by anything and is full of anticipation about meeting him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Summer snow",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "When and why do their feelings change? Support your statements with relevant passages from the text.",
+              "correctAnswer": "The feelings of the woman in \"Summer Snow\" change abruptly when she finds a message from the person she was on her way to see. The message reveals that this person has met her ex-girlfriend again. This shock leads to a drastic change in her feelings from joy and excitement to disappointment and confusion. Here are some passages that support these statements:\n1. \"Only then do I notice the little folded note on the wall. Yes, you're sorry, really sorry that you met Vera again: I'm supposed to be fine.\" ( lines 34-36) - This is the moment when she finds the note and her feelings change.\n2. \"The burning cigarette leaves wounds on my hand.\" (lines 36-37) - This shows her physical pain, which reflects her emotional pain.\n3. \"The rattling of passing trucks, the shouting of children, the barking of dogs and the loud radio from across the street blur into an unnerving, frightening uniform noise, my eyes only perceive the roughest outlines.\" (lines 37-39) - She is now in a state of confusion and fear, which shows her changed feelings.\n4. \"Like an old woman, I walk the endlessly long way to the bus stop, my feet are wet and cold in soaked boots.\" (lines 40-41) - She feels old and exhausted, which further illustrates her changed feelings.\nThese passages show that the change in her feelings is triggered by the discovery of the news and how profound this change is. She goes from a state of joy and excitement to one of disappointment, confusion and fear."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How does the protagonist experience her surroundings and other people? Point out contradictory passages in the text.",
+              "correctAnswer": "The protagonist in \"Sommerschnee\" experiences her surroundings and the people around her in different ways, depending on her emotional state. Here are some contrasting passages in the text:\n1. At the beginning of the text, she has a positive perception of her surroundings and feels accepted and safe by the people around her. For example:\n \"A Mercedes pulls up next to me: 'Angel, I'll drive you home. I'm not afraid, I just sit next to an old woman, I feel safe, nothing can happen to me!\" (lines 4-6) - She feels safe and accepted.\n \"At the traffic lights, I realize that I'm singing too loudly. A mother with a baby carriage laughs at me, a dolled-up blonde looks me up and down.\" (lines 14-15) - She is aware that she stands out, but it doesn't bother her.\n2. After reading the message, her perception changes drastically. She feels lost and frightened, and the people and environment around her seem hostile and threatening. For example:\n \"A bald man whistles after me, offering me his room and himself.\" (lines 41-42) - She feels threatened and uncomfortable.\n \"Intimidated, I stand in the corner next to the timetable, my face reflected in the window.\" (lines 44-45) - She feels frightened and insecure in her surroundings.\nThese contrasting passages in the text show how strongly the protagonist's emotions influence her perception of her surroundings and the people around her. They emphasize the intensity of her feelings and the profound impact the news has on her."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Explain the title in your own words. Why was it chosen?",
+              "correctAnswer": "Suggested solution: The title \"Summer Snow\" seems strange at first glance, as snow is usually associated with winter and not summer. However, this could be a metaphor for the unexpected and shocking twist in the story, similar to the unexpected sight of snow in summer. \nThe protagonist starts the day full of joy and excitement, much like a sunny summer day. But then she finds the news that abruptly turns her joy into disappointment and sadness - much like a sudden snowfall on a summer day. \nThe title could therefore symbolize the unexpected twist in the story and the resulting mixed feelings of the protagonist. It is a powerful metaphor that represents the surprising and heartbreaking change in her life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

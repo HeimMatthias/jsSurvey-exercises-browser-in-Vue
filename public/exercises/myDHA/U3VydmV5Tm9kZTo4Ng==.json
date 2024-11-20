@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Living together",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Living together\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What forms of cohabitation are there?",
+              "isRequired": true,
+              "correctAnswer": "Possible forms of cohabitation are marriage, single-parent families, registered partnerships, cohabitation, rainbow families, patchwork families or shared flats.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the main problem with cohabitation compared to marriage?",
+              "isRequired": true,
+              "correctAnswer": "The main problem is the fact that cohabitation is not regulated by law. This gives rise to numerous legal uncertainties that can only be partially regulated by contract.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What aspects of living in a shared flat should you regulate in writing?",
+              "isRequired": true,
+              "correctAnswer": "An inventory list should be drawn up in which it is noted who owns what. This should be signed by all flatmates and updated regularly. The costs incurred (e.g. rent, maintenance, insurance, fees, food and cleaning materials) must be distributed fairly and the use of the shared rooms (e.g. work such as cleaning, length of stay, etc.) must be regulated. It is also advisable to set out the conditions for the dissolution or termination of the shared flat in writing. If possible, the tenancy agreement should be concluded and signed jointly by all parties involved.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

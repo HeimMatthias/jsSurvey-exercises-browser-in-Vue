@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "Anspruchsgruppen1",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Name possible expectations that could be placed on the retail trade by the respective stakeholder group.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Institutions (associations, clubs, NGOs, media, etc.)",
+              "isRequired": true,
+              "correctAnswer": "Public relations, communication relations, sponsoring contributions, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "State",
+              "isRequired": true,
+              "correctAnswer": "Compliance with regulations and laws, paying taxes, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Competition",
+              "isRequired": true,
+              "correctAnswer": "Fair competition, no violations of the UWG, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Investors",
+              "isRequired": true,
+              "correctAnswer": "Good return on equity (profitability) or appropriate interest rate",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anspruchsgruppen2",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Name possible expectations that could be placed on the retail trade by the respective stakeholder group.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Suppliers",
+              "isRequired": true,
+              "correctAnswer": "Long-lasting relationships, fast payment, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Employees",
+              "isRequired": true,
+              "correctAnswer": "Reasonable salary, secure job, fair working conditions, training opportunities, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Customers",
+              "isRequired": true,
+              "correctAnswer": "Finding the desired products, appropriate price-performance ratio, store opening hours, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

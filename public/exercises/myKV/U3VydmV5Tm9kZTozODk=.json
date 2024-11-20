@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Basic concepts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "There are six key basic terms that are of central importance in project management and form the basis for the successful planning, implementation and monitoring of projects. Describe the following terms.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Project",
+              "correctAnswer": "A project is a time-limited undertaking that is carried out in order to achieve a specific goal. Projects are unique and have clear start and end points. They are usually organized in phases and require resources such as time, money, personnel and materials."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Project objective",
+              "correctAnswer": "The project objective is the desired result or end state that a project should achieve. It should be specific, measurable, accepted, realistic and time-bound (SMART criteria)."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Project plan",
+              "correctAnswer": "A project plan is a structured document that defines the planned activities, resources, schedules and responsibilities for a project. It serves as a guideline for controlling and monitoring the project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Basic concepts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "There are six key basic terms that are of central importance in project management and form the basis for the successful planning, implementation and monitoring of projects. Describe the following terms.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Risk management",
+              "correctAnswer": "Risk management deals with the identification, assessment and management of risks that could jeopardize the successful implementation of a project. The aim is to minimize or control risks."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Stakeholders",
+              "correctAnswer": "Stakeholders are people, groups or organizations that are directly or indirectly affected by a project or have an influence on it. They may have interests, expectations and concerns that need to be taken into account."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Milestone",
+              "correctAnswer": "A milestone is an important point in time or a significant achievement in the course of a project. Milestones are used to monitor progress and ensure that the project stays on schedule."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

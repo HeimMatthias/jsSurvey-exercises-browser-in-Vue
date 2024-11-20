@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Name two characteristics of democracy that would be shaken if freedom of the press were abolished. Give reasons for your answer: ",
+              "isRequired": true,
+              "correctAnswer": "1. co-determination of the population on the basis of a free formation of opinion > the free formation of opinion is no longer possible if journalists are dependent on the government and therefore no balanced and impartial reporting takes place. 2. freedom > As an individual, I no longer have the freedom to disseminate my opinion via any medium. 3. separation of powers > Because the media, as the fourth estate, can no longer control the state.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name at least three measures in the area of the media that a head of state could take to gradually increase his or her power:",
+              "isRequired": true,
+              "correctAnswer": "Control or nationalize the media; abolish or restrict freedom of the press through laws (censorship); spread their own propaganda; prevent journalists from doing their work through violence, kidnapping or persecution.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "In a state of emergency (such as the coronavirus crisis), the Federal Council may take decisions without the consent of Parliament and the cantons, as well as restrict the personal freedoms of the population. Explain why it is particularly important for the media to perform their duties in such an extraordinary situation.",
+              "isRequired": true,
+              "correctAnswer": "If a government is suddenly given much more power, the cornerstones of democracy are at risk because this power could be abused. It is therefore important that the media monitor the government, expose any abuses, but also keep the population well informed so that people can understand the background to the state of emergency and assess whether the government measures (curfew, closure of stores, ban on gatherings, etc.) are justified and proportionate. The media should also monitor whether the government is relinquishing its powers and whether democratic conditions are being restored.\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Democracy versus dictatorship",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "If a democratically elected government wants to extend its power unduly, it might try to take various undemocratic measures. Note down two such measures. Use the characteristics of a dictatorship for this. ",
+              "isRequired": true,
+              "correctAnswer": "Sham elections; spreading falsehoods; measures to dismantle democracy; arbitrary legal decisions; abuse of power by the police or secret service; discrimination against minorities, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

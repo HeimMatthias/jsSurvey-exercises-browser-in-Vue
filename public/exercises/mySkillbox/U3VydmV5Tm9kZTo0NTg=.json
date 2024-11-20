@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "name": "Wohnungsfaktoren1",
+      "title": "Housing factors",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Complete the following statements:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The lowest rents can be found in the canton of ... ",
+              "isRequired": true,
+              "correctAnswer": "The lowest rents can be found in the canton of Jura.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The highest rents can be found in the cantons of ... and ... ",
+              "isRequired": true,
+              "correctAnswer": "The highest rents can be found in the cantons of Geneva and Zug.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "In my canton, rents are comparatively (select the appropriate description: low/medium/high):",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "The following rule therefore applies: the ... the location of the apartment, the higher the rental price. This applies to entire ..., but also to municipalities and ... as well as to very specific locations (busy road, beautiful view, sunlight, etc.).",
+              "isRequired": true,
+              "correctAnswer": "The following rule therefore applies: the more attractive the location of the apartment, the higher the rental price. This applies to entire cantons, but also to municipalities and neighborhoods as well as to very specific locations (busy road, beautiful view, sunlight, etc.).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Housing factors",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Based on the size of your researched favorite apartment, calculate how expensive it would be if it were rented out at the average rental price in your canton.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Compare the result with the rental price stated in the advertisement. If the price is below or above the average cantonal price, write down at least one price-determining factor that explains this. Discuss several examples in class. ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

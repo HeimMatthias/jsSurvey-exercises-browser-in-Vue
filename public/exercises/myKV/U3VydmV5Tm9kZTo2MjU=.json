@@ -1,0 +1,271 @@
+{
+  "pages": [
+    {
+      "name": "Wie verändern sich Angebot und Nachfrage?",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "A highly contagious virus is spreading throughout Europe, including Switzerland. Numerous tourists from Asia are canceling their trips for fear of infection. What impact is this having on the hotel accommodation market? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the demand - left"
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Falling: Demand for hotel accommodation is falling and supply remains the same."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Thanks to special feed, cows produce twice as much milk as in previous years. What impact does this have on the milk market? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the offer - right"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Sinks: The supply of milk increases, but demand remains the same. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "You are the owner of a gelateria. But this July it's raining cats and dogs at a cool 15 degrees Celsius. What impact is this having on the ice cream market? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the demand - left"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Sinks: The need to buy ice cream when it's 15 degrees Celsius and raining is low. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "A highly contagious virus is spreading throughout Europe, including Switzerland. To contain the spread, many companies are switching to working from home. What impact is this having on the market for office furniture for private individuals? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the demand - right"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "On the rise: Demand for office furniture such as office chairs or desks is outstripping supply. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "In Switzerland, late frost causes the grapes on many vines to freeze. What impact does this have on the wine market? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the offer - left"
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Rising: The supply of wine is lower than the demand. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "War breaks out between Egypt and Israel. The Suez Canal is no longer navigable for ships, including oil tankers. What impact does this have on the oil market? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the offer - left"
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Rising: The demand for crude oil (in Europe) exceeds the now smaller supply. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "A highly contagious virus is spreading throughout Europe, including Switzerland. To contain the spread, the Federal Council recommends staying at home. Many people are therefore no longer going to work. What impact is this having on the market for goods and services produced in Switzerland? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the offer - left"
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Increases: Demand for goods and services remains the same, but less is produced. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "How are supply and demand changing?",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "For the statement below, assess whether and how the demand and supply curves are shifting (to the left or to the right). Briefly describe how the price changes in the respective situation.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "dropdown",
+              "title": "An extremely well-known influencer is promoting organic potatoes from a very small farm in the Emmental. What impact does this have on the market for these organic potatoes from the Emmental? ",
+              "choices": [
+                "the offer - right",
+                "the offer - left",
+                "the demand - right",
+                "the demand - left"
+              ],
+              "placeholder": "Diese Situation hat Einfluss auf … ",
+              "correctAnswer": "the demand - right"
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "the price ",
+              "correctAnswer": "Rising: The influencer's numerous followers want to buy organic potatoes from the Emmental. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

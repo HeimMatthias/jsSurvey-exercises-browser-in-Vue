@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Assign text types to the four text genres",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "\n",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Newsletter ",
+                "Reportage ",
+                "Discussion ",
+                "Letter to the editor ",
+                "Portfolio ",
+                "Sermon ",
+                "Wanted ",
+                "Report ",
+                "Column "
+              ],
+              "type": "matrix",
+              "title": "Assign the following text types to the four text genres \"informative texts\", \"argumentative texts\", \"appellative texts\" and \"documentary texts\". If you do not know a text type, ask the internet or someone in your class for advice.",
+              "columns": [
+                "informative texts",
+                "argumentative texts",
+                "appellative texts",
+                "documentary texts"
+              ],
+              "correctAnswer": {
+                "Gesuch ": "argumentative texts",
+                "Bericht ": "informative texts",
+                "Kolumne ": "argumentative texts",
+                "Predigt ": "appellative texts",
+                "Portfolio ": "documentary texts",
+                "Reportage ": "argumentative texts",
+                "Leserbrief ": "appellative texts",
+                "Newsletter ": "informative texts",
+                "Erörterung ": "argumentative texts"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

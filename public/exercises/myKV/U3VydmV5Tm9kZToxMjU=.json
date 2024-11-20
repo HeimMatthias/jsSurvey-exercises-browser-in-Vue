@@ -1,0 +1,108 @@
+{
+  "pages": [
+    {
+      "name": "Organigramm",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Take a look at your company's organizational chart.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is this type of organization called?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which staff units do you recognize?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How are the departments organized?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How large are the line spans?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How is the company's official channels organized? To what extent do you and your colleagues follow it?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What can you generally glean from an organization chart?",
+              "isRequired": true,
+              "correctAnswer": "Type of structure, formal official channels, management spans, department heads, staff and line positions, number of management levels",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "What can't you tell from an organization chart?",
+              "isRequired": true,
+              "correctAnswer": "Management style of managers, informal official channels, exact number of employees, tasks of individual employees, opening hours and much more.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

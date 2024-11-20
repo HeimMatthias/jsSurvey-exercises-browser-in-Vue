@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "name": "Veränderung des Marktgleichgewichts",
+      "title": "Change in the market equilibrium",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Increase in productivity",
+                "Increase in income",
+                "Higher production costs",
+                "Cheaper raw materials",
+                "Population increase",
+                "Social trends",
+                "Suppliers disappear from the market"
+              ],
+              "type": "matrix",
+              "title": "Which curve is shifted (first) by the following factors: the supply curve or the demand curve?",
+              "columns": [
+                "Supply curve",
+                "Demand curve"
+              ],
+              "correctAnswer": {
+                "Einkommenserhöhung": "Demand curve",
+                "Bevölkerungszunahme": "Demand curve",
+                "Günstigere Rohstoffe": "Supply curve",
+                "Gesellschaftliche Trends": "Demand curve",
+                "Höhere Produktionskosten": "Supply curve",
+                "Steigerung der Produktivität": "Supply curve",
+                "Anbietende verschwinden vom Markt": "Supply curve"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

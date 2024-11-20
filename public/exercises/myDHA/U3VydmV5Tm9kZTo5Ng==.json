@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Social media",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the following terms from the factual text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Social networks",
+              "isRequired": true,
+              "correctAnswer": "Social networks are platforms that allow users to create a personal profile and network with others as well as share content, messages, photos and videos.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Microblogs",
+              "isRequired": true,
+              "correctAnswer": "On microblogs, users can post short text messages or contributions that can be read, commented on and shared by others.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Photo-video sharing",
+              "isRequired": true,
+              "correctAnswer": "Here, users upload photos and videos to a platform that other users can see, comment on and like.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Instant messaging",
+              "isRequired": true,
+              "correctAnswer": "Instant messaging allows users to quickly exchange private messages, photos and videos.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

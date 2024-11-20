@@ -1,0 +1,173 @@
+{
+  "pages": [
+    {
+      "name": "Organigramm 1",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which technical term matches the description? Select from the list.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "management bodies (instances) and executive bodies together.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Line positions ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Graphic representation of the hierarchical structure of a company.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Organizational chart ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which technical term matches the description? Select from the list.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Positions that are superior to other positions and therefore perform management tasks.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Management positions ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Positions that do not have any subordinate positions and therefore do not assume any management tasks.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "executing agencies ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which technical term matches the description? Select from the list.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Units divided into several places, which are formed according to functions, products, customer segments or sales regions.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Departments ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Shows how information must flow from top to bottom and from bottom to top.",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Official channels ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Auxiliary bodies to support and relieve management bodies (instances).",
+              "choices": [
+                "Staff units ",
+                "Management positions ",
+                "Official channels ",
+                "Departments ",
+                "Line positions ",
+                "Organizational chart ",
+                "executing agencies "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Staff units ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

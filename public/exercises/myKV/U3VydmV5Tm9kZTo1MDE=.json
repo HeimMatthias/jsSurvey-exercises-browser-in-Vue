@@ -1,0 +1,138 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the basic knowledge \"Political parties, associations and other interest groups\" carefully and then answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How are the Swiss parties legally organized? ",
+              "correctAnswer": "as associations "
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What goals do parties pursue? Name three. ",
+              "correctAnswer": "occupy political offices, influence opinion-forming, help shape legislation"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Which two opposing values can be distinguished in relation to social policy?",
+              "correctAnswer": "liberal versus conservative"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What are the political values of a party that advocates the expansion of state social benefits? ",
+              "correctAnswer": "left"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Which instrument can be used to visualize trends in the values of parties and individuals?",
+              "correctAnswer": "Smartspider (spider web)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the basic knowledge \"Political parties, associations and other interest groups\" carefully and then answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What are the names of the four Federal Council parties? ",
+              "correctAnswer": "Swiss People's Party (SVP), Social Democratic Party (SP), FDP.The Liberals and Die Mitte"
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What are the names of the two green parties? ",
+              "correctAnswer": "Swiss Green Party (Grüne) and Swiss Green Liberal Party (GLP)"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "How long does a parliamentary term last? ",
+              "correctAnswer": "four years"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Which parties have occupied the top three places in the National Council and the Council of States since 2023 based on their number of seats?",
+              "correctAnswer": "1. SVP/2. SP/3. the center"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What is an umbrella organization? ",
+              "correctAnswer": "Merger of various associations to form a superordinate association"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Read the basic knowledge \"Political parties, associations and other interest groups\" carefully and then answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "What is meant by lobbying? ",
+              "correctAnswer": "Influencing politics in order to assert their own interests"
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "What are the two associations in terms of professional life? ",
+              "correctAnswer": "Employers' and employees' associations"
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Which two associations stand up for consumers?",
+              "correctAnswer": "the Foundation for Consumer Protection (SKS) and the Swiss Consumer Forum (kf)"
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "What distinguishes non-governmental organizations (NGOs) from associations in terms of objectives?",
+              "correctAnswer": "In contrast to associations, NGOs are committed to idealistic, not material goals. Examples: Human rights, environment, health, equality"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

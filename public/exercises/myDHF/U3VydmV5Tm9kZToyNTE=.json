@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Preventive measures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "External security personnel",
+                "Warning signs, warning notices",
+                "Sensible checkout location",
+                "Observation mirror",
+                "Employee training",
+                "Eye contact",
+                "Offer help",
+                "Goods security systems",
+                "Mindfulness of employees"
+              ],
+              "type": "matrix",
+              "title": "Preventive measures can be taken in three areas. Assign the following measures to the appropriate category.",
+              "columns": [
+                "Personnel measures",
+                "Organizational measures",
+                "Psychological measures"
+              ],
+              "correctAnswer": {
+                "Blickkontakt": "Psychological measures",
+                "Hilfe anbieten": "Psychological measures",
+                "Beobachtungsspiegel": "Organizational measures",
+                "Mitarbeiterschulung": "Personnel measures",
+                "Warensicherungssysteme": "Organizational measures",
+                "Sinnvoller Kassenstandort": "Organizational measures",
+                "Warnschilder, Warnhinweise": "Psychological measures",
+                "Externes Sicherheitspersonal": "Personnel measures",
+                "Achtsamkeit der Mitarbeitenden": "Personnel measures"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

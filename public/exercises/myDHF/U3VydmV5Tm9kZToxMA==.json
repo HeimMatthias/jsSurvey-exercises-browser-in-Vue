@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Umweltsphären1",
+      "title": "Environmental spheres",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Help Timo and think about which influences from the individual environmental spheres could be important for the general store.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Social environmental sphere",
+              "isRequired": true,
+              "correctAnswer": "Social and legal changes. Examples: Changes in purchasing behavior, desire for regional, environmentally friendly products, new eating habits, store opening hours, hygiene regulations, legislation on alcohol sales. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Ecological environmental sphere",
+              "isRequired": true,
+              "correctAnswer": "Nature offers the company resources, but is also burdened by the company. Examples: Purchasing from regional producers, short transportation routes, waste disposal (recycling), energy-saving appliances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Technological environmental sphere",
+              "isRequired": true,
+              "correctAnswer": "Technological developments. Examples: new checkout system, possibilities of the Internet, new energy-efficient devices, product developments.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Economic environmental sphere",
+              "isRequired": true,
+              "correctAnswer": "Concerns the general economic conditions. Examples: current economic situation, competitive situation, price trends, economic policy measures.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

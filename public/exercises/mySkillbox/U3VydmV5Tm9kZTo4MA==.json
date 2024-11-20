@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Wenn-Dann-Sätze",
+      "title": "If-then sentences",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the following if-then sentences.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "If the seller makes an offer in the retail trade and the buyer accepts it, then ...",
+              "isRequired": true,
+              "correctAnswer": "... a legally valid contract is concluded.    ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "In online trading, if the seller invites the buyer to make an offer, then ...",
+              "isRequired": true,
+              "correctAnswer": "... his invitation is not binding.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": " When a buyer places an order in an online shop, she ...",
+              "isRequired": true,
+              "correctAnswer": "... the conclusion of the contract is usually certain because the seller almost always accepts.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "In online trading, if the seller sends a purchase or order confirmation by email, then ...",
+              "isRequired": true,
+              "correctAnswer": "... a legally valid contract is concluded. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Intercultural sales situations ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Intercultural sales situations\" (multiple answers possible). \n",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Which of the following statements about multicultural Switzerland are true? ",
+              "choices": [
+                {
+                  "text": "The number of tourists in Switzerland is steadily decreasing.",
+                  "value": "The number of tourists in Switzerland is steadily decreasing. "
+                },
+                "Expats are considered a high-earning population group. ",
+                "Persons in an ongoing asylum procedure are not allowed to work in Switzerland. ",
+                "Switzerland has a high demand for foreign workers and specialists. "
+              ],
+              "correctAnswer": [
+                "Expats are considered a high-earning population group. ",
+                "Persons in an ongoing asylum procedure are not allowed to work in Switzerland. ",
+                "Switzerland has a high demand for foreign workers and specialists. "
+              ]
+            },
+            {
+              "name": "Wie sollten die Verkaufsstrategien im Schweizer Detailhandel gestaltet sein?",
+              "type": "checkbox",
+              "choices": [
+                "They should not allow themselves to be influenced by cultural diversity. ",
+                "They should respond to the needs of a multicultural clientele. ",
+                "They should be versatile and flexible. ",
+                "They should be unchangeable so as not to confuse customers. "
+              ],
+              "correctAnswer": [
+                "They should respond to the needs of a multicultural clientele. ",
+                "They should be versatile and flexible. "
+              ]
+            },
+            {
+              "name": "Welche Aspekte sind in der interkulturellen Verkaufssituation zu berücksichtigen?",
+              "type": "checkbox",
+              "choices": [
+                "The lifestyle and social practices of the clientele. ",
+                "The economic situation in the country of origin. ",
+                "The political attitude of the clientele. ",
+                "Cultural differences and similarities. "
+              ],
+              "correctAnswer": [
+                "The lifestyle and social practices of the clientele. ",
+                "Cultural differences and similarities. "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Intercultural sales situations ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Intercultural sales situations\" (multiple answers possible). \n",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "How should you greet customers who come from a different cultural background? ",
+              "choices": [
+                "In a foreign language. ",
+                "In the local language. ",
+                "With a handshake. ",
+                "With a bow. "
+              ],
+              "correctAnswer": [
+                "In the local language. "
+              ]
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "How should you react if your customers don't understand German? ",
+              "choices": [
+                "Say \"I'm sorry\" and move on to something else. ",
+                "Escort customers to the exit with a friendly smile. ",
+                "Use English or another foreign language. ",
+                "If necessary, involve someone from the team who speaks the customer's language. "
+              ],
+              "correctAnswer": [
+                "Use English or another foreign language. ",
+                "If necessary, involve someone from the team who speaks the customer's language. "
+              ]
+            },
+            {
+              "name": "Welche Kommunikationsmethoden können Sie einsetzen, wenn die verbale Verständigung schwierig ist?",
+              "type": "checkbox",
+              "choices": [
+                "Show products and take/hand them over. ",
+                "Use facial expressions and gestures.",
+                "Use technical aids for the translation. ",
+                "Avoid eye contact. "
+              ],
+              "correctAnswer": [
+                "Show products and take/hand them over. ",
+                "Use facial expressions and gestures.",
+                "Use technical aids for the translation. "
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

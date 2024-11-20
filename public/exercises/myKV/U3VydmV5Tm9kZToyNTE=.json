@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Statements and behavioral situations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Look at the following statements and behavioral situations and then assess which behavior is exemplary and which is inappropriate when dealing with customers and suppliers. Give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "I'm sorry, unfortunately I can't help you any further. Goodbye.",
+              "isRequired": true,
+              "correctAnswer": "Inappropriate behavior. When listening in, the conversation must be discussed with the supervisor. It is inappropriate to dismiss the customer with this statement because it gives the impression that customer service is not trying to help or refer the customer to someone who can help. It is important to treat customers politely and respectfully, even if you cannot help.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "I'll be happy to explain this in more detail and get back to you this afternoon.",
+              "isRequired": true,
+              "correctAnswer": "Exemplary behavior. Not everything has to be answered immediately if you don't have the answer ready. Instead, the answer can be obtained after the conversation and the customer or supplier can be called back.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "No, I've already told you several times that we definitely don't want that.",
+              "isRequired": true,
+              "correctAnswer": "Inappropriate behavior. Even in unpleasant situations, you need to act professionally and make sure you choose your words appropriately. The answer could be formulated more politely and professionally. A possible alternative formulation would be:\n \"I understand that you would like to offer us something, but we are not interested at the moment. Thank you for your offer. If our needs change in the future, we will certainly keep this in mind. Goodbye and thank you for calling.\"",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Statements and behavioral situations",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Look at the following statements and behavioral situations and then assess which behavior is exemplary and which is inappropriate when dealing with customers and suppliers. Give reasons for your decision.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "I have absolutely no idea whether we can help you. Would you like to call again tomorrow? Maybe you'll have better luck then.",
+              "isRequired": true,
+              "correctAnswer": "Inappropriate behavior. The answer could be better formulated by making it more polite and customer-oriented. A possible formulation would be: \"Thank you for your call. I'm not sure if we can help you at the moment. However, I can transfer you to a colleague who may be in a better position to answer your request. If you wish, you can also leave us your contact details so that we can call you back as soon as we have more information.\"",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Just wait a moment. I'll check the calendar to see if Ms. Huber is available tomorrow. If she is, she'll get in touch with you.",
+              "isRequired": true,
+              "correctAnswer": "Exemplary behavior. Customers are offered a solution directly and their concerns are taken seriously.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Vanessa is talking to a customer and her private phone rings at the same time. The customer is put off, but stays on the line. Vanessa starts a long conversation with her friend. ",
+              "isRequired": true,
+              "correctAnswer": "Inappropriate behavior. The conversation with the customer has top priority and leaves no room to deal with other things at the same time or to be distracted. In addition, customers should not be kept waiting without good reason.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

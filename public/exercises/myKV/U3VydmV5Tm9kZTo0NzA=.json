@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which of the following statements are true and which are false? If the statements are false, correct them.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Developing proposals: If a company draws up a proposal for potential customers, it does not necessarily have to ensure that it con-siders all of the customer's needs and requirements.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Developing proposals: If a company draws up a proposal for potential customers, it has to ensure that it considers all of the customer's needs and requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which of the following statements are true and which are false? If the statements are false, correct them.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Conversation: Effective conversational techniques must be learned and, above all, regularly applied. ",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "true"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which of the following statements are true and which are false? If the statements are false, correct them.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "First and foremost, it is important to understand the needs and their interre-lationships. This aspect is part of the topic \"Clarify budget and time frame\"",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "This aspect is part of the preliminary conversation, in other words the initial contact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Needs assessment",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which of the following statements are true and which are false? If the statements are false, correct them.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The identification of current challenges is not central to the needs assessment and should be left to the customer.",
+              "choices": [
+                "true",
+                "false"
+              ],
+              "correctAnswer": "false"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Focusing on concrete difficulties which could impair the normal course of business is central to the needs assessment. Challenges should be documented in detail in order to create a clear foundation for possible solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

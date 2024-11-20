@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Körperliche Schönheit",
+      "title": "Physical beauty",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Name at least seven non-surgical and three surgical options for enhancing physical beauty.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Non-operational options: ",
+              "isRequired": true,
+              "correctAnswer": "Possible solutions: Clothes, shoes, jewelry, tattoos, piercings, support bras, underwear with butt enhancement inserts, make-up, body paint, perfume, cosmetics (ointments, powders, concealers, ....), hair (hairstyle, coloring, hair shine, wig, eyelashes, extensions, hair accessories, shaving, epilating), nails (painting, varnishing, lengthening, sticking), eyes (colored contact lenses, fashionable glasses, pupil enlargement, teeth (keeping clean, straightening, whitening), body shape (muscle building, sports, slimming)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Operative options:",
+              "isRequired": true,
+              "correctAnswer": "Possible solutions: \nLiposuction, breast augmentation with implants, breast reduction, lifting, lip plumping, implants in lips, leg lengthening.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

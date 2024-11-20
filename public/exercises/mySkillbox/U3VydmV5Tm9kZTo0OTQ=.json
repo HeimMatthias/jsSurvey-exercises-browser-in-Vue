@@ -1,0 +1,234 @@
+{
+  "pages": [
+    {
+      "name": "Unproblematisch oder ungeschickt?1",
+      "title": "Unproblematic or clumsy?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide in each case whether Max's plan is unproblematic or awkward. In each case, explain your assessment with a brief explanation.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Max is pretty nervous and wants to distract himself a little before his appointment at the gym. There he meets Kai, a friend, whom he tells about the apartment. He offers to view the apartment with him. He works in building maintenance and could give him a good assessment of the condition of the apartment. However, he doesn't have time today; Max would have to attend one of the other viewing appointments on offer.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Max should keep the agreed appointment, as he cannot cancel it early (same-day appointment).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Max decides to take Kai with him to the viewing appointment and is relieved to receive an expert assessment from him. He postpones the appointment and announces that he will be accompanying him. An hour before the viewing, he meets him for a coffee just around the corner from the apartment. Kai arrives rather stressed and still in his dusty work clothes with two small children; his wife had to go to the dentist in an emergency and couldn't take them with her.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The children were not announced to the landlady. In addition, Kai's outfit looks dubious. All in all, Max will not make a correct, organized impression on the landlady.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Kai takes notes during the viewing, which he wants to discuss with Max in the evening. The apartment has a few significant flaws. However, given the low price, Max could accept this.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Good, because unnecessary criticism of the rental property during the viewing can reduce Max's chances.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unproblematisch oder ungeschickt?2",
+      "title": "Unproblematic or clumsy?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide in each case whether Max's plan is unproblematic or awkward. In each case, explain your assessment with a brief explanation.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "There are application forms in the apartment. Max takes one and studies the questions carefully. He notices that it asks for some information that is not actually permitted. He discusses with Kai that he will simply not answer these questions and instead leave a polite note about data protection. ",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "It would be better if Max answered the relevant questions falsely, but still plausibly, so as not to undermine his chances of getting the apartment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Max is not quite sure about one question: Is the landlady allowed to ask about the annual income? Based on his gut feeling, he would say that this information is probably justified.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Yes, the landlord is allowed to find out whether Max can actually pay for the apartment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "When Max looks at the photos on his cell phone again at home, he has a tingling sensation in his stomach: the apartment offers exactly what he wants. The shortcomings that Kai has noted are of no consequence to him. Nevertheless, the question about his income unsettles him. He earns a net salary of CHF 4,200 a month. However, the rental costs amount to CHF 1100 per month (including ancillary costs). Can he afford the apartment?",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "If Max doesn't have any other high fixed costs, the rent is included.  It makes up significantly less than 1/3 of his net salary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unproblematisch oder ungeschickt?3",
+      "title": "Unproblematic or clumsy?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide in each case whether Max's plan is unproblematic or awkward. In each case, explain your assessment with a brief explanation.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "Although he still wants to clarify the question of affordable costs, Max fills out the application form. There he finds a note that he would have to pay CHF 150 if he withdrew his application. He researches on the Internet to find out whether the landlord is really allowed to demand \"transfer costs\" in such a case and finds out that this demand is not legally enforceable. However, he is not sure whether he can trust the source he has found. At the same time, he tells himself that CHF 150 would not ruin him and that he could always ask a professional if the worst comes to the worst.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Correct, because the landlady cannot legally enforce this demand. In legal terms, the completed application form is an invitation to the landlord to make an offer and does not oblige Max to do anything.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "After discussing his budget with a good friend that same evening, Max is relieved. Now he doesn't want to waste any more time. He calls the landlady the very next morning and wants to make his enthusiasm known before the application deadline for all interested parties expires. He could even offer to look after the shared garden - and her own, if she wants - for free. After all, this is his job; he would easily put up with a few extra hours a month.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "clumsy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Max should not be too pushy and should be careful with service offers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "On the same day, Max drafts a cover letter, which his girlfriend corrects. She graduated from KV a few years ago and already has a lot of experience with business letters. He even orders an extract from the debt collection register online, although this is not explicitly requested. He also calls his current landlord to ask if he can give him as a reference. He is lucky: the landlord answers promptly and assures him that he will provide positive information if he asks. \nThe next morning, Max carefully reads through everything again and checks that he has enclosed all the documents. Then he sends off the whole dossier.",
+              "choices": [
+                "unproblematic",
+                "clumsy"
+              ],
+              "isRequired": true,
+              "correctAnswer": "unproblematic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "It's good that Max submits the documents so quickly, because the order in which they are received may be decisive for the landlady. He even increases his chances by adding an extract from the debt collection register and a reference.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

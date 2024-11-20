@@ -1,0 +1,63 @@
+{
+  "pages": [
+    {
+      "name": "Freund der Regierung",
+      "title": "Friend of the government",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "The government official Garek wants to paint a nice picture of his country and the government for the journalists. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "List 2-3 examples that prove this:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freund der Regierung2",
+      "title": "Friend of the government",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "However, the journalists suspect that something is wrong. List observations (only outward appearances, no conversations) that make them suspicious. Refer to the following scenes.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "During the journey:",
+              "isRequired": true,
+              "correctAnswer": "Armed, young, cheerful, friendly soldiers by the wayside; description of the landscape: stone-strewn fields, dried-up riverbed, brown slopes, lime dust, blazing heat, deserted villages, colorless bushes, blast holes, ...",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Arrival at Bela Bonzo:",
+              "isRequired": true,
+              "correctAnswer": "old dusty gray face, lowered gaze, blackish wrinkles, puffy upper lips, neatly combed, freshly shaved (traces of blood), nicely dressed although at work",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

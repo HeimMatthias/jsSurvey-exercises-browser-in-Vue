@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Rules of conduct",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "A young man holds the door of the restaurant open for his girlfriend.",
+                "In China, people greet each other with a slight bow.",
+                "All bank accounts must be stated on the tax return.",
+                "Scarlette dresses for her wedding according to British tradition, \"something old, something new, something borrowed, something blue\".",
+                "Tim gives his colleagues three kisses to say hello.",
+                "Anton has his remaining vacation paid out after his dismissal.",
+                "A child is entitled to at least the compulsory portion of their deceased parents' inheritance."
+              ],
+              "type": "matrix",
+              "title": "What type of rule of conduct (custom, morality, law) is involved in the following examples?",
+              "columns": [
+                "Customs",
+                "Moral",
+                "Law"
+              ],
+              "correctAnswer": {
+                "Bei der Steuerklärung sind alle Bankkonten anzugeben.": "Law",
+                "In China begrüsst man sich mit einer leichten Verbeugung.": "Customs",
+                "Tim gibt seinen Kolleginnen drei Küsschen zur Begrüssung.": "Customs",
+                "Ein junger Mann hält seiner Freundin die Tür des Restaurants auf.": "Customs",
+                "Anton lässt sich nach seiner Kündigung den Resturlaub ausbezahlen.": "Law",
+                "Einem Kind steht mindestens der Pflichtteil des Erbes seiner verstorbenen Eltern zu.": "Law",
+                "Scarlette kleidet sich an ihrer Hochzeit gemäss der britischen Tradition, «something old, something new, something borrowed, something blue».": "Customs"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Rules of conduct",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Lars doesn't eat meat because he feels sorry for the animals that are slaughtered.",
+                "Once Deliah has eaten her fill, she puts her knife and fork on her plate at the same time. This signals that she has eaten enough.",
+                "In Switzerland, the majority of residents are against the reintroduction of the death penalty.",
+                "Erkan's boss is waiving his bonus this year because the company made big losses.",
+                "Vehicles coming from the right have right of way.",
+                "Svenja is a very careful and considerate driver.",
+                "If another vehicle gives way to you in an unclear situation, thank them with a hand signal."
+              ],
+              "type": "matrix",
+              "title": "What type of rule of conduct (custom, morality, law) is involved in the following examples?",
+              "columns": [
+                "Customs",
+                "Moral",
+                "Law"
+              ],
+              "correctAnswer": {
+                "Fahrzeuge, die von rechts kommen, haben Vortritt.": "Law",
+                "Lars isst kein Fleisch, da ihm die Schlachttiere leidtun.": "Moral",
+                "Svenja ist eine sehr vorsichtige und rücksichtsvolle Autofahrerin.": "Moral",
+                "Erkans Chef verzichtet dieses Jahr auf seinen Bonus, da die Firma grosse Verluste machte.": "Moral",
+                "In der Schweiz ist die Mehrheit der Einwohner gegen die Wiedereinführung der Todesstrafe.": "Moral",
+                "Wenn einem ein anderes Fahrzeug in einer unklaren Situation den Vortritt lässt, bedankt man sich mit einem Handzeichen.": "Customs",
+                "Nachdem Deliah satt ist, legt sie Messer und Gabel parallel auf ihren Teller. Sie signalisiert damit, dass sie genug gegessen hat.": "Customs"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

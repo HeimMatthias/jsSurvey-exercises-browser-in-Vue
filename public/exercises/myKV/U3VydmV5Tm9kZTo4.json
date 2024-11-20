@@ -1,0 +1,144 @@
+{
+  "pages": [
+    {
+      "name": "Betreibung1",
+      "title": "Debt collection",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Debt collection may only be carried out: ",
+              "choices": [
+                "from a bank ",
+                "from a private individual ",
+                "from the state"
+              ],
+              "isRequired": true,
+              "correctAnswer": "from the state",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "In connection with debt collection, one also speaks of: ",
+              "choices": [
+                "from a coercive measure ",
+                "from foreclosure",
+                "from a constraint"
+              ],
+              "isRequired": true,
+              "correctAnswer": "from foreclosure",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The person who benefits from the money is called: ",
+              "choices": [
+                "Debtor",
+                "Believer",
+                "Creditor"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Creditor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "This type of debt collection is not possible for private individuals: ",
+              "choices": [
+                "Debt enforcement for seizure ",
+                "Bankruptcy proceedings ",
+                "Debt collection for realization of pledge "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Bankruptcy proceedings ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Debt collection",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Enforcement means that the company becomes: ",
+              "choices": [
+                "restructured",
+                "refurbished",
+                "dissolved"
+              ],
+              "isRequired": true,
+              "correctAnswer": "dissolved",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "In this area of life, debt collection can have major disadvantages:",
+              "choices": [
+                "House hunting",
+                "Study",
+                "Car test "
+              ],
+              "isRequired": true,
+              "correctAnswer": "House hunting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "The technical term for insolvency is: ",
+              "choices": [
+                "Incompetence",
+                "Insolvency",
+                "Condolence"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Insolvency",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "This law plays no role in debt collection:",
+              "choices": [
+                "Code of Obligations",
+                "Vocational Training Act",
+                "Debt Enforcement and Bankruptcy Act"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Vocational Training Act",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

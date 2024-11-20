@@ -1,0 +1,147 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Negotiation strategy",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct negotiation strategy:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The aim is to find a solution that benefits both parties. The focus here is on the long-term relationship. This strategy involves understanding the needs of the other party and finding an outcome that is beneficial to both sides.",
+              "choices": [
+                "Concession strategy",
+                "Set anchor\" strategy",
+                "BATNA - Strategy",
+                "Using reciprocity",
+                "Win-win strategy"
+              ],
+              "correctAnswer": "Win-win strategy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Negotiation strategy",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct negotiation strategy:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "In negotiation theory, this strategy describes the best option available to a party if no agreement is reached in the negotiation.",
+              "choices": [
+                "Concession strategy",
+                "Set anchor\" strategy",
+                "BATNA - Strategy",
+                "Using reciprocity",
+                "Win-win strategy"
+              ],
+              "correctAnswer": "BATNA - Strategy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Negotiation strategy",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct negotiation strategy:",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "This is a technique in which one party deliberately makes an initial proposal that sets the basis for negotiation. This anchor influences the subsequent discussions and can guide the expectations and perceptions of the other party.",
+              "choices": [
+                "Concession strategy",
+                "Set anchor\" strategy",
+                "BATNA - Strategy",
+                "Using reciprocity",
+                "Win-win strategy"
+              ],
+              "correctAnswer": "Set anchor\" strategy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Negotiation strategy",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct negotiation strategy:",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Here, both parties look for a compromise in which each gives up something in order to reach a common result. This strategy is often used when the interests of both parties are partly in agreement and still differ in certain areas.",
+              "choices": [
+                "Concession strategy",
+                "Set anchor\" strategy",
+                "BATNA - Strategy",
+                "Using reciprocity",
+                "Win-win strategy"
+              ],
+              "correctAnswer": "Concession strategy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Negotiation strategy",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct negotiation strategy:",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "If one party gives something or makes a concession, it is often expected that the other side will also give something. This principle of reciprocity can be used to achieve fair and balanced negotiation results.",
+              "choices": [
+                "Concession strategy",
+                "Set anchor\" strategy",
+                "BATNA - Strategy",
+                "Using reciprocity",
+                "Win-win strategy"
+              ],
+              "correctAnswer": "Using reciprocity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

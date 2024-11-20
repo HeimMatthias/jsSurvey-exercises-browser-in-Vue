@@ -1,0 +1,116 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Risk consulting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Marie: Marie's boyfriend gets into a conflict with a stranger on the street. The two become violent and the situation escalates. Marie gets between the two of them to avert worse. Evaluate her behavior.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Obvious risk",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Risk assessment",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "1-2 measures",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Risk consulting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Alan: Alan has bought himself a sporty motorcycle. Together with his buddies, he sets up obstacles on an old factory site that have to be overcome. The bravest one wins!",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Obvious risk",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Risk assessment",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "1-2 measures",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Risk consulting",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Saskia: Saskia is offered MDMA pills at a lavish party. She is already quite drunk and accepts the offer; it is the first time she has ever taken ecstasy.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Obvious risk",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Risk assessment",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "1-2 measures",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

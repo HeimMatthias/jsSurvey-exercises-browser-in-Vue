@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "With the apprenticeship contract, the training company undertakes to provide the apprentice with professional training for a specific occupation.",
+                "The apprenticeship contract must be concluded in writing and approved by the competent cantonal authority.",
+                "Anyone who has not yet reached the age of 18 can also sign the apprenticeship contract alone.",
+                "The training company only owes a 13th month's salary if this has been agreed.",
+                "An apprenticeship contract can be terminated at any time without special reasons with a notice period of three months.",
+                "Unless the parties agree otherwise, a probationary period of three months applies to the apprenticeship contract.",
+                "During the probationary period, the apprenticeship can be terminated at any time with a notice period of fourteen days.",
+                "At the end of the probationary period, the apprenticeship can only be terminated for good cause and without notice.",
+                "The training company must give the apprentice time off for the final apprenticeship examinations without deducting wages."
+              ],
+              "type": "matrix",
+              "title": "Are the statements about the apprenticeship contract correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Der Lehrbetrieb schuldet einen 13. Monatslohn nur, wenn dies vereinbart wurde.": "right",
+                "Auch wer das 18. Lebensjahr noch nicht vollendet hat, kann den Lehrvertrag allein unterschreiben.": "wrong",
+                "Wenn die Parteien nichts anderes vereinbaren, gilt beim Lehrvertrag eine Probezeit von drei Monaten.": "right",
+                "Der Lehrbetrieb muss der lernenden Person ohne Lohnabzug Zeit für die Lehrabschlussprüfungen freigeben.": "right",
+                "Ein Lehrvertrag kann jederzeit ohne besondere Gründe mit einer Frist von drei Monaten gekündigt werden.": "wrong",
+                "Während der Probezeit kann das Lehrverhältnis jederzeit mit einer Frist von vierzehn Tagen beendet werden.": "wrong",
+                "Der Lehrvertrag muss schriftlich abgeschlossen und von der zuständigen kantonalen Behörde genehmigt werden.": "right",
+                "Nach Ablauf der Probezeit kann das Lehrverhältnis nur aus wichtigen Gründen und fristlos aufgelöst werden.": "right",
+                "Mit dem Lehrvertrag verpflichtet sich der Lehrbetrieb, die lernende Person für eine bestimmte Berufstätigkeit fachgemäss auszubilden.": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

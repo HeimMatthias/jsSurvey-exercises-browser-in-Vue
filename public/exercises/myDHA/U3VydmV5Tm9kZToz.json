@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "name": "Ladendiebstahl",
+      "title": "Shoplifting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign correctly.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Value of the stolen goods less than CHF 300",
+              "choices": [
+                "Proposed offense",
+                "Official offense"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Proposed offense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Value of the stolen goods over CHF 300",
+              "choices": [
+                "Proposed offense",
+                "Official offense"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Official offense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The police must investigate the theft ex officio as soon as they become aware of it.",
+              "choices": [
+                "Proposed offense",
+                "Official offense"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Official offense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Theft is only prosecuted if the victim files a criminal complaint.",
+              "choices": [
+                "Proposed offense",
+                "Official offense"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Proposed offense",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Shoplifting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Who is authorized to carry out body searches or search bags against a person's will?",
+              "isRequired": true,
+              "correctAnswer": "Police",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Name the three areas in which retail businesses can take preventive measures against theft and name three specific measures per area.",
+              "isRequired": true,
+              "correctAnswer": "Personnel measures: Employee training, external security personnel, customer contact/attentiveness; Organizational measures: Merchandise security systems, camera surveillance, checkout location; Psychological measures: Actively approaching conspicuous persons, security personnel, warning signs and warning notices",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

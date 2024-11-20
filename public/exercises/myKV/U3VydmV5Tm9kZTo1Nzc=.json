@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Car sales",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "On the \"Cars\" worksheet, you must answer the following questions using suitable functions. Check your calculations in each case using the filter function. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) How many VWs were sold?",
+              "correctAnswer": "20 VW"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "b) How many Audis were sold?",
+              "correctAnswer": "11 Audi"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "c) How many women have bought cars?",
+              "correctAnswer": "10 women"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "d) How many buyers live in Lucerne?",
+              "correctAnswer": "12 from Lucerne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Heading",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "On the \"Cars\" worksheet, you must answer the following questions using suitable functions. Check your calculations in each case using the filter function. ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "e) How many Audi A3s were sold?",
+              "correctAnswer": "4 A3"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "f) How high is the turnover of the Skoda Fabias sold?",
+              "correctAnswer": "CHF 465 100.00"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "g) How high is the turnover of the Audis sold?",
+              "correctAnswer": "CHF 139 000.00"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "h) How much money did the men spend on cars?",
+              "correctAnswer": "CHF 886 250.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "On the \"Cars\" worksheet, you must answer the following questions using suitable functions. Check your calculations in each case using the filter function. ",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "i) How much money did people from Kriens spend on cars?",
+              "correctAnswer": "CHF 175 950.00"
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "j) How many cars were sold that cost less than 25,000.00?",
+              "correctAnswer": "2 with purchase prices below CHF 25 000.00"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "k) How many cars were sold that cost more than 45,000.00?",
+              "correctAnswer": "5 with purchase price over CHF 45 000.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

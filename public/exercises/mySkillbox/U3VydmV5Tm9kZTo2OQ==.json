@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "Fallbeispiel1",
+      "title": "Case study",
+      "elements": [
+        {
+          "name": "1",
+          "type": "panel",
+          "title": "Jonas discovers a post with protein-rich fast food recipes via an advertisement on Instagram. They look really good! He shares it in his story. Minutes later, several friends get in touch and want to know when he became interested in anabolic steroids. But he has nothing to do with that!",
+          "elements": [
+            {
+              "name": "Erklärung1",
+              "type": "comment",
+              "title": "Explain the advertising trap:",
+              "isRequired": true,
+              "correctAnswer": "Jonas' friends saw his story in the newsfeed. In the comments, the provider advertises anabolic steroid products. Jonas overlooked this.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Rat1",
+              "type": "comment",
+              "title": "Give Jonas some advice: ",
+              "isRequired": true,
+              "correctAnswer": "They should read more carefully before sharing content from providers. He could also check his privacy settings on Instagram.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiel2",
+      "title": "Case study",
+      "elements": [
+        {
+          "name": "2",
+          "type": "panel",
+          "title": "While Blerta is researching online, a call for a competition to win a tablet suddenly pops up. All she has to do is answer three simple questions and provide a few personal details. She didn't win anything, but has since received countless messages from unknown providers. ",
+          "elements": [
+            {
+              "name": "Erklärung2",
+              "type": "comment",
+              "title": "Explain the advertising trap: ",
+              "isRequired": true,
+              "correctAnswer": "The personal data that Blerta entered was sold on to companies that are now contacting Blerta.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Rat2",
+              "type": "comment",
+              "title": "Give Blerta some advice: ",
+              "isRequired": true,
+              "correctAnswer": "She should be more careful with her personal data. She could also get a second e-mail address for such purposes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiel3",
+      "title": "Case study",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Mohammed downloads a free game on his cell phone. He completes the first levels fairly quickly. But now he can only progress if he buys premium features. Thanks to payment by SMS, he can continue playing immediately. At the end of the month, he is amazed at his cell phone bill ...",
+          "elements": [
+            {
+              "name": "Erklärung3",
+              "type": "comment",
+              "title": "Explain the advertising trap: ",
+              "isRequired": true,
+              "correctAnswer": "He was tempted by the words \"free\". Because he was completely absorbed in the game, he probably didn't notice how the individual small amounts added up.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Rat3",
+              "type": "comment",
+              "title": "Give Mohammed some advice: ",
+              "isRequired": true,
+              "correctAnswer": "In future, they should check the play or app store to see whether the game has in-app purchases next to it. They can also find out about new games in communities and forums.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

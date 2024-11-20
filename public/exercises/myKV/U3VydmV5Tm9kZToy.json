@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Art is a part of culture. What is meant by culture?  ",
+              "isRequired": true,
+              "correctAnswer": "All creative achievements of people.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What functions does art have?  ",
+              "isRequired": true,
+              "correctAnswer": "Expressing creativity, arousing emotions, stimulating thought, conveying a message, enriching everyday life.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Performing arts is one of the four basic forms. What are the other three forms called?",
+              "isRequired": true,
+              "correctAnswer": "Visual arts, music, literature.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What are the three forms of performing arts?",
+              "isRequired": true,
+              "correctAnswer": "Dance art, acting art, media art.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are the three subcategories of literature as an art form?",
+              "isRequired": true,
+              "correctAnswer": "Epic, drama, poetry.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

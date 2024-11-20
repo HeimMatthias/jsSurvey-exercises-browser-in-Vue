@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Verkaufskalkulation",
+      "title": "Sales calculation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe the following terms that are important in connection with sales costing.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Overheads",
+              "isRequired": true,
+              "correctAnswer": "Costs that cannot be directly allocated to an item",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Cost price",
+              "isRequired": true,
+              "correctAnswer": "Price that covers all costs (no profit and no loss)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Net profit",
+              "isRequired": true,
+              "correctAnswer": "Net profit is the difference between income and expenses.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

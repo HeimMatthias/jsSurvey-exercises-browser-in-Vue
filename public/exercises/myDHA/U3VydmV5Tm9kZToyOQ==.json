@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Verbal and non-verbal communication\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by the term communication?",
+              "isRequired": true,
+              "correctAnswer": "Communication means exchanging information. Not only sentences and words, but also posture, gestures (expressive movements of the body) and facial expressions are important.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Is it not possible to communicate? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No. According to Watzlawick's theory, people cannot do anything without their behavior being interpreted by others. They always say something - if not with words, then through their posture, body movements or facial features.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Communication",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "rows": [
+                "Choice of words",
+                "Gestures",
+                "Facial expression",
+                "Tone of voice",
+                "Volume",
+                "Gear",
+                "Posture",
+                "Contents",
+                "Speaking tempo"
+              ],
+              "type": "matrix",
+              "title": "Assign the terms to verbal or non-verbal communication.",
+              "columns": [
+                "Verbal communication",
+                "Non-verbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Gang": "Non-verbal communication",
+                "Mimik": "Non-verbal communication",
+                "Gestik": "Non-verbal communication",
+                "Inhalt": "Verbal communication",
+                "Tonfall": "Verbal communication",
+                "Wortwahl": "Verbal communication",
+                "Lautstärke": "Verbal communication",
+                "Sprechtempo": "Verbal communication",
+                "Köperhaltung": "Nonverbale Kommunikation",
+                "Körperhaltung": "Non-verbal communication"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

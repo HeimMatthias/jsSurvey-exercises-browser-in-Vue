@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Massnahmen zum Klimaschutz",
+      "title": "Climate protection measures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Climate protection measures\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What measures are being taken in Switzerland to contribute to climate protection?",
+              "isRequired": true,
+              "correctAnswer": "The 2015 Paris Climate Agreement aims to limit global warming caused by greenhouse gases to below 2 degrees. The long-term goal is to phase out fossil fuels such as coal, oil and gas. In the long term, the federal government is pursuing the goal of a \"2000-watt society\". This model aims to reduce per capita energy consumption in the long term thanks to technological development and renunciation.\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What goals are being pursued with the idea of the \"2000-watt society\"?",
+              "isRequired": true,
+              "correctAnswer": "Per capita energy consumption is to be reduced to 2,000 watts instead of the current 6,000 watts thanks to technological developments and the avoidance of travel and private transport.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "List as many measures as possible that each and every individual should implement to protect the environment.",
+              "isRequired": true,
+              "correctAnswer": "Showering only briefly, flying less, using electric instead of gasoline/diesel vehicles, local products instead of products from other continents, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Name the measures that you personally implement.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

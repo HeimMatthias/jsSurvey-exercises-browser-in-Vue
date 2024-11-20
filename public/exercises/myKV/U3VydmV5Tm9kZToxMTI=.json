@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "To what extent can headings and subheadings help to structure a written report?",
+              "isRequired": true,
+              "correctAnswer": "When structuring with main chapters and subchapters/with ordinal numbers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What connects the words of a word family?",
+              "isRequired": true,
+              "correctAnswer": "They have the same root word.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What connects the words in a word field?",
+              "isRequired": true,
+              "correctAnswer": "They have the same or a similar meaning. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Are the two words weather forecast and weather forecast synonyms or antonyms?",
+              "isRequired": true,
+              "correctAnswer": "Synonym",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Are the two words relevant and unimportant synonyms or antonyms?",
+              "isRequired": true,
+              "correctAnswer": "Antonym",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is meant by the denotative meaning?",
+              "isRequired": true,
+              "correctAnswer": "the neutral, factual meaning",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is meant by the connotative meaning?",
+              "isRequired": true,
+              "correctAnswer": "the additional, implied meaning",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

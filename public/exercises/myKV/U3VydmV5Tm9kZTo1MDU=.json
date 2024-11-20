@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Get to know the Federal Constitution (FC) better by answering the following 20 questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "When did the current version come into force? ",
+              "correctAnswer": "February 13, 2022"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What words does the preamble use to express support for vulnerable people? ",
+              "correctAnswer": "... the strength of the people is measured by the welfare of the weak ..."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "All cantons are mentioned in Article 1. Why is the canton of Jura mentioned last? ",
+              "correctAnswer": "It is the youngest canton, founded in 1979."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "In which article and in which paragraph is it stated that women are equal to men in education and work?",
+              "correctAnswer": "in Article 8, paragraph 3"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Article 10a lays down the ban on wearing a face covering. When did the ban come into force? ",
+              "correctAnswer": "since March 1, 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Get to know the Federal Constitution (FC) better by answering the following 20 questions.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which article states that primary education is free of charge? ",
+              "correctAnswer": "in Article 19"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "In which article is it guaranteed that the profession may be freely chosen? ",
+              "correctAnswer": "in Article 27, paragraph 2"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Persons of the third generation of foreigners and stateless children can be naturalized more easily. In which article is this regulated?",
+              "correctAnswer": "in Article 38, paragraph 3"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Which article stipulates that the cantons must have a democratic constitution?",
+              "correctAnswer": "in Article 51, paragraph 1"
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Military service is compulsory for Swiss men and voluntary for Swiss women. In which article is this regulated?",
+              "correctAnswer": "in Article 59, paragraphs 1 and 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Get to know the Federal Constitution (FC) better by answering the following 20 questions.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Which article states that the Confederation, not the cantons, is responsible for vocational education and training?",
+              "correctAnswer": "in Article 63"
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Minarets may not be built in Switzerland. Which article states this, and since when has the ban been in force?",
+              "correctAnswer": "in Article 72, since November 29, 2009"
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "The federal government is responsible for the national roads (freeways). In which article is this responsibility defined?",
+              "correctAnswer": "in Article 82, paragraph 2"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Which article stipulates that only the Confederation may issue coins and banknotes?",
+              "correctAnswer": "in Article 99, paragraph 1"
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "August 1 is a paid public holiday. In which article is this regulated?",
+              "correctAnswer": "in Article 110, paragraph 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Get to know the Federal Constitution (FC) better by answering the following 20 questions.",
+          "elements": [
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "The AHV pension is adjusted in line with price trends. Which article states this principle?",
+              "correctAnswer": "in Article 112, paragraph 2d"
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "Which article stipulates that employees and employers must each pay half of the unemployment insurance contributions?",
+              "correctAnswer": "in Article 114, paragraph 3 "
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "Which article states that the trade in human organs is not permitted?",
+              "correctAnswer": "in Article 119a, paragraph 3"
+            },
+            {
+              "name": "question19",
+              "type": "text",
+              "title": "If someone is convicted of a sexual offense against children, this person may no longer work in a profession (e.g. as a teacher) in which there is contact with minors or addicts. In which article is this regulated?",
+              "correctAnswer": "in Article 123c"
+            },
+            {
+              "name": "question20",
+              "type": "text",
+              "title": "Which article states that the Federal Constitution can be revised at any time?",
+              "correctAnswer": "in Article 192"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

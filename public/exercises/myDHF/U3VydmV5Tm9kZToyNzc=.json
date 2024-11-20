@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Working with key figures in four steps",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Put the four steps in the right order: interpret key figures; calculate key figures; record data; take measures.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Step 1",
+              "choices": [
+                "Interpreting key figures",
+                "Calculate key figures",
+                "Record data",
+                "Take measures"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Record data",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Step 2",
+              "choices": [
+                "Interpreting key figures",
+                "Calculate key figures",
+                "Record data",
+                "Take measures"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Calculate key figures",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Step 3",
+              "choices": [
+                "Interpreting key figures",
+                "Calculate key figures",
+                "Record data",
+                "Take measures"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Interpreting key figures",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Step 4",
+              "choices": [
+                "Interpreting key figures",
+                "Calculate key figures",
+                "Record data",
+                "Take measures"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Take measures",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

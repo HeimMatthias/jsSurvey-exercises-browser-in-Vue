@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Exemples",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Argumentez à l'aide du plan caractéristique, avantage, bénéfice.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Votre cliente vous a dit qu'elle attache beaucoup d'importance à un interlocuteur.",
+              "isRequired": true,
+              "correctAnswer": "Possible responses: personalized customer service is a priority for our company (characteristic). This has the advantage for you of avoiding malpractice and the blockage of the flow of information (advantage) and thus guarantees you a constant increase in the efficiency of the collaboration (profit).",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Votre client vous signale qu'il est intéressé à une collaboration à long terme.",
+              "isRequired": true,
+              "correctAnswer": "Réponses possibles : nous proposons des solutions individuelles pour nos clients (caractéristique). This represents for you the advantage that we can take into account all your wishes and priorities (advantage), which guarantees a collaboration stable and in partnership (benefit).",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Your client clearly indicates that she attaches great importance to flexibility.",
+              "isRequired": true,
+              "correctAnswer": "Réponses possibles : en plus de la prestation partielle classique 1, nous proposons à nos clients aussi la prestation partielle 2 (caractéristique). This represents the advantage that we assume the entirety of the prestation and that we can offer you the two instruments (advantage). In this way, you can use our service with flexibility and thus save time and money (income).",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Votre client a fait des mauvaises expériences avec des prestataires non professionnels.",
+              "isRequired": true,
+              "correctAnswer": "Réponses possibles : nous garantissons une formation de qualité élevée de tous nos collaborateurs internes dans tous les domains (caractéristique). The advantage for you is a high level of legal security (advantage) and also an unquestionable quality service at all times (benefit).",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

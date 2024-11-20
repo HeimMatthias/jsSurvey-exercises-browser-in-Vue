@@ -1,0 +1,189 @@
+{
+  "pages": [
+    {
+      "name": "Übung 1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "At the checkout in the supermarket, the sales clerk gives you CHF 150 instead of CHF 50 by mistake. You draw the clerk's attention to this and give him back CHF 100.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "Good faith",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 2 Abs. 1 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "The resident of an apartment building leaves her radio playing loudly whenever she goes out to annoy her neighbor.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "Prohibition of abuse of rights",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question22",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 2 Abs. 2 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Luise borrows a pearl necklace from Marlene and then sells it to Nora. Nora doesn't know that the necklace doesn't belong to Luise.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "Good faith (Nora) and bad faith (Luise) ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 3 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Your colleague claims that he lent you CHF 100 last Saturday when you went out and demands the money back. You are convinced that he did not lend you any money.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "Burden of proof",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 8 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "A junkie offers to buy you a new cell phone on the street at a very low price.",
+          "elements": [
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "bad faith ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 3 Abs. 2 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "A cantonal court bases its ruling on a leading decision of the Federal Supreme Court.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Legal principle:",
+              "isRequired": true,
+              "correctAnswer": "Application of the law",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 1 ZGB",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

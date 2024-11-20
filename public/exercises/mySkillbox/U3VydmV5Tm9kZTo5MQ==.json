@@ -1,0 +1,224 @@
+{
+  "pages": [
+    {
+      "name": "Genitivprobe1",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "Führen Sie die Genitiv-Probe durch:",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What's the best thing* that could happen to you today?",
+              "isRequired": true,
+              "correctAnswer": "What is the best of the best that could happen to you today?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe2",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "For me, time is the most precious thing* in life.",
+              "isRequired": true,
+              "correctAnswer": "For me, time is the most precious thing that is really important in life.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe3",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "For him, going shopping at Jack & Jones is the greatest thing*.",
+              "isRequired": true,
+              "correctAnswer": "For him, shopping at Jack & Jones is the greatest of the greatest.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe4",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question25",
+              "type": "comment",
+              "title": "Shopping* at the click of a mouse can quickly become a debt trap.",
+              "isRequired": true,
+              "correctAnswer": "Shopping for young people at the click of a mouse can quickly become a debt trap.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe5",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question36",
+              "type": "comment",
+              "title": "Debt advisors can help avert the worst* in the event of financial difficulties*.",
+              "isRequired": true,
+              "correctAnswer": "Debt advisors can help to avert the worst of the worst if a young person has financial difficulties.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe6",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question47",
+              "type": "comment",
+              "title": "Fair shopping* often has its price.",
+              "isRequired": true,
+              "correctAnswer": "Fair shopping for everyday items often comes at a price.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe7",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Carry out the genitive test:",
+          "elements": [
+            {
+              "name": "question58",
+              "type": "comment",
+              "title": "Capacity* is regulated by law in Switzerland*.",
+              "isRequired": true,
+              "correctAnswer": "In Switzerland, a person's capacity for judgment is regulated by law.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe8",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Carry out the genitive test. Attention: The nominalization must be recognized here.",
+          "elements": [
+            {
+              "name": "question69",
+              "type": "comment",
+              "title": "She decided this with a clarity that amazed us.",
+              "isRequired": true,
+              "correctAnswer": "She decided this with a clarity of determination that astounded us.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe9",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Carry out the genitive test. Attention: The nominalization must be recognized here.",
+          "elements": [
+            {
+              "name": "question80",
+              "type": "comment",
+              "title": "It would probably be the most responsible thing to do without cheap goods completely.",
+              "isRequired": true,
+              "correctAnswer": "It would probably be the most responsible purchasing behavior of all to completely avoid cheap goods on the clothing market.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genitivprobe10",
+      "title": "Genitive sample",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Carry out the genitive test. Attention: The nominalization must be recognized here.",
+          "elements": [
+            {
+              "name": "question91",
+              "type": "comment",
+              "title": "I would like to be able to afford something luxurious.",
+              "isRequired": true,
+              "correctAnswer": "I would like to be able to afford something luxurious in a class of its own.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

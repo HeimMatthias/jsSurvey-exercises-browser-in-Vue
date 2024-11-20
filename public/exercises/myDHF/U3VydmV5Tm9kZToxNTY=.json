@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Legal form",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Laura Cavadini works as a retail specialist in the Sigi Lohner shoe store. She is promoted to store manager and in this role is given the task of increasing the existing bank loan from CHF 40,000 to CHF 60,000.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "a) What is the legal form of the Lohner shoe store?",
+              "isRequired": true,
+              "correctAnswer": "To set up a sole proprietorship",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "b) What are the regulations regarding the entry in the commercial register?",
+              "isRequired": true,
+              "correctAnswer": "For the time being, the shoe store can register voluntarily in the HR, but it must do so if its annual turnover exceeds CHF 100,000.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "c) Who is liable for the loan?",
+              "isRequired": true,
+              "correctAnswer": "The owner Sigi Lohner",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "d) The operating loan of CHF 40,000 has so far had to bear interest at 5.5%. How much is a half-yearly interest rate under these conditions?",
+              "isRequired": true,
+              "correctAnswer": "100% → CHF 40 000.- \n5.5% → CHF 2 200.-\n40 000.- : 100 × 5.5 = CHF 2200.- \nThe semi-annual interest rate is CHF 1100.-.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Legal form",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Laura Cavadini works as a retail specialist in the Sigi Lohner shoe store. She is promoted to store manager and in this role is given the task of increasing the existing bank loan from CHF 40,000 to CHF 60,000.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "e) The bank grants an additional CHF 20,000 for the second half of the year and at the same time reduces the interest rate to 5%. How much does the loan of CHF 60,000 cost in the second half of the year?",
+              "isRequired": true,
+              "correctAnswer": "100% → CHF 60 000.- \n5% → CHF 3 000.-\n60 000.- : 100 × 5 = CHF 3000.- \nThe semi-annual interest rate is CHF 1500.-.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "f) How much does the Lohner shoe store save on the old loan in the second half of the year?",
+              "isRequired": true,
+              "correctAnswer": "The difference in the percentage is 5.5% - 5% = 0.5%. \n100% → CHF 40 000.- \n0.5 % → CHF 200.-\n40 000.- : 100 × 0.5 = CHF 200.- \n\n360 T → CHF 200.- \n180 T → CHF 100.-\n200.- : 360 × 180 = CHF 100.- \nThe specialist shoe store saves CHF 100.- every six months.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "g) What is the average monthly interest cost of the CHF 60,000?",
+              "isRequired": true,
+              "correctAnswer": "The annual interest is CHF 3000 (see subtask e)). \n360 T → CHF 3000.- \n30 T → CHF 250.- \n3000.- : 360 × 30 = CHF 250.-",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "h) Laura Cavadini acquires a financial interest in the Lohner shoe store. Which legal forms are possible?",
+              "isRequired": true,
+              "correctAnswer": "A general partnership with full liability of Laura Cavadini or a limited partnership with partial liability",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Legal form",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Laura Cavadini works as a retail specialist in the Sigi Lohner shoe store. She is promoted to store manager and in this role is given the task of increasing the existing bank loan from CHF 40,000 to CHF 60,000.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "i) What could be the new name of the shoe store if Sigi Lohner and Laura Cavadini decide to form a limited partnership?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers. Note: The choice of company name is basically free for a limited partnership. However, the legal form must be stated in the company name, e.g. with the addition \"KmG\".",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "j) Two years later, the shoe store opens another branch. For this reason, the legal form is to be changed to a public limited company. What could the new company be called? Present your suggestions.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers. Note: The choice of company name for an AG is basically free. Catchy fantasy names are suitable. It is also possible to include the names of the two founders Cavadini and Lohner. However, the legal form must be stated in the company name, e.g. with the addition \"AG\".",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "k) What changes now when switching from a general partnership to a limited company? Present the main differences, e.g. on a small poster or in an Excel spreadsheet.",
+              "isRequired": true,
+              "correctAnswer": "- Liability: In the case of an AG, liability is limited to the company's equity. In a general partnership, however, liability is subsidiary (joint and several), i.e. with the entire private assets of the partners. \n- Collaboration: With the AG, collaboration in the company is possible, but not a requirement. In a general partnership, on the other hand, each general partner is entitled and obliged to manage the company. \n- Anonymity: This is guaranteed with the AG, whereas with the general partnership the partners are visible in the commercial register. \n- Financing: The legal form of the AG allows more generous solutions for raising funds than the general partnership, which is dependent on the partners' assets. \n- Tax aspects: The AG is subject to double taxation, i.e. profits must be taxed both by the company and by the shareholders. The general partnership, on the other hand, offers tax advantages.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "l) Who elects the Board of Directors of the new AG?",
+              "isRequired": true,
+              "correctAnswer": "The General Meeting",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

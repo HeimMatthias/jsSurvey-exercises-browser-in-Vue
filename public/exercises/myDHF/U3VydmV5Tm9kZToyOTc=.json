@@ -1,0 +1,139 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Types of complaints ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What type of complaint is involved in the examples described? ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "When using a new television for the first time, a customer discovers that the picture has pixel errors. She contacts the point of sale. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related without customer misconduct "
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "A customer complains about the quality of a new cashmere sweater because it shrank in the washing machine. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related with fault of the customer "
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "A customer at the DIY store is annoyed because he was recommended a cordless drill that was too weak for drilling into concrete walls. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Operating and communication-related "
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "A customer wants to return the hiking boots she recently bought because the soles have come loose at the edges after the first hike. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related without customer misconduct "
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "A customer wants to return a product after the return period granted in the terms and conditions has expired. He complains that a longer return period was communicated to him during the sales pitch. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Operating and communication-related "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Types of complaints ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What type of complaint is involved in the examples described? ",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "A customer dyes her hair at home and leaves the product on for longer than indicated on the package leaflet. She is unhappy with the result and asks for a replacement product at the drugstore to over-dye her hair. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related with fault of the customer "
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "A customer finds a crack in the casing of the laptop that has just been delivered. He contacts customer service. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related without customer misconduct "
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "A customer returns a skin cream to the perfumery because it has caused an allergic reaction. He says he specifically asked for a hypoallergenic product when he bought it. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Operating and communication-related "
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "A customer brings her recently purchased mountain bike back to the point of sale and complains about the poor quality of the paintwork. There are clear scratches on the paintwork from an erosive cleaning agent. ",
+              "choices": [
+                "Article-related without customer misconduct ",
+                "Article-related with fault of the customer ",
+                "Operating and communication-related "
+              ],
+              "correctAnswer": "Article-related with fault of the customer "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

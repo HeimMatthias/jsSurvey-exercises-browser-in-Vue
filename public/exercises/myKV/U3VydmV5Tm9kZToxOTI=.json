@@ -1,0 +1,129 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Steps",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "Advertising expenditure",
+                "Depreciation and amortization",
+                "Revenue from goods",
+                "Extraordinary income",
+                "Wage expenditure"
+              ],
+              "type": "matrix",
+              "title": "To which level of the three-step income statement do the accounts listed belong?",
+              "columns": [
+                "1st stage",
+                "2nd stage",
+                "3rd stage"
+              ],
+              "correctAnswer": {
+                "Lohnaufwand": "2nd stage",
+                "Warenerlöse": "1st stage",
+                "Werbeaufwand": "2nd stage",
+                "Abschreibungen": "2nd stage",
+                "Ausserordentlicher Ertrag": "3rd stage"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Steps",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Space requirements",
+                "Losses on receivables",
+                "Energy expenditure",
+                "Property income (rented)",
+                "Financial expenses"
+              ],
+              "type": "matrix",
+              "title": "To which level of the three-step income statement do the accounts listed belong?",
+              "columns": [
+                "1st stage",
+                "2nd stage",
+                "3rd stage"
+              ],
+              "correctAnswer": {
+                "Raumaufwand": "2nd stage",
+                "Finanzaufwand": "2nd stage",
+                "Energieaufwand": "2nd stage",
+                "Forderungsverluste": "1st stage",
+                "Liegenschaftsertrag (vermietet)": "3rd stage"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Steps",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Insurance expense",
+                "Cost of goods",
+                "Vehicle expenditure",
+                "Extraordinary expenses",
+                "Social security expenses"
+              ],
+              "type": "matrix",
+              "title": "To which level of the three-step income statement do the accounts listed belong?",
+              "columns": [
+                "1st stage",
+                "2nd stage",
+                "3rd stage"
+              ],
+              "correctAnswer": {
+                "Warenaufwand": "1st stage",
+                "Fahrzeugaufwand": "2nd stage",
+                "Versicherungsaufwand": "2nd stage",
+                "Ausserordentlicher Aufwand": "3rd stage",
+                "Sozialversicherungsaufwand": "2nd stage"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

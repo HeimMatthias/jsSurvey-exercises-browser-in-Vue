@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Lettre d'affaires",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Certificat de garantie avec confirmation de livraison",
+                "Établissement de l'offre pour la réparation d'un lave-linge",
+                "Confirmation of returns en raison de défauts",
+                "Rappel de paiement au client F.",
+                "Invitation à un apéro pour les clients",
+                "Confirmation du délai de livraison",
+                "Extrait mensuel du compte client"
+              ],
+              "type": "matrix",
+              "title": "Quelle requête est formulée dans quel type de lettre commerciale ?",
+              "columns": [
+                "Offres et demandes",
+                "Offres et commandes",
+                "Confirmations",
+                "Bulletins de livraison",
+                "Facts and rappels",
+                "Traitement d'une réclamation"
+              ],
+              "correctAnswer": {
+                "Rappel de paiement au client F.": "Facts and rappels",
+                "Extrait mensuel du compte client": "Facts and rappels",
+                "Confirmation du délai de livraison": "Confirmations",
+                "Invitation à un apéro pour les clients": "Offres et demandes",
+                "Confirmation des retours en raison de défauts": "Traitement d'une réclamation",
+                "Certificat de garantie avec confirmation de livraison": "Bulletins de livraison",
+                "Établissement de l’offre pour la réparation d’un lave-linge": "Offres et commandes"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

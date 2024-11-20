@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "Identität",
+      "title": "Identity",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read the following situation. Then assign Lars to one of the four phases of the identity development model.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A7_Situation.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Give reasons for your assignment.",
+              "isRequired": true,
+              "correctAnswer": "Diffuse identity: Lars doesn't seem to have any clear points of view/plans/interests, he doesn't want to commit himself, seems unable to make decisions, he searches and lets himself drift.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Compare your positioning of Lars with your own positioning in the model with regard to the roles of apprentice, employee and colleague. List the differences and any similarities.",
+              "isRequired": true,
+              "correctAnswer": "Individual solutions",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

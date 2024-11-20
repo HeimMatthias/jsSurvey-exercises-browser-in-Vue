@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "It has no legal capacity.",
+                "It is capable of acting.",
+                "It has limited capacity to act.",
+                "It has legal capacity.",
+                "She is not yet capable of judgment."
+              ],
+              "type": "matrix",
+              "title": "Ilhana is a normally gifted 15-year-old detail assistant. Which statements apply to her?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Sie ist rechtsfähig.": "Correct",
+                "Sexuelle Volljährigkeit": "At the age of 16",
+                "Sie ist handlungsfähig.": "Wrong",
+                "Allgemeine Volljährigkeit": "At the age of 18",
+                "Religiöse Volljährigkeit": "At the age of 16",
+                "Sie ist nicht rechtsfähig.": "Wrong",
+                "Sie ist noch nicht urteilsfähig.": "Wrong",
+                "Sie ist beschränkt handlungsunfähig.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "focusOnFirstError": false,
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

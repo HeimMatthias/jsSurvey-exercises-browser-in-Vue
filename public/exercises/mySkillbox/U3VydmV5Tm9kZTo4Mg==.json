@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "name": "Umtausch-Regeln1",
+      "title": "Right of exchange",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Using rules 2 and 3 from the Observer article, explain when and how you can return an item that has already been purchased. Use the following terms: original packaging, receipt, note. ",
+              "isRequired": true,
+              "correctAnswer": "You can return a purchased item if it is still \tunused and in its original packaging, the sales staff have made a note on the receipt about the right to exchange and the deadline mentioned there has been met.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umtausch-Regeln2",
+      "title": " Right of return",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Read point 6 on the right to return Zalando items (you will find the link outside the task). Explain the connection to rule 2.",
+              "isRequired": true,
+              "correctAnswer": "The terms and conditions for orders via Zalando replace rule 2 (cash register receipt) because I have to agree to them before my online purchase.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umtausch-Regeln3",
+      "title": "Right of withdrawal",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "A salesperson approaches you unexpectedly at the station and persuades you to take out a new cell phone subscription. Cost: CHF 360 per year (can only be canceled after one year). When you get home, you realize that you don't want this subscription at all.",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Check whether all the requirements of rule 4 are met by noting one if-element and the corresponding facts.",
+              "isRequired": true,
+              "placeHolder": "Beispiel: Wenn-Element: Keine Versicherung Sachverhaltselement: Ja, Handy-Abo ist kein Versicherungsvertrag.",
+              "correctAnswer": "If element: Customer's performance > CHF 100\nIf element: Yes, CHF 360 > CHF 100!\n\nIf element: Private use of the goods or DL\nIf element: Yes, no business cell phone!\n\nIf element: Contract negotiations must not have been requested.\nSubject: Yes, I did not want this, I was simply approached\n\nWhen element: Contract concluded at home, at work, on the phone, in public, on an excursion.\nSubject: Yes, station concourse = in public",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "Write down your conclusion in an if-then sentence:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umtausch-Regeln4",
+      "title": " Error and deception",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "The seller advertises a Gucci handbag as partially hand-sewn, genuine and valuable. It later turns out that the handbag is a fake. Complete the sentences in a meaningful way:",
+          "elements": [
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "The instrument shows us that we can safely withdraw from the contract here because ... ",
+              "isRequired": true,
+              "correctAnswer": "The instrument shows us that we can safely withdraw from the contract here because the buyer believed he was buying a genuine Gucci handbag. The value of a counterfeit is considerably lower.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 9",
+              "type": "comment",
+              "title": "The rule ... may also apply here because ...",
+              "correctAnswer": "Rule 7 may also apply here because the seller is deceiving the other party. Whether this is intentional is likely, but not certain."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

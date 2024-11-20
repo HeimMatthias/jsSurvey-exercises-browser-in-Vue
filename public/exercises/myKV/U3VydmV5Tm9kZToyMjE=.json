@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Cases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Marvin buys a three-year-old horse. A veterinary examination reveals that the horse is at least thirteen years old. Can he contest the contract? Which article governs this incident?",
+              "isRequired": true,
+              "correctAnswer": "This is a case of deliberate deception. Marvin can contest the contract (Art. 28 OR). ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Karin Hermann threatens her colleague with consequences for repeated lateness at work unless she takes over her apartment for rent. The colleague agrees. Can she still defend herself?",
+              "isRequired": true,
+              "correctAnswer": "Yes, contracts that come about as a result of fear are also voidable (Art. 29 CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

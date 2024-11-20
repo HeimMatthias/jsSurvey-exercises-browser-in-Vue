@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Order picking",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions about the video. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "When do we talk about \"man-to-goods\" picking?",
+              "isRequired": true,
+              "correctAnswer": "person goes into the warehouse and removes the required goods manually.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What principle does the pastry chef in the video use to take his ingredients from the warehouse? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "FEFO principle. The ingredients are foodstuffs that have an expiration date.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "When do we speak of \"goods-to-man\" when picking?",
+              "isRequired": true,
+              "correctAnswer": "When the required goods are entered into the system and brought from the warehouse to the person in an automated process (robots, conveyor belts). This is the case in large logistics centers.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

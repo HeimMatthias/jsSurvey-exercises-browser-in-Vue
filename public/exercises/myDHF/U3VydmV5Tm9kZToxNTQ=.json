@@ -1,0 +1,198 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "The following statements on the subject of legal forms are not correct. Please correct them.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "At least three people are required to form a public limited company. ",
+              "isRequired": true,
+              "correctAnswer": "one person",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Entry in the commercial register is always voluntary for sole proprietorships.",
+              "isRequired": true,
+              "correctAnswer": "Entry is mandatory for annual turnover of CHF 100,000 or more.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "At least two people are required to found a cooperative.",
+              "isRequired": true,
+              "correctAnswer": "seven persons",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "In a cooperative, the focus is on making a profit.",
+              "isRequired": true,
+              "correctAnswer": "Self-help",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "The most important and highest body of the AG is the Board of Directors. ",
+              "isRequired": true,
+              "correctAnswer": "The highest body of the AG is the General Meeting.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "The company name of a sole proprietorship is freely selectable. ",
+              "isRequired": true,
+              "correctAnswer": "must consist of the owner's surname",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "The following statements on the subject of legal forms are not correct. Please correct them.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "When an AG is founded, the company only comes into existence when it is entered in the commercial register. The effect of the entry is therefore declaratory. ",
+              "isRequired": true,
+              "correctAnswer": "constitutive",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Only financial resources can be contributed to the formation of a GmbH.",
+              "isRequired": true,
+              "correctAnswer": "also tangible assets",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "In the case of a GmbH, the paid-up capital is called share capital and amounts to at least CHF 50,000. ",
+              "isRequired": true,
+              "correctAnswer": "CHF 20 000.−",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "The partners of the general partnership are privately liable up to the amount of their capital share contributed to the company. ",
+              "isRequired": true,
+              "correctAnswer": "are liable without limitation and jointly and severally",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "The members of the auditors are professionally qualified employees of the company. ",
+              "isRequired": true,
+              "correctAnswer": "The auditors must be independent of the company.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "There are two different groups of partners in a limited partnership: the general partners (full partners) and the limited partners (partial partners). ",
+              "isRequired": true,
+              "correctAnswer": "and the limited partners",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Legal forms",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "The following statements on the subject of legal forms are not correct. Please correct them.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "The Board of Directors of an AG approves the annual financial statements, the balance sheet and the income statement. ",
+              "isRequired": true,
+              "correctAnswer": "the General Meeting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "A minimum share capital of CHF 100,000 and the cooperation of a judge are required to form an AG. ",
+              "isRequired": true,
+              "correctAnswer": "Notary",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "The general partner works in the business. The limited partner focuses on personal participation. ",
+              "isRequired": true,
+              "correctAnswer": "Financial participation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "With the entry in the commercial register, company protection applies to all companies throughout Switzerland. ",
+              "isRequired": true,
+              "correctAnswer": "for sole proprietorship only at the place of HR entry",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "Unlimited liability means that someone is not liable with their private assets. ",
+              "isRequired": true,
+              "correctAnswer": "limited",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "The GmbH and the sole proprietorship are liable exclusively with their business assets. ",
+              "isRequired": true,
+              "correctAnswer": "and the AG",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

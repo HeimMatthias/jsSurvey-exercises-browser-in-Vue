@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "AHV pension exercise",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Take a closer look at Marianne's AHV pension.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Estimate how high your monthly living costs are and which two budget items probably make up the largest proportion of them.",
+              "isRequired": true,
+              "correctAnswer": "Monthly living costs ≈ CHF 3700.\nLargest budget items: e.g. housing and energy, health insurance/insurance and transport, food and drink.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Marianne receives CHF 1777.50 per month from the AHV. Compare this amount with the estimated cost of living. What do you notice?",
+              "isRequired": true,
+              "correctAnswer": "AHV payments do not cover monthly expenses.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain to Marianne what part of the old-age pension is covered by the AHV and what measures should be taken to cover the rest.",
+              "isRequired": true,
+              "correctAnswer": "It is not possible to maintain the current standard of living with the AHV alone. To do this, you need the 2nd pillar (pension fund) and possibly the 3rd pillar (private pension provision). The AHV only covers basic needs such as housing and food (subsistence). Additional information: In cases where the AHV and other income are not sufficient to cover the minimum cost of living, those affected receive support from the state (so-called supplementary benefits).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

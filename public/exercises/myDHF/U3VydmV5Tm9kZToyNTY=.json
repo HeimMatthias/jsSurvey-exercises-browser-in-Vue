@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the following examples and answer the questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Vanessa claims: \"Tenants are not liable for normal wear and tear, but they are liable for other damage.\" Explain what is meant by \"normal wear and tear\" and how you can find out about standard values for the lifespan of individual items of furniture.",
+              "isRequired": true,
+              "correctAnswer": "Vanessa is right. It is often difficult to distinguish between what is normal wear and tear and what goes beyond that. The guideline values for the service life of individual furnishings serve as a decision-making aid. For example, if wallpaper has to be replaced after just seven years due to excessive wear and tear (service life ten years), the tenant has to bear a maximum of 30 percent of the costs (3/10 of the service life).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The landlord requires you to pay a rental deposit of two months' rent as security. This puts you under financial pressure at the moment, as you have already paid the first month's rent in advance. As an alternative to the rental deposit account, \"Swisscaution\" offers insurance. You save on paying into a deposit account, but pay a premium in return. Check this offer critically. Which is the cheaper solution?",
+              "isRequired": true,
+              "correctAnswer": "If you don't have enough money for a rental deposit, you can opt for an insurance solution with Swisscaution. The insurance premium is relatively expensive and the money paid in is lost. The cheaper solution is to deposit the money, as this bears interest and belongs to the tenant after the tenancy ends.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the following examples and answer the questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The interior blind in the living room no longer works properly. According to the quote, the repair costs CHF 150. You have the work done and send the bill to the landlord. The landlord refuses to pay the costs. Who must now pay the bill? Give your reasons.",
+              "isRequired": true,
+              "correctAnswer": "Minor repairs must be carried out by the tenant. The amount of CHF 50 is likely to fall within this range (depending on local usage) and must therefore be paid by the tenant (according to OR 259).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Your rented apartment is often not warm enough in winter. You have had a warm air stove installed at your own expense. Although \nes is a value-enhancing investment, you did not ask the landlady for permission. When you move out, the landlady now demands that you remove the stove as she does not want any open fires in the house. Do you have to bear these costs and remove the stove? Can you find the relevant article in the OR?",
+              "isRequired": true,
+              "correctAnswer": "The tenant must return the apartment in proper condition. As the tenant failed to obtain the landlord's written consent before installing the stove, the landlord may demand that the stove be removed. The tenant must bear the costs (according to OR 267/260a).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Read the following examples and answer the questions.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Imagine this: You are standing with your landlord in the empty apartment where you have lived for seven years with your family, including your cat. Everything is clean and tidy. You are confident that the handover of the apartment will go smoothly. But then the landlord notes one defect after another on the handover report. You remain confident; after all, you have personal liability insurance. You forward the landlord's invoice with a claim for compensation of CHF 3,600 to the insurance company. When they tell you that they will only pay CHF 720, you become uncertain - and angry. Who is going to pay the difference of CHF 2880 - not you? ",
+              "isRequired": true,
+              "correctAnswer": "When calculating the damage, the service life of the damaged item is taken into account. The personal liability insurance has already done this when calculating the amount of damage. The difference is borne by the landlord.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

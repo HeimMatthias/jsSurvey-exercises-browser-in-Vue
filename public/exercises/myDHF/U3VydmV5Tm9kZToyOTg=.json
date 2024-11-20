@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Defective delivery ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The buyer is obliged to inspect the goods immediately upon receipt (obligation to inspect). ",
+                "The notification obligation stipulates that the buyer must confirm to the seller that the goods have been received in perfect condition. Only then is the purchase deemed to have been approved.  ",
+                "The buyer may neither use nor utilize defective goods as long as the seller has not communicated how he intends to respond to the complaint (obligation to retain the goods). ",
+                "The statutory warranty for new goods is two years, for used goods one year. ",
+                "Product liability and warranty are the same thing. ",
+                "The seller may stipulate in its general terms and conditions that a repair is offered instead of the exchange provided for by law. "
+              ],
+              "type": "matrix",
+              "title": "Are the following statements true or false? ",
+              "columns": [
+                "Correct ",
+                "Wrong "
+              ],
+              "correctAnswer": {
+                "Produktehaftpflicht und Garantie sind dasselbe. ": "Wrong ",
+                "Die gesetzliche Garantie bei Neuwaren beträgt zwei Jahre, bei Gebrauchtwaren ein Jahr. ": "Correct ",
+                "Die Käuferin oder der Käufer hat die Pflicht, die Ware sofort nach Erhalt zu prüfen (Prüfungspflicht). ": "Correct ",
+                "Der Verkäufer darf in seinen AGB festlegen, dass anstelle des gesetzlich vorgesehenen Umtausches eine Reparatur angeboten wird. ": "Correct ",
+                "Die Meldepflicht sieht vor, dass der Käufer dem Verkäufer bestätigt, die Ware in einwandfreiem Zustand erhalten zu haben. Erst danach gilt der Kauf als genehmigt.  ": "Wrong ",
+                "Die Käuferin oder der Käufer darf mangelhafte Ware weder verwenden noch benutzen, solange der Verkäufer nicht mitgeteilt hat, wie er auf die Reklamation reagieren will (Aufbewahrungspflicht). ": "Correct "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Defective delivery ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What is the corresponding legal term (synonym)? ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Complaint ",
+              "choices": [
+                "Notice of defects ",
+                "Letter of deficiency ",
+                "Appeal "
+              ],
+              "correctAnswer": "Notice of defects "
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Guarantee ",
+              "choices": [
+                "Obligation to exchange ",
+                "Liability ",
+                "Warranty "
+              ],
+              "correctAnswer": "Warranty "
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Exchange  ",
+              "choices": [
+                "Replacement delivery ",
+                "New delivery ",
+                "Change "
+              ],
+              "correctAnswer": "Replacement delivery "
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Price reduction ",
+              "choices": [
+                "Special offer ",
+                "Reduction ",
+                "Cash discount "
+              ],
+              "correctAnswer": "Reduction "
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Contract termination/refund ",
+              "choices": [
+                "Cancellation ",
+                "Transformation ",
+                "Conversion "
+              ],
+              "correctAnswer": "Conversion "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

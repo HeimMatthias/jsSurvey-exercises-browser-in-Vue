@@ -1,0 +1,200 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Distinguishing features",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the sentences you have started:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "An assortment is understood to be ...",
+              "isRequired": true,
+              "correctAnswer": "The totality of all goods offered by a retail business.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "A wide range of products includes goods from ...",
+              "isRequired": true,
+              "correctAnswer": "several to many industries.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "A narrow product range includes goods from ...",
+              "isRequired": true,
+              "correctAnswer": "one to two sectors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "A deep assortment offers ...",
+              "isRequired": true,
+              "correctAnswer": "lots of choice per item.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "A flat range offers ...",
+              "isRequired": true,
+              "correctAnswer": "little choice per item.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Distinguishing features",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "List two transactions each with",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "wide range of products:",
+              "isRequired": true,
+              "correctAnswer": "e.g. Globus department store/Supermarket MMM",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "narrow range:",
+              "isRequired": true,
+              "correctAnswer": "e.g. Navyboot shoe shop/Christ watch store",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Distinguishing features",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "List as many services as possible that retail businesses can offer their customers. The services can be provided before, during or after the sale.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Before the sale:",
+              "isRequired": true,
+              "correctAnswer": "Parking lot, dog hooks, children's paradise, reservation, extra order, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "During the sale:",
+              "isRequired": true,
+              "correctAnswer": "Elevator, escalator, customer restroom, shopping cart, rapid checkout, many payment options, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "After the sale:",
+              "isRequired": true,
+              "correctAnswer": "Gift packaging, guarantee, home delivery service, disposal, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Distinguishing features",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Daniela Korlat runs her own clothing boutique. She knows that services are very important for her business. Suggest to Daniela Korlat two customer services and two services that her clothing boutique could offer.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Customer services:",
+              "isRequired": true,
+              "correctAnswer": "Toilet, parking lot, children's play area, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "comment",
+              "title": "Services:",
+              "isRequired": true,
+              "correctAnswer": "Modifications, home delivery, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Distinguishing features",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "The sales or service form is the way in which a retail business uses its employees to sell the product range to customers. In the following examples, name the form of sale described in each case.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Customers have free access to the range. The specialist staff provide advice and assistance at the consumer's request.",
+              "isRequired": true,
+              "correctAnswer": "Area code",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Customers select their items themselves without the help of specialist staff and take them to the checkout. ",
+              "isRequired": true,
+              "correctAnswer": "Self-service",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "Direct customer access to the goods is not possible or not desired. ",
+              "isRequired": true,
+              "correctAnswer": "Full service",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

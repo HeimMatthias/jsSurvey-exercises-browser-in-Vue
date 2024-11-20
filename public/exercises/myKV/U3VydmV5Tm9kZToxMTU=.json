@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Which four languages do most of our foreign words come from?",
+              "isRequired": true,
+              "correctAnswer": "Greek, Latin, French, English",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why does the term \"foreign word\" no longer apply to many terms?",
+              "isRequired": true,
+              "correctAnswer": "Some words are very familiar to us; we no longer perceive them as foreign.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Foreign words can be used if they are generally known and if they fit the text. Under which two other conditions should foreign words also be used?",
+              "isRequired": true,
+              "correctAnswer": "When they describe something better than the German word. When the German word is cumbersome or outdated.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are Helvetisms? Give an example.",
+              "isRequired": true,
+              "correctAnswer": "Words that are only used in Swiss German. Example: Velo, standard German: Fahrrad",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the four levels of style?",
+              "isRequired": true,
+              "correctAnswer": "elevated, standard language, colloquial, casual/coarse",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,270 @@
+{
+  "pages": [
+    {
+      "name": "Zahlungsmittel",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "safe",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "uncertain",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel2",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "time-saving",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "time-consuming",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel3",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Low fees",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "High fees",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel4",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "High acceptance/spread",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "Deep acceptance/spread",
+              "choices": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                {
+                  "text": "Payment apps (Twint, ...)",
+                  "value": "Payment apps (Twins, ...)"
+                },
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel5",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Discuss any disagreements.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "List these:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

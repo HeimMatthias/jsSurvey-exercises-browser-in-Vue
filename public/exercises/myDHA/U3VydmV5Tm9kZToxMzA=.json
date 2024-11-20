@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Asset insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Asset insurance\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does personal liability insurance cover?",
+              "correctAnswer": "You are liable if you cause damage to someone. Regardless of whether you have caused this damage intentionally or unintentionally. You are also liable if persons, animals or property for which you are responsible cause damage to third parties, for example through carelessness, forgetfulness or incorrect assessment of a situation. It also covers damage caused by driving a bicycle."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What risks does motor vehicle liability insurance cover?",
+              "correctAnswer": "Motor vehicle liability insurance pays for all personal injury and property damage caused by the insured drivers."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How does the malus and bonus system work?",
+              "correctAnswer": "Bonus: Anyone who drives accident-free is rewarded with a premium reduction.\nMalus: Anyone who causes an accident with cost consequences pays higher insurance premiums."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

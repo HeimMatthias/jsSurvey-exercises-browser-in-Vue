@@ -1,0 +1,204 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Genitive forms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Formulate the genitive forms as shown in the example.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "off the beaten track, the hiking trail",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "readOnly": true,
+              "defaultValue": "abseits des Wanderweg(e)s ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "using the evidence",
+              "isRequired": true,
+              "correctAnswer": "on the basis of the exhibit(s)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "on the occasion of her birthday",
+              "isRequired": true,
+              "correctAnswer": "on the occasion of her birthday(s)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "using, the skid marks",
+              "isRequired": true,
+              "correctAnswer": "based on the skid marks",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Genitive forms",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "due to global climate change",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "due to global climate change",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "within, our company",
+              "isRequired": true,
+              "correctAnswer": "within our company",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "included, the additional costs",
+              "isRequired": true,
+              "correctAnswer": "including ancillary costs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "as a result, a long traffic jam",
+              "isRequired": true,
+              "correctAnswer": "as a result of a long traffic jam",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Genitive forms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "west, the Atlantic",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "West of the Atlantic",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "below, the mountain peak",
+              "isRequired": true,
+              "correctAnswer": "below the mountain peak",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "laterally, the edge of the pitch",
+              "isRequired": true,
+              "correctAnswer": "to the side of the edge(s) of the pitch",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "despite, the heavy rain",
+              "isRequired": true,
+              "correctAnswer": "despite the heavy rain",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Genitive forms",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "because of, the long lasting war",
+              "width": "650px",
+              "maxWidth": "650px",
+              "minWidth": "650px",
+              "isRequired": true,
+              "correctAnswer": "because of the long-lasting war(s)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "the new rector",
+              "isRequired": true,
+              "correctAnswer": "for the attention of the new rector",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "the previous tenant",
+              "isRequired": true,
+              "correctAnswer": "at the expense of the previous tenant",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "plus, the heating costs",
+              "isRequired": true,
+              "correctAnswer": "plus heating costs",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

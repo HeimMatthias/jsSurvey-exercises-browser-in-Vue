@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Requirements profile - core profile",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the Migros job advertisement.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "List the requirements profile (tasks) for the advertised position from the information in the advertisement.",
+              "isRequired": true,
+              "correctAnswer": "Colonial/freezer management, customer service, product presentation and planning, ordering, incoming goods inspection, responsibility, tidiness and cleanliness.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "There are particularly important points in the requirements profile, these are the core competencies. Think about whether you fulfill them completely.",
+              "isRequired": true,
+              "correctAnswer": "Completed apprenticeship DHF, good knowledge of colonial/freezer, reliability, flexibility, commitment, independent and precise way of working, friendliness, very good spoken and written German skills",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Make it clear in a few sentences that your core profile matches the requirements profile (professional qualifications, educational background, practical experience, personality, work and performance behavior, social skills).",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What does an application dossier contain?",
+              "isRequired": true,
+              "correctAnswer": "Letter of application (cover letter), curriculum vitae in tabular form, copies of all references, copies of professional or academic qualifications, copies of diplomas/certificates of further education, references (recommendations)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

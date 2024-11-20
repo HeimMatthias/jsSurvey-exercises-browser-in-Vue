@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Termination",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Let's assume Sandro is in his 3rd year of service and wants to leave his job by mid-August at the latest because he has received a better job offer. He can start the new job on September 1. He wants to take a short break between the two jobs. He therefore submits his resignation on July 12. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Show Sandro the error in his thinking. Explain the terms in the following diagram to him and write down the three missing dates on the timeline so that he can leave his job by mid-August at the latest.",
+              "isRequired": true,
+              "correctAnswer": "Sandro has forgotten that he can only give notice at the end of a month. If he wants to leave his job by mid-August at the latest, he would have to set the termination date to July 31. As the notice period is one month, it begins on July 1. Sandro would therefore have to hand in his notice at the post office a few days before the end of June. (Notice posted at the post office: 22.6.; start of notice period: 1.7.; termination date: 31.7.)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A9_Kuendingunsschema-1.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Name der Übung1",
+      "title": "Termination",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Complete the same scheme, only with different dates. This time, Sandro is in his 7th year of service and wants to leave his job on April 4 at the latest.",
+              "isRequired": true,
+              "correctAnswer": "Notice of termination submitted to the post office: 23.1.; start of notice period: 1.2.; termination date: 31.3.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A9_Kuendingunsschema-1.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Termination",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Ms. Suter has been working for the same company for 5 years. She submits the letter of termination to her employer on May 15. The notice period is 3 months and the notice period is to the end of the month. What is her termination date? Fill in the missing dates on the timeline.",
+              "isRequired": true,
+              "correctAnswer": "Delivery of the letter of termination: May 15; start of the notice period: June 1; termination date: August 31.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M4_A9_Kuendingunsschema-2.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Facts of the case",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Competencies",
+                "Resources",
+                "Sequence of work steps"
+              ],
+              "type": "matrixdropdown",
+              "title": "Question",
+              "choices": [
+                "."
+              ],
+              "columns": [
+                {
+                  "name": "Fluss-diagramm"
+                },
+                {
+                  "name": "Balken-diagramm"
+                },
+                {
+                  "name": "Aublaufplan",
+                  "choices": [
+                    {
+                      "text": ".",
+                      "value": "item1"
+                    }
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Funktionen-diagramm"
+                }
+              ],
+              "cellType": "checkbox",
+              "correctAnswer": {
+                "Ressourcen": {
+                  "Fluss-diagramm": [
+                    "."
+                  ]
+                },
+                "Kompetenzen": {
+                  "Balken-diagramm": [
+                    "."
+                  ]
+                },
+                "Arbeittschritte": {
+                  "Aublaufplan": [
+                    "item1"
+                  ],
+                  "Balken-diagramm": [
+                    "."
+                  ],
+                  "Funktionen-diagramm": [
+                    "."
+                  ]
+                },
+                "Verantwortliche": {
+                  "Fluss-diagramm": [
+                    "."
+                  ],
+                  "Balken-diagramm": [
+                    "."
+                  ]
+                },
+                "Reihenfolge Arbeitsschritte": {
+                  "Aublaufplan": [
+                    "item1"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

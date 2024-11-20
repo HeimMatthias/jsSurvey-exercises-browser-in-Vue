@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Rechtsfälle",
+      "title": "Legal cases",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide whether the minors are allowed to do what they would like to do. Write down at least one pro and one contra argument for each case.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M8-2_A4-Fall1_36RH3wq.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Case 1: 16-year-old Petar, a trainee car mechanic, wants to buy a second-hand moped for CHF 300. His parents do not agree. Petar has savings of CHF 2000.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rechtsfälle1",
+      "title": "Legal cases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the minors are allowed to do what they would like to do. Write down at least one pro and one contra argument for each case.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M8-2_A4-Fall2_jKZOXju.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Case 2: 14-year-old Linda wants to marry her 15-year-old boyfriend Martin.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rechtsfälle2",
+      "title": "Legal cases",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the minors are allowed to do what they would like to do. Write down at least one pro and one contra argument for each case.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M8-2_A4-Fall3_hSVw5si.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Case 3: 10-year-old Lauri wants to buy a remote-controlled drone for CHF 99. His parents do not agree. However, Lauri has savings of CHF 500.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rechtsfälle3",
+      "title": "Legal cases",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the minors are allowed to do what they would like to do. Write down at least one pro and one contra argument for each case.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M8-2_A4-Fall4_XdwynUJ.png\" />",
+              "name": "question4",
+              "type": "html"
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Case 4: 16-year-old Petra, a trainee car mechatronics technician, wants to buy a second-hand car for CHF 9000 and convert it. Her parents do not agree. Petra has savings of CHF 2000.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

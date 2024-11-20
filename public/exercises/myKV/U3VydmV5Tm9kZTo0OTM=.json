@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Communication channels",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are the primary instruments of marketing communication? Briefly describe each instrument using the characteristics of appearance, form and example.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "How can communication channels be described?",
+              "choices": [
+                "Connection path of the information flow between recipient and recipient",
+                "Spreading the marketing message to customers",
+                "Connection path of the information flow between sender and receiver"
+              ],
+              "correctAnswer": [
+                "Spreading the marketing message to customers",
+                "Connection path of the information flow between sender and receiver"
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How are communication channels differentiated? Give an example of each.",
+              "correctAnswer": "Type (synchronous, asynchronous, discrete, continuous), direction (one-way or two-way), role distribution (fixed or variable), interactivity, online, offline, involved conversation partners (scalability)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

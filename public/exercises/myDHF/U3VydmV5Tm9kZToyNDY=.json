@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Purchase motives",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Expediency",
+                "Desire for love and affection",
+                "Want to look well-groomed",
+                "Making work easier",
+                "Sense of responsibility",
+                "Giving pleasure, wanting to make a gift",
+                "Convenience",
+                "Wanting to be recognized and admired"
+              ],
+              "type": "matrix",
+              "title": "For the following purchase motives, indicate whether it is an emotional or an intellectual purchase motive. ",
+              "columns": [
+                "Emotional",
+                "Intellectual"
+              ],
+              "correctAnswer": {
+                "Bequemlichkeit": "Intellectual",
+                "Zweckmässigkeit": "Intellectual",
+                "Arbeitserleichterung": "Intellectual",
+                "Gepflegt aussehen wollen": "Emotional",
+                "Verantwortungsbewusstsein": "Intellectual",
+                "Wunsch nach Liebe und Zuneigung": "Emotional",
+                "Anerkannt und bewundert werden wollen": "Emotional",
+                "Freude bereiten, etwas schenken wollen": "Emotional"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

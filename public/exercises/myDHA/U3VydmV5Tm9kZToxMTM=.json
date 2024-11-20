@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Multiple operation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "It is not absolutely necessary to apologize to the first customer, as it shows weakness.",
+                "Let the first-time customer know that you will be there for them again immediately.",
+                "It doesn't matter what the first customer does during your absence.",
+                "You thank the waiting customer for their understanding and patience.",
+                "In situations with multiple service, it is necessary to block out the waiting customers as much as possible in order to be able to concentrate fully on the ongoing sales conversation."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about multiple operation correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Es ist egal, was die Erstkundin während Ihrer Abwesenheit macht.": "Wrong",
+                "Sie bedanken sich beim wartenden Kunden für sein Verständnis und seine Geduld.": "Correct",
+                "Weisen Sie den Erstkunden darauf hin, dass Sie sofort wieder für ihn da sein werden.": "Correct",
+                "Es ist nicht zwingend notwendig, sich bei der Erstkundin zu entschuldigen, da es von Schwäche zeugt.": "Wrong",
+                "In Situationen mit Mehrfachbedienung ist es notwendig, die wartende Kundschaft möglichst auszublenden, um sich voll und ganz auf das laufende Verkaufsgespräch konzentrieren zu können.": "Wrong"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

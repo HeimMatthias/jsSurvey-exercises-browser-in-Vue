@@ -1,0 +1,245 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The same communication style should be used in every conversation, regardless of the person you are talking to.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Adapt your communication style to that of the person you are talking to in order to communicate more effectively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "In a conflict situation, it is best to ignore emotions and focus on facts.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Show empathy and understanding for the other person's emotions, especially in conflict situations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The aim of the meeting should be clearly defined at the beginning.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The principle of give and take is not useful in negotiations.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Negotiation techniques such as the principle of give and take can be effective in negotiations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The personality of the conversation partner should be analyzed before the conversation in order to adapt the communication.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Emotional intelligence is less important in communication than logical argumentation.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "Emotional intelligence is just as important in communication as logical reasoning in order to build an effective and empathetic connection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "When resolving conflicts, it is more effective to offer solutions immediately rather than first trying to understand the other person's views.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "In conflict situations, it is important to first understand the perspectives and views of the other person before proposing solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "Communication techniques",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Find the correct statements and correct the incorrect ones.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "In a negotiation, it is best to insist on your own position in order to achieve the best possible result.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Correction",
+              "correctAnswer": "In negotiations, it is often more effective to show flexibility and focus on common interests in order to achieve a win-win situation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

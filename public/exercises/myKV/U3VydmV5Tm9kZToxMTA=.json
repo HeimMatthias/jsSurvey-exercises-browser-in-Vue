@@ -1,0 +1,208 @@
+{
+  "pages": [
+    {
+      "name": "Übung 1",
+      "title": "Eisenhower principle",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Decide whether it is a super task, a later task, an immediate task or a pointless task. Give brief reasons for your answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "An important customer comes forward with a serious complaint and threatens to bail out.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Super task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The future of the company is at stake. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The sales statistics for the last six months are due in 14 days.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Later task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "There is still time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "You've invited friends over for dinner and haven't done the shopping yet.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Immediate task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "That has to be today.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Eisenhower principle",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether it is a super task, a later task, an immediate task or a pointless task. Give brief reasons for your answer.",
+          "elements": [
+            {
+              "name": "question25",
+              "type": "radiogroup",
+              "title": "You will receive an invitation to a meeting, which you can attend if you wish. You are not involved in the subject matter.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pointless task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question26",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Pointless, as you are not involved in this topic.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question19",
+              "type": "radiogroup",
+              "title": "Spreadsheets are not your strong point. Nevertheless, you would like to do the calculation yourself this time.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pointless task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question20",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "No relevant knowledge, better to delegate.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Eisenhower principle",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether it is a super task, a later task, an immediate task or a pointless task. Give brief reasons for your answer.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Your appraisal interview is due today at 2 p.m. and you haven't had time to prepare.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Super task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Super urgent, it's about your professional future.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "There's chaos on your desk: you actually wanted to tidy up yesterday.",
+              "choices": [
+                "Super task",
+                "Later task",
+                "Immediate task",
+                "Pointless task"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Later task",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Later, but not too long, inhibits the creative urge. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

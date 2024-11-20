@@ -1,0 +1,595 @@
+{
+  "pages": [
+    {
+      "name": "Lernkarten DASS",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "I know ... I sometimes take pretty big risks.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "I think ... I could optimize my diet with little effort.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question2",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "She finds it constricting ... her boyfriend is so jealous.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question6",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "The photo ... I sent to my girlfriend suddenly ended up on the Internet.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question8",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "It worries her ... she gains weight so quickly when she eats unhealthy food.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question10",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "... young people only spend their free time on their cell phones is an unjustified assertion.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question12",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "dropdown",
+              "title": "The pressure to perform in many companies means that ... many people are stressed.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question14",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "dropdown",
+              "title": "I don't really know whether I ... can cope with the workload.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question16",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "dropdown",
+              "title": "Do you think that ... young people spend too much time online?",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question18",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page9",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question19",
+              "type": "dropdown",
+              "title": "Is there something ... you would like to change?",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question20",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page10",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "dropdown",
+              "title": "Do you think ... you have to work too much?",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question22",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page11",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel11",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question23",
+              "type": "dropdown",
+              "title": "... She has wanted to experience a real adventure for a long time.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question24",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page12",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question25",
+              "type": "dropdown",
+              "title": "Is it true ... you should exercise every day to stay healthy?",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question26",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page13",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel13",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question27",
+              "type": "dropdown",
+              "title": "... non-violent communication defuses conflicts is something you can try out for yourself using 4 steps.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question28",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page14",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel14",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question29",
+              "type": "dropdown",
+              "title": "I found out with the risk test ... I prefer to stay on the safe side.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question30",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page15",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel15",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question31",
+              "type": "dropdown",
+              "title": "... I have been able to read graphics better since I worked on the last module.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question32",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page16",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel16",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question33",
+              "type": "dropdown",
+              "title": "My fitness subscription, ... I have purchased motivates me to exercise regularly.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question34",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page17",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel17",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question35",
+              "type": "dropdown",
+              "title": "He believes ... he takes sufficient care of his health.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question36",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page18",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel18",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question37",
+              "type": "dropdown",
+              "title": "We have discovered that ... Stress is an imbalance of burdens and resources.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question38",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "page19",
+      "title": "Flashcards DASS",
+      "elements": [
+        {
+          "name": "panel19",
+          "type": "panel",
+          "title": "Entscheiden Sie anhand der Umstellprobe, ob \"DASS\" mit zwei \"S\" geschrieben wird oder nicht.",
+          "elements": [
+            {
+              "name": "question39",
+              "type": "dropdown",
+              "title": "With the relaxation exercises, I have learned ... I can calm down within three minutes.",
+              "choices": [
+                "that",
+                "the"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question40",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Bezahlsituationen",
+      "title": "Payment situations",
+      "elements": [
+        {
+          "name": "Bezahlsituationen1",
+          "type": "panel",
+          "title": "Formulate an if-then sentence for each situation according to the example and add two more situations.",
+          "elements": [
+            {
+              "name": "Beispiel",
+              "type": "comment",
+              "readOnly": true,
+              "defaultValue": "Wenn ich online per Kreditkarte bezahle, dann spare ich bei der Abholung des Autos Zeit."
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Payment of the outward & return journey",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Booking the accommodation",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Eating in the restaurant",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bezahlsituationen2",
+      "title": "Payment situations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Formulate an if-then sentence for each situation according to the example and add two more situations.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Shopping in the store",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Pay a cab",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Add another situation.",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Add another situation.",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

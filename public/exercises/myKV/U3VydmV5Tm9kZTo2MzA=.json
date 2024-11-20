@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "name": "Kaufmännisches Runden",
+      "title": "Commercial rounding",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the rounding for 0.08954 CHF ...",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "... to the whole number.",
+              "choices": [
+                "0",
+                "0.1",
+                "0.09"
+              ],
+              "correctAnswer": "0"
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "... to the nearest decimal point.",
+              "choices": [
+                "0.08",
+                "0.09",
+                "0.1"
+              ],
+              "correctAnswer": "0.1"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "... to the nearest three decimals.",
+              "choices": [
+                "0.089",
+                "0.090",
+                "0.09"
+              ],
+              "correctAnswer": "0.090"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "... to the smallest unit (coin money).\n",
+              "choices": [
+                "0.05",
+                "0.09",
+                "0.10"
+              ],
+              "correctAnswer": "0.10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Commercial rounding",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the rounding for 0.52245 CHF ...",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "... to the whole number.",
+              "choices": [
+                "0",
+                "0.5",
+                "1"
+              ],
+              "correctAnswer": "0.5"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "... to the nearest decimal point.",
+              "choices": [
+                "0.52",
+                "0.5",
+                "0.6"
+              ],
+              "correctAnswer": "0.5"
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "... to the nearest three decimals.",
+              "choices": [
+                "0.522",
+                "0.523",
+                "0.52"
+              ],
+              "correctAnswer": "0.522"
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "... to the smallest unit (coin money).\n",
+              "choices": [
+                "0.50",
+                "0.52",
+                "0.55"
+              ],
+              "correctAnswer": "0.50"
+            },
+            {
+              "html": "<p style=\"font-family: 'Montserrat', Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5;\">Je kleiner der Stückpreis eines Produktes, desto entscheidender wird das Runden. Im Rahmen einer Kalkulation von Süsswaren ist dies an den Beispielen 1 und 2 zu zeigen. Entscheiden Sie, welche Rundungsvorgabe die korrekte ist.</p>",
+              "name": "question9",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

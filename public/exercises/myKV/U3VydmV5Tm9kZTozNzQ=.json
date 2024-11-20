@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Theft insurance",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "The wallet insurance scheme has got off to a good start, with 150 apprentices already taking part. However, Marion, Mats and Ricarda are now noticing that thefts in the checkroom are increasing. They are receiving more and more reports of thefts, and the amount of money reported as stolen is also increasing noticeably.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What could be the reason for this?",
+              "isRequired": true,
+              "correctAnswer": "There are two possible explanations for this: \nInsurance fraud: Higher damages are reported than actually exist, as the insurance company covers the damage. \nNegligence (\"moral hazard\"): The insured learners become careless because they are insured and now forget to take their wallet to the gym more often. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Theft insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What problems does this cause for the following groups of people?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "... for the negligent policyholders who are robbed? ",
+              "isRequired": true,
+              "correctAnswer": "As the damage is covered by the insurance, there are no negative consequences for the careless insured. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "... for cautious policyholders who take good care of their wallets? ",
+              "isRequired": true,
+              "correctAnswer": "The prudent insured do not benefit from the insurance, but pay in solidarity for the careless. Over time, they will probably consider whether they want to remain insured or whether they don't need the insurance at all.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "... for the insurance providers Marion, Mats and Ricarda?",
+              "isRequired": true,
+              "correctAnswer": "The three insurance providers will consider whether a premium increase or a reduction in the maximum claim amount is necessary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Theft insurance",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What countermeasures can Marion, Mats and Ricarda take now?",
+              "isRequired": true,
+              "correctAnswer": "Marion, Mats and Ricarda have the following options: \nYou can introduce a deductible, e.g. of CHF 50. \nYou can increase the premium. \nYou can reduce the maximum claim amount. \nYou can limit the number of claims per insured person and per year.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

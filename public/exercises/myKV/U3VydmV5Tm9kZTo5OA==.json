@@ -1,0 +1,142 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Account types",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Um welche Kontoart (Aktivkonto, Passivkonto, Aufwandkonto, Ertragskonto) handelt es sich bei den aufgeführten Konten?",
+              "rows": [
+                "Mortgages",
+                "Furniture",
+                "Maintenance/repairs",
+                "Depreciation and amortization",
+                "Receivables L+L",
+                "Equity capital",
+                "Service income"
+              ],
+              "type": "matrix",
+              "title": "What type of account (asset account, liability account, expense account, income account) are the accounts listed?",
+              "columns": [
+                "Asset account",
+                "Liability account",
+                "Expense account",
+                "Revenue account"
+              ],
+              "correctAnswer": {
+                "Mobiliar": "Asset account",
+                "Hypotheken": "Liability account",
+                "Eigenkapital": "Liability account",
+                "Abschreibungen": "Expense account",
+                "Forderungen L+L": "Asset account",
+                "Dienstleistungsertrag": "Revenue account",
+                "Unterhalt/Reparaturen": "Expense account"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Account types",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Loans receivable",
+                "Vehicle expenditure",
+                "Financial income",
+                "Real estate",
+                "Space requirements",
+                "Liabilities L+L",
+                "Administrative expenses"
+              ],
+              "type": "matrix",
+              "title": "What type of account (asset account, liability account, expense account, income account) are the accounts listed?",
+              "columns": [
+                "Asset account",
+                "Liability account",
+                "Expense account",
+                "Revenue account"
+              ],
+              "correctAnswer": {
+                "Immobilien": "Asset account",
+                "Raumaufwand": "Expense account",
+                "Finanzertrag": "Revenue account",
+                "Aktivdarlehen": "Asset account",
+                "Fahrzeugaufwand": "Expense account",
+                "Verwaltungsaufwand": "Expense account",
+                "Verbindlichkeiten L+L": "Liability account"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Account types",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Vehicles",
+                "Advertising expenditure",
+                "Inventories",
+                "Cash register",
+                "IT systems",
+                "Energy expenditure"
+              ],
+              "type": "matrix",
+              "title": "What type of account (asset account, liability account, expense account, income account) are the accounts listed?",
+              "columns": [
+                "Asset account",
+                "Liability account",
+                "Expense account",
+                "Revenue account"
+              ],
+              "correctAnswer": {
+                "Kasse": "Asset account",
+                "Fahrzeuge": "Asset account",
+                "IT-Anlagen": "Asset account",
+                "Werbeaufwand": "Expense account",
+                "Warenvorräte": "Asset account",
+                "Energieaufwand": "Expense account"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

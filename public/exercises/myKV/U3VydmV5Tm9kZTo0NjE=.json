@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Today, the engagement has no legal significance, only a symbolic one. ",
+                "In order to get married, you must submit an application to the relevant registry office. ",
+                "Marriage is a contract between a man and a woman that can be concluded informally. ",
+                "The dissolution of the engagement may have legal consequences. ",
+                "Couples can only marry if they have been engaged to be married for at least one year. ",
+                "Anyone who has reached the age of 18 and is capable of judgment is capable of marriage. ",
+                "The marriage of siblings is also prohibited if the relationship is due to adoption. ",
+                "A person who is still married but has been separated from their spouse for more than two years may remarry. ",
+                "Couples are free to choose whether they prefer to get married at the registry office or in church. ",
+                "If the bridal couple can agree on one person, one best man is sufficient instead of two."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements are correct and which are incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die Auflösung der Verlobung kann rechtliche Konsequenzen haben. ": "right",
+                "Ehefähig ist, wer das 18. Altersjahr vollendet hat und urteilsfähig ist. ": "right",
+                "Die Ehe ist ein Vertrag zwischen Mann und Frau, der formlos abgeschlossen werden kann. ": "wrong",
+                "Die Verlobung hat heute keine rechtliche, sondern nur noch eine symbolische Bedeutung. ": "wrong",
+                "Paare können nur heiraten, wenn sie vorher mindestens ein Jahr zusammen verlobt waren. ": "wrong",
+                "Können sich die Brautleute auf eine Person einigen, reicht auch ein Trauzeuge anstatt zwei.": "wrong",
+                "Paare können frei wählen, ob sie lieber auf dem Standesamt oder in der Kirche heiraten möchten. ": "wrong",
+                "Um heiraten zu können, muss man beim zuständigen Zivilstandsamt ein entsprechendes Gesuch stellen. ": "right",
+                "Die Eheschliessung von Geschwistern ist auch dann verboten, wenn die Verwandtschaft auf eine Adoption zurückzuführen ist. ": "right",
+                "Eine Person, die zwar noch verheiratet ist, aber länger als zwei Jahre vom Ehepartner getrennt lebt, darf wieder heiraten. ": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Objections",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions on the subject of objections.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why is it important for salespeople to know the objection groups?",
+              "isRequired": true,
+              "correctAnswer": "Salespeople who can correctly interpret the objections and assign them to the objection groups are able to refute the objections competently with the appropriate arguments.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How should retail employees respond to objections?",
+              "isRequired": true,
+              "correctAnswer": "It is important not to take objections personally and to remain calm. Objections show the customer's interest and offer retail employees the opportunity to demonstrate their expertise with appropriate arguments and emphasize the advantages of the product. It is important to show understanding for the objection and give customers the feeling that their concerns are being taken seriously.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How does the Yes-Yet method work to invalidate objections?",
+              "isRequired": true,
+              "correctAnswer": "The method involves three steps: (1) The objection is agreed to with \"Yes\", because the principle applies that customers are always right. (2) The objection is repeated. This shows that the objection has been understood and is being taken seriously. (3) The connecting word \"However\" is used to add an argument that demonstrates the customer's benefit and thus invalidates the objection.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

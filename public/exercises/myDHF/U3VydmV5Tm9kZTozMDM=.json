@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Economic principle ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Match the following descriptions to the correct principle. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "The greatest possible success is to be achieved with given means. ",
+              "choices": [
+                "Minimum principle ",
+                "Maximum principle ",
+                "Optimal principle "
+              ],
+              "correctAnswer": "Maximum principle "
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The aim is to achieve the greatest possible return with minimum effort. The aim is to find the point at which the difference between effort and return is as great as possible. ",
+              "choices": [
+                "Minimum principle ",
+                "Maximum principle ",
+                "Optimal principle "
+              ],
+              "correctAnswer": "Optimal principle "
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "A given goal should be achieved with as few resources as possible. ",
+              "choices": [
+                "Minimum principle ",
+                "Maximum principle ",
+                "Optimal principle "
+              ],
+              "correctAnswer": "Minimum principle "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

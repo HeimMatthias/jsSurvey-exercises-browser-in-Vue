@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "title": "Factors influencing the price trend",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Commodity prices",
+                "Exchange rates",
+                "Corporate strategy",
+                "Competitive situation",
+                "Pricing policy",
+                "Supply chain",
+                "Customer expectations/behavior ",
+                "Overheads ",
+                "State intervention ",
+                "Economic situation "
+              ],
+              "type": "matrix",
+              "title": "Assign the following factors to the internal or external influencing factors.",
+              "columns": [
+                "Internal factor ",
+                "External factor "
+              ],
+              "correctAnswer": {
+                "Lieferkette": "External factor ",
+                "Preispolitik": "Internal factor ",
+                "Wechselkurse": "External factor ",
+                "Gemeinkosten ": "Internal factor ",
+                "Rohstoffpreise": "External factor ",
+                "Wirtschaftslage ": "External factor ",
+                "Konkurrenzsituation": "External factor ",
+                "Staatliche Eingriffe ": "External factor ",
+                "Unternehmensstrategie": "Internal factor ",
+                "Kundenerwartung/-verhalten ": "External factor "
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

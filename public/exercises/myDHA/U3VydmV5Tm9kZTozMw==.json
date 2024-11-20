@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Cashless payment transactions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What do you mean by cashless payment?",
+              "isRequired": true,
+              "correctAnswer": "The debtor transfers the amount owed from his account to that of the creditor. In retail, cashless payment is made at an EFT/POS device.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you mean by a credit card?",
+              "isRequired": true,
+              "correctAnswer": "The credit card is a proof of membership of a credit card organization.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What different credit card organizations do you know?",
+              "isRequired": true,
+              "correctAnswer": "Examples: VISA, Mastercard, American Express, Diner's Club",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Cashless payment transactions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is a customer card?",
+              "isRequired": true,
+              "correctAnswer": "The customer card works in the same way as a credit card, only it is issued by department stores or large retailers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the main difference between debit and credit cards?",
+              "isRequired": true,
+              "correctAnswer": "With credit cards, cardholders are granted credit by the credit card organization. With a debit card, on the other hand, cardholders grant the retailer direct access to their own account.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Sandra Bierr wants to pay with her credit card at the supermarket. The store owner Lisa Casagrande refuses, stating that she is not obliged to accept credit cards. What is the legal situation?",
+              "isRequired": true,
+              "correctAnswer": "The retailer is free to decide whether to accept other means of payment instead of cash.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Vrai ou faux ?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "A question is exclusively addressed to others. ",
+                "A question can be addressed to yourself and to others. ",
+                "A question can only be posed verbally. ",
+                "Une question peut être posée verbalement ou non verbalement. ",
+                "A question is a replica. ",
+                "A question may be posed consciemmentally or inconsciemmentally. ",
+                "Une question représente une incitation. ",
+                "Une question s'adresse à un nombre restreint de destinataires. "
+              ],
+              "type": "matrix",
+              "title": "What are the characteristics of the questions?",
+              "columns": [
+                "Vrai ",
+                "Falsc"
+              ],
+              "correctAnswer": {
+                "Une question est une réplique. ": "Falsc",
+                "Une question représente une incitation. ": "Vrai ",
+                "Une question ne peut être posée que verbalement. ": "Falsc",
+                "Une question est exclusivement adressée à d’autres. ": "Falsc",
+                "Une question peut être posée consciemment ou inconsciemment. ": "Vrai ",
+                "Une question peut être posée verbalement ou non verbalement. ": "Vrai ",
+                "Une question peut être adressée à soi-même et à d’autres. ": "Vrai ",
+                "Une question s’adresse à un nombre restreint de destinataires. ": "Falsc"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Vrai ou faux ?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A question is always formulated consciemment. ",
+                "A question generally finds its own answer. ",
+                "A question refers to an element that defines the question. ",
+                "The answer to a question can only be non-verbal. ",
+                "Une question awaits une réponse. ",
+                "Une question est un acte de désespoir. ",
+                "The answer to a question can be verbal or non-verbal. ",
+                "La réaction à une question est ouverte. "
+              ],
+              "type": "matrix",
+              "title": "What are the characteristics of the questions?",
+              "columns": [
+                "Vrai",
+                "Faux"
+              ],
+              "correctAnswer": {
+                "Une question attend une réponse. ": "Vrai",
+                "Une question est un acte de désespoir. ": "Faux",
+                "La réaction à une question est ouverte. ": "Vrai",
+                "Une question est toujours formulée consciemment. ": "Faux",
+                "Une question trouve en général sa réponse d’elle-même. ": "Faux",
+                "La réponse à une question peut être uniquement non verbale. ": "Faux",
+                "La réponse à une question peut être verbale ou non verbale. ": "Vrai",
+                "Une question se réfère à un élément déclencheur de la question. ": "Vrai"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

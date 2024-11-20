@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Customers with disabilities ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Sind die folgenden Aussagen zum Sachtext «Kundinnen und Kunden mit Beeinträchtigungen» richtig oder falsch?",
+              "rows": [
+                "Barriers are obstacles and factors that make it difficult for people with disabilities to participate in social life.",
+                "In addition to structural barriers, human barriers (e.g. lack of understanding and prejudices) must also be removed.",
+                "Impairments are always of a physical nature and are immediately recognizable to sales staff. ",
+                {
+                  "text": "It is appropriate to show compassion for customers with disabilities.",
+                  "value": "It is appropriate to show compassion for customers with disabilities. "
+                },
+                "If necessary, customers with a visual impairment should be accompanied to the exit. "
+              ],
+              "type": "matrix",
+              "columns": [
+                {
+                  "text": "Correct ",
+                  "value": "Correct"
+                },
+                "Wrong "
+              ],
+              "correctAnswer": {
+                "Es ist angebracht, Mitleid für Kundinnen und Kunden mit Beeinträchtigungen zu zeigen. ": "Wrong ",
+                "Beeinträchtigungen sind immer physischer Natur und für das Verkaufspersonal sofort erkennbar. ": "Wrong ",
+                "Bei Bedarf sollten Kundinnen und Kunden mit einer Sehbeeinträchtigung zum Ausgang begleitet werden. ": "Correct",
+                "Für Kundinnen und Kunden mit einer Hörbeeinträchtigung ist es wichtig, dass man so laut wie möglich spricht. ": "Falsch ",
+                "Im Gespräch mit Kundinnen und Kunden mit einer geistigen Behinderung sollten ironische Aussagen unterlassen werden.": "Richtig",
+                "Nebst baulichen Barrieren gilt es auch menschliche Barrieren (z.B. fehlendes Verständnis und Vorurteile) abzubauen.": "Correct",
+                "Um Kundinnen und Kunden im Rollstuhl nicht von oben herab anzuschauen, empfiehlt sich eine angemessene Gesprächsdistanz. ": "Richtig",
+                "Barrieren sind Hindernisse und Faktoren, die Menschen mit Beeinträchtigungen die Teilnahme am gesellschaftlichen Leben erschweren.": "Correct",
+                "Die Frage der Handlungsfähigkeit von Kundinnen und Kunden mit einer geistigen Behinderung ist für das Verkaufspersonal nicht relevant. ": "Falsch "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Customers with disabilities ",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "For customers with a hearing impairment, it is important to speak as loudly as possible. ",
+                "To avoid looking down on customers in wheelchairs, it is advisable to keep an appropriate distance from them. ",
+                "When talking to customers with an intellectual disability, ironic statements should be avoided.",
+                "The question of the ability of customers with an intellectual disability to act is not relevant for sales staff. "
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the factual text \"Customers with disabilities\" correct or incorrect? ",
+              "columns": [
+                {
+                  "text": "Correct ",
+                  "value": "Correct"
+                },
+                "Wrong "
+              ],
+              "correctAnswer": {
+                "Es ist angebracht, Mitleid für Kundinnen und Kunden mit Beeinträchtigungen zu zeigen. ": "Wrong ",
+                "Beeinträchtigungen sind immer physischer Natur und für das Verkaufspersonal sofort erkennbar. ": "Wrong ",
+                "Bei Bedarf sollten Kundinnen und Kunden mit einer Sehbeeinträchtigung zum Ausgang begleitet werden. ": "Correct",
+                "Für Kundinnen und Kunden mit einer Hörbeeinträchtigung ist es wichtig, dass man so laut wie möglich spricht. ": "Wrong ",
+                "Im Gespräch mit Kundinnen und Kunden mit einer geistigen Behinderung sollten ironische Aussagen unterlassen werden.": "Correct",
+                "Nebst baulichen Barrieren gilt es auch menschliche Barrieren (z.B. fehlendes Verständnis und Vorurteile) abzubauen.": "Correct",
+                "Um Kundinnen und Kunden im Rollstuhl nicht von oben herab anzuschauen, empfiehlt sich eine angemessene Gesprächsdistanz. ": "Correct",
+                "Barrieren sind Hindernisse und Faktoren, die Menschen mit Beeinträchtigungen die Teilnahme am gesellschaftlichen Leben erschweren.": "Correct",
+                "Die Frage der Handlungsfähigkeit von Kundinnen und Kunden mit einer geistigen Behinderung ist für das Verkaufspersonal nicht relevant. ": "Wrong "
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

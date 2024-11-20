@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "Beendigung1",
+      "title": "Contract for work",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the following exercise on the contract for work and services. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Katja Friedmann has her dressmaker make a wedding dress to her specifications. When the seamstress presents it to her, everything is completely different than agreed: the fabric is not the same as the one she chose, the cut has been shortened considerably, and the color does not match either. What rights does Katja have to claim for defects, and what do they entail?",
+              "isRequired": true,
+              "correctAnswer": "Katja is entitled to rescission and compensation: Due to the serious defects, Katja cannot reasonably be expected to accept the dress, which is why she can refuse to accept it. Accordingly, she does not have to pay the negotiated price for the dress and can reclaim any payment already made. As the dressmaker has not adhered to the agreements in any way and is therefore at fault for the defectiveness of her work, Katja can also demand compensation from her (Art. 368 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What rights can Katja assert if the dress was tailored according to her wishes but has small but visible sewing defects at the hem?",
+              "isRequired": true,
+              "correctAnswer": "Katja can claim a reduction, i.e. demand a reduction in the price from the seamstress, or she can demand rectification, i.e. she can demand that the seamstress improve the poorly sewn hem free of charge (Art. 368 para. 2 OR).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

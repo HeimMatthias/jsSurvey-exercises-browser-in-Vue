@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Wohnungsfaktoren1",
+      "title": "Housing factors",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Use the \"Prices and market laws\" tool to determine which law causes rents to rise and the name of the market in which these prices are formed.",
+              "isRequired": true,
+              "correctAnswer": "Supply < demand = prices rise; real estate market",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Find 2 plausible reasons for the high demand for apartments in cities in major central regions.",
+              "isRequired": true,
+              "correctAnswer": "Many jobs, wide range of cultural activities, good public transport connections, existing educational institutions (vocational schools, grammar schools, universities), wide range of leisure activities (sports grounds, fitness centers, music schools, youth clubs, etc.)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "In a small town, a real estate company is building a very large housing estate with a total of 180 new rental apartments. Using the \"Prices and market laws\" tool, determine what impact this may have on rental prices in this small town.",
+              "isRequired": true,
+              "correctAnswer": "Supply > demand = prices fall",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

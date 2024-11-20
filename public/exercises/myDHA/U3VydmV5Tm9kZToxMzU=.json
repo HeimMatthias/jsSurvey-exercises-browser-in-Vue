@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Social insurances ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Find the right insurance for the following services. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Ruth Zihlmann receives two pensions after her normal retirement. This amounts to a total of CHF 5600 per month.",
+              "correctAnswer": "AHV (1st pillar) and the pension from the pension fund (2nd pillar) "
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Sara Suter has given birth to a daughter. She receives CHF 196 per day for 14 weeks.",
+              "correctAnswer": "Maternity leave (EO) "
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Kurt Hediger loses his left arm in an accident. Retraining costs are paid so that he can pursue other work.",
+              "correctAnswer": "Disability insurance "
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Reto Zihlmann receives CHF 150,000 from the insurer when he turns 65. ",
+              "correctAnswer": "Tied pension provision (3rd pillar) "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

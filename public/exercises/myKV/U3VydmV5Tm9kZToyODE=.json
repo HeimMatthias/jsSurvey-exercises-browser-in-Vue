@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Changeover sample",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Rearrange the sentences so that the important information is at the beginning of the sentence and is thus emphasized.  ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Unfortunately we have not yet received your order.",
+              "isRequired": true,
+              "correctAnswer": "Unfortunately, we have not yet received your order.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The date had to be postponed for the third time.",
+              "isRequired": true,
+              "correctAnswer": "The date had to be postponed for the third time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "His move to the rival company would come as no surprise to anyone.",
+              "isRequired": true,
+              "correctAnswer": "No one would be surprised by his move to the rival company.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Changeover sample",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Rearrange the sentences so that the important information is at the beginning of the sentence and is thus emphasized.  ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Only three applications were received in response to the job advertisement.",
+              "isRequired": true,
+              "correctAnswer": "Only three applications were received in response to the job advertisement.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "The basis for a successful career is solid vocational training.",
+              "isRequired": true,
+              "correctAnswer": "Solid vocational training is the basis for a successful career.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "We almost forgot to invite the seven retired people as well.",
+              "isRequired": true,
+              "correctAnswer": "We almost forgot to invite the seven retirees as well.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

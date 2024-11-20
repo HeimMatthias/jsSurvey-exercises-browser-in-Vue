@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Business letter",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Warranty certificate with delivery confirmation",
+                "Quotation for the repair of the washing machine",
+                "Confirmation of return due to defects",
+                "Payment reminder to customer F.",
+                "Invitation to the customer aperitif",
+                "Confirmation of the delivery date",
+                "Monthly statement of the customer account"
+              ],
+              "type": "matrix",
+              "title": "Which request is included in which type of business letter? ",
+              "columns": [
+                "Offers and requests ",
+                "Quotations and orders",
+                "Confirmations",
+                "Delivery bills ",
+                "Invoices and reminders ",
+                "Complaint processing"
+              ],
+              "correctAnswer": {
+                "Einladung zum Kundenapéro": "Offers and requests ",
+                "Zahlungsmahnung an Kunde F.": "Invoices and reminders ",
+                "Monatsauszug des Kundenkontos": "Invoices and reminders ",
+                "Bestätigung des Liefertermins": "Confirmations",
+                "Garantieschein mit Lieferbestätigung": "Delivery bills ",
+                "Bestätigung der Retoure wegen Mängeln": "Complaint processing",
+                "Offertstellung für die Reparatur der Waschmaschine": "Quotations and orders"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

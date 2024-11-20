@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case study Regula",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Is this termination valid?",
+              "correctAnswer": "Yes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain which formal requirements apply to notices of termination.",
+              "correctAnswer": "There are no official formal requirements for termination. This means that it is also valid verbally. Nevertheless, for reasons of proof, it is preferable to submit notices of termination in writing. In addition, provisions of individual collective employment contracts stipulate that notice of termination must be given in writing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How long does Regula still have to work if the boss insists on the fulfillment of the employment contract? Name the date.",
+              "correctAnswer": "Until the end of April",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Regula Peter arbeitet seit 3 Monaten im «Boarderworld» als Detailhandelsfachfrau, genau seit dem 1. Januar. Nun hat sie genug. Vor einer Kollegin kündigt sie am 28. März mündlich bei ihrer Chefin auf den nächstmöglichen Kündigungstermin."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

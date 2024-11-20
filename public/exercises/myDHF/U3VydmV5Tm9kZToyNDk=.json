@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unfair competition  ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Which behavior violates the UWG? Put a cross in the box.",
+              "choices": [
+                "A store sells branded goods below the target price.",
+                "A store makes untrue statements about a competitor's product.",
+                "business pursues an aggressive advertising policy.",
+                "A store does not adhere to the usual local opening hours."
+              ],
+              "isRequired": true,
+              "correctAnswer": "A store makes untrue statements about a competitor's product.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

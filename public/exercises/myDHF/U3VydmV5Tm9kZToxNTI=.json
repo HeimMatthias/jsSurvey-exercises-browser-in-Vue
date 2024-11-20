@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Company choice",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the case study.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What business names are possible for the clothing boutique if the two form a general partnership?",
+              "isRequired": true,
+              "correctAnswer": "The name of a general partnership is freely selectable; however, the legal form or its abbreviation \"KlG\" must be stated.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Franziska and Andrea agree to give their clothing boutique the name \"Boutique Egger KlG\". However, there is already a business with this name in a municipality next to the city of Bern. Can they still call their boutique that?",
+              "isRequired": true,
+              "correctAnswer": "No, the company must be clearly distinguishable from all companies already registered in Switzerland. The choice of this name violates company exclusivity.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Franziska and Andrea have now changed their minds and are setting up a limited company. Can the clothing boutique bear the name \"Manor\" if there is no company with the name \"Manor\" in the city of Bern?",
+              "isRequired": true,
+              "correctAnswer": "No. An AG may choose a fantasy name, but this may only be registered once in the HR throughout Switzerland. Since a retail company with the name \"Manor\" already exists in Switzerland, the choice of this name violates company exclusivity.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

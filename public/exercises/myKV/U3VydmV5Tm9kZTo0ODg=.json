@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Forms of communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide which terms or statements fit together.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "External communication",
+              "choices": [
+                "Maintain image",
+                "External communication",
+                "Public trust"
+              ],
+              "correctAnswer": "External communication"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Internal communication",
+              "choices": [
+                "Employee motivation",
+                "Transmission of information",
+                "Communication within the company"
+              ],
+              "correctAnswer": "Communication within the company"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Interactive communication",
+              "choices": [
+                "Exchange with stakeholder groups",
+                "Respond to feedback and concerns",
+                "Discussion forums"
+              ],
+              "correctAnswer": "Exchange with stakeholder groups"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

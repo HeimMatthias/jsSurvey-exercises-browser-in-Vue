@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Balance sheet",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the balance sheet.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is a balance sheet?",
+              "isRequired": true,
+              "correctAnswer": "A comparison of assets (assets) and liabilities (liabilities) on a reporting date.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the assets of a company?",
+              "isRequired": true,
+              "correctAnswer": "The assets form the assets of a company.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Which accounts belong to current assets?",
+              "isRequired": true,
+              "correctAnswer": "Cash, post office, bank, trade receivables, inventories",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Balance sheet",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the balance sheet.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What do the passives show?",
+              "isRequired": true,
+              "correctAnswer": "The liabilities show the debts of a company. All assets of a company are procured with funds that come from various creditors (lenders). The claims of these lenders on the company in question are called liabilities.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How can the liabilities be subdivided?",
+              "isRequired": true,
+              "correctAnswer": "Liabilities are divided into borrowed capital and equity. Liabilities are claims from creditors outside the company. These must be repaid after a certain period of time. Equity corresponds to the residual claim of the company's owners; it is generally available for an indefinite period.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

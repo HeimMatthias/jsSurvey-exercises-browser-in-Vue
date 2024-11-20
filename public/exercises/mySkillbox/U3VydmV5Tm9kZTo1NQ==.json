@@ -1,0 +1,38 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Title of the exercise",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Question 1",
+              "choices": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4"
+              ],
+              "correctAnswer": "Option 1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

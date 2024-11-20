@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Job types",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LF1_T2_A6_Organigramm.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Name the technical term for the illustration above.",
+              "isRequired": true,
+              "correctAnswer": "Organizational chart",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "List which of the positions named from GLa to c4 are managerial positions.",
+              "isRequired": true,
+              "correctAnswer": "A; B; C; C1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which bodies are executing bodies?",
+              "isRequired": true,
+              "correctAnswer": "GLa; a1; a2; b1; b2; b3; c2; c3; c4",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Job types",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LF1_T2_A6_Organigramm.original.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the line margin of B?",
+              "isRequired": true,
+              "correctAnswer": "3",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "How do the tasks of C1 and c2 differ?",
+              "isRequired": true,
+              "correctAnswer": "C1 is an instance, i.e. it also has management tasks. c2 is an executive position.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What is the official channel for getting information from GL to b2?",
+              "isRequired": true,
+              "correctAnswer": "GL - B - b2",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

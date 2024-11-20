@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "How we allow ourselves to be manipulated by language",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Explain the following statement and give two specific examples: \"Our communication cannot be reduced to the rules of logic - when we say something, much more applies than just the spoken word.\" (Z. 8-11)",
+              "correctAnswer": "Communication is more than just the words we say. It is also about the way we say it (paraverbal and non-verbal communication), how we feel about it and the context we are in. Sometimes we say things that have a deeper meaning between the lines.\n\nTwo examples will illustrate this:\n1. Irony:\nWhen someone says: \"The weather is wonderful today\", this can be meant sincerely or ironically, depending on the tone of voice, facial expression and context. The logical meaning is simple, but the actual intention can be much more complex.\n\n2. Non-verbal communication:\nOur body language, facial expressions and gestures often contribute more to communication than our words. A smile, a wink or a shrug can convey additional information.\nIf someone is nervously drumming their fingers on the table during a conversation, it may indicate that they are impatient, even if they don't explicitly say so."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Consider the sentence: \"It's pretty cold in here, isn't it?\" If someone says this in a room with an open window, what action might they implicitly expect you to take without saying it directly?",
+              "correctAnswer": "In the sentence \"It's pretty cold in here, isn't it?\", the implicit message could be that the speaker wants the window to be closed. Although he does not say directly: \"Can you please close the window?\", the message is implicitly conveyed by the context and the nature of the utterance."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Imagine someone says to you: \"Have you heard that Christopher Nolan's new movie is a big hit?\" What is the information in this sentence that is assumed to be known without being directly stated?",
+              "correctAnswer": "The sentence \"Have you heard that Christopher Nolan's new movie is a big hit?\" assumes that it is known that there is a new movie by Christopher Nolan. Without this information, the question would make no sense."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

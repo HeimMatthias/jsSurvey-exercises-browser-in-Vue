@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Store and discount principle",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the advantages of the branch principle?",
+              "isRequired": true,
+              "correctAnswer": "Joint bulk purchasing (volume discounts); cost-cutting, central warehouse management (favorable location); uniform business policy (low administrative effort, hiring of specialists, large-scale distribution of advertising, shifting of goods)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you mean by the discount principle?",
+              "isRequired": true,
+              "correctAnswer": "The discount principle is a combative pricing policy with branded products.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Store and discount principle",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "Chain stores have centralized management and decentralized sales.",
+                "One advantage of branch operations is centralized management by specialists.",
+                "One disadvantage of chain stores is the higher cost of inventory management.",
+                "The branch principle has the disadvantage that you reach fewer customers.",
+                "Discount stores usually operate according to the branch principle."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements true or false? Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Discountgeschäfte arbeiten meist nach dem Filialprinzip.": "Correct",
+                "Das Filialprinzip hat den Nachteil, dass man weniger Kundschaft erreicht.": "Wrong",
+                "Ein Vorteil der Filialbetriebe ist die zentrale Verwaltung durch Spezialisten.": "Correct",
+                "Ein Nachteil der Filialbetriebe sind die höheren Kosten der Lagerbewirtschaftung.": "Wrong",
+                "Filialbetriebe haben eine zentrale Geschäftsleitung und einen dezentralen Warenabsatz.": "Correct"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

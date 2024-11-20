@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Partnerships and corporations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Companies can be divided into partnerships and corporations.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How are partnerships further subdivided?",
+              "isRequired": true,
+              "correctAnswer": "General partnership, limited partnership",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How are corporations further subdivided?",
+              "isRequired": true,
+              "correctAnswer": "Stock corporation (AG), limited liability company (GmbH)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is at the heart of a corporation?",
+              "isRequired": true,
+              "correctAnswer": "The financial participation of the shareholders in achieving the company's goal.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

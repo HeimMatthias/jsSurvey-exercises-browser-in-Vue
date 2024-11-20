@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Production factors",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Production factors\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the four factors of production?",
+              "isRequired": true,
+              "correctAnswer": "Labor, land, capital and knowledge",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What three functions does soil fulfill for the economy?",
+              "isRequired": true,
+              "correctAnswer": "Mining, cultivation and location function",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What factors influence labor productivity?",
+              "isRequired": true,
+              "correctAnswer": "Labor productivity is influenced by the work of the employees, the amount of capital employed and technical progress.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is an investment?",
+              "isRequired": true,
+              "correctAnswer": "An investment is the conversion of monetary capital into physical capital. In other words, the company buys goods.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Production factors",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Production factors\".",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why is knowledge as a production factor particularly important for Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "Because Switzerland has no significant mineral resources.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How has the production factor of labor changed over the last 200 years?",
+              "isRequired": true,
+              "correctAnswer": "As a result of technological progress, human labor has been supplemented or replaced by machines. This has led to increases in productivity, but also to jobs being lost and certain professions disappearing altogether.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Why is saving important for an economy?",
+              "isRequired": true,
+              "correctAnswer": "Saving creates monetary capital, which companies can use to buy physical capital.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What is rationalization?",
+              "isRequired": true,
+              "correctAnswer": "The term \"rationalization\" includes all measures that a company takes to increase its profitability. Rationalization often takes the form of automation: physical work is replaced by machine work.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

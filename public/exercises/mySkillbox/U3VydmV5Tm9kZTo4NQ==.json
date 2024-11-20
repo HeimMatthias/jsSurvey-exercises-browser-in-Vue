@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "Privatrechtlicher Sachverhalt erfassen",
+      "title": "Case 1: G-Star jeans",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "You see Fancy G-Star jeans for CHF 95 in the window of the clothes store. But when you go to buy them, they are marked at CHF 99. You think that the store should sell you the jeans for CHF 95 because the mistake is not recognizable to most people.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "W-question (Who demands what from whom?):",
+              "isRequired": true,
+              "correctAnswer": "I ask the clothes store Fancy to sell me the jeans for CHF 95.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Generalization:",
+              "isRequired": true,
+              "correctAnswer": "The buyer demands that the seller sell the goods at the purchase price that was advertised in the shop window.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Privatrechtlicher Sachverhalt erfassen2",
+      "title": "Case 2: Troyka",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Stefanie buys a tasting box (40 bottles) of Trojka Green Ice for CHF 122 at a wine fair from drinks retailer G. The next day she realizes that she doesn't actually want these bottles - she wants her money back.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "W question:",
+              "isRequired": true,
+              "correctAnswer": "Stefanie demands a refund of CHF 122 from the drinks retailer G. In return, she wants to give him back the 40 bottles of Trojka Green Ice.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Generalization:",
+              "isRequired": true,
+              "correctAnswer": "The buyer, Stefanie, demands a refund of the purchase price of CHF 122 from the seller. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

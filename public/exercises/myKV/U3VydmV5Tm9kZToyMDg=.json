@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Debit or credit?",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "The customer pays a partial amount to the bank account.",
+                "As agreed, the customer can deduct a special discount of 5%.",
+                "An invoice is issued for a delivery of goods.",
+                "The customer returns part of the delivered goods.",
+                "The customer will also be charged the shipping costs.",
+                "In the event of late payment, the customer shall be charged interest on arrears.",
+                "Because he pays on time, the customer can deduct a 2% discount.",
+                "The customer hands over a vehicle to settle the outstanding invoice.",
+                "A customer is invoiced for a consultation.",
+                "The customer pays the invoice for the consultation by bank transfer to the bank account."
+              ],
+              "type": "matrix",
+              "title": "On which side of the \"Trade receivables\" account are the following transactions booked?",
+              "columns": [
+                "Target",
+                "Have"
+              ],
+              "correctAnswer": {
+                "Der Kunde zahlt einen Teilbetrag auf das Bankkonto.": "Have",
+                "Für eine Warenlieferung wird eine Rechnung gestellt.": "Target",
+                "Dem Kunden werden zusätzlich die Versandkosten verrechnet.": "Target",
+                "Der Kunde schickt einen Teil der gelieferten Waren zurück.": "Have",
+                "Für eine Beratung wird einem Kunden eine Rechnung gestellt.": "Target",
+                "Weil er rechtzeitig bezahlt, kann der Kunde 2% Skonto abziehen.": "Have",
+                "Bei einem Zahlungsverzug werden dem Kunden Verzugszinsen verrechnet.": "Target",
+                "Zur Begleichung der offenen Rechnung übergibt der Kunde ein Fahrzeug.": "Have",
+                "Vereinbarungsgemäss kann der Kunde einen Sonderrabatt von 5% abziehen.": "Have",
+                "Der Kunde begleicht die Rechnung für die Beratung durch Überweisung auf das Bankkonto.": "Have"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

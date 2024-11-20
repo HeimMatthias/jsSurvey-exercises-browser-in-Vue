@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What are indicative forms used for?",
+              "isRequired": true,
+              "correctAnswer": "for factual statements and facts",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "In which subjunctive form is the verb in this sentence: \"Don't be too pessimistic\"?",
+              "isRequired": true,
+              "correctAnswer": "Subjunctive I",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What is the sentence \"We were ready\" in the subjunctive II?",
+              "isRequired": true,
+              "correctAnswer": "We would have been ready. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "In which cases are subjunctive II forms used in indirect speech?",
+              "isRequired": true,
+              "correctAnswer": "When the subjunctive I does not differ from the indicative.   ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How can obsolete subjunctive II forms such as \"hülfe\" and \"verlöre\" be paraphrased?",
+              "isRequired": true,
+              "correctAnswer": "with would/would plus infinitive",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "How can a command phrase such as \"Contact us today\" be softened?",
+              "isRequired": true,
+              "correctAnswer": "with a \"please\"",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

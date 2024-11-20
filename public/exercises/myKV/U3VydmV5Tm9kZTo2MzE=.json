@@ -1,0 +1,102 @@
+{
+  "pages": [
+    {
+      "name": "Kaufmännisches Runden",
+      "title": "Commercial rounding",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Have you understood the principle? Follow the rounding instructions for the following situations with a bank account. Round to the nearest five centimes in favor of the financial institution. ",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                {
+                  "text": "Interest income (interest credit)",
+                  "value": "Row 1"
+                },
+                {
+                  "text": "Interest expense (interest charge)",
+                  "value": "Row 2"
+                }
+              ],
+              "type": "matrixdropdown",
+              "title": "Bank account situation from the customer's perspective",
+              "choices": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "columns": [
+                {
+                  "name": "Betrag ungerundet in CHF 6.546907…",
+                  "title": "Amount unrounded in CHF 6.546907...",
+                  "choices": [
+                    {
+                      "text": "6.50",
+                      "value": 1
+                    },
+                    {
+                      "text": "6.55",
+                      "value": 2
+                    },
+                    {
+                      "text": "6.60",
+                      "value": 3
+                    }
+                  ],
+                  "cellType": "dropdown",
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Column 2",
+                  "title": "Amount unrounded in CHF 7.895811...",
+                  "choices": [
+                    {
+                      "text": "7.80",
+                      "value": 1
+                    },
+                    {
+                      "text": "7.85",
+                      "value": 2
+                    },
+                    {
+                      "text": "9.90",
+                      "value": 3
+                    }
+                  ],
+                  "cellType": "dropdown",
+                  "storeOthersAsComment": true
+                }
+              ],
+              "correctAnswer": {
+                "Row 1": {
+                  "Column 2": 2,
+                  "Betrag ungerundet in CHF 6.546907…": 1
+                },
+                "Row 2": {
+                  "Column 2": 3,
+                  "Betrag ungerundet in CHF 6.546907…": 2
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Case study Melike",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Melike, a 20-year-old retail specialist, wants to spend as little money as possible on her health insurance.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Find the best offer for Melike and present it convincingly.",
+              "correctAnswer": "Melike uses the sites comparis.ch and bonus.ch. Basic insurance is compulsory for everyone in Switzerland, and the benefits are the same for all health insurance companies by law (KVG). The health insurance companies are obliged to include every applicant in their basic insurance. Melike compares the prices of the various health insurance companies for basic insurance. Result for Melike from Aarau: Deductible: CHF 2500 HMO model, without accident cover CHF 145.90 cheapest with Sanitas, CHF 230.90 most expensive with Sana24."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What does Melike have to pay particular attention to despite being cost-conscious?",
+              "correctAnswer": "Melike has no supplementary insurance, she is insured in the hospital for the general ward. In the event of illness, Melike has to pay the first CHF 2,500 per year herself, which assumes that Melike is in good health and rarely ill."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Does Melike also have to insure herself against accidents? Give reasons.",
+              "correctAnswer": "If Melike works more than eight hours a week, she must be insured against accidents by her employer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What impact has digitalization had on professional writing? ",
+              "isRequired": true,
+              "correctAnswer": "Today, most employees write their own texts. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "In which language areas does the Swiss dialect differ from the standard language? Name three areas.",
+              "isRequired": true,
+              "correctAnswer": "Vocabulary, sentence structure, tenses, cases, relative pronouns",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the technical term for the difference between spoken dialect and written High German?",
+              "isRequired": true,
+              "correctAnswer": "medial diglossia (= bilingualism) ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What is the technical term for typical Swiss-German expressions such as \"Töff\" and \"etwas antönen\"?",
+              "isRequired": true,
+              "correctAnswer": "Helvetisms",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What are the three phases of writing a text?",
+              "isRequired": true,
+              "correctAnswer": "Text preparation, text transcript, text control",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

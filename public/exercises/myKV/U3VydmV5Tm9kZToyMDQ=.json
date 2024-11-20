@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Who is in the foreground in an active sentence?",
+              "isRequired": true,
+              "correctAnswer": "the person(s) acting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Why is it more difficult to understand passive sentences than active sentences?",
+              "isRequired": true,
+              "correctAnswer": "The content must be read against the direction of reading (from back to front).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How are sentences formed in the passive voice? Give an example.",
+              "isRequired": true,
+              "correctAnswer": "Auxiliary verb \"werden\" plus Partizip II; example: We will be/were informed about it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How are sentences formed in the passive voice? Give an example.",
+              "isRequired": true,
+              "correctAnswer": "Auxiliary verb \"to be\" plus participle II; example: We are/were informed about it.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the stylistic advantages of active sentences?",
+              "isRequired": true,
+              "correctAnswer": "They are more dynamic, more direct, shorter and easier to understand. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "In which situations should passive sentences be avoided?",
+              "isRequired": true,
+              "correctAnswer": "In the case of negative messages, the actors (those responsible) should not \"hide\" behind passive sentences.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the form and time of the previous interrogative sentence?",
+              "isRequired": true,
+              "correctAnswer": "passive, present tense (with the modal verb \"should\")",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Tax progression",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which of the statements below describes a consequence of tax progression? Discuss this question with your colleagues and prepare a corresponding discussion note. ",
+              "choices": [
+                "Everyone pays the same amount of tax.",
+                "Tax evaders are punished.",
+                "Some of the taxes are waived. ",
+                "Financially weaker people are given preference. "
+              ],
+              "correctAnswer": [
+                "Financially weaker people are given preference. "
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Conversation note",
+              "correctAnswer": "Individual answers "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

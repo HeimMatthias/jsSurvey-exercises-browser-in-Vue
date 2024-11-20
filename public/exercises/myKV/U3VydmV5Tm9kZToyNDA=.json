@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Tricks",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How many times have you (the program) underlined the words \"data\"? How do you find out without counting?",
+              "isRequired": true,
+              "correctAnswer": "Use \"Find and replace\" to search for \"Data with formatting underline\" and replace with \"Data with formatting underline\".",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How did you solve the problem with the English words? To what extent was Word a help, no help, why?",
+              "isRequired": true,
+              "correctAnswer": "Word cannot think, so this task is too demanding. So you had to decide for yourself whether a word comes from English or not.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

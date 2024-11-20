@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Short sentences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Form short sentences according to the example. Note the information on the person and tense as well as the required modal verb.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "cannot know (we, perfect)",
+              "readOnly": true,
+              "defaultValue": "Wir haben es nicht wissen können.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "have to ask them (I, future tense I)",
+              "isRequired": true,
+              "correctAnswer": "I will have to ask her. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "want to address them (he, past perfect)",
+              "isRequired": true,
+              "correctAnswer": "He had wanted to talk to her about it.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "are allowed to go home (we, perfect)",
+              "isRequired": true,
+              "correctAnswer": "We were allowed to go home. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Short sentences",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Form short sentences according to the example. Note the information on the person and tense as well as the required modal verb.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "cannot fulfill his wish (they, past tense)",
+              "isRequired": true,
+              "correctAnswer": "She could not fulfill his wish.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "have to talk about it again (we, future tense I)",
+              "isRequired": true,
+              "correctAnswer": "We will have to talk about this again. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "should be to blame (me, perfect)",
+              "isRequired": true,
+              "correctAnswer": "It was my fault. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

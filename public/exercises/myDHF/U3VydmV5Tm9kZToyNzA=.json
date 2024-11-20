@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Causes of accidents",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Unclear distribution of tasks, responsibilities and competencies",
+                "Incorrect or poor installation",
+                "Unclear instruction",
+                "careless behavior",
+                "Carelessness/concentration",
+                "Lack of information and training",
+                "Missing or inadequate protective devices",
+                "rash action",
+                "Non-compliance with the regulations",
+                "Overconfidence",
+                "Inadequate or missing signaling",
+                "Distraction",
+                "Outdated, defective technical equipment, machinery",
+                "Incorrect implementation (lifting, carrying, etc.)",
+                "untidiness"
+              ],
+              "type": "matrix",
+              "title": "Accidents don't just happen, they are caused. Assign the causes to one of three categories: technical, organizational or personal.",
+              "columns": [
+                "Technical causes",
+                "Organizational causes",
+                "Personnel causes"
+              ],
+              "correctAnswer": {
+                "Ablenkung": "Personnel causes",
+                "Unordentlichkeit": "Personnel causes",
+                "unklare Instruktion": "Organizational causes",
+                "Selbstüberschätzung": "Personnel causes",
+                "Unüberlegtes Handeln": "Personelle Ursachen",
+                "unüberlegtes Handeln": "Personnel causes",
+                "unvorsichtiges Verhalten": "Personnel causes",
+                "Nachlässigkeit/Konzentration": "Personnel causes",
+                "Nichtbeachten der Vorschriften": "Personnel causes",
+                "falsche oder schlechte Einrichtung": "Technical causes",
+                "fehlende Information und Ausbildung": "Organizational causes",
+                "mangelnde oder fehlende Signalisation": "Organizational causes",
+                "falsche Umsetzung (heben, tragen usw.)": "Personnel causes",
+                "fehlende oder ungenügende Schutzvorrichtungen": "Technical causes",
+                "überalterte, defekte technische Anlagen, Maschinen": "Technical causes",
+                "unklare Aufgaben-, Verantwortungs- und Kompetenzverteilung": "Organizational causes"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

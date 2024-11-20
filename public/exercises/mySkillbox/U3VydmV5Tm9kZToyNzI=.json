@@ -1,0 +1,242 @@
+{
+  "pages": [
+    {
+      "name": "Prinzip Beispiel",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Example",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2_beispiel.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Sandro wants to go out with his girlfriend today and therefore wants to do as much homework (output) as possible in one hour (input).",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "readOnly": true,
+              "defaultValue": "Maximumprinzip",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Formulation:",
+              "readOnly": true,
+              "defaultValue": "In einer Stunde (fixer Input) möglichst viele Hausaufgaben (maximierter Output) erledigen. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrinzipA",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Maximum or minimum principle?",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2a_handy.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "Zebib has almost no battery left. She therefore sets her phone to economy mode. This way, she will use as little battery (input) as possible in the remaining three hours \t(output) until she gets home.",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Minimum principle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Formulation:",
+              "isRequired": true,
+              "correctAnswer": "Spend as much time as possible (greater output) with 5% battery volume (fixed input).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrinzipB",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Maximum or minimum principle?",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2b_einkaufen.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Martina's budget looks tight for this month: She has exactly CHF 50 left. And she still has her friends over for dinner! By comparing prices when shopping, she tries to buy as many ingredients (output) as possible with CHF 25 (input). ",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Maximum principle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Formulation:",
+              "isRequired": true,
+              "correctAnswer": "Buy 12 ingredients (fixed output) with as little money as possible (smaller input).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrinzipC",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Maximum or minimum principle?",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2c_pflege.png\" />",
+              "name": "question8",
+              "type": "html"
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Trainee nurse Mirko needs to look after as many patients as possible (output) before his shift ends in two hours (input). Otherwise, his colleague who replaces him will be stressed as soon as she starts work.",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Maximum principle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Formulation:",
+              "isRequired": true,
+              "correctAnswer": "10 patients (fixed output) in the shortest possible time (smaller input).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrinzipD",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Maximum or minimum principle?",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2d_wasser.png\" />",
+              "name": "question11",
+              "type": "html"
+            },
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "Shores learned from a TV report that we waste far too many resources. Now he is trying to use as little water (input) as possible over the course of a week (output).",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Minimum principle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Formulation:",
+              "isRequired": true,
+              "correctAnswer": "50 liters of water (fixed input) should last as many days as possible (greater output).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PrinzipE",
+      "title": "Principle",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Maximum or minimum principle?",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M3_A2e_e-bike.png\" />",
+              "name": "question15",
+              "type": "html"
+            },
+            {
+              "name": "question16",
+              "type": "radiogroup",
+              "title": "Angéline has rented an e-bike to explore the city of Winterthur. She pays CHF 3 for the first 30 minutes, after which each additional minute costs 50 centimes. She tries to ride as far as possible in this half hour (input) (output).",
+              "choices": [
+                "Maximum principle",
+                "Minimum principle"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Maximum principle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "comment",
+              "title": "Formulation:",
+              "isRequired": true,
+              "correctAnswer": "Visit the whole city (fixed output) in as short a time as possible (smaller input).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

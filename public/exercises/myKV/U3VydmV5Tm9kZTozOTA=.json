@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Course of the project",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which measure should be the focus in order to improve the efficiency and organization of a project?",
+              "choices": [
+                "a) Daily diary entries about personal experiences",
+                "b) Create a table with colored bars for tasks",
+                "c) Create a mind map with project details",
+                "d) Noting personal feelings in the course of the project"
+              ],
+              "correctAnswer": [
+                "b) Create a table with colored bars for tasks"
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explanation",
+              "correctAnswer": "Option b) describes the use of a visual table with coloured bars to show progress in the completion of tasks, which is an efficient form of organization. The other options do not relate to the measures described for improving project organization."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Course of the project",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Which activity primarily helps to identify and address potential problems during a project at an early stage? ",
+              "choices": [
+                "a) Create a table with colored bars for tasks",
+                "b) Making a note of personal experiences",
+                "c) List of possible problems and their solutions",
+                "d) Daily telephone calls"
+              ],
+              "correctAnswer": [
+                "c) List of possible problems and their solutions"
+              ]
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Explanation",
+              "correctAnswer": "Option c) refers to the identification and resolution of potential problems, which is an important step in project planning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Course of the project",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Which measure helps to prepare for possible changes in the project?",
+              "choices": [
+                "a) Daily meetings",
+                "b) Creating a simple picture",
+                "c) Development of an adaptation plan",
+                "d) Noting down mistakes made by team members"
+              ],
+              "correctAnswer": [
+                "c) Development of an adaptation plan"
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Explanation",
+              "correctAnswer": "Option c) refers to planning adjustments in case unexpected changes occur in the project, which is an important project management practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Course of the project",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "What activities support continuous learning from mistakes and challenges from past projects?",
+              "choices": [
+                "a) Writing reports on the progress of the project",
+                "b) Creating a simple picture",
+                "c) Discussing personal experiences",
+                "d) Continuous noting of hurdles and errors"
+              ],
+              "correctAnswer": [
+                "a) Writing reports on the progress of the project",
+                "d) Continuous noting of hurdles and errors"
+              ]
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Explanation",
+              "correctAnswer": "Options a) and d) refer to the important practice of continuously documenting hurdles and errors in order to learn from them and avoid or better solve them in future projects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

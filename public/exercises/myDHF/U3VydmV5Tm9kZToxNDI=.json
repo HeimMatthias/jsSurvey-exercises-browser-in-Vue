@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Stocks",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A lot of capital tied up",
+                "Missing sales (no willingness to sell)",
+                "Poorer purchasing conditions",
+                "High storage costs",
+                "High storage risks (spoilage, shrinkage, theft, etc.)",
+                "Labor-intensive management due to frequent reorders"
+              ],
+              "type": "matrix",
+              "title": "If a retail business keeps too much or too little stock, this can have unpleasant consequences. Correctly classify the listed consequences.",
+              "columns": [
+                "Too much stock",
+                "Stocks too small"
+              ],
+              "correctAnswer": {
+                "Hohe Lagerkosten": "Too much stock",
+                "Viel gebundenes Kapital": "Too much stock",
+                "Schlechtere Konditionen beim Einkauf": "Stocks too small",
+                "Fehlverkäufe (keine Verkaufsbereitschaft)": "Stocks too small",
+                "Hohe Lagerrisiken (Verderb, Schwund, Diebstahl usw.)": "Too much stock",
+                "Arbeitsintensive Bewirtschaftung wegen häufiger Nachbestellungen": "Stocks too small"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

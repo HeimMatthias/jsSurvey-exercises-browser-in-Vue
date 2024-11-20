@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Ehe oder Konkubinat?",
+      "title": "Advice",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Give reasoned advice to the following people ...",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Carla and Levin have been living together in a small city apartment for 3 years. Levin has a younger brother with a severe disability who he likes to look after often. That's why he only works part-time. He does the shopping and keeps the apartment reasonably clean. Carla is a passionate programmer. She earns well with her 100% job. They put their money together and keep a joint account. They don't want children.",
+              "isRequired": true,
+              "correctAnswer": "A cohabitation with a contract regulating ownership, household costs and compensation for housework as well as benefits from the pension fund is a good option.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Advice",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Give reasoned advice to the following people ...",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Federico and Franca are both 20 years old and have been a couple for a year. They would like to move in together. It is important to both of them to continue to maintain their own circle of friends and to develop professionally. They don't yet know whether they want to have children. For the time being, they are both working 100%. They have divided up what needs to be done at home according to their strengths. This means that neither of them has to spend too much time on household chores.",
+              "isRequired": true,
+              "correctAnswer": "A cohabitation is an option, a contract is not necessary. The couple have no children and have divided the household chores equally.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Advice",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Give reasoned advice to the following people ...",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Jill and Elouan met 3 months ago; it was love at first sight. They were quite careless when it came to contraception because of their emotional blindness, so Jill became pregnant unintentionally. They both want to keep the child at all costs and decide to look for an apartment together. During the initial period after the birth, Jill will look after the child and Elouan will look after the joint income, after which they will move on.",
+              "isRequired": true,
+              "correctAnswer": "Marriage is an option. If you want to take your time getting married, you could enter into a cohabitation with a contract as an alternative.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

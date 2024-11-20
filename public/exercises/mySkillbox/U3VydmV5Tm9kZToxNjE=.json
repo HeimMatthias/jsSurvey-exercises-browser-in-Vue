@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "The optimal franchise",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Practice your newly acquired knowledge by finding the optimum deductible, the most suitable insurance model and the cheapest health insurance for the following people. ",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/fall1-dario2x-8.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Optimale Franchise",
+              "type": "text",
+              "title": "Optimal franchise",
+              "isRequired": true,
+              "correctAnswer": "CHF 2000.–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Geeignetes Versicherungs-Modell",
+              "type": "text",
+              "title": "Suitable insurance model",
+              "isRequired": true,
+              "correctAnswer": "Medical center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Günstigste Krankenkasse",
+              "type": "text",
+              "title": "Cheapest health insurance",
+              "isRequired": true,
+              "correctAnswer": "Sanitas, 199/M (The solution is only valid for 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Jährliches Sparpotential (Prämien)",
+              "type": "text",
+              "title": "Annual savings potential (premiums)",
+              "isRequired": true,
+              "correctAnswer": "CHF 161.- x 12.- = 1932.- (The solution only applies to 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "The optimal franchise",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Practice your newly acquired knowledge by finding the optimum deductible, the most suitable insurance model and the cheapest health insurance for the following people. ",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/fall2-sandra2x-8.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Optimal franchise",
+              "isRequired": true,
+              "correctAnswer": "CHF 300.–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Suitable insurance model",
+              "isRequired": true,
+              "correctAnswer": "General practitioner",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Cheapest health insurance",
+              "isRequired": true,
+              "correctAnswer": "Assura CHF 319/month (The solution is only valid for 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Annual savings potential (premiums)",
+              "isRequired": true,
+              "correctAnswer": "None, because the excess (deductible) on the costs is lower. (The solution is only valid for 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "The optimal franchise",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Practice your newly acquired knowledge by finding the optimum deductible, the most suitable insurance model and the cheapest health insurance for the following people. ",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/fall3-amelie.png\" />",
+              "name": "question7",
+              "type": "html"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Optimal franchise",
+              "isRequired": true,
+              "correctAnswer": "CHF 2500.–",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Suitable insurance model",
+              "isRequired": true,
+              "correctAnswer": "Free choice of doctor",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Cheapest health insurance",
+              "isRequired": true,
+              "correctAnswer": "Sanitas, CHF 258/month (The solution is only valid for 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Annual savings potential (premiums)",
+              "isRequired": true,
+              "correctAnswer": "CHF 126.- x 12.- = 1512.- (The solution is only valid for 2019. The premium/month changes every year).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

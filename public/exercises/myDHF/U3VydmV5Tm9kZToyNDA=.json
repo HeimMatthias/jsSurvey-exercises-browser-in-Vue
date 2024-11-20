@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Personal insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What benefits does basic health insurance provide?",
+              "correctAnswer": "Medical costs, laboratory tests, prescribed medications subject to compulsory health insurance, costs of a hospital stay in a general ward, accident costs (for persons without accident insurance), etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is a franchise?",
+              "correctAnswer": "A deductible is the annual cost contribution by the insured person.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What options do you know of to reduce your premium?",
+              "correctAnswer": "Compare different health insurance companies, increase your deductible, do not take out supplementary insurance, choose an HMO or family doctor system, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Personal insurance",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Why does a motorcyclist have to take out liability insurance?",
+              "correctAnswer": "Because he is liable to pay compensation for the damage he causes to others. Without liability insurance, you will not receive a license plate, it is mandatory.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Where do comprehensive and legal expenses insurance help?",
+              "correctAnswer": "Comprehensive insurance generally covers the damage to your own vehicle. It also covers own damage. This is the portion that the other party's motor vehicle liability insurance does not have to pay because the person involved in the accident is at fault to a certain extent. The greater your own fault, the greater your own damage. Legal expenses insurance covers the lawyer's fees if the court is called upon to clarify the question of fault.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How do bonus and malus work?",
+              "correctAnswer": "Bonus: Anyone who drives accident-free is rewarded with a premium reduction. / Malus: Anyone who causes an accident with cost consequences pays higher insurance premiums.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,84 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "The Confederation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Der Bund\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the role of the President of the Swiss Confederation in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "The President of the Swiss Confederation chairs the weekly meetings of the Federal Council and represents Switzerland at home and abroad.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Explain the bicameral system of the Swiss parliament.",
+              "isRequired": true,
+              "correctAnswer": "The people's representatives sit in the large chamber (National Council), while the cantonal representatives sit in the small chamber (Council of States). Together, the two chambers form the United Federal Assembly.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How many members does the United Federal Assembly have?",
+              "isRequired": true,
+              "correctAnswer": "246 members",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the role of the Federal Chancellor in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "The Federal Chancellor heads the Swiss Federal Chancellery (FC). He or she coordinates and organizes Federal Council business, supports the Federal Council in its daily business, attends meetings and provides information on the activities of the Federal Council.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Who has supreme political power in Switzerland?",
+              "isRequired": true,
+              "correctAnswer": "In Switzerland, the people have supreme political power.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How long has modern Switzerland existed?",
+              "isRequired": true,
+              "correctAnswer": "Since 1848",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Where is the Federal Supreme Court based?",
+              "isRequired": true,
+              "correctAnswer": "In Lausanne",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

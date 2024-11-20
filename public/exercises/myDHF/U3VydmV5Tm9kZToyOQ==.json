@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read the case studies and assess the ability of the main character to act. Give reasons for your answer in complete sentences.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "17-year-old Claudio receives an older horse as a gift from his riding instructor.",
+              "isRequired": true,
+              "correctAnswer": "Claudio has limited legal incapacity. Although the horse is a gift, he is obliged to provide for its upkeep. As the gift involves additional expenses (e.g. for feed), Claudio needs his parents' consent.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Slightly drunk, 27-year-old Adjei buys a cheap car.",
+              "isRequired": true,
+              "correctAnswer": "The 27-year-old Adjei is capable of acting. People who are slightly drunk generally do not lose their capacity for judgment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Against her parents' wishes, 14-year-old Mia regularly buys new video games with her pocket money.",
+              "isRequired": true,
+              "correctAnswer": "14-year-old Mia has limited legal capacity. However, she is capable of judgment and pays with her own pocket money. In principle, Mia is therefore allowed to buy video games without her parents' consent, provided that the content of the video games is age-appropriate (age rating of the video game).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the case studies and assess the ability of the main character to act. Give reasons for your answer in complete sentences.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Tobias, 22 years old, takes out a new cell phone subscription. He doesn't tell the saleswoman that he has an assistant.",
+              "isRequired": true,
+              "correctAnswer": "As an assisted person, Tobias has limited capacity to act. He may not be allowed to conclude the contract without the permission of his legal representative. However, the adviser can subsequently approve the contract.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Alessandra, aged 16, joins a religious organization that is known to have a strong influence on its members. The association demands total submission to the sect's rules and alienates its members from their families. Alessandra's parents are not at all happy about her joining and ask her to leave. Can they demand this of Alessandra? Do some research and then justify your arguments.",
+              "isRequired": true,
+              "correctAnswer": "Yes, despite being of religious age, the parents must protect Alessandra. The activities of the sect completely undermine parental authority, i.e. also in non-religious areas. Alessandra is incapable of judgment regarding the cult and therefore unable to act because she does not see through the mechanisms of influence.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the case studies and assess the ability of the main character to act. Give reasons for your answer in complete sentences.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "15-year-old Martina doesn't come home from a techno party until two o'clock in the morning, even though her parents' instructions were \"midnight\". There is an argument in the morning and Martina is grounded for a week. Do the parents have a right to take this measure? Give your opinion and justify your answer.",
+              "isRequired": true,
+              "correctAnswer": "In principle, yes; Martina is under parental care and owes her parents obedience. However, the parents should also give Martina the freedom she needs according to her maturity.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "A nightwalker knocks over a lit candle on his nightly walk. This causes a fire. The homeowner sues the night walker and demands payment for the damage. Does the night walker have to pay for the damage? Answer the question with appropriate reasons.",
+              "isRequired": true,
+              "correctAnswer": "No. The nightwalker is not capable of judgment.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

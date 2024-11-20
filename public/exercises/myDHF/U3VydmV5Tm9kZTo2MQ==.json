@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page2",
+      "title": "Limitation period",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "Road traffic fines",
+                "General limitation period",
+                "Claim against an insurance company",
+                "Rent claim",
+                "Wage payment",
+                "Receivables from retail trade",
+                "Craftsman claim",
+                "Medical bill"
+              ],
+              "type": "matrix",
+              "title": "Indicate which limitation period applies to the claim in question. ",
+              "columns": [
+                "1 year",
+                "2 years",
+                "5 years",
+                "10 years"
+              ],
+              "correctAnswer": {
+                "Lohnzahlung": "5 years",
+                "Arztrechnung": "5 years",
+                "Mietzinsforderung": "5 years",
+                "Handwerkerforderung": "5 years",
+                "Schadenersatzforderung": "5 Jahre",
+                "Bussen im Strassenverkehr": "1 year",
+                "allgemeine Verjährungsfrist": "10 years",
+                "Forderung an eine Versicherung": "2 years",
+                "Forderungen aus dem Detailhandel": "5 years"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

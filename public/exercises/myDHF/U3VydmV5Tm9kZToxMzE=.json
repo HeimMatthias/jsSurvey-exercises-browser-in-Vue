@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Case study",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Manuel Leimbacher is a great animal lover. He would love to open a business selling grooming products for dogs and cats. He already has the capital to set up the business. Now he is thinking about what type of business would best suit his ideas.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "a) Which type of business could be ideal for Manuel Leimbacher's business? Discuss the advantages and disadvantages of each type of business with your learning partner.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "b) Manuel Leimbacher now has the opportunity to buy a piece of land on the highway outside a larger town on which he could build his business. What type of business would you recommend to him at this location? Give reasons for your choice.",
+              "isRequired": true,
+              "correctAnswer": "This location would be particularly suitable for the construction of a specialist store. The construction of a large sales area in this location costs relatively little, and the location is also very easy to reach. It is also possible to offer customers a large number of parking spaces.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "c) How would Manuel Leimbacher have to organize his product range if he decided to open a specialist store? Answer in a complete sentence.",
+              "isRequired": true,
+              "correctAnswer": "He would have to offer a narrow range (only articles for dogs and cats), but it would have to be very deep (all conceivable products that dog and cat owners could ask for).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "d) Is Manuel Leimbacher thinking about the size of his specialist store? Can he also set up a small business? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No. Specialty stores have to be relatively large and achieve a correspondingly high turnover so that they can finance the costs of the large retail space. So a small business cannot be a specialist store.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,221 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Mark with a cross whether the statement is correct or incorrect. Please correct any incorrect statements accordingly.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The environmental impact of packaging is much worse than the food itself.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The packaging protects the contents. The environmental impact (including CO2 emissions, water consumption and/or use of chemicals) caused by the production of food is usually much greater than the environmental impact caused by the packaging. Nevertheless, attention must of course be paid to reducing unnecessary packaging.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Disposable glass bottles are better for the environment than PET.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Melting down glass requires a lot of energy. PET that is recycled can be used several times. PET therefore has a better carbon footprint than disposable glass bottles.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "In Switzerland, 16,500 hectares of sugar beet are planted for sugar beet cultivation. The large machines take their toll on the soil. This affects 1.8% of the agricultural land. A large proportion of the sugar is used to produce sweet drinks.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Mark with a cross whether the statement is correct or incorrect. Please correct any incorrect statements accordingly.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Around 1000 liters of water are needed to produce 1 kg of cotton.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Depending on the method of collection and calculation, an average of 11,000 liters of water are used to produce 1 kg of cotton. This is in addition to pesticides.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Drinking a cup of coffee consumes 132 liters of water. This is because such a large amount of water is needed to produce just 7g of coffee.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "So-called fast fashion is not harmful to the environment as it is quickly withdrawn from circulation.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Fast fashion refers to clothing that is produced in large quantities, bought cheaply and usually only worn for a short time. Some of it has traveled around the world. In some cases, it is exported to another country for each individual production step. The textile industry alone causes more CO2 equivalents than international air and sea traffic combined. Insecticides, pesticides and other chemicals are also used. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Mark with a cross whether the statement is correct or incorrect. Please correct any incorrect statements accordingly.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "The production of one kilogram of conventional cheese produces about as much CO2 as a 71.4 km car journey.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Even as organizers of small festivals, we have a direct impact on the environment and can implement improvements.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "radiogroup",
+              "title": "Calculating the CO2 footprint of a car journey is very complex and not for laymen.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "There are now many calculation tools available to help you calculate your CO2 emissions in relation to mobility, such as: www.mobitool.ch.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

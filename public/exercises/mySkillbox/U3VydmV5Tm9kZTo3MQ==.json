@@ -1,0 +1,43 @@
+{
+  "pages": [
+    {
+      "name": "Sparmöglichkeiten",
+      "title": "Savings opportunities",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "As a pair, take a close look at your own budget with the aim of saving CHF 50/month on the purchase of a durable consumer good or a short trip. Advise each other on how you could save costs in the short and long term. Use the terms fixed and variable costs. Write down your most important findings.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Short-term savings opportunities:",
+              "isRequired": true,
+              "correctAnswer": "I could save on variable costs in the following areas:\n1. Clothes, shoes: Buy fewer brand-name items, compare prices, buy less in general, avoid impulse purchases, use exchange markets or second-hand offers, ...\n2. Body care, hairdresser: Buy cheaper products, look out for promotions, compare offers, ...\n3. Cell phone: Do not exceed data limit (additional costs), do not play paid games, reduce online purchases, ...\n4. Food: Buy fewer ready-made products, cook for yourself, ...\n5. Eating out: Cook your own food and take it with you.\n6. Hobbies: Use free sports facilities at school, exercise outside, compare offers, ...\n7. Going out: Only take as much money with you as you want to spend, partying outside clubs and buying alcohol from a wholesaler, ...",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Long-term savings opportunities:",
+              "isRequired": true,
+              "correctAnswer": "I could save on fixed costs in the following areas:\n1. Health insurance premiums (basic insurance): Compare offers and choose a cheaper option.\n2. Rent: Adjust housing costs to the budget, look for a shared flat, ...\n3. Interest payments/leasing fees: Don't sign any contracts that put an excessive strain on the budget, basically only buy things you can afford.\n4. Travel costs: Use your bike more often, work out which offers put the least strain on your annual budget.\n5. Cell phone subscription: Compare offers and take out a cheap subscription with an unlimited data limit if necessary.\n6. Sports subscription: compare prices for subscriptions (gym and the like), take advantage of free offers from the school, do sports outdoors, ...",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

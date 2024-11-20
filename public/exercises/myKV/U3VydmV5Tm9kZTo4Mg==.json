@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Financial accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The figures may be inaccurate or distorted due to hidden reserves.",
+                "This accounting is prescribed by law.",
+                "The financial statement shows where the costs were incurred.",
+                "Financial statements must be prepared at least twice a year.",
+                "The profit or loss per product group is determined in the financial accounting.",
+                "The annual financial statements consist of the balance sheet, income statement and notes.",
+                "The financial statements are only intended for internal bodies (BoD and MB).",
+                "The balance sheet shows how assets have changed during the year.",
+                "The preparation and layout of the financial statements are regulated by law.",
+                "It is also referred to as \"internal accounting\"."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on financial accounting correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Diese Buchhaltung ist im Gesetz vorgeschrieben.": "Correct",
+                "Sie wird auch als «internes Rechnungswesen» bezeichnet.": "Wrong",
+                "In der Fibu ist ersichtlich, wo die Kosten angefallen sind.": "Wrong",
+                "Mindestens zweimal pro Jahr muss ein Abschluss erstellt werden.": "Wrong",
+                "Der Abschluss ist nur für interne Stellen (VR und GL) bestimmt.": "Wrong",
+                "Die Jahresrechnung besteht aus Bilanz, Erfolgsrechnung und Anhang.": "Correct",
+                "In der Fibu wird der Gewinn oder Verlust je Produktegruppe ermittelt.": "Wrong",
+                "Die Erstellung und Gestaltung des Abschlusses sind im Gesetz geregelt.": "Correct",
+                "Die Zahlen können wegen stillen Reserven ungenau oder verfälscht sein.": "Correct",
+                "Die Bilanz zeigt, wie sich das Vermögen während des Jahres verändert hat.": "Wrong"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

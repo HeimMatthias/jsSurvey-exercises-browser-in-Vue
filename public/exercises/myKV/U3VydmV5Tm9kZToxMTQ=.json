@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Connotative meaning",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Describe in keywords the connotative meaning when the following animal names are used as swear words for people.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "Gockel",
+              "isRequired": true,
+              "correctAnswer": "conceited, arrogant man",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Cow",
+              "isRequired": true,
+              "correctAnswer": "stupid, simple-minded person",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Horned ox",
+              "isRequired": true,
+              "correctAnswer": "inconsiderate, simple-minded man",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Donkey",
+              "isRequired": true,
+              "correctAnswer": "stupid, stubborn person",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Bitch",
+              "isRequired": true,
+              "correctAnswer": "conceited, quarrelsome woman",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Sow",
+              "isRequired": true,
+              "correctAnswer": "Person who behaves disgustingly",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

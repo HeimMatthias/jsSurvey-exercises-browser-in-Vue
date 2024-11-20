@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Risky or not?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Tick all the behaviors that you consider risky. Then discuss in pairs any points where you disagree and explain your thoughts to each other.",
+              "choices": [
+                "Flying by plane",
+                "Driving a car",
+                "Drunk driving",
+                "Riding a bike without a helmet",
+                "Smoking",
+                "Drink alcohol",
+                "Roller coaster ride",
+                "Surfing the Internet",
+                "Disagreeing with the boss",
+                "Forge signature",
+                "Sunbathing without sun protection",
+                "Concert without hearing protection",
+                "Warehouse work without steel-toed shoes ",
+                "Block emergency exit with objects",
+                "Fare dodging",
+                "Cut off hair"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

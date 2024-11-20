@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Globalisierung",
+      "title": "Globalization",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"What is globalization?\"",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "To what extent is Switzerland dependent on other countries?",
+              "isRequired": true,
+              "correctAnswer": "Switzerland's production is not sufficient to supply itself. This is why trade with other countries is vital for small-scale Switzerland.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is Switzerland's position in world trade?",
+              "isRequired": true,
+              "correctAnswer": "Switzerland is among the 20 most powerful trading countries in the world in terms of both exports and imports.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the five dimensions of globalization?",
+              "isRequired": true,
+              "correctAnswer": "technological dimension, cultural dimension, economic dimension, political dimension, ecological dimension\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How has the globalization of goods markets affected the Swiss economy?",
+              "isRequired": true,
+              "correctAnswer": "Numerous industries have disappeared. Switzerland is practically only home to industries in which good training and precise work, i.e. quality, are the most important factors. Industries with assembly line production, where the wage level is decisive, are increasingly moving abroad.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Case study Kim",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "During her vacation, retail assistant Kim has a serious accident and will be absent from work for the next 12 weeks. At the end of the month, Kim receives no pay, claiming the accident happened during her vacation. The doctor also asks about the insurance.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which insurance covers the medical costs? (Please clarify.)",
+              "correctAnswer": "Kim is compulsorily insured by the employer against occupational and non-occupational accidents. This insurance pays all medical expenses."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How high are the deductible and excess for Kim's accident? (Read more.)",
+              "correctAnswer": "The insurance pays for every visit to the doctor without a deductible or excess."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Does Kim have to forgo a wage payment? (Clarify.)",
+              "correctAnswer": "No, accident insurance pays 80 percent of the insured salary from the third day onwards."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

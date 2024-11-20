@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Generally speaking, what is the aim of a client service?",
+              "choices": [
+                "Convaincre le client.",
+                "Intimider la cliente.",
+                "Mieux connaître le client.",
+                "Désorienter la cliente."
+              ],
+              "correctAnswer": [
+                "Mieux connaître le client.",
+                "Convaincre le client."
+              ]
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "The purpose of client meetings is to convince the client of the service offered or to better understand it in order to recommend a more suitable product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "For what reason is it important to scout actively when making a client appointment?",
+              "choices": [
+                "Pour ne pas contredire le client.",
+                "Pour imposer son propre point de vue.",
+                "Pour comprendre les besoins de la cliente.",
+                "Pour interrompre le client au bon moment."
+              ],
+              "correctAnswer": [
+                "Pour comprendre les besoins de la cliente."
+              ]
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "A good consultation must allow us to better understand the client's needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "What role does empathy play in the success of a client service?",
+              "choices": [
+                "L'empathie ne doit pas avoir d'influence, sinon on a un parti pris.",
+                "Empathy is important for understanding the client's needs.",
+                "L'empathie n'est pas pertinente, seul le produit compte.",
+                "Empathy is only important for social encounters."
+              ],
+              "correctAnswer": [
+                "Empathy is important for understanding the client's needs."
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "L'empathie contributes à se consacrer entièrement à la clientele."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "checkbox",
+              "title": "How to best manage a client's objections?",
+              "choices": [
+                "Les ignorer et passer au point suivant.",
+                "Convaincre le client que ses objections sont infondées.",
+                "Take the client's objections seriously and propose solutions.",
+                "Critiquer le client pour ses objections."
+              ],
+              "correctAnswer": [
+                "Take the client's objections seriously and propose solutions."
+              ]
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "It is absolutely essential to listen to the client's objections and find solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "checkbox",
+              "title": "What is the difference between open and closed questions in a client meeting?",
+              "choices": [
+                "During client meetings, it is important to ask open questions.",
+                "The open questions only elicit yes/no answers, the closed questions require detailed answers.",
+                "The open questions require detailed answers, the closed questions require only yes/no answers.",
+                "The open questions are reserved for informal meetings, the closed questions are reserved for formal meetings."
+              ],
+              "correctAnswer": [
+                "During client meetings, it is important to ask open questions.",
+                "The open questions require detailed answers, the closed questions require only yes/no answers."
+              ]
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "By answering open questions, the client provides a lot of information that can help them to better understand their needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Entretiens avec les clients",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Respond to the multiple choice questions below on the client interviews and brièvement justifiez les solutions choisies. Several answers may be correct.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "checkbox",
+              "title": "Comment pouvez-vous instaurer la confiance dans un entretien client ?",
+              "choices": [
+                "En ne communiquant pas des informations importantes.",
+                "By communicating honestly, transparently and reliably.",
+                "En critiquant le client.",
+                "En étant aimable et accessible."
+              ],
+              "correctAnswer": [
+                "By communicating honestly, transparently and reliably.",
+                "En étant aimable et accessible."
+              ]
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justifiez votre réponse.",
+              "correctAnswer": "Open, sincere and friendly communication helps to build trust."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

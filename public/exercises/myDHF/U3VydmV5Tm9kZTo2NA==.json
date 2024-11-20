@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Price Disclosure Regulation",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the aim of the Price Disclosure Regulation?",
+              "isRequired": true,
+              "correctAnswer": "Consumers should be able to easily compare the prices of goods and services and not be misled by confusing price information.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What price should be indicated?",
+              "isRequired": true,
+              "correctAnswer": "For items displayed on the sales floor or in the shop window: Detailed price; for measurable goods: Base price; for measurable pre-packaged goods: Detailed price and basic price",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Price Disclosure Regulation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The Price Disclosure Ordinance (PBV) aims to achieve clear and comparable prices.",
+                "Thanks to the indication of the basic price, consumers can compare the prices of pre-packaged goods from different suppliers.",
+                "The detailed price is the detailed price per unit (e.g. per piece, per 100g, per unit).",
+                "It is the responsibility of the sales staff to announce the prices in accordance with the regulations.",
+                "Anyone who violates the Price Disclosure Ordinance will be fined or imprisoned.",
+                "A price indication with easily accessible and legible price lists or catalogs is permitted.",
+                "The actual price to be paid, the detailed price, can also be stated in euros or US dollars."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements true or false?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Es ist Aufgabe des Verkaufspersonals, die Preise vorschriftsgemäss bekannt zu geben.": "Wrong",
+                "Eine Preisangabe mit leicht zugänglichen und gut lesbaren Preislisten oder Katalogen ist erlaubt.": "Correct",
+                "Wer gegen die Preisbekanntgabeverordnung verstösst, wird mit Geld- oder Freiheitsstrafe gebüsst.": "Correct",
+                "Der Detailpreis ist der detaillierte Preis pro Einheit (z.B. pro Stück, pro 100g, pro Einheit).": "Wrong",
+                "Mit der Preisbekanntgabeverordnung (PBV) werden klare und miteinander vergleichbare Preise angestrebt.": "Correct",
+                "Der tatsächlich zu bezahlende Preis, der Detailpreis, kann auch in Euro oder US-Dollar angegeben werden.": "Wrong",
+                "Dank der Angabe des Grundpreises können die Konsumenten die Preise von vorverpackter Ware verschiedener Anbieter vergleichen.": "Correct"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,138 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the basic knowledge \"The state\" carefully. Then answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What three elements make up a state? ",
+              "correctAnswer": "State people, state territory, state authority"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Where are the purpose and tasks of the Swiss state defined?",
+              "correctAnswer": "in the Federal Constitution, Article 2"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What is the main purpose of the state in dictatorships? ",
+              "correctAnswer": "to maintain the power and privileges of those in power"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "How is power passed on in monarchies? ",
+              "correctAnswer": "through inheritance"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Who exercises power in a dictatorship? Name three possibilities.",
+              "correctAnswer": "Individual (dictator), military, party "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the basic knowledge \"The state\" carefully. Then answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What does the distribution of power look like in a dictatorship and in a democracy?",
+              "correctAnswer": "Dictatorship: from top to bottom/ Democracy: from bottom to top"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Which of Switzerland's neighboring countries was ruled by a dictatorship from 1933 to 1945?",
+              "correctAnswer": "Germany"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What is the German term for democracy? ",
+              "correctAnswer": "Rule of the people"
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What is meant by the term \"popular sovereignty\"? ",
+              "correctAnswer": "The people freely and independently determine the rules of state coexistence."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "What are the three different forms of state structure?",
+              "correctAnswer": "Unitary state, federal state, confederation of states "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Read the basic knowledge \"The state\" carefully. Then answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Which countries also have a federal structure like Switzerland? Name three.",
+              "correctAnswer": "USA, Germany, Austria"
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "How is Switzerland's federal structure structured from the bottom up?",
+              "correctAnswer": "Municipalities, cantons, federal government "
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "What is meant by the principle of the rule of law?",
+              "correctAnswer": "The state authorities must comply with the law."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "To which three authorities is power divided in a democracy?",
+              "correctAnswer": "Legislative (= legislative authority), executive (= executive authority), judiciary (= judicial authority)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

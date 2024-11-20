@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Shelf arrangement ",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The front square receives little attention. ",
+                "The accompanying seats are located to the side of the customer flow. ",
+                "The back shelves are suitable for everyday products. ",
+                "The front seats mostly show novelties. ",
+                "The accompanying seats are also known as side seats. "
+              ],
+              "type": "matrix",
+              "title": "Decide whether the following statements about the shelf arrangement are correct or incorrect.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Der Frontplatz ist wenig beachtet. ": "Wrong",
+                "Die Frontplätze zeigen meistens Neuheiten. ": "Correct",
+                "Die Begleitplätze befinden sich seitlich des Kundenstroms. ": "Correct",
+                "Die Rückenplätze eignen sich für Produkte des täglichen Bedarfs. ": "Correct",
+                "Die Begleitplätze werden auch in der Fachsprache Seitenplätze genannt. ": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

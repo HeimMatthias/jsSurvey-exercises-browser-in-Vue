@@ -1,0 +1,149 @@
+{
+  "pages": [
+    {
+      "name": "Aussagen1",
+      "title": "Assign statements",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which of the three sentences is most similar in meaning to the question or statement above? Mark it!",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "He advocates a liberal economic policy.",
+              "choices": [
+                "He believes that the economy should be restricted by as few regulations as possible.",
+                "He has no opinion on the economy",
+                "He thinks the economy needs more rules."
+              ],
+              "isRequired": true,
+              "correctAnswer": "He believes that the economy should be restricted by as few regulations as possible.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Migration policy has been the subject of much debate in recent years.",
+              "choices": [
+                "Issues surrounding the migration of Internet data were the subject of much political discussion.",
+                "Questions about how to deal with immigrants and emigrants led to many political discussions.",
+                "Questions surrounding Migros advertising led to many political discussions."
+              ],
+              "isRequired": true,
+              "defaultValue": "Er findet, die Wirtschaft soll durch möglichst wenig Vorschriften eingeschränkt werden.",
+              "correctAnswer": "Questions about how to deal with immigrants and emigrants led to many political discussions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aussagen2",
+      "title": "Assign statements",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which of the three sentences is most similar in meaning to the question or statement above? Mark it!",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "She would like to see less regulation with regard to store opening hours.",
+              "choices": [
+                "She would like stores to be freer to determine their opening hours.",
+                "She wants fewer shelves in the stores.",
+                "She would like to see stricter rules on store opening hours."
+              ],
+              "isRequired": true,
+              "defaultValue": "Er findet, die Wirtschaft soll durch möglichst wenig Vorschriften eingeschränkt werden.",
+              "correctAnswer": "She would like stores to be freer to determine their opening hours.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "In Switzerland, there is a certain amount of state redistribution.",
+              "choices": [
+                "Switzerland supports exchange platforms.",
+                "In Switzerland, the rich pay more taxes than the poor.",
+                "In Switzerland, the state takes money from the rich and gives it to the poor."
+              ],
+              "isRequired": true,
+              "defaultValue": "Er findet, die Wirtschaft soll durch möglichst wenig Vorschriften eingeschränkt werden.",
+              "correctAnswer": "In Switzerland, the state takes money from the rich and gives it to the poor.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aussagen3",
+      "title": "Assign statements",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which of the three sentences is most similar in meaning to the question or statement above? Mark it!",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Some warn that internal security is at stake with cybercrime.",
+              "choices": [
+                "They fear that there will be more break-ins due to the digital possibilities.",
+                "They fear that more crime, terrorism and other threats will develop from within a country.",
+                "They fear that crime within large companies is on the rise."
+              ],
+              "isRequired": true,
+              "correctAnswer": "They fear that more crime, terrorism and other threats will develop from within a country.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Switzerland is a welfare state.",
+              "choices": [
+                "The Swiss state supports the weaker members of society - for example through state redistribution.",
+                "In Switzerland, you behave socially because that's how you're brought up.",
+                "In Switzerland, an above-average amount of social welfare is claimed because many people have socialist attitudes."
+              ],
+              "isRequired": true,
+              "defaultValue": "Er findet, die Wirtschaft soll durch möglichst wenig Vorschriften eingeschränkt werden.",
+              "correctAnswer": "The Swiss state supports the weaker members of society - for example through state redistribution.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "He is clearly in favor of law and order.",
+              "choices": [
+                "He would like to see more lawyers representing low-income people in court.",
+                "He calls for strict laws that are enforced consistently and, if necessary, with a heavy hand by the police.",
+                "He loves American crime series."
+              ],
+              "isRequired": true,
+              "defaultValue": "Er findet, die Wirtschaft soll durch möglichst wenig Vorschriften eingeschränkt werden.",
+              "correctAnswer": "He calls for strict laws that are enforced consistently and, if necessary, with a heavy hand by the police.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

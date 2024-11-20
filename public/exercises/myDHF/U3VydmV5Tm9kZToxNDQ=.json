@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Push and pull factors",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Low standard of living",
+                "Existing networks of immigrants in other countries",
+                "High unemployment",
+                "Less bureaucracy",
+                "High tax burden",
+                "Greater personal and entrepreneurial freedom",
+                "Strong population growth",
+                "Weather (sun, warmth)",
+                "Low economic growth",
+                "Career/gain experience abroad",
+                "High job mobility",
+                "Love",
+                "Isolation (business or research-related)",
+                "Professional career and development opportunities",
+                "Weather (rain, cold)",
+                "Good employment opportunities",
+                "Corruption",
+                "Low tax burden",
+                "Crime",
+                "Low unemployment",
+                "Higher standard of living"
+              ],
+              "type": "matrix",
+              "title": "What are the factors that cause people to migrate? Push factors are causes that prompt people to emigrate. Pull factors are conditions that attract migrants. Now assign the individual terms to the push and pull factors:",
+              "columns": [
+                "Push",
+                "Pull"
+              ],
+              "correctAnswer": {
+                "Liebe": "Pull",
+                "Korruption": "Push",
+                "Kriminalität": "Push",
+                "Hohe Jobmobilität": "Pull",
+                "Weniger Bürokratie": "Pull",
+                "Hohe Arbeitslosigkeit": "Push",
+                "Wetter (Regen, Kälte)": "Push",
+                "Wetter (Sonne, Wärme)": "Pull",
+                "Höherer Lebensstandard": "Pull",
+                "Geringe Arbeitslosigkeit": "Pull",
+                "Niedriger Lebensstandard": "Push",
+                "Hohe steuerliche Belastung": "Push",
+                "Geringes Wirtschaftswachstum": "Push",
+                "Geringe steuerliche Belastung": "Pull",
+                "Starkes Bevölkerungswachstum": "Push",
+                "Karriere/Auslanderfahrung sammeln": "Pull",
+                "Gute Beschäftigungsmöglichkeiten": "Pull",
+                "Isolation (geschäftlich oder forschungsbezogen)": "Push",
+                "Berufliche Karriere- und Entwicklungsmöglichkeiten": "Pull",
+                "Grössere persönliche und unternehmerische Freiheit": "Pull",
+                "Bestehende Netzwerke von Einwanderern in anderen Ländern": "Push"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

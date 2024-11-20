@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Just like Visa, Twint is available worldwide.",
+                "Twint is a subsidiary of ApplePay.",
+                "If you make a payment in e-banking today and release it before midday, it will be executed today.",
+                "ApplePay and GooglePay data is stored worldwide. Twint's data security is greater, as this data is only stored in Switzerland. ",
+                "You cannot check payments in e-banking."
+              ],
+              "type": "matrix",
+              "title": "Do the following statements apply?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Twint ist eine Tochterfirma von ApplePay.": "wrong",
+                "Twint ist – genau wie Visa – weltweit verfügbar.": "wrong",
+                "Im E-Banking können Sie keine Zahlungskontrolle machen.": "wrong",
+                "Wenn Sie heute eine Zahlung im E-Banking tätigen und sie vor dem Mittag freigeben, dann wird diese noch heute ausgeführt.": "right",
+                "Die Daten von ApplePay und GooglePay werden weltweit gespeichert. Die Datensicherheit von Twint ist grösser, da diese Daten nur in der Schweiz gespeichert werden. ": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

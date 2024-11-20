@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "Wenn-Dann-Sätze",
+          "type": "panel",
+          "title": "Complete the table according to the example with three more if-then sentences.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M5-2_Auftrag6.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "If-then sentence 2",
+              "isRequired": true,
+              "correctAnswer": "If the debt enforcement office sends a payment order (warning), there is a debt enforcement register entry that a potential landlord can also view.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "If-then sentence 3",
+              "isRequired": true,
+              "correctAnswer": "If the debtor does not comply with the payment order, his property is auctioned off, his wages are pledged and his employer is informed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage3",
+              "type": "comment",
+              "title": "If-then sentence 4",
+              "isRequired": true,
+              "correctAnswer": "If neither valuables nor wages can be seized from the debtor, the debt enforcement office will issue the creditor with a certificate of loss.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<h1 class=\"survey__completed-title\">Congratiulations</h1>\n<p class=\"survey__completed-text\">You have successfully completed the exercise.</p>",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

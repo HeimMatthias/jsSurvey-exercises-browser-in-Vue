@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "page3",
+      "title": "Discount principle",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Introduce the essence of the discount principle by commenting on the reason for each of the following measures. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Simple store fittings",
+              "isRequired": true,
+              "correctAnswer": "Savings are made on furniture and furnishings, which helps to keep sales prices low.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Self-service",
+              "isRequired": true,
+              "correctAnswer": "Self-service saves on personnel costs; this saving helps to reduce prices even further.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Favorable locations",
+              "isRequired": true,
+              "correctAnswer": "Convenient locations are not always easy to reach, but the savings are deducted from the price.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Minimal services",
+              "isRequired": true,
+              "correctAnswer": "The company does not pamper its customers and saves costs, thus reducing prices even further.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Mass products",
+              "isRequired": true,
+              "correctAnswer": "The company mainly offers mass-produced products and bestsellers and does without a large selection, thereby lowering prices once again.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Discount principle",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "Why can a discount store offer low prices? Tick the correct answer.",
+              "choices": [
+                "Concentration on branded products",
+                "No imported items, thus saving on customs costs",
+                "Cost control: low overheads",
+                "Low inventory turnover"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cost control: low overheads",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Modal verbs",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Modal verbs: Choose the best alternative variant for the respective sentences. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "1. you must send the letter by registered mail. ",
+              "choices": [
+                "Please send the letter by registered mail. ",
+                "We would be grateful if you could send the letter by registered mail. ",
+                "We kindly ask you to send the letter by registered mail. "
+              ],
+              "correctAnswer": "Please send the letter by registered mail. "
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "2. if necessary, you may contact the customer service team. ",
+              "choices": [
+                "It would be helpful if you could contact the customer service team. ",
+                "Contact the customer service team if required. ",
+                {
+                  "text": "You can contact the customer service team if you have any problems.",
+                  "value": "You can contact the customer service team if you have any problems. "
+                }
+              ],
+              "correctAnswer": "Contact the customer service team if required. "
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "3. you can complete the training when you are ready. ",
+              "choices": [
+                {
+                  "text": "Complete the training when you are ready. ",
+                  "value": " Complete the training when you are ready. "
+                },
+                "We would be grateful if you could complete the training. ",
+                "We kindly ask you to complete the training when you are ready."
+              ],
+              "correctAnswer": " Complete the training when you are ready. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

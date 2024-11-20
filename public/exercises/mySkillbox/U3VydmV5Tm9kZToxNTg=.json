@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "name": "Fall 1",
+      "title": "Fair justice principle",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Case 1: A company decides to distribute its annual profit equally to the entire workforce. All employees, regardless of their position and percentage of employment, receive the same amount. How would you distribute the profit in your company?",
+          "elements": [
+            {
+              "name": "Ich schlage folgendes Gerechtigkeitsprinzip vor:",
+              "type": "text",
+              "title": "I propose the following principle of justice: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Dieses liesse sich so umsetzen:",
+              "type": "comment",
+              "title": "This could be implemented in this way: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Entscheiden Sie sich für ein aus Ihrer Sicht faires Gerechtigkeitsprinzip und notieren Sie dieses mit dem entsprechenden Fachbegriff.\nSkizzieren Sie in einem zweiten Schritt, wie die Verteilung im Sinne Ihres notierten Gerechtigkeitsprinzips konkret aussähe.\n"
+    },
+    {
+      "name": "page1",
+      "title": "Fair justice principle",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Case 2: In Switzerland, a low-income family pays the same amount in health insurance premiums as a millionaire family (unless the income is so low that the family receives premium reductions). How would you determine the amount of health insurance premiums per family?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "I propose the following principle of justice: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "This could be implemented in this way: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Entscheiden Sie sich für ein aus Ihrer Sicht faires Gerechtigkeitsprinzip und notieren Sie dieses mit dem entsprechenden Fachbegriff.\nSkizzieren Sie in einem zweiten Schritt, wie die Verteilung im Sinne Ihres notierten Gerechtigkeitsprinzips konkret aussähe.\n"
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

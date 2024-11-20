@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Purchase intention and purchase motive ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which questions are suitable for finding out your customers' buying intentions and motives? ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Tick the question that tells you what you want to buy. ",
+              "choices": [
+                "May I help you?",
+                "What are you looking for?",
+                "Can I help you?",
+                "Are you looking for something specific?"
+              ],
+              "isRequired": true,
+              "correctAnswer": "What are you looking for?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Put a cross in the box next to the question that tells you the motive for your purchase.",
+              "choices": [
+                "What can I show you?",
+                "Don't you think this product suits you perfectly?",
+                "Do you need the product for a specific purpose?",
+                "For what occasion do you need the disposable tableware?"
+              ],
+              "isRequired": true,
+              "correctAnswer": "For what occasion do you need the disposable tableware?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

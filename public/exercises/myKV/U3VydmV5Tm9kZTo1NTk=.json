@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Digital threats to companies",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Do some research on digital threats to companies. Write down a short explanation in two to four sentences.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is cybercrime in general?",
+              "correctAnswer": "Collective term/overarching term for criminal offenses against information technologies, data networks and the Internet in general, as well as for all technologies used for these offenses."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are hackers?",
+              "correctAnswer": "Persons who gain unauthorized and criminal access to company networks (servers, workstation PCs) in order to spy out, change, supplement or steal sensitive business data, or they blackmail the company by encrypting data and thus rendering it unusable.\nException: so-called white-hat hackers who are explicitly asked to penetrate company systems in order to identify security problems."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is computer sabotage? Find the correct article in the Criminal Code. What type(s) of malware does it include?",
+              "correctAnswer": "... rendering PC or server systems on commercial computers of companies or public authorities unusable by overwriting or deleting data. This also includes Trojans \"left behind\" by departing employees, which are activated by a specific event and cause damage. A possible article for this would be Art. 144bis StGB."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is computer espionage? What type(s) of malware does it include?",
+              "correctAnswer": "Intentional procurement of foreign (electronic) data from (other) companies, for example to steal construction plans for new machines, inventions, etc. Computer espionage is a criminal offense. In addition, anyone can be liable to prosecution if they obtain data that is not intended for them and that is specially secured against unauthorized access. A password or magnetic card security is sufficient as special protection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Digital threats to companies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Do some research on digital threats to companies. Write down a short explanation in two to four sentences.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What is a DDoS attack, how does it work and what does it do?",
+              "correctAnswer": "(Distributed Denial of Service) Attack on a computer with the aim of putting it out of action - e.g. by means of a flood of email requests or long and pointless URL requests. This overloads the server, i.e. an online provider is no longer accessible to buyers because the server has been paralyzed by the attack. The damage for companies is massive (as not only customers but also suppliers can no longer make contact).\nSince a large number of requests are required to overload a server, so-called botnets are used for this purpose. These are infected computers - perhaps even yours without your knowledge - which then all send the request to the target server at the same time."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Search for the message of a recent DDoS attack. What happened? How many computers were involved?",
+              "correctAnswer": "Example solution: At the beginning of the Russian war of aggression against Ukraine, numerous DDoS attacks took place, for example against two Ukrainian banks. Ukraine's security service deactivated 18,000 accounts belonging to bots."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What is ransomware? What does it do?",
+              "correctAnswer": "Blackmail software that encrypts the entire hard disk (or displays a lock screen), for example, making it unusable. Companies are then often blackmailed into giving them back access to their data in exchange for money. Such ransoms should not be paid. The criminals' strategy only works as long as there are companies willing to pay the ransom. The only thing that helps here is a good data backup or an image of the entire server structure that can be read back."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Search for the message of a recent ransomware attack. What happened? ",
+              "correctAnswer": "In 2023, the NZZ fell victim to a ransomware attack. The hacker group Play threatened to publish employee data unless Bitcoin was paid. The NZZ did not pay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

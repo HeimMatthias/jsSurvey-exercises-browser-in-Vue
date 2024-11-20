@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "Lieferverzug1",
+      "title": "Delay in delivery",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the questions on the subject of delayed delivery. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is a dunning transaction? ",
+              "isRequired": true,
+              "correctAnswer": "In a reminder transaction, no exact delivery date is agreed because it is not so important to the buyer when exactly the goods will be delivered. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What can buyers do if a delivery does not arrive despite a grace period? ",
+              "isRequired": true,
+              "correctAnswer": "You have three options to choose from: (1) Insist on subsequent delivery and claim damages for delay. (2) Waive subsequent delivery and claim damages for non-delivery. (3) Withdraw from the contract. The buyers waive delivery and can only claim compensation for expenses. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lieferverzug2",
+      "title": "Delay in delivery",
+      "elements": [
+        {
+          "name": "Anweisung2",
+          "type": "panel",
+          "title": "Answer the questions on the subject of delayed delivery. ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you turn a dunning transaction into a fixed transaction? ",
+              "isRequired": true,
+              "correctAnswer": "If an item does not arrive by the requested deadline in the case of a dunning transaction, the buyer must set the seller a reasonable grace period. This grace period converts the dunning transaction into a fixed-date transaction. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Which products can lead to a fixed transaction? ",
+              "isRequired": true,
+              "correctAnswer": "Examples: Wedding dress, food for a party, flowers for a birthday, flyers for an event, etc. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

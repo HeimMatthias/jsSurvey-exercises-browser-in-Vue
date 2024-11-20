@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why should the language setting \"German (Germany)\" not be selected?",
+              "isRequired": true,
+              "correctAnswer": "The double s (ss) is sometimes displayed as an error.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the disadvantages of automatic hyphenation programs?",
+              "isRequired": true,
+              "correctAnswer": "This can lead to unsightly word divisions.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How can texts be checked acoustically (by ear)?",
+              "isRequired": true,
+              "correctAnswer": "Have another person read the text aloud and/or use the \"Read aloud\" function",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Apart from the correct spelling and hyphenation, what other information can be found in the dictionary?",
+              "isRequired": true,
+              "correctAnswer": "Grammar, meaning, origin, style, pronunciation, use",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What applies to upper and lower case letters in nominalizations?",
+              "isRequired": true,
+              "correctAnswer": "They are always written in capital letters.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What applies to separate and compound spelling for compounds with the verb \"sein\"?",
+              "isRequired": true,
+              "correctAnswer": "They are always written separately.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "In which cases are compounds with verbs written together?",
+              "isRequired": true,
+              "correctAnswer": "If the word has a figurative meaning (example: to talk something up)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

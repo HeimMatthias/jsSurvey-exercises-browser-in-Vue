@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Balance sheet",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Sind die Aussagen zur Bilanz allgemein und zur Gliederung der Bilanz richtig oder falsch?",
+              "rows": [
+                "The asset accounts are listed in the balance sheet according to amount.",
+                "The account Liabilities L+L belongs to the current assets.",
+                "In principle, the assets and liabilities in the balance sheet must be of equal size.",
+                "The vehicles account belongs to the fixed assets account group.",
+                "The liability accounts are listed in the order in which they can be liquidated."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the balance sheet in general and on the structure of the balance sheet correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Finanzanlagen gehören in die Kontengruppe Umlaufvermögen.": "falsch",
+                "Das Konto Verbindlichkeiten L+L gehört in das Umlaufvermögen.": "wrong",
+                "Das Konto Fahrzeuge gehört in die Kontengruppe Anlagevermögen.": "right",
+                "Das Konto Wertschriften gehört in die Untergruppe Finanzanlagen.": "falsch",
+                "Die Passivkonten werden in der Reihenfolge der Liquidierbarkeit aufgeführt.": "wrong",
+                "Die Aktivkonten werden in der Bilanz nach der Höhe der Beträge aufgeführt.": "wrong",
+                "Auf der Aktivseite ist ersichtlich, wer das Kapital zur Verfügung gestellt hat.": "falsch",
+                "Grundsätzlich müssen die Aktiven und die Passiven in der Bilanz gleich gross sein.": "right",
+                "Die Posten des Umlaufvermögens verändern sich laufend und sind schnell liquidierbar.": "richtig",
+                "Bilanzen werden jeweils für einen bestimmten Zeitraum, wie zum Beispiel ein Quartal, erstellt.": "falsch"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Balance sheet",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Balance sheets are prepared for a specific period, such as a quarter.",
+                "Financial assets belong to the current assets account group.",
+                "The assets side shows who provided the capital.",
+                "Current asset items are constantly changing and can be liquidated quickly.",
+                "The securities account belongs to the financial assets subgroup."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the balance sheet in general and on the structure of the balance sheet correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Finanzanlagen gehören in die Kontengruppe Umlaufvermögen.": "wrong",
+                "Das Konto Verbindlichkeiten L+L gehört in das Umlaufvermögen.": "wrong",
+                "Das Konto Fahrzeuge gehört in die Kontengruppe Anlagevermögen.": "right",
+                "Das Konto Wertschriften gehört in die Untergruppe Finanzanlagen.": "wrong",
+                "Die Passivkonten werden in der Reihenfolge der Liquidierbarkeit aufgeführt.": "wrong",
+                "Die Aktivkonten werden in der Bilanz nach der Höhe der Beträge aufgeführt.": "wrong",
+                "Auf der Aktivseite ist ersichtlich, wer das Kapital zur Verfügung gestellt hat.": "wrong",
+                "Grundsätzlich müssen die Aktiven und die Passiven in der Bilanz gleich gross sein.": "right",
+                "Die Posten des Umlaufvermögens verändern sich laufend und sind schnell liquidierbar.": "right",
+                "Bilanzen werden jeweils für einen bestimmten Zeitraum, wie zum Beispiel ein Quartal, erstellt.": "wrong"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

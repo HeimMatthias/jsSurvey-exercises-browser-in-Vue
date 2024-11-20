@@ -1,0 +1,129 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Balance sheet accounts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Name the technical terms for the various balance sheet accounts.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Property, plant and equipment for the manufacture of goods in production plants",
+              "isRequired": true,
+              "correctAnswer": "Machines",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Credit balance on the bank's current account (account for current payments)",
+              "isRequired": true,
+              "correctAnswer": "Bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Short-term credit balances with customers (outstanding customer invoices)",
+              "isRequired": true,
+              "correctAnswer": "Receivables L+L",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Current liability to the tax authorities (according to VAT statement)",
+              "isRequired": true,
+              "correctAnswer": "VAT liabilities",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Investments that can be liquidated in the short term (listed shares, bonds, etc.)",
+              "isRequired": true,
+              "correctAnswer": "Securities",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Balance sheet accounts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the following technical terms.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Loans on the liabilities side",
+              "isRequired": true,
+              "correctAnswer": "Long-term debt to a bank or other creditors",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Cash register",
+              "isRequired": true,
+              "correctAnswer": "Cash holdings",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Liabilities L+L",
+              "isRequired": true,
+              "correctAnswer": "Current liabilities to suppliers (outstanding invoices)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Mortgages",
+              "isRequired": true,
+              "correctAnswer": "Long-term debt for the financing of properties",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Inventories",
+              "isRequired": true,
+              "correctAnswer": "Stocks of merchandise or material",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Furniture",
+              "isRequired": true,
+              "correctAnswer": "Office furniture, warehouse equipment, store fittings, IT systems",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Vater und Tochter 1",
+      "title": "Father and daughter",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "In the short story, it becomes clear that father and daughter have become increasingly estranged since acquiring the Relive Box, because both are fleeing into the past.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Name two rituals that the two of them had previously practiced.",
+              "isRequired": true,
+              "correctAnswer": "Breakfast together (lines 302-305), father-daughter dinner in a restaurant (lines 359-364), celebrating Christmas (443-446)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vater und Tochter 2",
+      "title": "Father and daughter",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In the short story, it becomes clear that father and daughter have become increasingly estranged since acquiring the Relive Box, because both are fleeing into the past.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Make a note of what ways of escaping from everyday life you know yourself or have observed in others.",
+              "isRequired": true,
+              "correctAnswer": "Addiction (alcohol, tobacco, cannabis, medication, hard drugs, ...), shopping, activism, going out, work (workaholic)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vater und Tochter 3",
+      "title": "Father and daughter",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In the short story, it becomes clear that father and daughter have become increasingly estranged since acquiring the Relive Box, because both are fleeing into the past.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "There are various signs that should make it clear to the father that his reliving addiction has reached an alarming level. List at least five signs in keywords.",
+              "isRequired": true,
+              "correctAnswer": "Bad conscience, unpunctuality at work, threat of dismissal from employer, daughter's reactions, pelvis for urination, loss of reality, living in the past, neglect of daughter, loss of control, failure with own intentions, ...",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

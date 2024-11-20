@@ -1,0 +1,122 @@
+{
+  "pages": [
+    {
+      "name": "Malerei",
+      "title": "Painting",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Choose the correct answer to the following statements.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Painting is one of the ... ?",
+              "choices": [
+                "performing arts",
+                "fine arts",
+                "three-dimensional arts"
+              ],
+              "isRequired": true,
+              "correctAnswer": "fine arts",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "In concrete painting, the optical illusion of three-dimensionality is created above all by ... ?",
+              "choices": [
+                "the color scheme",
+                "the display size",
+                "the central perspective"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the central perspective",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Abstract painting is not about the realistic depiction of reality, but ...",
+              "choices": [
+                {
+                  "text": "to subjective perceptions and feelings",
+                  "value": "subjective perceptions and feelings."
+                },
+                "to protest against photography",
+                "around geometric shapes"
+              ],
+              "isRequired": true,
+              "correctAnswer": "subjective perceptions and feelings.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Painting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Choose the correct answer to the following statements.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Impressionism and Expressionism are ... ?",
+              "choices": [
+                "similar currents",
+                "Complementary currents ",
+                "Countercurrents"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Countercurrents",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "The most famous artist of Cubism is ... ?",
+              "choices": [
+                "Fernand Léger",
+                "Pablo Picasso",
+                "Paul Klee"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Pablo Picasso",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "The main difference between Surrealism and Pop Art is that ...",
+              "choices": [
+                "that they represent objects very differently",
+                "that they refrain from depicting people",
+                "that they are not abstract"
+              ],
+              "isRequired": true,
+              "correctAnswer": "that they represent objects very differently.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

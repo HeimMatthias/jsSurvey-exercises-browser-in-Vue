@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Technical term",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Name the technical term that is described in each case. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "This is the name of an organizational structure that consists of both advisory and executive bodies.",
+              "isRequired": true,
+              "correctAnswer": "Staff-line organization ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Organizational structure in which the departments are structured according to function.",
+              "isRequired": true,
+              "correctAnswer": "Functional organization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "This body only performs advisory and preparatory tasks, but does not make any decisions.",
+              "isRequired": true,
+              "correctAnswer": "Staff unit",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Positions that take on additional tasks such as planning, delegating and monitoring.",
+              "isRequired": true,
+              "correctAnswer": "Authorities or management bodies",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Another term for instruction and information channel",
+              "isRequired": true,
+              "correctAnswer": "Official channels",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

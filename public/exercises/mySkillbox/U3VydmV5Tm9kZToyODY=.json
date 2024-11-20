@@ -1,0 +1,112 @@
+{
+  "pages": [
+    {
+      "name": "Marktgesetze",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "There is a housing shortage in many Swiss cities. Using a market law, explain what influence this has on rents.",
+              "isRequired": true,
+              "correctAnswer": "If apartments are in short supply, this means that the demand for housing is greater than the supply. This brings market law 2 into play (supply < demand). Rents become more expensive.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marktgesetze2",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "SBB wants to avoid trains on the Bern-Zurich route being completely overcrowded at peak times and is therefore increasing the corresponding ticket prices during the problematic period.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Will SBB achieve its goal? Make a guess based on one of the four market laws.",
+              "isRequired": true,
+              "correctAnswer": "There is a good chance that SBB will partially achieve its goal with this measure. This is because higher prices reduce demand (market law 3). Passengers who are not urgently dependent on these trains will probably postpone their journey to another time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "In return, the same route will be offered at more favorable conditions than usual outside rush hours. What influence will this measure have on the occupancy of these trains? Base your forecast again on one of the four market laws.",
+              "isRequired": true,
+              "correctAnswer": "Lower ticket prices result in greater demand (Market Law 4). Accordingly, SBB can expect a higher occupancy rate on these trains.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marktgesetze3",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "The US singer-songwriter Billie Eilish is giving a concert in Zurich's Hallenstadion. In each of the following two cases, use a market law to explain why ticket prices will develop as they do.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "You really wanted to get hold of a ticket, but unfortunately they were all sold out within a very short time. In the evening, you surf Ricardo and actually find tickets for the concert.",
+              "isRequired": true,
+              "correctAnswer": "As the demand for the tickets is apparently much greater than the supply, market law 2 comes into play (supply < demand). Accordingly, such tickets can be sold on unofficial sales channels at high prices.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "They hesitate to buy an overpriced ticket. In the meantime, the Federal Council has decided on measures for large concerts. Due to the pandemic, all visitors must now wear a mask during the entire concert. The consumption of food and drink is also prohibited.",
+              "isRequired": true,
+              "correctAnswer": "The concert becomes less attractive, which reduces the demand for unofficial tickets. Market law 1 comes into play (supply > demand). Prices therefore fall again. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marktgesetze4",
+      "title": "Market laws",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Since the advent of streaming services, we can download an infinite number of songs for free or integrate them into our playlists. What consequences does this development have for music producers who offer paid-for songs? Deduce your answer with the help of two market laws.",
+              "isRequired": true,
+              "correctAnswer": "Due to streaming services, the demand for paid songs decreases. Market law 1 comes into play (supply > demand). Music producers must therefore lower their prices and earn correspondingly less with their songs. Consequence 1: Some music producers will go bankrupt and disappear from the market as providers (market law 4). Consequence 2: Music producers will have to switch to other sources of income in order to earn a living.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "business letter",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Warranty certificate with proof of delivery",
+                "Quoting for the repair of the washing machine",
+                "Confirming returns due to faults",
+                "Payment reminder to Customer F.",
+                "Invitation to the customers' apéro",
+                "Confirmation of the delivery date",
+                "Monthly statement of a customer account"
+              ],
+              "type": "matrix",
+              "title": "What concerns are put forward in which type of business letter?",
+              "columns": [
+                "Offers and enquiries",
+                "Quotations and orders ",
+                "Confirmations ",
+                "Delivery notes",
+                "Invoices and reminders",
+                "Complaints handling"
+              ],
+              "correctAnswer": {
+                "Payment reminder to Customer F.": "Invoices and reminders",
+                "Confirming returns due to faults": "Complaints handling",
+                "Confirmation of the delivery date": "Confirmations ",
+                "Invitation to the customers' apéro": "Offers and enquiries",
+                "Monthly statement of a customer account": "Invoices and reminders",
+                "Warranty certificate with proof of delivery": "Delivery notes",
+                "Quoting for the repair of the washing machine": "Quotations and orders "
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

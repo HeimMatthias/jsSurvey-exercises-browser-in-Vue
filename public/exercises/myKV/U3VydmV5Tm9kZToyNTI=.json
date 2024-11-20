@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "How do you recognize open questions?",
+              "isRequired": true,
+              "correctAnswer": "on the question word, usually a W question word",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do closed questions begin?",
+              "isRequired": true,
+              "correctAnswer": "with a verb",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why should open questions be asked whenever possible?",
+              "isRequired": true,
+              "correctAnswer": "They enable detailed answers and thus an open, genuine conversation.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What do you call questions that aim for a desired answer?",
+              "isRequired": true,
+              "correctAnswer": "Suggestive questions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the difference between a causal and a final question?",
+              "isRequired": true,
+              "correctAnswer": "The causal question focuses on the cause, the final question on the consequence.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why is it advisable to avoid questions in the subjunctive II form for stylistic reasons?",
+              "isRequired": true,
+              "correctAnswer": "They seem cumbersome and are considered polite phrases.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the question \"Would you be so kind as to send us the price list today?\" as a request?",
+              "isRequired": true,
+              "correctAnswer": "Please send us the price list today.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

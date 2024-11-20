@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Conditional sentences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Form conditional sentences with the subjunctive II according to the example. Only use would-forms with obsolete subjunctive II forms and if the form of the indicative and the subjunctive II do not differ.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "me: having more time/doing more sport.",
+              "readOnly": true,
+              "defaultValue": "Wenn ich mehr Zeit hätte, triebe ich mehr Sport. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "me: win a million/go on a trip around the world",
+              "isRequired": true,
+              "correctAnswer": "If I won (would win) a million, I would go on a trip around the world.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "sie, singular: to be able to choose/choose Paris as a place of residence",
+              "isRequired": true,
+              "correctAnswer": "If she could choose, she would choose Paris as her place of residence. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Conditional sentences",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Form conditional sentences with the subjunctive II. Use would-forms only with obsolete subjunctive II forms and if the form of the indicative and the subjunctive II do not differ.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "we: can start again/approach the whole thing differently",
+              "isRequired": true,
+              "correctAnswer": "If we could start again, we would approach the whole thing differently.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "you: be in a different team/may have more success",
+              "isRequired": true,
+              "correctAnswer": "If you were in a different team, you might have more success.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "me: being in your situation/not giving up yet",
+              "isRequired": true,
+              "correctAnswer": "If I was (would be) in your situation, I wouldn't give up just yet.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Conditional sentences",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Form conditional sentences with the subjunctive II. Use would-forms only with obsolete subjunctive II forms and if the form of the indicative and the subjunctive II do not differ.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "we: pass a traffic accident/help as much as possible",
+              "isRequired": true,
+              "correctAnswer": "If we came across a traffic accident, we would help as best we could. (not: we would help as much as possible)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "situation is not so serious/we: laugh about it",
+              "isRequired": true,
+              "correctAnswer": "If the situation wasn't so serious, we would laugh about it. (not: we would laugh about it)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "the pain should increase/recommend/see a doctor",
+              "isRequired": true,
+              "correctAnswer": "If the pain increases, I would recommend that you see a doctor. (not: I recommend); Or: If the pain increases, I would recommend that you see a doctor. (not: I recommend you)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

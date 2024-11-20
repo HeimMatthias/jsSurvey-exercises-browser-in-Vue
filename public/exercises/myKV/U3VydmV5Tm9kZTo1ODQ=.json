@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Schritte der Argumentation",
+      "title": "Steps of the argumentation",
+      "elements": [
+        {
+          "name": "Name der Aufgaben",
+          "type": "panel",
+          "title": "Match the four steps of the argument to the correct explanations. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Explanation: \nExplain why you are for or against something. Key words are e.g. \"because\", \"since\" or \"because\".",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Reason"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Explanation: \nYou give a concrete example or provide evidence.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Example"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Explanation: \nThey summarize the whole argument again. Key words are e.g. \"therefore\", \"hence\" or \"for this reason\".",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Conclusion"
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Explanation: \nYou define whether you are for or against something. However, you never write in the first person. You convince neutrally and objectively.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Assertion"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

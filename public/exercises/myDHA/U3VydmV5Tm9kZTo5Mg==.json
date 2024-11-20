@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Allgemeines zur Kreislaufwirtschaft",
+      "title": "General information on the circular economy",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Explain the difference between a linear economic system and the idea of a circular economy.",
+              "isRequired": true,
+              "correctAnswer": "Linear economic system: Many raw materials are extracted, products are manufactured, consumed and thrown away. The linear economic system leads to a shortage of raw materials, large amounts of waste and the resulting environmental problems.\nCircular economy: The circular economy is characterized by a durable product design that can be repaired. The use of chemicals that are harmful to the environment and health should be avoided and the use of recyclable materials should be prioritized.\nIn order for products and materials to remain in the cycle, all stakeholders must take the entire cycle into account and act accordingly.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Name the characteristics of circular production.",
+              "isRequired": true,
+              "correctAnswer": "Durable, repairable design; no chemicals that are hazardous to the environment or health; safe and recyclable materials",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Name measures for how we can develop our economy into a circular economy.",
+              "isRequired": true,
+              "correctAnswer": "Share, reuse, repair, refurbish and recycle ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

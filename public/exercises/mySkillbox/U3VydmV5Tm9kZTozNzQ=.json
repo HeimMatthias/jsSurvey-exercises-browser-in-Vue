@@ -1,0 +1,181 @@
+{
+  "pages": [
+    {
+      "name": "Ökologischer Fussabdruck",
+      "title": "Ecological footprint",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "You know your ecological footprint. For each of the four areas (food, mobility, housing and energy and consumption in general), determine a realistic measure that you could implement in your everyday life. In addition, estimate the effect (large, medium, small) on your ecological footprint that you would achieve with your respective measure.",
+          "elements": [
+            {
+              "name": "Frage1",
+              "type": "comment",
+              "title": "Measure in the area of nutrition",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Effect",
+              "choices": [
+                {
+                  "text": "large",
+                  "value": "large"
+                },
+                {
+                  "text": "medium",
+                  "value": "medium"
+                },
+                {
+                  "text": "small",
+                  "value": "small"
+                }
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ökologischer Fussabdruck2",
+      "title": "Ecological footprint",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You know your ecological footprint. For each of the four areas that were surveyed (nutrition, mobility, housing and energy and consumption in general), determine a realistic measure that you could implement in your everyday life and estimate the effect (large, medium, small) on your ecological footprint that you would achieve with your respective measure.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Measure in the area of mobility:",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Effect",
+              "choices": [
+                {
+                  "text": "large",
+                  "value": "large"
+                },
+                {
+                  "text": "medium",
+                  "value": "medium"
+                },
+                {
+                  "text": "small",
+                  "value": "small"
+                }
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ökologischer Fussabdruck3",
+      "title": "Ecological footprint",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "You know your ecological footprint. For each of the four areas that were surveyed (nutrition, mobility, housing and energy and consumption in general), determine a realistic measure that you could implement in your everyday life and estimate the effect (large, medium, small) on your ecological footprint that you would achieve with your respective measure.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Measures in the area of housing and energy:",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Effect",
+              "choices": [
+                {
+                  "text": "large",
+                  "value": "large"
+                },
+                {
+                  "text": "medium",
+                  "value": "medium"
+                },
+                {
+                  "text": "small",
+                  "value": "small"
+                }
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ökologischer Fussabdruck4",
+      "title": "Ecological footprint",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "You know your ecological footprint. For each of the four areas that were surveyed (nutrition, mobility, housing and energy and consumption in general), determine a realistic measure that you could implement in your everyday life and estimate the effect (large, medium, small) on your ecological footprint that you would achieve with your respective measure.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Measure in the area of consumption in general:",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Effect",
+              "choices": [
+                {
+                  "text": "large",
+                  "value": "large"
+                },
+                {
+                  "text": "medium",
+                  "value": "medium"
+                },
+                {
+                  "text": "small",
+                  "value": "small"
+                }
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

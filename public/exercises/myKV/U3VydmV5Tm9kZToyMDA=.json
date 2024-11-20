@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Which two tenses can be expressed with simple verbs?",
+              "isRequired": true,
+              "correctAnswer": "Present and past tense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Which two compound tenses express past tense?",
+              "isRequired": true,
+              "correctAnswer": "Perfect and past perfect",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which tense can be used for things completed in the future?",
+              "isRequired": true,
+              "correctAnswer": "Future tense II",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which auxiliary verbs are used to form the different tenses?",
+              "isRequired": true,
+              "correctAnswer": " be, have, become",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "In which grammatical tense is the sentence: \"We will be able to start work soon\"?",
+              "isRequired": true,
+              "correctAnswer": "Future tense I",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Which two tenses are involved in this sentence and what is the tense relationship: \"Nobody knew how this decision came about\"?",
+              "isRequired": true,
+              "correctAnswer": "Preterite, past perfect; past tense ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Which tense do we use in dialect to represent the past?",
+              "isRequired": true,
+              "correctAnswer": "Perfect",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

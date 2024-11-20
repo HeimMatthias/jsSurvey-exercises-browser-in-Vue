@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Multiple-choice questions - one answer is correct. These questions help to consolidate knowledge about the needs analysis.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What is the primary goal of the needs analysis?",
+              "choices": [
+                "Identify the specific wishes and requirements of customers",
+                "Persuading customers to buy",
+                "Achieving the fastest conclusion",
+                "The most expensive product for sale"
+              ],
+              "correctAnswer": "Identify the specific wishes and requirements of customers"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Which technology is crucial for a successful needs analysis?",
+              "choices": [
+                "Convincing argumentation",
+                "Aggressive selling",
+                "Speak quickly",
+                "Precise questions and attentive listening"
+              ],
+              "correctAnswer": "Precise questions and attentive listening"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "What is the first step in a needs analysis?",
+              "choices": [
+                "Product presentation",
+                "Price negotiation",
+                "Initial contact and understanding of needs",
+                "Completion of the sale"
+              ],
+              "correctAnswer": "Initial contact and understanding of needs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Multiple-choice questions - one answer is correct. These questions help to consolidate knowledge about the needs analysis.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "What does the identification of customer needs involve?",
+              "choices": [
+                "Only the determination of the budget",
+                "Exclusively clarifying the time frame",
+                "Acquiring further knowledge about the industry and current needs",
+                "Ignoring customer wishes"
+              ],
+              "correctAnswer": "Acquiring further knowledge about the industry and current needs"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "How should identified needs be addressed in the consultation phase?",
+              "choices": [
+                "Being ignored",
+                "Prioritized and targeted addressing",
+                "The following remain unchanged",
+                "Be rejected immediately"
+              ],
+              "correctAnswer": "Prioritized and targeted addressing"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "What is an important aspect when clarifying objections and concerns?",
+              "choices": [
+                "Active listening and empathetic response",
+                "Offering discounts",
+                "Exerting pressure",
+                "Changing the topic quickly"
+              ],
+              "correctAnswer": "Active listening and empathetic response"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Needs analysis",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Multiple-choice questions - one answer is correct. These questions help to consolidate knowledge about the needs analysis.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "What is the aim of graduation and aftercare?",
+              "choices": [
+                "Urging customers to make further purchases",
+                "Closing the sale and building a long-term customer relationship",
+                "Receive immediate payment",
+                "Ignoring the customers"
+              ],
+              "correctAnswer": "Closing the sale and building a long-term customer relationship"
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "In which step of the needs analysis are specific customer requirements such as functionality and style clarified?",
+              "choices": [
+                "First contact",
+                "Completion and aftercare",
+                "Advice and proposed solutions",
+                "Determination of customer needs "
+              ],
+              "correctAnswer": "Determination of customer needs "
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "How should proposed solutions be presented in the needs analysis?",
+              "choices": [
+                "Unclear and general",
+                "Based on the prioritized customer needs",
+                "Without taking the customer's opinion into account",
+                "Based on available stock only"
+              ],
+              "correctAnswer": "Based on the prioritized customer needs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

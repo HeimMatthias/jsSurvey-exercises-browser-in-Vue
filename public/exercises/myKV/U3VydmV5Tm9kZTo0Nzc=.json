@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "According to the table, ApplePay, GooglePay and SamsungPay are indispensable. ",
+                "The Maestro card was a credit card.",
+                "The Postfinance Card is not widely used in Switzerland.",
+                "More than half of the people surveyed do not use their smartphone to make payments at all.",
+                "Twint is named as indispensable, after cash, debit and credit cards.",
+                "Debit cards are used more for payments than cash."
+              ],
+              "type": "matrix",
+              "title": "Study the diagram in Basic knowledge, chapter 3, and solve the exercise.",
+              "columns": [
+                "Applies",
+                "Does not apply"
+              ],
+              "correctAnswer": {
+                "Die Maestro-Karte war eine Kreditkarte.": "Does not apply",
+                "Die Postfinance Card ist in der Schweiz wenig verbreitet.": "Does not apply",
+                "Debitkarten werden mehr eingesetzt für Zahlungen als Bargeld.": "Does not apply",
+                "Gemäss Tabelle sind ApplePay, GooglePay und SamsungPay unverzichtbar. ": "Does not apply",
+                "Twint wird als unverzichtbar genannt, nach Bargeld, Debit- und Kreditkarten.": "Applies",
+                "Mehr als die Hälfte der befragten Personen benutzen das Smartphone gar nicht, um Zahlungen zu tätigen.": "Applies"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

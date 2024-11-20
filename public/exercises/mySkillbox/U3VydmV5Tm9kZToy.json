@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "Tugenden",
+      "title": "Virtues",
+      "elements": [
+        {
+          "name": "Fall 5",
+          "type": "panel",
+          "title": "Max has CHF 20 left over at the end of the month, which he has saved up to go and play pool with his best friend, who has been abroad for six months. But then his younger sister asks him for money. She has an unexpected date with a young man with whom she fell madly in love months ago. Unfortunately, her bank balance is already at zero.",
+          "elements": [
+            {
+              "name": "Fall 1 a)",
+              "type": "text",
+              "title": "A: Max gives her the money and has to cancel the pool game. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Helpfulness, selflessness, generosity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Fall 1 b)",
+              "type": "text",
+              "title": "B: Max doesn't give her the money and goes to play pool. What virtues are opposed to this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Reliability, faithfulness, loyalty, friendship",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tugenden1",
+      "title": "Virtues",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "A truck that could explode at any time is on fire on the highway. Silvio, the driver, only has a few minutes left: Either he gets his unconscious passenger to safety or he closes off the road, which is still very busy.",
+          "elements": [
+            {
+              "name": "Fall 2 a)",
+              "type": "text",
+              "title": "A: Silvio brings his passenger to safety. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Bravery, courage, reliability, humanity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Fall 2 b)",
+              "type": "text",
+              "title": "B: Silvio blocks off the road. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Civic courage, sense of community, sense of duty",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tugenden2",
+      "title": "Virtues",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Annette is driving to work and briefly checks her WhatsApp messages. Just as she turns her attention back to the road, a pedestrian appears in front of the car. Although she reacts quickly, she hits him. The heavy braking causes a rear-end collision. The driver of the car behind Annette is horrified because he thinks he has caused the collision with the pedestrian.",
+          "elements": [
+            {
+              "name": "Fall 3 a)",
+              "type": "text",
+              "title": "A: Annette calms the other driver down and admits that she braked too late. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Honesty, sincerity, uprightness, integrity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Fall 3 b)",
+              "type": "text",
+              "title": "B: Annette says nothing and lets the other driver believe that he was at fault for the collision. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tugenden3",
+      "title": "Virtues",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Zeno witnesses a bank robbery. He follows the bank robber and sees where he lives. Zeno finds out that the bank robber is \"donating\" the money to a children's home with very limited funds. With the bank robber's loot, the home's management can finally buy enough food for the children.",
+          "elements": [
+            {
+              "name": "Fall 4 a)",
+              "type": "text",
+              "title": "A: Zeno does not betray the bank robber. What virtues are opposed to this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Solidarity, helpfulness, compassion",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Fall 4 b)",
+              "type": "text",
+              "title": "B: Zeno reports everything to the police. What are the virtues of this behavior?",
+              "isRequired": true,
+              "correctAnswer": "Honesty, sincerity, uprightness, integrity, uprightness",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "To avoid the debt trap, it is ideal to use Twint, prepaid credit cards or PayPal.",
+                "PayPal is available worldwide and has a high level of data protection.",
+                "Mobile payment systems are about as widespread as the \"cash\" payment option.",
+                "E-Bill is a Swiss invention, as is Twint.",
+                "Anonymity is high with mobile payment systems, PayPal and the LSV procedure.",
+                "Cryptocurrencies are not widely used for everyday payments. Only one canton allows them for the payment of taxes (although the prevalence is likely to increase annually). ",
+                "The word \"debit\" means credit, i.e. we receive money in our bank account.",
+                "The most important credit cards in Switzerland are Diners or American Express.",
+                "Cash has the advantage of absolute spending control. The disadvantage, however, is that cash is unhygienic.",
+                "A Visa/Mastercard, Twint or PayPal account is required to make purchases in online stores."
+              ],
+              "type": "matrix",
+              "title": "For the next questions, think about how widespread the means of payment are and what advantages and disadvantages they have in comparison to each other. Study the technical terms below the table in the basic knowledge section before you complete the exercise.\n",
+              "columns": [
+                "Applies",
+                "Does not apply"
+              ],
+              "correctAnswer": {
+                "E-Bill ist eine Schweizer Erfindung, wie auch Twint.": "Applies",
+                "PayPal ist weltweit verfügbar und hat einen hohen Datenschutz.": "Applies",
+                "Die wichtigsten Kreditkarten in der Schweiz sind Diners oder American Express.": "Does not apply",
+                "Die Anonymität ist bei Mobile-Payment-Systemen, bei PayPal und beim LSV-Verfahren hoch.": "Does not apply",
+                "Das Wort «Debit» heisst auf Deutsch Gutschrift, also erhalten wir Geld auf unser Bankkonto.": "Does not apply",
+                "Mobile-Payment-Systeme sind in etwa gleich stark verbreitet wie die Zahlungsmöglichkeit «Bargeld».": "Does not apply",
+                "Um in Onlineshops einkaufen zu können, wird eine Visa/Mastercard, Twint oder auch ein PayPal-Konto benötigt.": "Applies",
+                "Bargeld hat den Vorteil der absoluten Ausgabenkontrolle. Der Nachteil jedoch ist, dass Bargeld unhygienisch ist.": "Applies",
+                "Um die Schuldenfalle zu vermeiden, ist es ideal, wenn man Twint, Prepaid-Kreditkarten oder auch PayPal verwendet.": "Does not apply",
+                "Kryptowährungen sind wenig verbreitet für alltägliche Zahlungen. Nur ein Kanton lässt sie für die Zahlung der Steuern zu (wobei die Verbreitung wahrscheinlich jährlich steigen wird). ": "Applies"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

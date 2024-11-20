@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Shelf zones",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Large and heavy items",
+                "Over 170 cm",
+                "Products with high margins",
+                "Own brands",
+                "80–120 cm"
+              ],
+              "type": "matrix",
+              "title": "Mark the correct shelf zone with a cross.",
+              "columns": [
+                "Stretching zone",
+                "Visibility zone",
+                "Grip zone",
+                "Bending zone"
+              ],
+              "correctAnswer": {
+                "Eigenmarken": "Bending zone",
+                "80–120 cm": "Grip zone",
+                "Über 170 cm": "Stretching zone",
+                "Produkte mit hohen Margen": "Visibility zone",
+                "Grosse und schwere Artikel": "Bending zone"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Shelf zones",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Receives less attention.",
+                "Is at the end of the shelf.",
+                "Products for daily use",
+                "Best-selling zone"
+              ],
+              "type": "matrix",
+              "title": "Mark the correct shelf zone with a cross.",
+              "columns": [
+                "Left edge zone",
+                "Middle zone",
+                "Right edge zone"
+              ],
+              "correctAnswer": {
+                "Verkaufsstärkste Zone": "Middle zone",
+                "Wird weniger beachtet.": "Right edge zone",
+                "Ist am Ende des Regals.": "Left edge zone",
+                "Produkte des täglichen Bedarfs": "Right edge zone"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

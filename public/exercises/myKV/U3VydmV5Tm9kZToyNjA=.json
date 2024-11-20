@@ -1,0 +1,125 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Key commands",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Repeat the key commands. Enter them.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "save ",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + s",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Save as",
+              "isRequired": true,
+              "correctAnswer": "F12 ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "search",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + f",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Call up help",
+              "isRequired": true,
+              "correctAnswer": "F1 (or Alt + m)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Key commands",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Repeat the key commands. Enter them.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Undo command",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + z",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Repeat command",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + y",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Jump to the last cell with content",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + End",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "jump to the 1st cell (A1)",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + Home",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Save",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Yesterday you created an Excel spreadsheet. Now you want to continue working on it, but you no longer know exactly under which name you saved it. How do you go about finding it again as quickly as possible?",
+              "isRequired": true,
+              "correctAnswer": "Start Excel, tab FILE/Open: This displays all workbooks that were edited yesterday or earlier in chronological order. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

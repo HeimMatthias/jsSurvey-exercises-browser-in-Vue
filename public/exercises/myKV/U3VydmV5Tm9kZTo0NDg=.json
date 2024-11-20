@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Facts of the case",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Begründen Sie Ihre Entscheidung von oben, indem Sie unten alle Kategorien ankreuzen, die zutreffen.",
+              "rows": [
+                "Capacity to act",
+                "Limited capacity to act",
+                "Limited capacity to act",
+                "Incapacity to act",
+                "Judgment",
+                "Incapacity",
+                "Extensive experience in purchasing",
+                "Little experience in purchasing",
+                "Purchase tends to have major consequences",
+                "Purchase has rather minor consequences",
+                "Age of majority"
+              ],
+              "type": "matrix",
+              "title": "Justify your decision from above by ticking all the categories below that apply.",
+              "columns": [
+                "Yes, undisputed",
+                "controversial",
+                "No, undisputed"
+              ],
+              "correctAnswer": {
+                "Volljährigkeit": "Yes, undisputed",
+                "Urteilsfähigkeit": "controversial",
+                "Handlungsfähigkeit": "Yes, undisputed",
+                "Urteilsunfähigkeit": "controversial",
+                "Handlungsunfähigkeit": "controversial",
+                "Kauf hat eher grosse Folgen": "Yes, undisputed",
+                "Kauf hat eher geringe Folgen": "controversial",
+                "Beschränkte Handlungsfähigkeit": "Yes, undisputed",
+                "Grosse Erfahrung bezüglich Kauf": "controversial",
+                "Geringe Erfahrung bezüglich Kauf": "Yes, undisputed",
+                "Beschränkte Handlungsunfähigkeit": "Yes, undisputed"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

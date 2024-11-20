@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Title of the exercise",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Task",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "dropdown",
+              "title": "Question 1",
+              "choices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "12",
+                "13",
+                "14"
+              ],
+              "isRequired": true,
+              "correctAnswer": "1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Question 2",
+              "choices": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Option 1",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1600\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251189816469487619\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question4",
+              "type": "html"
+            },
+            {
+              "html": "<iframe src=\"https://e.infogram.com/edb798d9-b145-44c0-9a10-937c885dd658?src=embed\" title=\"T6 M3 A15: Aufteilung nach Kontinent\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question4",
+              "type": "html"
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,392 @@
+{
+  "pages": [
+    {
+      "name": "Höflichkeitsformen1",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "Setzen Sie die jeweils fehlende Höflichkeitsform in die Lücken:",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "May I ask ... something?",
+              "isRequired": true,
+              "correctAnswer": "May I ask you a question?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen2",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "I ask you to ... switch off your smartphones.",
+              "isRequired": true,
+              "correctAnswer": "I would ask you to switch off your smartphones.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen3",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Yesterday I received ... letter.",
+              "isRequired": true,
+              "correctAnswer": "I received your letter yesterday.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen4",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question18",
+              "type": "comment",
+              "title": "... called me two weeks ago about a new doctor's appointment.",
+              "isRequired": true,
+              "correctAnswer": "They called me two weeks ago about a new doctor's appointment.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen5",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question26",
+              "type": "comment",
+              "title": "I am pleased to introduce myself to ....",
+              "isRequired": true,
+              "correctAnswer": "I look forward to introducing myself to you.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen6",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question34",
+              "type": "comment",
+              "title": "Would ... send me a new payment slip?",
+              "isRequired": true,
+              "correctAnswer": "Would you send me a new payment slip?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen7",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Put the missing polite form in the gaps:",
+          "elements": [
+            {
+              "name": "question42",
+              "type": "comment",
+              "title": "... Unfortunately, I was not convinced by the offer.",
+              "isRequired": true,
+              "correctAnswer": "Unfortunately, your offer did not convince me.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen8",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "(Have) (you) read this?",
+              "isRequired": true,
+              "correctAnswer": "Have you read this?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen9",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question44",
+              "type": "comment",
+              "title": "(Could) (you) speak a little louder?",
+              "isRequired": true,
+              "correctAnswer": "Could you speak a little louder?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen10",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question56",
+              "type": "comment",
+              "title": "(You) (wrote) a learning objectives test last week.",
+              "isRequired": true,
+              "correctAnswer": "You wrote a learning objectives test last week.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen11",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question68",
+              "type": "comment",
+              "title": "I will send (you) the document by e-mail.",
+              "isRequired": true,
+              "correctAnswer": "I will send you the document by e-mail.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen12",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel11",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question80",
+              "type": "comment",
+              "title": "Is it okay if I name (you) as a reference person?",
+              "isRequired": true,
+              "correctAnswer": "Is it okay if I name you as a reference?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen13",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question92",
+              "type": "comment",
+              "title": "(You) are welcome to call me by my first name.",
+              "isRequired": true,
+              "correctAnswer": "You are welcome to use my first name.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen14",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel13",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question104",
+              "type": "comment",
+              "title": "I would be very grateful (to you).",
+              "isRequired": true,
+              "correctAnswer": "I would be very grateful for that.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen15",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel14",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question116",
+              "type": "comment",
+              "title": "(Are) (you) (sure) that tomorrow will be bad weather?",
+              "isRequired": true,
+              "correctAnswer": "Are you sure the weather will be bad tomorrow?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen16",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel15",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question128",
+              "type": "comment",
+              "title": "I don't think that's fair of (you)!",
+              "isRequired": true,
+              "correctAnswer": "I don't think that's fair of you!",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen17",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel16",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question140",
+              "type": "comment",
+              "title": "I can well understand (your) frustration.",
+              "isRequired": true,
+              "correctAnswer": "I can well understand your frustration.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Höflichkeitsformen18",
+      "title": "Forms of politeness",
+      "elements": [
+        {
+          "name": "panel17",
+          "type": "panel",
+          "title": "Use the polite form and adapt the verbs (note: always capitalize the beginnings of sentences):",
+          "elements": [
+            {
+              "name": "question152",
+              "type": "comment",
+              "title": "Unfortunately we have not received (your) order.",
+              "isRequired": true,
+              "correctAnswer": "Unfortunately we have not received your order.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

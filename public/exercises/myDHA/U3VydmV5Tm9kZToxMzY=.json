@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "The Inheritance Substitution Ordinance (EO) ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Mark with a cross what applies. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "The income compensation regulation ... ",
+              "choices": [
+                "pays the medical costs for a military accident.",
+                "pays the loss of salary during military service up to a certain amount. ",
+                "covers accidents suffered by the unemployed.",
+                "pays unemployment benefits."
+              ],
+              "correctAnswer": [
+                "pays the loss of salary during military service up to a certain amount. "
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,86 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Compress",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by \"paraphrase\" in the context of text summaries? ",
+              "isRequired": true,
+              "correctAnswer": "Summarizing texts in your own words.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What do you call verbatim reproductions of statements?",
+              "isRequired": true,
+              "correctAnswer": "Quotes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What should I look out for in the title of a summary?",
+              "isRequired": true,
+              "correctAnswer": "Use neutral wording, avoid judgmental words.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Compress",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the appropriate writing style for a summary?",
+              "isRequired": true,
+              "correctAnswer": "The neutral reporting style.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How can important content be visually distinguished from details?",
+              "isRequired": true,
+              "correctAnswer": "By highlighting important passages in color and crossing out less important passages.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How can you check whether the summary contains all the important information?",
+              "isRequired": true,
+              "correctAnswer": "By checking with the W questions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

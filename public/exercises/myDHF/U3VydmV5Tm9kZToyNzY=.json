@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Effectiveness and efficiency / key figures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual texts you have read.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by efficiency?",
+              "isRequired": true,
+              "correctAnswer": "A measure is efficient if no other measure would achieve the objective better under the given circumstances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are key figures used for in retail businesses? ",
+              "isRequired": true,
+              "correctAnswer": "They provide summarized information on important operational data and enable relevant comparisons (with the previous year, the competition, between branches, etc.). ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Effectiveness and efficiency / key figures",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual texts you have read.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do turnover or sales figures show?",
+              "isRequired": true,
+              "correctAnswer": "Sales are the quantity of an item sold in a specific period. Turnover is the amount of money earned from the quantity sold. Sales and turnover can be analyzed in the form of different key figures (e.g. per month, per store, per employee, per department, etc.) and thus reveal the weak points and top performers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which warehouse key figures do you know?",
+              "isRequired": true,
+              "correctAnswer": "Stock levels (maximum stock, minimum stock, reorder level, average stock), stock turnover rate, average storage duration",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

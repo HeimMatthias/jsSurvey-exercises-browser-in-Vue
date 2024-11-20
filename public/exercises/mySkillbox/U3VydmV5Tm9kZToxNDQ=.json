@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "name": "Auswirkungen",
+      "title": "Effects",
+      "elements": [
+        {
+          "name": "question 1",
+          "type": "panel",
+          "title": "Add the appropriate keywords.",
+          "elements": [
+            {
+              "name": "Rubrik 1, Körper & Fitness: 3 Veränderungen, die Sport in Ihrem Körper bewirkt: ",
+              "type": "comment",
+              "title": "Category 1, Body & Fitness: 3 changes that sport brings about in your body: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Effects",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Add the appropriate keywords.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Section 2, Well-being and performance: 3 positive effects of sport on your well-being:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Effects",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Add the appropriate keywords.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Section 3, Protection against diseases: 3 diseases that regular exercise protects against:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Effects",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Add the appropriate keywords.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Section 4, Exercise: This is how much exercise experts recommend per week: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

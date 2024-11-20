@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is considered a text? What is the definition?",
+              "isRequired": true,
+              "correctAnswer": "A text is a written and coherent sequence of statements.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is meant by text cohesion?",
+              "isRequired": true,
+              "correctAnswer": "the context of a written statement",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is meant by text coherence?",
+              "isRequired": true,
+              "correctAnswer": "the linguistic context of a text  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What are the four quality features of good texts?",
+              "isRequired": true,
+              "correctAnswer": "Clarity, correctness, coherence and cohesion",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "What text functions does a protocol have?",
+              "isRequired": true,
+              "correctAnswer": "Information and documentation  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Which text function is the main focus of an advertising text?",
+              "isRequired": true,
+              "correctAnswer": "Appellation  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the intention behind literary texts?",
+              "isRequired": true,
+              "correctAnswer": "want to express themselves creatively",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

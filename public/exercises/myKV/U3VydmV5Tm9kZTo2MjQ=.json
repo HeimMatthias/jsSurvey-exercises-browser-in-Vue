@@ -1,0 +1,123 @@
+{
+  "pages": [
+    {
+      "name": "Veränderung der Angebotskurve für Milch",
+      "title": "Change in the supply curve for milk",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for milk will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Example: Due to a severe drought in Switzerland, farmers are unable to produce as much feed for their dairy cows for the winter as planned and have to import expensive feed from abroad.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the left"
+            },
+            {
+              "name": "Allfällige Korrektur",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - demand unchanged with lower supply"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price for advance services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Change in the supply curve for milk",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for milk will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Example: A major buyer of milk for cheese production decides to only offer vegan products in future and no longer purchase milk.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "Not at all"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Declines - because the demand curve shifts to the left with the same supply, there is a shift on the supply curve"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Change in the supply curve for milk",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for milk will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Example: The federal government decides to cut farmers' subsidies for milk production. In future, farms will receive less money from the federal government.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the left"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - demand unchanged with lower supply"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price for intermediate consumption (indirect). "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

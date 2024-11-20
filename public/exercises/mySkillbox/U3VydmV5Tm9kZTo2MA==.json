@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Wenn-dann-Formel1",
+      "title": "If-then formula",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the sentences.",
+          "elements": [
+            {
+              "name": "Frage1",
+              "type": "comment",
+              "title": "When we experience something (even unconsciously), our brain stores positive or negative feelings in the ....",
+              "isRequired": true,
+              "correctAnswer": "When we experience something (even unconsciously), our brain stores positive or negative feelings in our emotional experience memory.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage2",
+              "type": "comment",
+              "title": "When we have to make (purchasing) decisions, then ...",
+              "isRequired": true,
+              "correctAnswer": "When we have to make (purchasing) decisions, we fall back on the feelings stored in our emotional memory.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage3",
+              "type": "comment",
+              "title": "When we see a product, our buying behavior is not determined by our knowledge of the product, but ...",
+              "isRequired": true,
+              "correctAnswer": "When we see a product, it is not our knowledge of the product that determines our purchasing behavior, but our stored feelings about the brand.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wenn-dann-Formel2",
+      "title": "If-then formula",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the sentences.",
+          "elements": [
+            {
+              "name": "Frage4",
+              "type": "comment",
+              "title": "For example, if a fashion brand promises success, then a ... towards the brand arises.",
+              "isRequired": true,
+              "correctAnswer": "If a fashion brand promises success, for example, this creates a positive feeling towards the brand.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage5",
+              "type": "comment",
+              "title": "If ..., then we buy the product of this brand in the supermarket despite good alternatives.",
+              "isRequired": true,
+              "correctAnswer": "If we associate a brand with a positive feeling, then we will buy the product of that brand in the supermarket despite good alternatives.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage6",
+              "type": "comment",
+              "title": "If ..., then we automatically buy status and reputation.",
+              "isRequired": true,
+              "correctAnswer": "When we buy a Mercedes, for example, we automatically buy status and prestige.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

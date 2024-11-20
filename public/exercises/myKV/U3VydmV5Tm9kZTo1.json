@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "Lohnabrechnung1",
+      "title": "Payroll accounting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "This salary will be paid to me: ",
+              "choices": [
+                "Net wage",
+                "Gross wage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Net wage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "This is not deducted from the gross salary: ",
+              "choices": [
+                "Health insurance premium",
+                "AHV contribution"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Health insurance premium",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "That's how much is taken out of your gross salary for payroll deductions, health insurance and taxes:",
+              "choices": [
+                "around 50% ",
+                "around 30% "
+              ],
+              "isRequired": true,
+              "correctAnswer": "around 30% ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "I can see my annual earnings on this document:",
+              "choices": [
+                "Wage statement",
+                "Payroll accounting"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wage statement",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The salary statement is an important document for:",
+              "choices": [
+                "a job application",
+                "the tax return"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the tax return",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Payroll accounting",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "The following applies to the contribution for unemployment insurance (ALV):",
+              "choices": [
+                "a certain percentage",
+                "a fixed amount of CHF 100 per month"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a certain percentage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "A statutory minimum wage applies to apprentices:",
+              "choices": [
+                "true",
+                "not true"
+              ],
+              "isRequired": true,
+              "correctAnswer": "not true",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Wages for apprentices are renegotiated for each apprenticeship year: ",
+              "choices": [
+                "true",
+                "not true"
+              ],
+              "isRequired": true,
+              "correctAnswer": "not true",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Employers pay the statutory social insurance contributions: ",
+              "choices": [
+                "half ",
+                "two thirds"
+              ],
+              "isRequired": true,
+              "correctAnswer": "half ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "is the basis for calculating wage deductions: ",
+              "choices": [
+                "the gross wage",
+                "the monthly salary without additional benefits"
+              ],
+              "isRequired": true,
+              "correctAnswer": "the monthly salary without additional benefits",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

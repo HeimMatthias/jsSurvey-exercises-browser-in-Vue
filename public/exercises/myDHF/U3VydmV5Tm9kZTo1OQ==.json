@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Terms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What is meant by the following terms? Explain.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Right of withdrawal:",
+              "isRequired": true,
+              "correctAnswer": "Right of withdrawal means that the buyer has the right to withdraw from the purchase contract.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Statute of limitations:",
+              "isRequired": true,
+              "correctAnswer": "The statute of limitations means that a right, for example a monetary debt, can no longer be claimed by legal action because the period in which the claim could be legally enforced has expired.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Breaches of purchase contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What breaches of the sales contract can occur on the part of the buyer and the seller? Name these.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Buyer:",
+              "isRequired": true,
+              "correctAnswer": "Default of acceptance, default of payment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Seller:",
+              "isRequired": true,
+              "correctAnswer": "Delay in delivery, defective delivery",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

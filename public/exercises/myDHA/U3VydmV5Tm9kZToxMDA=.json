@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "The separation of powers ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"The separation of powers\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name the different levels of the state legal system.",
+              "isRequired": true,
+              "correctAnswer": "Constitution, law, ordinance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why are powers divided in a democracy?",
+              "isRequired": true,
+              "correctAnswer": "The power of the state is divided into three powers in order to prevent abuse of power.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "List the three branches of government that exist in Switzerland.",
+              "isRequired": true,
+              "correctAnswer": "Parliament (legislative branch), government (executive branch) and court (judicial branch)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What influence do the media exert in politics?",
+              "isRequired": true,
+              "correctAnswer": "As most people do not inform themselves directly about political events, they read and hear about them in the media. Media professionals decide how events are conveyed. In this way, they influence the formation of public opinion and are therefore regarded as the fourth power in the state.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

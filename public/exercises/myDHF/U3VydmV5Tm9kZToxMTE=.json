@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Tensions and misunderstandings",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions using the communication model.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why should the factual level be in the foreground when criticizing or receiving criticism?",
+              "isRequired": true,
+              "correctAnswer": "Criticism on the factual level refers to a certain behavior, work performed, etc. The person themselves and their personality are not the subject of criticism.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Shouldn't the area in front of the entrance be mopped?",
+              "isRequired": true,
+              "correctAnswer": "The store manager doesn't want to say directly that the area in front of the entrance is dirty and give the order \"Go on, wipe the area!\". A good relationship with his employees is important to him, but the dirt in front of the entrance bothers him.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why do misunderstandings arise?",
+              "isRequired": true,
+              "correctAnswer": "Misunderstandings arise when the sender and receiver focus on different levels of communication. Example: The sender makes what she considers to be a factual comment, but the receiver hears it primarily with the relational ear and thus understands it as criticism of her person.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Tensions and misunderstandings",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "List five rules that can help you avoid misunderstandings.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Rule 1",
+              "isRequired": true,
+              "correctAnswer": "The sender must not assume that he will be understood by the recipient.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Rule 2",
+              "isRequired": true,
+              "correctAnswer": "The sender must communicate clearly and unambiguously.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Rule 3",
+              "isRequired": true,
+              "correctAnswer": "The broadcaster should repeat things that are important.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Rule 4",
+              "isRequired": true,
+              "correctAnswer": "The recipient should pay attention to the body language of the sender.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Rule 5",
+              "isRequired": true,
+              "correctAnswer": "Ask if anything is unclear.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

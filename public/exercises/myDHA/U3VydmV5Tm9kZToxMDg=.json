@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Art",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Art forms\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What types of literature are there?",
+              "isRequired": true,
+              "correctAnswer": "Epics, drama and poetry",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How do the visual and performing arts differ?",
+              "isRequired": true,
+              "correctAnswer": "In contrast to the visual arts, the performing arts require actors who perform or present the artwork. An audience is also necessary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Since when has media art existed?",
+              "isRequired": true,
+              "correctAnswer": "Since the 20th century",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is another name for music?",
+              "isRequired": true,
+              "correctAnswer": "Sound art",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

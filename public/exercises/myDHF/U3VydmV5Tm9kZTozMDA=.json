@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Mini Case: Vacuum cleaner ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Either way, the customer can make use of her right of return. According to the Swiss Code of Obligations (OR), the customer can return the product within 7 days - regardless of whether it has a defect or not. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "There is no such general right of return in Switzerland. If there is a defect in the product, the customer has a right to a guarantee (Art. 197 OR - Warranty). She can demand that the purchase price be refunded (Art. 205 CO - rescission) or that the defective appliance be exchanged (Art. 206 CO - replacement). If there is no defect in the product, the store may consider goodwill measures. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Mini Case: Vacuum cleaner ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "If the vacuum cleaner is indeed defective, a repair in accordance with the Swiss Code of Obligations is the preferred solution to fulfill the statutory warranty obligation. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "Swiss law provides the following options for fulfilling the warranty obligation: Cancellation or reduction (Art. 205 OR) and replacement (Art. 206 OR). This does not include repair. If the retailer wishes to offer a repair instead of an exchange (replacement), this must be stipulated in its general terms and conditions. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Mini Case: Vacuum cleaner ",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Is the statement about the legal situation correct or incorrect? If the statement is correct: Justify it with the relevant article of the law. If the statement is incorrect: Correct the statement and justify your correction with the relevant legal articles. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "If the vacuum cleaner is actually defective and there is no indication of improper use, this is a warranty case, even though the customer has already used the vacuum cleaner. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": "Correct"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification/correction: ",
+              "correctAnswer": "The retailer is also liable for invisible defects that only become apparent during use (Art. 197 CO - Warranty), as well as for defects that become apparent later and are reported immediately (Art. 201 CO - Notice of defects). The statutory warranty period for new products is two years (Art. 210 CO - Limitation period). "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

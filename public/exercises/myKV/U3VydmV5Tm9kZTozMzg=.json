@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Customers' desires",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Some customers' desires are listed below. Match the terms with the corresponding needs in Maslow's Hierarchy of Needs.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Saving",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Safety needs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Exclusivity",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Individual needs (esteem)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Soccer club fan article",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social needs (love and belonging)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Availability/being reached",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Social needs (love and belonging)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Customers' desires",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Some customers' desires are listed below. Match the terms with the corresponding needs in Maslow's Hierarchy of Needs.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Return or exchange",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Safety needs",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Climate-neutral shipping",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Self-actualization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Climate-friendly production",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Self-actualization",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Drinking water",
+              "choices": [
+                "Self-actualization",
+                "Individual needs (esteem)",
+                "Social needs (love and belonging)",
+                "Safety needs",
+                "Physiological needs"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Physiological needs",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "Meine Einstellung",
+      "title": "My attitude",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "You will soon be taking a learning assessment on the subject of \"Basic vocational training\". How do you feel about this situation?",
+          "elements": [
+            {
+              "name": "1. Gedanken/Bewertung",
+              "type": "text",
+              "title": "1. thoughts/evaluation",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "2. Gefühl",
+              "type": "text",
+              "title": "2. feeling",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "3. Verhalten",
+              "type": "text",
+              "title": "3. behavior",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meine Einstellung1",
+      "title": "My attitude",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Wie können Sie Ihre Gedanken und Bewertung verändern für die nächste Lernkontrolle?",
+              "type": "text",
+              "title": "How can you change your thoughts and assessment for the next learning check?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,188 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte1",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "Fallbeispiele",
+          "type": "panel",
+          "title": "Situation 1: An apprentice regularly hides in the toilet several times a day to smoke and take a short \"break\", although this is prohibited in the company. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What obligation is being violated here?",
+              "isRequired": true,
+              "correctAnswer": "2: Follow instructions from superiors",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                {
+                  "text": "Minor/one-off",
+                  "value": "Minor/one-off"
+                },
+                {
+                  "text": "minor/multiple",
+                  "value": "minor/multiple"
+                },
+                {
+                  "text": "coarse/one-off",
+                  "value": "coarse/one-off"
+                },
+                {
+                  "text": "coarse/multiple",
+                  "value": "coarse/multiple"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "minor/multiple",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What would be an appropriate sanction?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Sachverhalte2",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Situation 2: Twice a week, a trainee hairdresser has to look after her boss's children for a few hours during working hours.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What obligation is being violated here?",
+              "isRequired": true,
+              "correctAnswer": "6: Train apprentices professionally and systematically.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                {
+                  "text": "Minor/one-off",
+                  "value": "Minor/one-off"
+                },
+                {
+                  "text": "minor/multiple",
+                  "value": "minor/multiple"
+                },
+                {
+                  "text": "coarse/one-off",
+                  "value": "coarse/one-off"
+                },
+                {
+                  "text": "coarse/multiple",
+                  "value": "coarse/multiple"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "coarse/multiple",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What would be an appropriate sanction?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question8",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Sachverhalte3",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Facts 3: An apprentice (meat specialist) steals meat worth CHF 60 from his training company on one occasion. ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What obligation is being violated here?",
+              "isRequired": true,
+              "correctAnswer": "13: Interests of the company to be taken into account",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "What degree of breach of duty does this correspond to?",
+              "choices": [
+                {
+                  "text": "Minor/one-off",
+                  "value": "Minor/one-off"
+                },
+                {
+                  "text": "minor/multiple",
+                  "value": "minor/multiple"
+                },
+                {
+                  "text": "coarse/one-off",
+                  "value": "coarse/one-off"
+                },
+                {
+                  "text": "coarse/multiple",
+                  "value": "coarse/multiple"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": "coarse/one-off",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "What would be an appropriate sanction?",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question12",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

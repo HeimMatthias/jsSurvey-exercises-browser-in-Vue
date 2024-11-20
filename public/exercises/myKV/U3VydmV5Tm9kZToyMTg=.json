@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Capacity to act",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A 19-year-old buys a second-hand motorcycle. His parents don't approve.",
+                "A 17-year-old girl buys a new e-bike for CHF 5000. She wants to pay off the purchase price in 24 installments in addition to a down payment. Her parents refuse the purchase.",
+                "A 17-year-old girl buys a second-hand e-bike for CHF 1000 from the savings on her apprenticeship wages.",
+                "A 15-year-old receives a new e-bike worth CHF 5000 as a gift from her godmother.",
+                "A 9-year-old uses her pocket money to buy an ice cream at the swimming pool.",
+                "A 17-year-old girl buys a new e-bike for CHF 5000. She wants to pay off the purchase price in 24 installments in addition to a down payment. Her parents agree to the purchase.",
+                "An 85-year-old man is placed under comprehensive guardianship due to his dementia. He donates his art collection to his neighbor."
+              ],
+              "type": "matrix",
+              "title": "Decide whether the contract is binding or void in the following examples.",
+              "columns": [
+                "Binding",
+                "Void"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Eine 9-Jährige kauft sich mit ihrem Taschengeld in der Badi eine Glace.": "Binding",
+                "Eine 15-Jährige kriegt von ihrer Gotte ein neues E-Bike im Wert CHF 5000.– geschenkt.": "Binding",
+                "Ein 19-Jähriger kauft sich ein Occasionsmotorrad. Seine Eltern sind damit nicht einverstanden.": "Binding",
+                "Eine 17-Jährige kauft sich aus den Ersparnissens ihres Lehrlingslohns ein Occasions-E-Bike für CHF 1000.–.": "Binding",
+                "Ein 85-Jähriger ist wegen seiner Demenz unter umfassende Beistandschaft gestellt. Er schenkt seine Kunstsammlung seiner Nachbarin.": "Void",
+                "Eine 17-Jährige kauft sich eine neues E-Bike für CHF 5000.–. Den Kaufpreis will sie neben einer Anzahlung in 24 Raten abbezahlen. Ihre Eltern lehnen den Kauf ab.": "Void",
+                "Eine 17-Jährige kauft sich ein neues E-Bike für CHF 5000.–. Den Kaufpreis will sie neben einer Anzahlung in 24 Raten abbezahlen. Ihre Eltern sind mit dem Kauf einverstanden.": "Binding"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

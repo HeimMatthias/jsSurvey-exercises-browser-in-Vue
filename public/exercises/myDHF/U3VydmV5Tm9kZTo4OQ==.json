@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Was ist ein Lehrvertrag?",
+      "title": "What is an apprenticeship contract?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"What is an apprenticeship contract?\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Is a verbally concluded apprenticeship contract valid?",
+              "isRequired": true,
+              "correctAnswer": "No, it must be in writing.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name the parties to the apprenticeship contract.",
+              "isRequired": true,
+              "correctAnswer": "Training company/vocational training supervisor, apprentice or learner; for minors: legal representative.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What authorization is required for an apprenticeship contract to be valid?",
+              "isRequired": true,
+              "correctAnswer": "The approval of the cantonal vocational training office.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "What is an apprenticeship contract?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "List the points that must be regulated in the apprenticeship contract.",
+              "isRequired": true,
+              "correctAnswer": "Type of vocational training; duration of apprenticeship and probationary period; working hours; vacations and public holidays; salary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How long does the probationary period normally last?",
+              "isRequired": true,
+              "correctAnswer": "1-3 months.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "In which cases can an apprenticeship be terminated prematurely?",
+              "isRequired": true,
+              "correctAnswer": "If the persons responsible for vocational training or the representatives of the persons responsible for vocational training do not have the professional or personal skills required for the training; if the learner does not have the skills required for the training or is in a state of health or morally at risk; if the training cannot be completed or can only be completed under significantly changed circumstances.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

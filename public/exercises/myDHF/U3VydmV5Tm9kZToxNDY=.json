@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Asylum Act",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the examples and answer the questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The Ibranovic family from Serbia applies for asylum because Mr. Ibranovic is wanted in \nSerbia for a property crime. He says he is innocent. Is the Ibranovic family entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "No, the Ibranovic family is not entitled to asylum, because although Mr. Ibranovic is persecuted, he is not a refugee under Art. 3 para. 1 AsylG. This applies to the whole family. The Serbian investigating authorities must prove the allegation of property crime.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Babo and Arka want a better life in Switzerland than in their home country \nEritrea. They were in the army for three years and deserted during their service. Are Babo and Arka entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "No, Babo and Arka are not granted asylum under Art. 3 para. 3 AsylG because people who refuse to do military service or desert are not considered refugees.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The Ivecik family from Bosnia has seven children. The father died of cancer a few weeks ago and the family no longer has any income. Now the \nfamily is applying for asylum in Switzerland. Is the Ivecik family entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "No, the fate of the Ivecik family from Bosnia may be hard, but the family is not entitled to asylum because they are not considered refugees under Art. 3 para. 1 AsylA.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Five young men from Somalia were imprisoned and tortured there for several years because of their Christian faith, which was confirmed by doctors at the Inselspital in Bern. Are the young men entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "Yes, the five young men are probably entitled to asylum because they fulfill Art. 3 para. 1 and 2 AsylG. They are exposed to serious disadvantages (torture) because of their religion (Christians). According to Art. 2, torture is \"unbearable psychological pressure\" and torture is a threat to life and limb.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Soraya (12) is from Ethiopia and fled her country because her parents and \ngrandparents want to circumcise her. Is Soraya entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "Yes, Soraya is most likely entitled to asylum because, according to Art. 3 para. 1 and 2 AsylG, as a person of a certain social group (in Africa, around 3 million girls over a certain age are at risk of genital mutilation every year), she is exposed to serious disadvantages (genital mutilation or cutting is a serious offense under Swiss criminal law). In addition, the last sentence in paragraph 2 states that \"the reasons for flight specific to women\" must be taken into account.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Ananda comes from Uganda and is homosexual. In Uganda, homosexuality is strictly forbidden and is punishable by death or many years in prison. Is \nAnanda entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "Yes, Ananda is probably entitled to asylum because he belongs to a certain social group (homosexuals) that is exposed to serious disadvantages (death penalty, long-term imprisonment).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Lulzim and Seti are from Albania. They studied economics and history at university there. Because they did not see any career prospects in their home country, they applied for asylum in Switzerland. They want a better life. \nAre Lulzim and Seti entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "No, Lulzim and Seti are not entitled to asylum because they are not persecuted or exposed to serious disadvantages according to Art. 3 AsylG.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "The Abdelkader family from Damascus (Syria) is fleeing to Switzerland because of the war in their \nhome country. Is the Abdelkader family entitled to asylum?",
+              "isRequired": true,
+              "correctAnswer": "Yes, the Abdelkader family can be granted temporary protection as persons in need of protection for the duration of a war in accordance with Art. 4 AsylA.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

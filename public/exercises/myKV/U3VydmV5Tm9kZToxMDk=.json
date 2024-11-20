@@ -1,0 +1,122 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Forms of presentation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "What can be deduced from the different forms of presentation? Put a cross in the box.",
+          "elements": [
+            {
+              "name": "Übung 1",
+              "type": "checkbox",
+              "title": "Flowchart",
+              "choices": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Competencies",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Work steps",
+                "Sequence of work steps "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Bar chart",
+              "choices": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Competencies",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Work steps",
+                "Dates",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Forms of presentation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What can be deduced from the different forms of presentation? Put a cross in the box.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Schedule",
+              "choices": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Competencies",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Function diagram",
+              "choices": [
+                "Responsible persons",
+                "Work steps",
+                "Dates",
+                "Competencies",
+                "Resources",
+                "Sequence of work steps "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Responsible persons",
+                "Competencies"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

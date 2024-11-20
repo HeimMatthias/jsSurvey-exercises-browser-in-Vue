@@ -1,0 +1,179 @@
+{
+  "pages": [
+    {
+      "name": "Güterkategorien",
+      "title": "Goods categories",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "To which categories do the following goods belong? Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "Sauerstoff im Schulzimmer",
+              "type": "checkbox",
+              "title": "Oxygen in the classroom",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Free goods"
+              ]
+            },
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Electric car from BYD, model Dolphin, bought by Alwin to drive to work.",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Material goods",
+                "Consumer goods",
+                "Consumer goods"
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Electric car from BYD, model Dolphin, purchased by the car rental company Hertz.",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Material goods",
+                "Capital goods"
+              ]
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Haircut, performed by hairdressing salon Taj Mahaar.",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Services"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Güterkategorien-2",
+      "title": "Goods categories",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "To which categories do the following goods belong? Multiple answers are possible.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Croissants during the 10 o'clock break",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Material goods",
+                "Consumer goods",
+                "Consumer goods"
+              ]
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Özlem buys a new fondue caquelon.",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Material goods",
+                "Consumer goods",
+                "Consumer goods"
+              ]
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Wilerolt AG joinery buys a new sliding table saw",
+              "choices": [
+                "Free goods",
+                "Economic goods",
+                "Material goods",
+                "Services",
+                "Consumer goods",
+                "Capital goods",
+                "Consumer goods",
+                "Consumer goods"
+              ],
+              "hideNumber": true,
+              "correctAnswer": [
+                "Economic goods",
+                "Material goods",
+                "Capital goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "logoPosition": "right"
+}

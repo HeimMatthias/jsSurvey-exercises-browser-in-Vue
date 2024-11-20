@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Personal law - age dependency",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Writing a valid will",
+                "Religious freedom of choice",
+                "Capacity to act",
+                "Marriage"
+              ],
+              "type": "matrix",
+              "title": "In personal law, certain rights depend on the age reached. Assign the listed rights to the age.",
+              "columns": [
+                "16 years",
+                "17 years",
+                "18 years",
+                "19 years"
+              ],
+              "correctAnswer": {
+                "Ehemündigkeit": "18 years",
+                "Handlungsfähigkeit": "18 years",
+                "Sie ist rechtsfähig.": "Richtig",
+                "Sexuelle Volljährigkeit": "At the age of 16",
+                "Sie ist handlungsfähig.": "Falsch",
+                "Allgemeine Volljährigkeit": "At the age of 18",
+                "Religiöse Volljährigkeit": "At the age of 16",
+                "Sie ist nicht rechtsfähig.": "Falsch",
+                "Gültiges Testament schreiben": "18 years",
+                "Religiöse Entscheidungsfreiheit": "16 years",
+                "Sie ist noch nicht urteilsfähig.": "Falsch",
+                "Sie ist beschränkt handlungsunfähig.": "Richtig"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "focusOnFirstError": false,
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

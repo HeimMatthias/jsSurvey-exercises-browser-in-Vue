@@ -1,0 +1,198 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Abbreviations",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Insert the dots where necessary.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "VAT (Value Added Tax, abbr. Switzerland)",
+              "isRequired": true,
+              "correctAnswer": "VAT (Value Added Tax, abbr. Switzerland)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "VAT (Value Added Tax, abbr. Germany)",
+              "isRequired": true,
+              "correctAnswer": "VAT (Value Added Tax, abbr. Germany) ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "possibly (possibly) possible",
+              "isRequired": true,
+              "correctAnswer": "possibly (possibly) possible",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "ital tomatoes",
+              "isRequired": true,
+              "correctAnswer": "ital. Tomatoes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Battery for the e-bike",
+              "isRequired": true,
+              "correctAnswer": "Battery for the e-bike ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Fig number 3 (illustration)",
+              "isRequired": true,
+              "correctAnswer": "Fig. number 3 (illustration)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Abbreviations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Insert the dots where necessary.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "m E (in my opinion)",
+              "isRequired": true,
+              "correctAnswer": "m. E. (in my opinion)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "200 km",
+              "isRequired": true,
+              "correctAnswer": "200 km",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "etc (and so on)",
+              "isRequired": true,
+              "correctAnswer": "etc. (and so on)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "100 CHF",
+              "isRequired": true,
+              "correctAnswer": "100 CHF",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "see p 145 (see page 145)",
+              "isRequired": true,
+              "correctAnswer": "see p. 145 (see page 145)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "University of Bern",
+              "isRequired": true,
+              "correctAnswer": "University of Bern",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Abbreviations",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Insert the dots where necessary.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "d h (that is)",
+              "isRequired": true,
+              "correctAnswer": "i.e. (that is)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "i A (on behalf of)",
+              "isRequired": true,
+              "correctAnswer": "i. A. (on behalf of)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "SMS",
+              "isRequired": true,
+              "correctAnswer": "SMS",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "At 18.30 h (hora = hour)",
+              "isRequired": true,
+              "correctAnswer": "At 18.30 h (hora = hour)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "or (respectively)",
+              "isRequired": true,
+              "correctAnswer": "or (respectively)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "EUR 100 million (millions)",
+              "isRequired": true,
+              "correctAnswer": "EUR 100 million (million)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

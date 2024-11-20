@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Rechte der Lernenden",
+      "title": "Rights of learners",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the following case studies and answer the questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Seraina is caught stealing from the teaching store. As various things have gone missing recently, Seraina is now suspected of being a thief in all of these cases. The vocational trainer dismisses her without notice. Assess the legal situation in full sentences.",
+              "isRequired": true,
+              "correctAnswer": "Seraina has damaged the relationship of trust and severely strained the working atmosphere. Theft is grounds for dismissal without notice. In the event of disagreement, the Teaching Supervision Committee is called in.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Last week, Jovana was unable to attend vocational school because\nshe had urgent work to do at the company. Is the vocational trainer authorized to stop Jovana from attending vocational school? Give reasons for your answer. ",
+              "isRequired": true,
+              "correctAnswer": "No, attendance at a vocational college is compulsory.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Shortly before closing time, Camilo's vocational trainer asks him to stay an extra hour in the training store. Can Camilo refuse? Give reasons for your answer. ",
+              "isRequired": true,
+              "correctAnswer": "No. However, the vocational trainer may only request this from Camilo if there is an extraordinary workload. In addition, the maximum working hours per day may not be exceeded (if Camilo has not yet reached the age of 18, he may work a maximum of nine hours per day).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "The apprenticeship contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "18-year-old Anna-Luna discusses the vacation plan for the coming apprenticeship year with her vocational trainer. In September, October, February and March she will have one week's vacation each. Does Anna-Luna have to accept this? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No, she is entitled to five weeks' vacation until she reaches the age of 20. In addition, she must take two consecutive weeks of vacation at least once a year.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Adis has a lot of trouble at vocational school. His certificate is unsatisfactory, but he is doing quite well at work. Nevertheless, it is questionable whether he will be able to pass the qualification procedure. Suggest ways in which Adis can improve.",
+              "isRequired": true,
+              "correctAnswer": "Adis can attend support courses to make up for his gaps.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Mariana is in her 1st year of apprenticeship. She has had motivation problems for a few weeks now.\nHer vocational trainer is often absent. She constantly has to run errands for the other employees\nin the company and everyone gives\nher orders. Write down what advice you would give Mariana.\n",
+              "isRequired": true,
+              "correctAnswer": "Mariana should contact the apprenticeship supervisory commission or the cantonal office for vocational training (named in the apprenticeship contract).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

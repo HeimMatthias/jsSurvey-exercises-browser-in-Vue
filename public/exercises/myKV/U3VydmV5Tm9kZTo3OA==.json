@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "VAT can also be settled without accounting.",
+                "Liquidity can be monitored with the accounting system.",
+                "The Board of Directors and Executive Board need accounting figures.",
+                "If there is no accounting obligation, bookkeeping is useless.",
+                "The tax authorities may request to inspect the accounts.",
+                "Bookkeeping and accounting documents are important evidence.",
+                "Accounting is not required for the calculation of profit.",
+                "The financial position can be presented using accounting figures.",
+                "Accounting should always provide the most up-to-date information possible.",
+                "No accounting data is required for the tax return."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about the purposes of accounting correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Mit der Buchhaltung kann die Liquidität überwacht werden.": "Correct",
+                "Die Steuerbehörde kann Einsicht in die Buchhaltung verlangen.": "Correct",
+                "Die Mehrwertsteuer kann auch ohne Buchhaltung abgerechnet werden.": "Wrong",
+                "Die Buchhaltung und Buchhaltungsbelege sind wichtige Beweismittel.": "Correct",
+                "Für die Steuererklärung werden keine Buchhaltungsdaten benötigt.": "Wrong",
+                "Verwaltungsrat und Geschäftsleitung brauchen Zahlen der Buchhaltung.": "Correct",
+                "Wenn keine Buchführungspflicht besteht, ist die Buchhaltung nutzlos.": "Wrong",
+                "Für die Berechnung des Gewinnes wird die Buchhaltung nicht benötigt.": "Wrong",
+                "Mit Zahlen der Buchhaltung kann die Vermögenslage dargestellt werden.": "Correct",
+                "Die Buchhaltung sollte immer möglichst aktuelle Informationen liefern.": "Correct"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

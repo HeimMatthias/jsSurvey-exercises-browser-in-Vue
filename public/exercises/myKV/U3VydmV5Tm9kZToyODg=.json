@@ -1,0 +1,121 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sentence fragments",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Turn the formulated sentences into sentence fragments (ellipses).",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Thank you very much.",
+              "isRequired": true,
+              "correctAnswer": "Thank you very much.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Do you agree with this?",
+              "isRequired": true,
+              "correctAnswer": "Do you agree?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Best regards to you.",
+              "isRequired": true,
+              "correctAnswer": "Kind regards",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "We wish you every success and all the best.",
+              "isRequired": true,
+              "correctAnswer": "Good luck and all the best.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Happy birthday to you!",
+              "isRequired": true,
+              "correctAnswer": "Congratulations on your birthday!",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Sentence fragments",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Turn the formulated sentences into sentence fragments (ellipses).",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "The whole department wishes you a good start!",
+              "isRequired": true,
+              "correctAnswer": "Have a good start!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Would you like the mineral water sparkling or still?",
+              "isRequired": true,
+              "correctAnswer": "With or without carbon dioxide?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Is everyone ready for the group work?",
+              "isRequired": true,
+              "correctAnswer": "All set?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "We apologize for the error.",
+              "isRequired": true,
+              "correctAnswer": "Excuse me, please.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "The sooner we are finished, the better.",
+              "isRequired": true,
+              "correctAnswer": "The faster, the better.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

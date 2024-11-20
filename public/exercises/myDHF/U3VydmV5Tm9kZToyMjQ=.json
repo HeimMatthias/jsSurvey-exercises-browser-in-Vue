@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case study \"Pumpkins\"",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Manuel still needs pumpkins to prepare dinner. He lives in a growing region and could buy the pumpkins directly from the farm of vegetable grower Sutter. However, he decides to buy the pumpkins from a retailer. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Make a note of the sales channel for the above example. ",
+              "isRequired": true,
+              "correctAnswer": "Producer (vegetable farmer Sutter) - retail trade - consumer (Manuel) ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Case study \"Pumpkins\"",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Manuel still needs pumpkins to prepare dinner. He lives in a growing region and could buy the pumpkins directly from the farm of vegetable grower Sutter. However, he decides to buy the pumpkins from a retailer. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Vegetable grower Sutter is one of the ... ",
+              "choices": [
+                "functional trade",
+                "institutional trade"
+              ],
+              "isRequired": true,
+              "correctAnswer": "functional trade",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Farmer Sutter's main activity is the production of vegetables. Farm sales are only a secondary activity. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Case study \"Pumpkins\"",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Manuel still needs pumpkins to prepare dinner. He lives in a growing region and could buy the pumpkins directly from the farm of vegetable grower Sutter. However, he decides to buy the pumpkins from a retailer. ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The retailer is one of the ... ",
+              "choices": [
+                "functional trade",
+                "institutional trade"
+              ],
+              "isRequired": true,
+              "correctAnswer": "institutional trade",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "Trading is the retailer's main activity.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

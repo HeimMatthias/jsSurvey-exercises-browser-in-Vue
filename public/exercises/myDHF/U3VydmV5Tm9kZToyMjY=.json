@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Trading functions ",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "What task (trading function) does the retail trade fulfill in the trading situations described?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Customers pay for the goods by invoice.",
+              "isRequired": true,
+              "correctAnswer": "Credit function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "A shoe store imports shoes directly from the factory in Portugal.",
+              "isRequired": true,
+              "correctAnswer": "Transport function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "As part of the incoming goods inspection, an employee checks that the products received are free of damage.",
+              "isRequired": true,
+              "correctAnswer": "Product range design/quality function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "A boutique gives unsold goods to the outlet exchange and thus loses part of the originally planned income. ",
+              "isRequired": true,
+              "correctAnswer": "Risk function ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Handelsfunktionen 2",
+      "title": "Trading functions ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What task (trading function) does the retail trade fulfill in the trading situations described?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "A customer gets expert advice when buying her wedding dress.",
+              "isRequired": true,
+              "correctAnswer": "Customer advice ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "A retail store has two tons of bananas ripening in its central warehouse.",
+              "isRequired": true,
+              "correctAnswer": "Storage function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "An employee in the tea store fills tea from large bags into 100g bags. ",
+              "isRequired": true,
+              "correctAnswer": "Quantity balancing/quantity function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "A retailer puts together his range from the wealth of products offered by wholesalers and producers.",
+              "isRequired": true,
+              "correctAnswer": "Product range design/quality function ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

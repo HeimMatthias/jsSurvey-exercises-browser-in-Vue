@@ -1,0 +1,159 @@
+{
+  "pages": [
+    {
+      "name": "Steuern1",
+      "title": "Taxes",
+      "elements": [
+        {
+          "name": "Seite 1",
+          "type": "panel",
+          "title": "Orientate yourself according to the OVI in the diagram and complete the following sentences:",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://infogram.com/instrument-steuern-und-umverteilung-1hdw2jp0xdeej2l?live\" title=\"T6 M3 A15; Die wichtigsten Partner\" width=\"550\" height=\"692\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "The line chart represents .... The axes represent ... on the one hand and ... on the other.",
+              "isRequired": true,
+              "correctAnswer": "The line chart shows three different taxation variants. The axes represent income tax on the one hand and income on the other.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steuern2",
+      "title": "Taxes",
+      "elements": [
+        {
+          "name": "Seite 2",
+          "type": "panel",
+          "title": "Now it's time to understand the graphic (OVI). To do this, check each of the following statements.",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://infogram.com/instrument-steuern-und-umverteilung-1hdw2jp0xdeej2l?live\" title=\"T6 M3 A15; Die wichtigsten Partner\" width=\"550\" height=\"692\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "Frage 2",
+              "rows": [
+                "1 According to the diagram, the tax amount for the poll tax is always the same regardless of income.",
+                "2. if your income is CHF 40,000, you pay CHF 16,000 in income tax; if your income is CHF 120,000, you also pay CHF 16,000."
+              ],
+              "type": "matrix",
+              "title": "Statements on the dark green line:",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "1. Gemäss Diagramm ist der Steuerbetrag bei der Kopfsteuer unabhängig vom Einkommen immer gleich hoch.": "right",
+                "2. Bei einem Einkommen von CHF 40 000.– zahlt man CHF 16 000.– Einkommenssteuer, bei einem Einkommen von CHF 120 000.– auch.": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "Frage 3",
+              "rows": [
+                "3. if you earn CHF 40,000 a year, you pay CHF 8,000 in a proportional tax system, according to the diagram. If you earn twice as much, you pay three times as much.",
+                "4 In a proportional tax system, the top-earning household pays more than CHF 20,000 in income tax per year."
+              ],
+              "type": "matrix",
+              "title": "Statements on the light green line:",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "4. Der topverdienende Haushalt zahlt bei einem proportionalen Steuersystem mehr als CHF 20 000.– Einkommenssteuer pro Jahr.": "right",
+                "3. Wer im Jahr CHF 40 000.– verdient, zahlt gemäss Diagramm bei einem proportionalen Steuersystem CHF 8000.–. Wer ein doppeltes Einkommen verdient, bezahlt dreimal so viel.": "wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "Frage 4",
+              "rows": [
+                "5 According to the chart, in a progressive tax system, the tax amounts for low and high earners are the furthest apart.",
+                "6 In a progressive tax system, the amount of tax increases regularly with income."
+              ],
+              "type": "matrix",
+              "title": "Statements on the orange line:",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "6. Bei einem progressiven Steuersystem steigt mit dem Einkommen auch der Steuerbetrag regelmässig an.": "wrong",
+                "5. Bei einem progressiven Steuersystem liegen laut Grafik die anfallenden Steuerbeträge für Wenig- und Vielverdiener am weitesten auseinander.": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Rephrase the false statements so that they are correct:",
+              "isRequired": true,
+              "correctAnswer": "(3) If you earn CHF 40,000 a year, you pay CHF 8,000 in a proportional tax system, according to the diagram. If you earn twice as much, you also pay twice as much.\n(5) In a progressive tax system, the tax amount does not increase regularly with income, but progressively (= disproportionately), the curve becomes steeper at high incomes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steuern3",
+      "title": "Taxes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "We stick to understanding the graphic (OVI).",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://infogram.com/instrument-steuern-und-umverteilung-1hdw2jp0xdeej2l?live\" title=\"T6 M3 A15; Die wichtigsten Partner\" width=\"550\" height=\"692\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Compare the three types of tax with each other. Formulate at least three statements. Use the phrases in the box:",
+              "isRequired": true,
+              "defaultValue": "Beispiel: Bei einem Kopfsteuersystem bezahlen die Einkommensschwächsten prozentual am meisten Steuern, nämlich genau 40% ihres Jahreseinkommens.",
+              "correctAnswer": "1. the tax burden for low incomes is lowest with the progressive variant, higher with the proportional variant and highest with the capitation tax variant.\n2. In percentage terms, the highest earners pay the most with the progressive tax.\n3. With a proportional tax system, the percentage of income spent on taxes is the same for all incomes.\n4. In contrast to the poll tax, the amount of tax increases with rising income in the other two tax variants.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M5_A8_Redemittel.png\" />",
+              "name": "question6",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "name": "Forderungen an die EU1",
+      "title": "Demands on the EU",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Determine which assessment criterion is used as the primary argument in each case. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "The EU should regulate which countries take in how many refugees according to their size. It would be unfair if some countries had to take in proportionately more refugees than others. ",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Equality or justice through equality"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "checkbox",
+              "title": "Vocational training should be regulated by the individual countries themselves. This is the only way that the companies based there can have a say.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "checkbox",
+              "title": "Language courses for young people should be organized by the EU so that the same quality standards apply to all offers.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Equality or justice through equality"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forderungen an die EU2",
+      "title": "Demands on the EU",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Determine which assessment criterion is used as the primary argument in each case. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "checkbox",
+              "title": "Each country should take its own environmental protection measures, as the individual countries are at different stages in terms of climate protection.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "checkbox",
+              "title": "Scientists from various EU countries should be funded to develop a coronavirus vaccine. This would be cheaper than each country conducting its own research.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Economic efficiency (cost-benefit ratio)"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "checkbox",
+              "title": "The countries of Europe should tackle the problem of climate change together. This would enable us to achieve more in less time.",
+              "choices": [
+                "Equality or justice through equality",
+                "Economic efficiency (cost-benefit ratio)",
+                "Consideration of regional characteristics and proximity to citizens (citizen-oriented problem solving)"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Economic efficiency (cost-benefit ratio)"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

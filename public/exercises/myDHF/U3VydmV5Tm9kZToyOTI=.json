@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Guarantee",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Defective delivery\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the statutory warranty period for new goods?",
+              "correctAnswer": "Two years"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How long does the warranty last for used goods?",
+              "correctAnswer": "One year"
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Under what circumstances is it possible to exclude the warranty?",
+              "correctAnswer": "If both contracting parties agree."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is product liability?",
+              "correctAnswer": "Product liability refers to the manufacturer's liability for damage caused by a defective product."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

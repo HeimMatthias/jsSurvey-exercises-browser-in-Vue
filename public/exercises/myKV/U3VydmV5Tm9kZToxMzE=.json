@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Printer",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which selection criteria can influence the purchasing decision in your current work situation? Name three criteria and give reasons for them.",
+              "isRequired": true,
+              "correctAnswer": "Individual solution. Depending on the intended use, print volume, print output quality: letter, sketches (affects resolution and color), cost per copy (purchase, service, paper quality, etc.)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "To what extent is the page per minute figure only of limited significance? Explain what this is about. ",
+              "isRequired": true,
+              "correctAnswer": "Page per minute indicates how many pages a printer can print per minute. Page per minute is a very imprecise figure as it says little: text takes much less time than an image on an A4 page. It should therefore be treated with caution.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Printer",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What is meant by resolution in connection with printers?",
+              "isRequired": true,
+              "correctAnswer": "Number of color dots that a printer can print per inch (2.54cm). The higher the number, the more image information can be printed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What does the price of a printed A4 page consist of?",
+              "isRequired": true,
+              "correctAnswer": "Paper price, printing costs (toner/ink price, copier price/rent, electricity, service), labor (wages)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

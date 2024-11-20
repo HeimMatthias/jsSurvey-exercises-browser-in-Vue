@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is generally referred to as an application?",
+              "isRequired": true,
+              "correctAnswer": "Programs that are used for specific work (execute work instructions).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the correct definition for the operating system?",
+              "isRequired": true,
+              "correctAnswer": "System program(s), responsible for data and resource management as well as communication with users (operation of the PC and peripheral devices): Loading, executing, interrupting and terminating programs; managing and allocating processor time; managing internal memory space for applications; managing and operating connected devices",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is an integrated software package?",
+              "isRequired": true,
+              "correctAnswer": "Several applications are offered in one package (e.g. with word processing, spreadsheets, image processing, database), including Microsoft 365.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What advantages do you see in an integrated software package?",
+              "isRequired": true,
+              "correctAnswer": "are similarly structured (user interface); can be operated similarly (user interface, key combinations); compatible with each other",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What disadvantages do you see in an integrated software package?",
+              "isRequired": true,
+              "correctAnswer": "often contain programs that are rarely or never needed (overloaded); graphics programs, video and sound editing programs are increasingly missing",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

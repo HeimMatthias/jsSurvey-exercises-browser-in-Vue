@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "Wenn-dann-Sätze",
+      "title": "If-then sentences",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the following if-then sentences.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Rule 1 (paragraphs 1-3): ... someone has entered into a contract - whether in writing or ... it can no longer be rescinded.",
+              "isRequired": true,
+              "correctAnswer": "Rule 1 (paragraphs 1-3): Once someone has entered into a contract - whether written or verbal - it can no longer be rescinded.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Rule 2 (paragraph 5): ... the sales staff affixes a ... note on the ... (exchange permitted within x days), ... you can return a purchased item during this period.",
+              "isRequired": true,
+              "correctAnswer": "Rule 2 (paragraph 5): If the sales staff make a written note on the till receipt (exchange permitted within x days), then you can return a purchased item during this period.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Rule 3 (paragraph 5 & 7): ... you return a good, as agreed, quickly, ..., with the ... and preferably in the original packaging, ... you can return the purchased item ... . ",
+              "isRequired": true,
+              "correctAnswer": "Rule 3 (paragraph 5 & 7): If you return a product, as agreed, quickly, unused, with the receipt and preferably in the original packaging, then you can return the purchased item. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wenn-dann-Sätze2",
+      "title": "If-then sentences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "If the if-part of a sentence consists of many conditions, we list them individually and shorten them. In this case, 2 rules are created:",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Rule 4 (paragraph 8): If the contract 1. does not include insurance, 2. the customer's benefit is less than CHF 100, 3. is intended for private use, 4. was concluded at home, at work, on the telephone, in public, on an excursion, without the contract negotiation being requested, then there is a ....",
+              "isRequired": true,
+              "correctAnswer": "Rule 4 (paragraph 8): If the contract 1. does not include insurance, 2. the customer's benefit is less than CHF 100, 3. is intended for private use, 4. was concluded at home, at work, on the telephone, in public, on an excursion, without the contract negotiation having been requested, then it is a doorstep selling transaction.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Rule 5: If a door-to-door sales transaction is involved, ... .",
+              "isRequired": true,
+              "correctAnswer": "Rule 5: If it is a doorstep selling transaction, you can cancel the contract by registered letter within 14 days.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "Rule 6 (paragraph 9): If ... .",
+              "isRequired": true,
+              "correctAnswer": "Rule 6 (paragraph 9): If one revokes a credit agreement (consumer credit, leasing, \tpayment agreement) or a dating agreement within 14 days, then one can withdraw from such an agreement.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

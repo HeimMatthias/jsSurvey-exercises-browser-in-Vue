@@ -1,0 +1,180 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Delay in delivery",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Decide whether the examples are dunning, expiry date or fixed-date transactions and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "In January, the Zofingen Business School orders 1000 promotional ballpoint pens to give away to its customers to mark the company's anniversary in May.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Dunning business",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "This is a reminder transaction, as no delivery deadline was apparently agreed and there is still sufficient time before the pens are issued (Art. 102 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Mrs. Schnyder orders ten primroses as grave decorations for the end of February.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Dunning business",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "As no specific expiry date has been agreed, this is a dunning transaction.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Delay in delivery",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the examples are dunning, expiry date or fixed-date transactions and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Ms. Linsing orders 300 g of petit fours for the board meeting next Friday at 10 a.m.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Fixed transaction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The petit fours must be delivered by the Board meeting, after which Ms. Linsing no longer has to accept them (Art. 108 para. 3 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Mr. Graven orders a transverse flute for his daughter with a delivery date of 25.4.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Expiry date business",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "In this case, a specific expiry date of April 25 was agreed (Art. 102 para. 2 CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Delay in delivery",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the examples are dunning, expiry date or fixed-date transactions and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Mr. Freytag orders drinks from a caterer for his company anniversary on 22.10.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Fixed transaction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "This is a fixed-date transaction; the drinks are to be delivered by the celebration at the latest (Art. 108 para. 3 CO).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Mr. Klein orders a new BMW X3 at the end of the year.",
+              "choices": [
+                "Dunning business",
+                "Expiry date business",
+                "Fixed transaction"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Dunning business",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "As no specific expiry date was agreed, this is a reminder transaction (Art. 102 para. 1 CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Acquired or personal property",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The gold wristwatch that the wife gave her husband for Christmas",
+                "The wife's earrings, which she inherited from her mother",
+                "The spouses' employment",
+                "The pension fund assets of the spouses",
+                "The washing machine that a husband brought into the marriage",
+                "The washing machine that the spouses bought together with their wages during the marriage",
+                "The motorcycle that a wife rode before marriage",
+                "A husband's shoe collection",
+                "The interest from a husband's savings account during the marriage",
+                "The sports car that the husband gave his wife for their 10th wedding anniversary "
+              ],
+              "type": "matrix",
+              "title": "Allocate the following assets to the correct asset class for the participation in the inheritance.",
+              "columns": [
+                "Achievement",
+                "Own property"
+              ],
+              "correctAnswer": {
+                "Der Arbeitserwerb der Ehegatten": "Achievement",
+                "Die Schuhsammlung eines Ehemanns": "Own property",
+                "Das Pensionskassenvermögen der Ehegatten": "Achievement",
+                "Die Ohrringe der Ehefrau, die sie von ihrer Mutter erbte": "Own property",
+                "Das Motorrad, welches eine Ehefrau schon vor der Ehe fuhr": "Own property",
+                "Die Zinsen aus dem Sparheft eines Ehemanns während der Ehe": "Achievement",
+                "Die Waschmaschine, welche ein Ehemann mit in die Ehe brachte": "Own property",
+                "Der Sportwagen, den der Ehemann seiner Frau zum 10. Hochzeitstag schenkte ": "Own property",
+                "Die goldene Armbanduhr, welche die Ehefrau ihrem Mann zu Weihnachten schenkte": "Own property",
+                "Die Waschmaschine, welche die Ehegatten mit ihrem Lohn während der Ehe gemeinsam gekauft haben": "Achievement"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

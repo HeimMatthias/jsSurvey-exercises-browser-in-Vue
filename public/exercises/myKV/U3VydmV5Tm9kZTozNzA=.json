@@ -1,0 +1,142 @@
+{
+  "pages": [
+    {
+      "name": "Versicherungen",
+      "title": "Insurances",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What do the following insurances cover? ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "1. health insurance",
+              "isRequired": true,
+              "correctAnswer": "Health insurance covers medical costs: doctor's fees, hospital costs, costs of necessary examinations, medication.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "2. hail insurance ",
+              "isRequired": true,
+              "correctAnswer": "Hail insurance covers the costs of hail damage, e.g. loss of earnings due to spoiled vegetables.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "3. life insurance",
+              "isRequired": true,
+              "correctAnswer": "Life insurance pays a predetermined amount of money to the surviving dependants of the deceased.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Insurances",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which insurance policies cover the following risks?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "1. theft of a valuable item from the home",
+              "isRequired": true,
+              "correctAnswer": "Household contents insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "2. loss of employment",
+              "isRequired": true,
+              "correctAnswer": "Unemployment insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "3. financial problems due to the death of the spouse",
+              "isRequired": true,
+              "correctAnswer": "The AHV and pension fund as well as any life insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "4. liability for damages as a result of a car accident",
+              "isRequired": true,
+              "correctAnswer": "Motor vehicle liability insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "5. loss of salary due to disability",
+              "isRequired": true,
+              "correctAnswer": "Disability insurance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Insurances",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which insurance should Lucy take out?",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "1 Lucy has a nice new bike that she would like to have replaced by the insurance company in case it is stolen.",
+              "isRequired": true,
+              "correctAnswer": "Theft insurance ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "2 Lucy has to park her car outside each time; she would therefore like to insure it against marten damage.",
+              "isRequired": true,
+              "correctAnswer": "Partially comprehensive insurance",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "3 Lucy skis often. She doesn't want to have to pay compensation if she hits and injures another skier.",
+              "isRequired": true,
+              "correctAnswer": "Personal liability insurance",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

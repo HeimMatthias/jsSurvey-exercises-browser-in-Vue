@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Designations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the following terms correctly: recourse, deductible, bonus, annuity, insurance fraud.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Amount that the insurance company pays out regularly.",
+              "isRequired": true,
+              "correctAnswer": "Pension",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Cost sharing by the insured person(s).",
+              "isRequired": true,
+              "correctAnswer": "Deductible",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Recourse to the insured person.",
+              "isRequired": true,
+              "correctAnswer": "Recourse",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Premium reduction for accident-free driving.",
+              "isRequired": true,
+              "correctAnswer": "Bonus",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Unjust enrichment.",
+              "isRequired": true,
+              "correctAnswer": "Insurance fraud",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

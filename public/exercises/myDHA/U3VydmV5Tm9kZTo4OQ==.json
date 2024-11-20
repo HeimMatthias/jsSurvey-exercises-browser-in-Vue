@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Right to a name",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The new naming law puts women and men on an equal footing.",
+                "There have been no more double names since 2013.",
+                "The spouses retain their previous names.",
+                "The spouses can have a joint surname.",
+                "The child is always given the name of the father."
+              ],
+              "type": "matrix",
+              "title": "Which regulations apply in the new naming law? Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Seit 2013 gibt es keine Doppelnamen mehr.": "Correct",
+                "Das Kind erhält immer den Namen des Vaters.": "Wrong",
+                "Die Eheleute behalten ihre bisherigen Namen.": "Correct",
+                "Das neue Namensrecht stellt Frauen und Männer gleich.": "Correct",
+                "Die Eheleute können einen gemeinsamen Familiennamen führen.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

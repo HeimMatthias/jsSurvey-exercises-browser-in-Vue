@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Switzerland and the EU",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the treaties that give Switzerland access to the European market?",
+              "correctAnswer": "Bilateral Agreements I and II (Bilaterals I and Bilaterals II for short)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What points were negotiated bilaterally with the EU in 1999?",
+              "correctAnswer": "Bilateral agreements I: passenger transport, air transport, land transport, agriculture, public procurement, technical barriers to trade, research",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What points were negotiated bilaterally with the EU in 2004?",
+              "correctAnswer": "Bilateral agreements II: police cooperation (Schengen), asylum (Dublin), taxation of savings income, processed agricultural products, combating fraud, environment, pensions, media, statistics, education",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Switzerland and the EU",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What role do foreign workers play in Switzerland?",
+              "correctAnswer": "Foreign workers make a decisive contribution to the well-being of the Swiss economy. Around 25 percent of all people living in Switzerland are foreign nationals.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How has the working and living situation of foreign workers in Switzerland changed since the 1960s?",
+              "correctAnswer": "The so-called seasonal workers who came to Switzerland to work from the 1960s onwards were not granted a permanent residence permit in Switzerland. The seasonal workers mostly worked in construction and had to leave the country in winter. Today, the free movement of persons (Bilateral Agreements I) grants workers from the EU important rights and long-term residence permits. An increasing number of well-trained workers are coming to Switzerland.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

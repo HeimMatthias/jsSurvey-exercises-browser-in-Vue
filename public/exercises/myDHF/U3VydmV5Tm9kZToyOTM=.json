@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Long-term customer loyalty ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What is the correct ending of the statement? Select the correct ending. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Long-term customer loyalty saves ... ",
+              "choices": [
+                "Gasoline costs. ",
+                "Marketing costs. ",
+                "Production costs. ",
+                "Personnel costs. "
+              ],
+              "correctAnswer": [
+                "Marketing costs. "
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Long-term customer loyalty ... ",
+              "choices": [
+                "is the sole responsibility of the marketing department. ",
+                "is an outdated concept and is only aimed at in small village stores. ",
+                "arises exclusively during the sales talk. ",
+                "requires all employees in the company to act in a customer-oriented manner. "
+              ],
+              "correctAnswer": [
+                "requires all employees in the company to act in a customer-oriented manner. "
+              ]
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "To create long-term customer loyalty, ...",
+              "choices": [
+                "the needs of the clientele must be analyzed. ",
+                "the retail business may not change its product range.  ",
+                "customers should always be on first-name terms.  ",
+                "you must not bother customers with skillful questioning techniques. "
+              ],
+              "correctAnswer": [
+                "the needs of the clientele must be analyzed. "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Long-term customer loyalty ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What requirements do businesses and retail specialists need to meet to ensure long-term customer loyalty? ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "List at least four characteristics of the retail business that are important for long-term customer loyalty. ",
+              "correctAnswer": "Product range, prices, additional services, shopping experience, staff, sustainability, location and opening hours, payment options "
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Which five (main) characteristics of retail specialists do customers have high expectations of? ",
+              "correctAnswer": "Appearance, self-competence, social competence, methodological competence, professional competence "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

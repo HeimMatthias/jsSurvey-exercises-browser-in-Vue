@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Conflicting objectives",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which stakeholder groups are likely to be satisfied with this situation and why? ",
+              "isRequired": true,
+              "correctAnswer": "Material suppliers, tent seamstresses (wages), owners (profits)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why are shareholders' expectations likely to be fulfilled?",
+              "isRequired": true,
+              "correctAnswer": "The shareholders and thus the owners of Bergi AG want to achieve the highest possible profit.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Unfortunately, very few of these tents are sold in the first season. What could be the reason for this?",
+              "isRequired": true,
+              "correctAnswer": "The customer target group would like to see lower prices.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Conflicting objectives",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Bergi AG is considering selling off the remaining tents and reducing the price by 20%. What consequences would this have for the satisfaction of the stakeholder groups customers, employees, suppliers and the state? ",
+              "isRequired": true,
+              "correctAnswer": "Customers will be more satisfied because prices will fall. Employees fear for their wages. Suppliers: probably no influence as the invoice has already been paid. State: Profits will fall and with them the expected tax revenue.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Shareholder Fredi suggests doing a media report on the new tents. How could a media report change customers' expectations?",
+              "isRequired": true,
+              "correctAnswer": "The media report could raise awareness among customers that Bergi AG is trend-conscious and offers high-quality products.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

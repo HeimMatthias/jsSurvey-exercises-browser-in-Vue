@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Statements on budget comparisons",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Exceeding the budgeted costs is prohibited.",
+                "Major budget deviations should be justified.",
+                "The budget figures form the basis for calculating the percentage deviations (= 100%).",
+                "Positive deviations from the budget never have to be justified.",
+                "The deviations are often stated in francs and as a percentage.",
+                "Tables are useful for settlements with budget comparison.",
+                "A budget comparison is not possible for accounting financial statements.",
+                "The budget comparison is useless after events have been held.",
+                "The reasons for the deviations must always appear in the same table.",
+                "The budget comparison can contribute to the optimization of events."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on budget comparisons correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Grössere Budgetabweichungen sollten begründet werden.": "right",
+                "Eine Überschreitung der budgetierten Kosten ist verboten.": "wrong",
+                "Für Abrechnungen mit Budgetvergleich sind Tabellen sinnvoll.": "right",
+                "Der Budgetvergleich kann zur Optimierung von Anlässen beitragen.": "right",
+                "Bei Buchhaltungsabschlüssen ist ein Budgetvergleich nicht möglich.": "wrong",
+                "Der Budgetvergleich ist nach der Durchführung von Anlässen nutzlos.": "wrong",
+                "Häufig werden die Abweichungen in Franken und in Prozenten angegeben.": "right",
+                "Positive Abweichungen gegenüber dem Budget müssen nie begründet werden.": "wrong",
+                "Die Begründungen der Abweichungen müssen immer in der gleichen Tabelle stehen.": "wrong",
+                "Für die Berechnung der prozentualen Abweichungen bilden die Budgetzahlen die Basis (= 100%).": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

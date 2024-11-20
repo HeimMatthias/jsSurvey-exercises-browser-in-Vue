@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Profit",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "Cash payment by a customer for a consultation",
+                "Invoice for furniture insurance arrives",
+                "Purchase of a vehicle against invoice",
+                "Taking out a loan with bank transfer",
+                "Interest credited to the bank account by the bank",
+                "Bank transfer of the interest on the loan debt",
+                "Invoice to customer for a consultation",
+                "Bank transfer of staff wages"
+              ],
+              "type": "matrix",
+              "title": "What influence do the following transactions have on profit? Will the profit increase, decrease or remain unchanged in each case?",
+              "columns": [
+                "Profit increases",
+                "Profit decreases",
+                "Profit remains unchanged"
+              ],
+              "correctAnswer": {
+                "Kauf eines Fahrzeugs gegen Rechnung": "Profit remains unchanged",
+                "Rechnung an Kunde für eine Beratung": "Profit increases",
+                "Banküberweisung der Löhne des Personals": "Profit decreases",
+                "Zinsgutschrift der Bank auf dem Bankkonto": "Profit increases",
+                "Barzahlung eines Kunden für eine Beratung": "Profit increases",
+                "Aufnahme eines Darlehens mit Banküberweisung": "Profit remains unchanged",
+                "Banküberweisung des Zinses der Darlehensschuld": "Profit decreases",
+                "Rechnung für die Mobiliarversicherung trifft ein": "Profit decreases"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Profit",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Partial repayment of the loan debt by bank transfer",
+                "Customer settles a booked invoice for a consultation",
+                "Telephone bill for the last month arrives",
+                "A customer can subsequently deduct a discount",
+                "Purchase of office consumables against cash payment",
+                "Bank transfer of the rent for a storage room",
+                "Cash payment of an employee's travel expenses"
+              ],
+              "type": "matrix",
+              "title": "What influence do the following transactions have on profit? Will the profit increase, decrease or remain unchanged in each case?",
+              "columns": [
+                "Profit increases",
+                "Profit decreases",
+                "Profit remains unchanged"
+              ],
+              "correctAnswer": {
+                "Banküberweisung der Miete eines Lagerraums": "Profit decreases",
+                "Barzahlung der Reisespesen eines Mitarbeiters": "Profit decreases",
+                "Kauf von Büroverbrauchsmaterial gegen Barzahlung": "Profit decreases",
+                "Telefonrechnung für den letzten Monat trifft ein": "Profit decreases",
+                "Ein Kunde kann nachträglich einen Rabatt abziehen": "Profit decreases",
+                "Kunde begleicht eine verbuchte Rechnung für eine Beratung": "Profit remains unchanged",
+                "Teilrückzahlung der Darlehensschuld durch Banküberweisung": "Profit remains unchanged"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

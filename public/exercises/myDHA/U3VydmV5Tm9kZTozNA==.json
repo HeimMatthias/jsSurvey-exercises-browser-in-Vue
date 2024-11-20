@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Credit cards and loyalty cards",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why do retailers accept credit cards?",
+              "isRequired": true,
+              "correctAnswer": "They are hoping for more sales as a result.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Credit cards and loyalty cards",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Why do retailers use loyalty cards?",
+              "isRequired": true,
+              "correctAnswer": "Retailers hope to increase sales, gain an insight into their customers' shopping habits and save the commission that is charged on credit cards.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What is the difference between a loyalty card and a credit card?",
+              "isRequired": true,
+              "correctAnswer": "A customer card with a credit function is issued by the retailer and is only accepted as a means of payment in their stores. In contrast, major credit cards are accepted by most retailers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Where do you see the advantages and disadvantages of a customer card for retailers?",
+              "isRequired": true,
+              "correctAnswer": "Advantages: Turnover (additional customers), no risk of theft, no counterfeit money, generation of customer data, no commission fees;\nDisadvantages: Credit risk, loss of interest, administrative effort\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

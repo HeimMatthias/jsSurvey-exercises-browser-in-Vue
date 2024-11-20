@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Posting records",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which business transactions could have led to the specified postings? Enter a possible business case in keywords for both posting records.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Bench/Ford. L+L",
+              "isRequired": true,
+              "correctAnswer": "Customer transfers to the bank account",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Ford. L+L/DL yield",
+              "isRequired": true,
+              "correctAnswer": "Invoice for services rendered",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Ford. L+L/Finance",
+              "isRequired": true,
+              "correctAnswer": "Charging interest on arrears",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Posting records",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which business transactions could have led to the specified postings? Enter a possible business case in keywords for both posting records.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "DL-Ertrag/Ford. L+L",
+              "isRequired": true,
+              "correctAnswer": "Customer can deduct rebate or discount",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Checkout/Ford. L+L",
+              "isRequired": true,
+              "correctAnswer": "Customer pays a partial amount in cash",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Vehicles/Ford. L+L",
+              "isRequired": true,
+              "correctAnswer": "Customer gives a vehicle for payment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

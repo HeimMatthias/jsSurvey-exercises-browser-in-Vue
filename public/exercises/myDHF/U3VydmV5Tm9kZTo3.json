@@ -1,0 +1,118 @@
+{
+  "pages": [
+    {
+      "name": "Handelsformen1",
+      "title": "Forms of trade",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which forms of trade are involved in the activities mentioned (multiple answers possible)? ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Companies offer food products for retailers in large sales areas. ",
+              "choices": [
+                "Retail trade ",
+                "Assortment wholesale ",
+                "Pick-up wholesale ",
+                "Wholesale ",
+                "Specialty wholesale ",
+                "Wholesale buyout "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Pick-up wholesale ",
+                "Wholesale ",
+                "Specialty wholesale "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "A truck collects old batteries from a store.",
+              "choices": [
+                "Retail trade ",
+                "Assortment wholesale ",
+                "Pick-up wholesale ",
+                "Wholesale ",
+                "Specialty wholesale ",
+                "Wholesale buyout "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Wholesale ",
+                "Specialty wholesale ",
+                "Wholesale buyout "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Handelsformen2",
+      "title": "Forms of trade",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which forms of trade are involved in the activities mentioned (multiple answers possible)? ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "A trader imports goods from many sectors from China.",
+              "choices": [
+                "Retail trade ",
+                "Assortment wholesale ",
+                "Pick-up wholesale ",
+                "Wholesale ",
+                "Specialty wholesale ",
+                "Wholesale buyout "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Assortment wholesale ",
+                "Wholesale "
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "In addition to its own products, a confectionery also sells well-known chocolate brands.",
+              "choices": [
+                "Retail trade ",
+                "Assortment wholesale ",
+                "Pick-up wholesale ",
+                "Wholesale ",
+                "Specialty wholesale ",
+                "Wholesale buyout "
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Retail trade "
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

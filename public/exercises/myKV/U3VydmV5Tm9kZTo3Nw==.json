@@ -1,0 +1,173 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Accounting obligation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read Art. 957 OR. For the following companies, state whether there is an obligation to keep accounts and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "Birchmeier AG, building construction and civil engineering, turnover CHF 3,710,000",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung",
+              "type": "comment",
+              "isRequired": true,
+              "correctAnswer": "A stock corporation is a legal entity, turnover is not relevant",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Karl Eugster, Restaurant Bären, sales CHF 1 498 500.",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Sole proprietorship with an annual turnover of > CHF 500,000",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Accounting obligation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read Art. 957 OR. For the following companies, state whether there is an obligation to keep accounts and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Hairpoint GmbH, hairdressing business, sales CHF 296 900.",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Limited liability company is a legal entity, turnover is not relevant",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Felix Müller, fiduciary office, turnover CHF 376 600.",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "No accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Sole proprietorship with an annual turnover of < CHF 500,000\n",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Accounting obligation",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read Art. 957 OR. For the following companies, state whether there is an obligation to keep accounts and give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Fischer & Gerber KlG, painting business, turnover CHF 422 500.",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "No accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Partnership with an annual turnover of < CHF 500,000\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Bärenmatte building cooperative, turnover CHF 627,000",
+              "choices": [
+                "Accounting obligation",
+                "No accounting obligation"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Accounting obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Cooperative is a legal entity, turnover is not relevant",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The so-called \"small alimony\" is precisely defined in the law.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No, Article 259 of the CO is not clear. It does not clearly outline what constitutes minor cleaning or repairs necessary for ordinary maintenance. The courts have had to interpret and specify this wording.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Tenants must carry out minor simple repairs and improvements themselves, unless special expertise is required.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "As soon as a specialist has to be called in, this is not \"ordinary maintenance\" - and the landlord has to bear the costs. ",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "It is generally the landlord's responsibility to remedy defects.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No, jurisdiction depends on whether the defect is minor, medium or major or was caused by the tenant.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The landlord must pay in full for spare parts to rectify minor defects.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No, up to approx. CHF 150, the tenant must pay for such spare parts for minor maintenance himself.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Work that tenants have to carry out themselves, for example: Lubricating hinges, descaling taps and replacing light bulbs.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction:",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

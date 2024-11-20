@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "AHV",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The term \"normal retirement age\" is replaced by \"reference age\". What could be the reasoning behind this?",
+              "isRequired": true,
+              "correctAnswer": "Ordinary retirement age reflects the fact that everyone stops working at this point. Reference age, on the other hand, opens up the perception of a flexible retirement age and is intended to encourage people to continue working after their 65th birthday.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What role does the increase in VAT play for the AHV?",
+              "isRequired": true,
+              "correctAnswer": "A temporary increase in VAT should help to ease the financial situation of the AHV and make the capital base more stable so that fluctuations in AHV income and expenditure can be better absorbed.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is the transition phase and how will it be organized for the women affected?",
+              "isRequired": true,
+              "correctAnswer": "When changes are made to the pension system, it must be defined for which age groups or from when the changes apply. In this case, the decision was made to react very quickly, i.e. the retirement age for women will be gradually increased as early as 2025. This means that a woman born in 1961 will receive her AHV pension 3 months later in 2025 than before.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "AHV",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What incentives are there to continue working after the age of 65?",
+              "isRequired": true,
+              "correctAnswer": "If you work beyond the reference age, you can close any earlier contribution gaps, defer the AHV and the pensions earned during \"overtime\" may increase the AHV (always within the relatively narrow limits of the minimum and maximum AHV pension).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What other changes are expected in the pension system in the coming years?",
+              "isRequired": true,
+              "correctAnswer": "A further increase in the reference age for men and women is generally expected for the AHV (horizon approx. 70 years); increase in contribution payments (relative and therefore absolute). The reduction in payouts for high earners could become an issue.  \nA further reduction in the conversion rate will be realistic for the BV, as will an increase in the reference age. Part-time positions often do not reach the BV limit. These employees will later lack BV, which can promote poverty in old age. Further measures will probably be necessary here (e.g. affiliation to the BV for salaries below the BV limit).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Theft insurance",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Many students at the Basel vocational school forget to take their valuables with them to the gym. As a result, cash is often stolen in the changing rooms during sports lessons. Marion, Mats and Ricarda would now like to launch a specific gym theft insurance policy. Only the contents of purses are to be insured. The three of them expect around 300 pupils to take out this insurance. Various questions still need to be clarified: For example, how high should the premium and the highest possible claim amount to be paid out be? Advise Marion, Mats and Ricarda.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What factors should the three take into account when determining the premium amount? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "The number of insured persons: The more learners participate, the higher the total premiums and the more money is available to pay claims. The maximum claim amount to be paid out: The higher the maximum claim amount, the higher the individual premium must be set. In turn, the maximum claim amount depends on the expected loss. The demand for the insurance: The higher the premium, the fewer learners will take out the insurance.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How high would you set the premium? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers according to the considerations in a), for example: CHF 30 per year results in a premium sum of CHF 9000 for 300 insured persons.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How high would you set the maximum amount of damage? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers, for example: Assuming that every sixth person is robbed once a year (50 robbed persons), the maximum loss amount should be limited to CHF 180. With a premium of CHF 30, Marion, Mats and Ricarda would then make neither a profit nor a loss. If the calculation is too tight, the three insurance providers run the risk of making losses. They must therefore periodically analyze the claims according to frequency and size.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

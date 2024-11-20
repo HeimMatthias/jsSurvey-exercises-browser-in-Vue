@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "Rechtsbegriffe",
+      "title": "Legal terms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For each example, indicate which of the following legal terms is central to the case in question: delay in delivery, defective delivery, reminder transaction, fixed-date transaction, guarantee, product liability, obligation to inspect, obligation to notify",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Manuel bought a new smartphone a good year ago. He returns it to the store because the touchscreen no longer responds. He has always handled the device carefully and properly.",
+              "isRequired": true,
+              "correctAnswer": "Guarantee",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Ali has put the new microwave oven into operation properly, but a fire breaks out and damages a table. ",
+              "isRequired": true,
+              "correctAnswer": "Product liability",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Tina orders a delivery of goods for the store for March 27. ",
+              "isRequired": true,
+              "correctAnswer": "Fixed transaction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Sheena checks the incoming goods delivery against the delivery bill. ",
+              "isRequired": true,
+              "correctAnswer": "Audit obligation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Kevin complains to the supplier because the products he ordered did not arrive on the agreed delivery date. ",
+              "isRequired": true,
+              "correctAnswer": "Delay in delivery",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Sabrina orders pants for the fall collection from the supplier, but the exact delivery date is not yet fixed. ",
+              "isRequired": true,
+              "correctAnswer": "Dunning business",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Rita unpacks the goods that have arrived but are unfortunately defective and immediately informs the supplier. ",
+              "isRequired": true,
+              "correctAnswer": "Obligation to notify",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Dilek checks the goods that have arrived and notices that 10 pieces of all varieties are missing. ",
+              "isRequired": true,
+              "correctAnswer": "Defective delivery ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

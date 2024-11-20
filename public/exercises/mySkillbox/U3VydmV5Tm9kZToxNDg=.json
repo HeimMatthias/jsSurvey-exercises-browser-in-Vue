@@ -1,0 +1,272 @@
+{
+  "pages": [
+    {
+      "name": "Zahlungsmittel1",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Ordnen Sie die Zahlungsmittel für einen Kauf im Inland folgenden Kategorien zu. (Sie dürfen das Instrument «Zahlungsmittel» dazu brauchen.)",
+              "rows": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                "Payment apps (Twint, ...)",
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "type": "matrix",
+              "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+              "columns": [
+                "safe",
+                "uncertain"
+              ],
+              "correctAnswer": {
+                "PayPal": "safe",
+                "Bargeld": "safe",
+                "Debitkarte": "safe",
+                "Kreditkarte": "safe",
+                "Auf Rechnung": "safe",
+                "Dauerauftrag": "safe",
+                "Internetbanking": "safe",
+                "Volljährigkeit": "Ja, unumstritten",
+                "Zahlungsauftrag": "uncertain",
+                "Kundenkreditkarte": "safe",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Lastschriftverfahren": "safe",
+                "Handlungsunfähigkeit": "umstritten",
+                "Bezahl-Apps (Twint, …)": "safe",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel2",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                "Payment apps (Twint, ...)",
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "type": "matrix",
+              "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+              "columns": [
+                "time-saving",
+                "time-consuming"
+              ],
+              "correctAnswer": {
+                "PayPal": "time-saving",
+                "Bargeld": "time-consuming",
+                "Debitkarte": "time-saving",
+                "Kreditkarte": "time-saving",
+                "Auf Rechnung": "time-consuming",
+                "Dauerauftrag": "time-saving",
+                "Internetbanking": "time-consuming",
+                "Volljährigkeit": "Ja, unumstritten",
+                "Zahlungsauftrag": "time-consuming",
+                "Kundenkreditkarte": "time-saving",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Lastschriftverfahren": "time-saving",
+                "Handlungsunfähigkeit": "umstritten",
+                "Bezahl-Apps (Twint, …)": "time-saving",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel3",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                "Payment apps (Twint, ...)",
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "type": "matrix",
+              "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+              "columns": [
+                "Low fees",
+                "High fees"
+              ],
+              "correctAnswer": {
+                "PayPal": "Low fees",
+                "Bargeld": "Low fees",
+                "Debitkarte": "Low fees",
+                "Kreditkarte": "High fees",
+                "Auf Rechnung": "High fees",
+                "Dauerauftrag": "Low fees",
+                "Internetbanking": "Low fees",
+                "Volljährigkeit": "Ja, unumstritten",
+                "Zahlungsauftrag": "High fees",
+                "Kundenkreditkarte": "Low fees",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Lastschriftverfahren": "Low fees",
+                "Handlungsunfähigkeit": "umstritten",
+                "Bezahl-Apps (Twint, …)": "Low fees",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel4",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "rows": [
+                "Cash",
+                "Debit card",
+                "Credit card",
+                "Customer credit card",
+                "Payment apps (Twint, ...)",
+                "On account",
+                "PayPal",
+                "Standing order",
+                "Payment order",
+                "Internet banking",
+                "Direct debit"
+              ],
+              "type": "matrix",
+              "title": "Assign the means of payment for a domestic purchase to the following categories. (You may use the \"Means of payment\" tool).",
+              "columns": [
+                "High acceptance/spread",
+                "Deep acceptance/spread"
+              ],
+              "correctAnswer": {
+                "PayPal": "High acceptance/spread",
+                "Bargeld": "High acceptance/spread",
+                "Debitkarte": "High acceptance/spread",
+                "Kreditkarte": "High acceptance/spread",
+                "Auf Rechnung": "Deep acceptance/spread",
+                "Dauerauftrag": "Deep acceptance/spread",
+                "Internetbanking": "Deep acceptance/spread",
+                "Volljährigkeit": "Ja, unumstritten",
+                "Zahlungsauftrag": "Deep acceptance/spread",
+                "Kundenkreditkarte": "Deep acceptance/spread",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Lastschriftverfahren": "Deep acceptance/spread",
+                "Handlungsunfähigkeit": "umstritten",
+                "Bezahl-Apps (Twint, …)": "Deep acceptance/spread",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zahlungsmittel5",
+      "title": "Means of payment",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel"
+        },
+        {
+          "name": "Diskutieren Sie allfällige Uneinigkeiten und führen Sie diese auf:",
+          "type": "comment",
+          "title": "Discuss any disagreements and list them:",
+          "isRequired": true,
+          "requiredErrorText": "Please answer the question."
+        }
+      ]
+    }
+  ],
+  "title": "Means of payment",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,117 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Marriage and matrimonial property law\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the significance of the engagement?",
+              "isRequired": true,
+              "correctAnswer": "The engagement is a probationary period for a partnership and serves as preparation for marriage. It is therefore equivalent to a marriage vow.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What preparations need to be made for the marriage?",
+              "isRequired": true,
+              "correctAnswer": "On the one hand, certain requirements must be met (age of consent and capacity of judgment). Secondly, the bride and groom must present the necessary documents (e.g. civil status certificate) in person at the registry office at the bride's or groom's place of residence and apply for the marriage. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the obstacles to marriage?",
+              "isRequired": true,
+              "correctAnswer": "The bride and groom must be capable of judgment and of legal age, i.e. at least 18 years old. In addition, there are marriage bans between close relatives, and an existing marriage cannot be remarried. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Marriage and matrimonial property law\".",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Name three legal consequences of marriage.",
+              "isRequired": true,
+              "correctAnswer": "Marriage makes it possible to change the surname, the spouses jointly own property and income, jointly provide for the family, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What citizenship rights do children from binational marriages receive?",
+              "isRequired": true,
+              "correctAnswer": "Children from a binational marriage receive Swiss citizenship.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What are the different matrimonial property regimes?",
+              "isRequired": true,
+              "correctAnswer": "Participation in acquired property; community of property; separation of property",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Marriage",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Marriage and matrimonial property law\".",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "How long do spouses have to wait before they can divorce their \npartners who are not willing to divorce?",
+              "isRequired": true,
+              "correctAnswer": "Divorce papers can only be filed after two years of separation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What are the two different approaches to divorce?",
+              "isRequired": true,
+              "correctAnswer": "Conventional divorce and divorce by petition",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

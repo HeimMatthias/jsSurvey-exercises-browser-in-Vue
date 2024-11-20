@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Bundes- oder Zentralstaat?",
+      "title": "Federal or central state?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Each EU country regulates vocational training according to its own laws and regulations.",
+                "Under EU law, the EU can support vocational trainees to complete a work placement in another EU country.",
+                "Scientists from various EU countries are being funded by the EU to jointly develop a coronavirus vaccine.",
+                "All European countries are developing and implementing their own environmental protection measures.",
+                "All EU states decide independently which other EU states they declare to be corona risk areas."
+              ],
+              "type": "matrix",
+              "title": "In the following exercise, mark whether the examples are more like a confederation or a federal state. ",
+              "columns": [
+                "Confederation",
+                "Federal state"
+              ],
+              "correctAnswer": {
+                "Jedes EU-Land regelt die Berufsbildung nach eigenen Gesetzen und Verordnungen.": "Confederation",
+                "Alle europäischen Länder entwickeln eigene Umweltschutzmassnahmen und setzen sie um.": "Confederation",
+                "Alle EU-Staaten entscheiden selbstständig darüber, welche anderen EU-Staaten sie zu Corona-Risikogebieten erklären.": "Confederation",
+                "Wissenschaftler verschiedener EU-Länder werden von der EU finanziert, um gemeinsam einen Corona-Impfstoff zu entwickeln.": "Federal state",
+                "Gemäss EU-Recht kann die EU Berufslernende unterstützen, in einem anderen EU-Staat einen berufspraktischen Aufenthalt zu absolvieren.": "Federal state"
+              },
+              "isAllRowRequired": true
+            }
+          ],
+          "requiredErrorText": "Please answer all questions."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

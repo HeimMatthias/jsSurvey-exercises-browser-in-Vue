@@ -1,0 +1,165 @@
+{
+  "pages": [
+    {
+      "name": "Heimat1",
+      "title": "Home",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Now read the first section of the text again.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Think about which of the three questions best addresses the topic of the first section. Pay attention to which question you find the most information on. Copy the appropriate question into the text field below. You can choose from the following questions:\n \"When was the world still in order?\", \"When does home matter?\", \"Why do we feel bad?\".",
+              "isRequired": true,
+              "correctAnswer": "When does home play a role?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Find a specific W-question in each of the areas marked in green and blue that will help you find important information on the topic \"When does home matter?\" (= topic). Write down your question in the text field.",
+              "isRequired": true,
+              "correctAnswer": "When do we think of home? What do we long for?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Make a note of important keywords (= main information) for your questions:",
+              "isRequired": true,
+              "correctAnswer": "When do we think of home? In everyday life, when things are not going according to plan. What do we long for? For an ideal state from the past. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "expression",
+              "title": "In pairs, compare your solutions with the possible solution below. If your solution corresponds in spirit to the possible solution, transfer the topic (T1) and main information (I1) of the first section to the printed document. If, on the other hand, the content of your solution differs greatly from the possible solution, discuss this with your teacher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heimat2",
+      "title": "Home",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the second section.",
+          "elements": [
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "The topic of this section revolves around a question. Write it down in the text field.",
+              "isRequired": true,
+              "correctAnswer": "Why do many people think that everything was better in the past?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Write down the sentence that contains the most important answers (= main information) to this question.",
+              "isRequired": true,
+              "correctAnswer": "We are trained to block out the negative from our memories, making yesterday seem rosy and today gloomy.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "Compare your solution with the solution below and proceed in the same way as in section 1. Transfer the topic (T2) and main information (I2) to the printed document.",
+              "readOnly": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heimat3",
+      "title": "Home",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In section 3 you will find examples that provide information on a specific topic.",
+          "elements": [
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "Get to the heart of what these examples are about. Write your result in the text field.",
+              "isRequired": true,
+              "correctAnswer": "Why not everything was better in the past.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 9",
+              "type": "comment",
+              "title": "Make a note of the main information on this topic by finding an appropriate keyword for each example:",
+              "isRequired": true,
+              "correctAnswer": "Unemployment rate, life expectancy, traffic fatalities",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 10",
+              "type": "comment",
+              "title": "Compare your solution with the solution below and proceed in the same way as in the previous sections. Transfer the topic (T3) and main information (I3) to the printed document.",
+              "readOnly": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heimat4",
+      "title": "Home",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Section 4 is structured similarly to section 3.",
+          "elements": [
+            {
+              "name": "Frage 11",
+              "type": "comment",
+              "title": "Give reasons as to which proposal better summarizes the topic of this section. Explain how the two suggestions relate to each other. Suggestion 1: Peter Jost's concept of home, suggestion 2: Positive achievements of our country\n",
+              "isRequired": true,
+              "correctAnswer": "Proposal 1 gets to the heart of the matter better because it could be the title for proposal 2. This is because the positive achievements of our country describe the content of Peter Jost's concept of home. They should therefore be regarded as the main information.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 12",
+              "type": "comment",
+              "title": "Describe the structure of section 4 in a single sentence. It should contain the following terms: Topic - Main information - Enumeration.",
+              "isRequired": true,
+              "correctAnswer": "The main information on the topic appears in section 4 in the form of a list.\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 13",
+              "type": "comment",
+              "title": "Compare your solution with the solution below and proceed in the same way as for sections 1 to 2. Transfer the topic (T4) and main information (I4) to the printed document.",
+              "readOnly": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

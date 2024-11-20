@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Duties",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Handover",
+                "Payment of the rent",
+                "Diligence",
+                "Duty to provide information",
+                "Consideration for neighbors",
+                "Paying the property tax",
+                "Elimination of minor defects",
+                "Levies and charges",
+                "Maintenance",
+                "Paying the building insurance",
+                "Paying the rental deposit",
+                "Repair of major defects",
+                "Tolerating apartment viewings"
+              ],
+              "type": "matrix",
+              "title": "Assign the following duties to the tenant or landlord.",
+              "columns": [
+                "Tenant",
+                "Landlord/Landlady"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Sorgfalt": "Tenant",
+                "Unterhalt": "Landlord/Landlady",
+                "Übergabe": "Landlord/Landlady",
+                "Auskunftspflicht": "Landlord/Landlady",
+                "Abgaben und Lasten": "Landlord/Landlady",
+                "Bezahlen der Mietkaution": "Tenant",
+                "Entrichten des Mietzinses": "Tenant",
+                "Beseitigung leichter Mängel": "Tenant",
+                "Rücksichtnahme auf Nachbarn": "Tenant",
+                "Bezahlen der Liegenschaftssteuer": "Landlord/Landlady",
+                "Instandsetzen grösserer Mängel": "Landlord/Landlady",
+                "Bezahlen der Gebäudeversicherung": "Landlord/Landlady",
+                "Dulden von Wohnungsbesichtigungen": "Tenant"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Budget",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why can it be useful to draw up a budget?",
+              "isRequired": true,
+              "correctAnswer": "Better overview of finances; balance income and expenditure and make savings; reduced risk of debt; protection against financial surprises; targeted savings",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are variable costs?",
+              "isRequired": true,
+              "correctAnswer": "Variable costs are expenses that are not incurred regularly or are not the same every month. They are dependent on consumption.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Budget",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are fixed costs?",
+              "isRequired": true,
+              "correctAnswer": "Fixed costs are monthly recurring expenses for a fixed amount or an amount within a certain range (monthly average): Insurance, subscriptions, rent, taxes, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Where can you get answers to questions about your budget?",
+              "isRequired": true,
+              "correctAnswer": "For example, at www.budgetberatung.ch or www.heschnocash.ch. The \"BudgetCH\" app from the umbrella organization Budgetberatung Schweiz also provides a practical tool for drawing up a budget.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

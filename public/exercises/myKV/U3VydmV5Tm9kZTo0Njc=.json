@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Miscellaneous invoices",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Your bosses have an international cell phone subscription for which the same amount is billed each month.",
+                "You have to pay for a lunch (with invoice) for a major customer.",
+                "The office rent for November arrives.",
+                "A graphic designer creates a new logo for a subsidiary. The invoice arrives.",
+                "Last month's electricity bill.",
+                "Privately, you will receive a statement from the health insurance company for a doctor's visit with your deductible.",
+                "Deutsche Post AG does all the mailing to your employer's customers, and every month you receive a bill for this work.",
+                "The leasing rate for the management's cars.",
+                "After the company takeover comes the bill from the external consultants.",
+                "You purchase the login for the online media that you will use throughout your training."
+              ],
+              "type": "matrix",
+              "title": "Which are recurring invoices (serial invoices) and which are one-off invoices? You are employed by a large corporation with over 1000 employees and have to make a decision:",
+              "columns": [
+                "unique",
+                "Serial invoice"
+              ],
+              "correctAnswer": {
+                "Die Stromrechnung vom letzten Monat.": "Serial invoice",
+                "Die Stromrechnung vom letzten Monat. ": "Serienrechnung",
+                "Die Büromiete vom Monat November trifft ein.": "Serial invoice",
+                "Die Leasingrate der Autos der Geschäftsleitung.": "Serial invoice",
+                "Nach der Firmenübernahme kommt die Rechnung der externen Berater.": "unique",
+                "Nach der Firmenübernahme kommt die Rechnung der externen Berater. ": "einmalig",
+                "Sie müssen für einen Grosskunden ein Mittagessen (mit Rechnung) bezahlen.": "unique",
+                "Eine Grafikerin erstellt für ein Tochterunternehmen ein neues Logo. Die Rechnung trifft ein.": "unique",
+                "Privat erhalten Sie eine Abrechnung der Krankenkasse für einen Arztbesuch mit Ihrem Selbstbehalt.": "unique",
+                "Sie kaufen das Login für die Online-Medien, die Sie während Ihrer gesamten Ausbildung benützen.": "Serial invoice",
+                "Ihre Chefinnen haben ein internationales Handy-Abo, bei welchem monatlich der gleiche Betrag in Rechnung gestellt wird.": "Serial invoice",
+                "Die Deutsche Post AG macht bei Ihrer Arbeitgeberin den ganzen Versand an die Kundschaft, jeden Monat kommt für diese Arbeit eine Abrechnung.": "Serial invoice"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

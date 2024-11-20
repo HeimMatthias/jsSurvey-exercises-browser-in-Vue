@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "Steuervarianten",
+      "title": "Control variants",
+      "elements": [
+        {
+          "name": "Einige der folgenden Aussagen sind richtig, einige sind falsch.",
+          "type": "panel",
+          "title": "Some of the following statements are correct, some are incorrect. ",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://infogram.com/t7-m5-a13-steuervarianten-1h7z2l8ww7jgx6o?live\" title=\"T6 M3 A15; Most important partners\" width=\"550\" height=\"692\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "rows": [
+                "1. if the tax burden is distributed according to the red line, the highest earners pay less than if it is distributed according to the green line.",
+                "2. if the tax burden is distributed according to the blue curve, people with no income do not have to pay any taxes at all.",
+                "3. if the tax burden is distributed according to the red line, then the state redistribution is greater than if it is distributed according to the green line.",
+                "4 If the tax burden is distributed according to the blue line, the state redistribution is always greater than if it is distributed according to the red line.",
+                "5 A distribution of the tax burden along the green line is the fairest distribution of the tax burden according to the Swiss Federal Constitution."
+              ],
+              "type": "matrix",
+              "title": "Check the appropriate box for each statement.",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "2. Bei einer Verteilung der Steuerlast gemäss der blauen Kurve müssen die Personen ohne Einkommen gar keine Steuern bezahlen.": "right",
+                "5. Eine Verteilung der Steuerlast gemäss der grünen Linie ist laut Schweizer Bundesverfassung die gerechteste Verteilung der Steuerlast.": "wrong",
+                "3. Wird die Steuerlast gemäss der roten Linie verteilt, dann ist die staatliche Umverteilung grösser als bei einer Verteilung gemäss der grünen Linie.": "right",
+                "1. Wird die Steuerlast gemäss der roten Linie verteilt, dann bezahlen die Einkommensstärksten weniger als bei einer Verteilung gemäss der grünen Linie.": "wrong",
+                "4. Wird die Steuerlast gemäss der blauen Linie verteilt, dann ist die staatliche Umverteilung stets grösser als bei einer Verteilung gemäss der roten Linie.": "wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "In case 5, give brief and precise reasons for your decision.",
+              "isRequired": true,
+              "correctAnswer": "The ability-to-pay principle, which is enshrined in the Federal Constitution, cannot be implemented with a capitation tax, because those with higher incomes would not pay more tax than those with lower incomes.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

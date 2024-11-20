@@ -1,0 +1,245 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The same style of communication must be used in every meeting, regardless of the interlocutor.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Adaptez votre style de communication à l'interlocuteur pour communiquer plus efficacement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "In a conflictual situation, it is best to ignore emotions and concentrate on the facts.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Show empathy and understanding for the emotions of your interlocutor, especially in conflict situations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The objective of the repair must be clearly defined at the start.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "vrai"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "In negotiations, the principle of give and take is inutile.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Negotiation techniques, such as the principle of give and take, can be effective in negotiations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "The interlocutor's personality must be analyzed prior to the meeting in order to adapt the communication.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "vrai"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "In communication, emotional intelligence is less important than logical reasoning.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "In communication, emotional intelligence is just as important as logical reasoning in order to establish an effective and empathetic connection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "When resolving conflicts, it is more effective to propose solutions immediately than to understand the point of view of others.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "In conflict situations, it is important to first understand other people's perspectives and points of view before proposing solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Trouvez les affirmations qui sont vraies et corrigez celles qui sont fausses.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "In a negotiation, the best thing to do is to camp on your own positions to get the best possible result.",
+              "choices": [
+                "vrai",
+                "faux"
+              ],
+              "correctAnswer": "faux"
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "In negotiations, it is often more effective to show flexibility and focus on common interests in order to arrive at a situation where everyone in the world is happy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

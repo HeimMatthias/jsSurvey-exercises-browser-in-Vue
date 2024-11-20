@@ -1,0 +1,195 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Four forms of communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign one of the four forms of communication to the following examples.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Volume",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Paraverbal communication ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Clothing",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Extraverbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "font",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Verbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Place",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Extraverbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Speech rate",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Paraverbal communication ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Time",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Extraverbal communication",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Four forms of communication",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign one of the four forms of communication to the following examples.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Language",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Verbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Intonation",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Paraverbal communication ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Gestures",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Non-verbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Facial expression",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Non-verbal communication",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "Body language",
+              "choices": [
+                "Verbal communication",
+                "Paraverbal communication ",
+                "Non-verbal communication",
+                "Extraverbal communication"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Non-verbal communication",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Phases of the product life cycle",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Awareness of the product increases.",
+                "The market is saturated and weaker competitors are being squeezed out.",
+                "Demand is low.",
+                "The product has established itself on the market.",
+                "The advertising costs are high.",
+                "More and more customers want to buy the product.",
+                "The product is being revised.",
+                "Demand and sales are falling.",
+                "No profit is made.",
+                "The sales peak is reached and sales remain constant."
+              ],
+              "type": "matrix",
+              "title": "For which phase of the product life cycle are the following characteristics typical?",
+              "columns": [
+                "Introduction",
+                "Growth",
+                "Maturity",
+                "Saturation"
+              ],
+              "correctAnswer": {
+                "Die Nachfrage ist gering.": "Introduction",
+                "Die Werbekosten sind hoch.": "Introduction",
+                "Es wird kein Gewinn erzielt.": "Introduction",
+                "Das Produkt wird überarbeitet.": "Saturation",
+                "Die Bekanntheit des Produkts nimmt zu.": "Growth",
+                "Die Nachfrage und der Umsatz nehmen ab.": "Saturation",
+                "Das Produkt hat sich am Markt etabliert.": "Maturity",
+                "Immer mehr Kundinnen und Kunden wollen das Produkt kaufen.": "Growth",
+                "Das Umsatzmaximum wird erreicht und die Umsätze bleiben konstant.": "Maturity",
+                "Der Markt ist gesättigt und schwächere Konkurrenten werden verdrängt.": "Saturation"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

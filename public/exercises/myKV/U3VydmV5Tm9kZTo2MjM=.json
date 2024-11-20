@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Arten des Marktversagens",
+      "title": "Types of market failure",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "\n",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The city of Winterthur is installing new streetlights in a newly built neighborhood.",
+                "UBS is planning to take over Raiffeisenbank. The Swiss Federal Competition Commission prohibits this takeover, as UBS would otherwise become too powerful in the market.",
+                "Switzerland adopts a new CO2 law. In future, all companies will have to pay a certain amount per ton of CO2 emitted.",
+                "In Switzerland, there is a law that requires companies that sell electrical appliances to charge customers a so-called advance recycling fee. This finances the proper disposal and recycling of old electrical appliances.",
+                "In Switzerland, only the cantons (via Swiss salt works) are allowed to sell salt. In 2005, efforts were made by the federal government to abolish this so-called salt shelf."
+              ],
+              "type": "matrix",
+              "title": "For the following statements, decide which type of market failure is the cause of the government's actions.",
+              "columns": [
+                {
+                  "text": "External costs",
+                  "value": "Column 1"
+                },
+                {
+                  "text": "Monopolies",
+                  "value": "Column 2"
+                },
+                {
+                  "text": "Public goods",
+                  "value": "Column 3"
+                }
+              ],
+              "correctAnswer": {
+                "Die Stadt Winterthur installiert in einem Neubauquartier neue Strassenlampen.": "Column 3",
+                "Die Schweiz beschliesst ein neues CO2-Gesetz. Inskünftig müssen alle Unternehmen pro Tonne ausgestossenem CO2 einen gewissen Betrag bezahlen.": "Column 1",
+                "In der Schweiz dürfen nur die Kantone (via Schweizer Salinen) Salz verkaufen. 2005 gab es Bestrebungen durch den Bund, dieses sogenannte Salzregal abzuschaffen.": "Column 2",
+                "Die UBS plant die Raiffeisenbank zu übernehmen. Die Wettbewerbskommission des Bundes verbietet diese Übernahme, da die UBS ansonsten zu marktmächtig werden würde.": "Column 2",
+                "In der Schweiz gibt es ein Gesetz, das von Unternehmen, die Elektrogeräte verkaufen, verlangt, dass diese eine sogenannte vorgezogene Recyclinggebühr von den Kundinnen verlangen müssen. Damit wird die fachgerechte Entsorgung und das Recycling von alten Elektrogeräten finanziert.": "Column 1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

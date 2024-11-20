@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Risk competencies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which of the following skills are key prerequisites for developing risk awareness and self-control skills? Assign the skills correctly.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Danger awareness:",
+              "isRequired": true,
+              "correctAnswer": "Perception competence, assessment competence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Self-control ability:",
+              "isRequired": true,
+              "correctAnswer": "Decision-making competence, action competence",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Wahrnehmungskompetenz, Entscheidungskompetenz, Handlungskompetenz, Beurteilungskompetenz"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

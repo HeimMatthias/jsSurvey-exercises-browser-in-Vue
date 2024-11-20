@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Appreciative communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "How can you proceed in the following situations to get one step further?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "If you have lost a customer in conversation.",
+              "isRequired": true,
+              "correctAnswer": "Actively approach the customer: I have the feeling that I haven't quite convinced you yet. Can I help you with further information to help you decide?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "If the customer does not complete the sale.",
+              "isRequired": true,
+              "correctAnswer": "Possible approaches:\nI suspect that I have not yet addressed a particular point that concerns you - what is it? Or: Excuse me, please. I seem to have overlooked something in the presentation due to my enthusiasm for this offer. What brings you to this statement?\nOr: What is missing so that you can say \"yes\"?\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "If the other party does not agree.",
+              "isRequired": true,
+              "correctAnswer": "Try to put yourself in your conversation partner's shoes: What would it have to be like for her to agree to the matter in principle?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "If the person you are talking to is not interested in the matter.",
+              "isRequired": true,
+              "correctAnswer": "Actively address the lack of interest: What would it take for you to be fundamentally interested in this topic?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Handelskette verstehen1",
+      "title": "Pricing rules ",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the three rules of demand-oriented pricing by indicating the effects on the market price in each case.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Small demand and large supply:",
+              "isRequired": true,
+              "correctAnswer": "Falling market price ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Demand equals supply:",
+              "isRequired": true,
+              "correctAnswer": "Stable market price ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "High demand and low supply: ",
+              "isRequired": true,
+              "correctAnswer": "Rising market price ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

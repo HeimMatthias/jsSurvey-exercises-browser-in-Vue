@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Survey",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "For the time being, only read the chapter \"Preliminary clarifications\" and make notes on the following key words:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Petition topic:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Target group:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Method:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Name der Übung1",
+      "title": "Survey",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Now study the \"Preparation\" chapter and make notes on the following key words:",
+          "elements": [
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "At least three questions related to your petition:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Selection answers: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Introduction:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

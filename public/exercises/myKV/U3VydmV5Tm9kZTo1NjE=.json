@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Data protection",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "In the basic knowledge section, you read that data security measures always also serve data protection. Explain the connection in your own words.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "You have already read briefly about data protection in Basic knowledge. Research a definition of data protection.",
+              "correctAnswer": "Data protection is related to the protection of our privacy. Data protection therefore always refers to data that is personal data and as such is protected by privacy. Modern data protection is therefore about protection against surveillance by states or companies."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "You have also read a lot about data security: Summarize what you have read in a catchy definition of data security.",
+              "correctAnswer": "Data security refers to the technical measures taken to protect data from manipulation, loss or rendering unusable."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Compare the two terms and find examples in which data security and data protection are realized together. Also consider a case in which data security is a given, but good data protection is doubtful.",
+              "correctAnswer": "Of course, data security also protects personal data that belongs in the private sphere. If, for example, an employer stores the social security number of its employees on a server and protects this server well, then data security and data protection are ensured. However, it is also possible that data protection is inadequate even though data security is in place. For example, if Google stores your movements via Google Maps, this may be stored very securely on Google's servers, but it can still pose a data protection problem because it is part of your privacy where you are throughout the day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

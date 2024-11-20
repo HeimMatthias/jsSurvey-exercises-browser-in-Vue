@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "Vom Verkäufer- zum Erlebnismarkt",
+      "title": "From vendor market to experience market",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "rows": [
+                "1 type of sunflower oil ",
+                "Sushi from Japan ",
+                "Different potato varieties ",
+                "Rabbit show before Easter ",
+                "3 types of cooking oil ",
+                "Curry from India "
+              ],
+              "type": "matrix",
+              "title": "Are the following offers typical for the seller's market, the buyer's market or the experience market?",
+              "columns": [
+                "Seller's market ",
+                "Buyer's market ",
+                "Experience market "
+              ],
+              "correctAnswer": {
+                "Sushi aus Japan ": "Experience market ",
+                "Curry aus Indien ": "Experience market ",
+                "3 Sorten Speiseöl ": "Buyer's market ",
+                "1 Sorte Sonnenblumenöl ": "Seller's market ",
+                "Verschiedene Kartoffelsorten ": "Buyer's market ",
+                "Kaninchenausstellung vor Ostern ": "Experience market "
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

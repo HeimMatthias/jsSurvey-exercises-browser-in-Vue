@@ -1,0 +1,63 @@
+{
+  "pages": [
+    {
+      "name": "Kreislaufwirtschaft",
+      "title": "Circular economy",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Ordnen Sie folgende Produkte einer der drei Kategorien aus dem Instrument zu:",
+              "rows": [
+                "Ballpoint pen",
+                "Battery",
+                "Fresh egg packaging",
+                "Socks",
+                "Compostable T-shirt",
+                "Sneakers",
+                "Coffee cup",
+                "Antique armchair",
+                "Compostable cutlery"
+              ],
+              "type": "matrix",
+              "title": "Assign the following products to one of the three categories from the tool:",
+              "columns": [
+                "linear economy",
+                "Recycling industry",
+                "Circular economy"
+              ],
+              "correctAnswer": {
+                "Socken": "linear economy",
+                "Batterie": "Recycling industry",
+                "Sneakers": "linear economy",
+                "Holzstuhl": "Kreislaufwirtschaft",
+                "Kaffeetasse": "Recycling industry",
+                "Antiker Sessel": "Circular economy",
+                "Kugelschreiber": "linear economy",
+                "Frischeier-Verpackung": "Recycling industry",
+                "Kompostierbares Besteck": "Circular economy",
+                "Kompostierbares T-Shirt": "Circular economy",
+                "Frische Eier (mit Verpackung": "Recyclingwirtschaft"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

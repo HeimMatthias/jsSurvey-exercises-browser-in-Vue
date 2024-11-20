@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case study Priska",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Help Priska find out whether she could already be entitled to unemployment benefit after her apprenticeship and how she can make a claim. Use the online brochure \"Unemployment - A guide for insured persons\".",
+              "isRequired": true,
+              "correctAnswer": "Over the past two years, Priska has had unemployment insurance contributions deducted from her apprenticeship wages, which means that she is entitled to unemployment benefits if she becomes unemployed. However, Priska is not considered unemployed until she has personally registered with the RAV with all the necessary forms and documents, is employable and does everything reasonable to avoid or reduce unemployment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How many daily allowances can Priska receive?",
+              "isRequired": true,
+              "correctAnswer": "Priska is 20 years old after her apprenticeship and has fulfilled the obligation to pay contributions. She is therefore entitled to a maximum of 200 daily allowances.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "You can also find out about the amount of Priska's call money.",
+              "isRequired": true,
+              "correctAnswer": "Priska would receive five daily allowances per week (Monday to Friday). The amount of unemployment benefit depends on the salary subject to AHV contributions that she has earned in the last six months. As Priska's salary does not reach CHF 3797, the daily benefits amount to 80 percent of her last salary.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Priska plagen finanzielle Sorgen. Im ersten Lehrjahr betrug ihr Lohn CHF 840.–, im zweiten CHF 910.– und im dritten CHF 1050.–. Sollte Priska nach der Lehre keine Stelle finden, sieht sie schwarz."
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

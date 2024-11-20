@@ -1,0 +1,233 @@
+{
+  "pages": [
+    {
+      "name": "Elastische und unelastische Preisänderungen",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Salt",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Inelastic"
+              ]
+            },
+            {
+              "name": "Allfällige Korrektur",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "We humans need salt in any case, no matter how expensive it is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Tilsiter cheese",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Elastic"
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "You can easily switch to other types of cheese."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Italian sports cars",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Elastic",
+                "Inelastic"
+              ]
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "Depending on the reasoning, both are correct:\nelastic - not necessarily needed;\nonelastic - will be bought anyway, no matter how expensive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Beer",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Elastic"
+              ]
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "Rather elastic. Wine can also be drunk instead of beer, for example, but this is not a 1:1 substitute and is therefore \"only\" rather elastic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "checkbox",
+              "title": "Tap water",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Inelastic"
+              ]
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "Rather inelastic. This can be saved to a certain extent (showering for less time), but cannot be completely replaced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "checkbox",
+              "title": "Gasoline",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Elastic"
+              ]
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "Rather elastic. Fewer kilometers will be driven. However, those who already have a car and are dependent on it will continue to buy the same amount of gasoline (in the long term, however, there will probably be a switch to electric cars, more fuel-efficient cars or public transport)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Elastic and inelastic price changes",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Assess whether the following goods react elastically or inelastically to price changes. Give reasons for your answer.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "checkbox",
+              "title": "Heroin",
+              "choices": [
+                "Elastic",
+                "Inelastic"
+              ],
+              "correctAnswer": [
+                "Inelastic"
+              ]
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Reason",
+              "correctAnswer": "Heroin is a highly addictive drug. If there is a heroin addiction, any price will be paid, if necessary at the expense of other vital goods. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

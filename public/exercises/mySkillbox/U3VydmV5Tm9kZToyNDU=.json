@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Freund der Regierung",
+      "title": "Friend of the government",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Share your assumptions about the following questions with the class:",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Why does Bela Bonzo keep claiming to be a friend of the government?",
+              "isRequired": true,
+              "correctAnswer": "Because he was instructed to do so and because he is probably afraid.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Why does he secretly give the journalist a broken tooth?",
+              "isRequired": true,
+              "correctAnswer": "To prove to him that he was forced to make his statements by force (knocked out tooth and swollen upper lip).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "What form of government could prevail in his country?",
+              "isRequired": true,
+              "correctAnswer": "Dictatorship.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

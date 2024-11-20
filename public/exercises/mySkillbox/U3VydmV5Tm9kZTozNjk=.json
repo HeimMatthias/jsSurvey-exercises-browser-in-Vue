@@ -1,0 +1,153 @@
+{
+  "pages": [
+    {
+      "name": "Migrationspolitik1",
+      "title": "Migration policy",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "Canada wants to control a large part of immigration with this approach. Tick the category or categories of migrants who are affected by this according to Swiss usage.",
+              "choices": [
+                {
+                  "text": "Voluntary",
+                  "value": "Voluntary"
+                },
+                {
+                  "text": "Recognized refugees",
+                  "value": "Recognized refugees"
+                },
+                {
+                  "text": "Economic refugees",
+                  "value": "Economic refugees"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Voluntary",
+                "Economic refugees"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Migrationspolitik2",
+      "title": "Migration policy",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Compare Canadian and Swiss migration policy by ticking all the statements that are correct. Correct any incorrect statements briefly and succinctly.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "In Canada, the government has a great deal of freedom to decide how many migrants should enter the country each year. In Switzerland, this is not possible due to the bilateral agreements.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No correction necessary."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "The Canadian points system is similar to the Swiss migration policy, which applies to migrants from non-EU/EFTA countries.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 3",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No correction necessary."
+            },
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "The Canadian points system is less clear/comprehensible for migrants than the Swiss migration policy, which applies to migrants from non-EU/EFTA countries.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "With the points system, the Canadian system is clearer/more transparent for migrants."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "The Canadian points system would not really solve the problem of so-called economic migrants in Switzerland either, because most of these migrants from Africa and Asia would have no chance of achieving the required number of points.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 5",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No correction necessary."
+            },
+            {
+              "name": "Frage 6",
+              "type": "radiogroup",
+              "title": "The points system in Canada does not apply the principle of equality, but rather the principle of need and merit.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The points system corresponds to the merit principle, but not at all to the means-tested principle."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

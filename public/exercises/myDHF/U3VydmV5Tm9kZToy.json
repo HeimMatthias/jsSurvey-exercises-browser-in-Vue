@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Bezugsschranken",
+      "title": "Reference barriers",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Purchasing goods directly from the factory is not always easy for end consumers; it is often made more difficult by so-called supply barriers. Barriers to purchase are conditions that the seller sets for the purchase of a product. What do you understand by the following barriers to purchase? ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Minimum purchase quantity",
+              "isRequired": true,
+              "correctAnswer": "The factory does not deliver any goods below a specified minimum quantity. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Small quantity surcharge",
+              "isRequired": true,
+              "correctAnswer": "Small quantities of up to a certain number are delivered, but only at a surcharge. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Name one reason why factories often install such reference barriers. ",
+              "isRequired": true,
+              "correctAnswer": "Factories want to sell in large quantities so that the warehouses are quickly empty again for newly produced goods. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

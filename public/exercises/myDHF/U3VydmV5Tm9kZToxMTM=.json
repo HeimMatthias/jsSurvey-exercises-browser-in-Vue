@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Communication channels",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Communication channels\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which traditional communication channels do you know?",
+              "isRequired": true,
+              "correctAnswer": "Personal contacts, telephony, letters",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which digital communication channels do you know?",
+              "isRequired": true,
+              "correctAnswer": "E-mail, live chat and instant messaging, video telephony, social media",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is meant by internal communication and external communication?",
+              "isRequired": true,
+              "correctAnswer": "Internal communication refers to communication with and among employees. External communication takes place towards the outside world and includes communication with customers, suppliers, partners and the public.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What can the concept of Theme-Centered Interaction TCI be used for? ",
+              "isRequired": true,
+              "correctAnswer": "to determine the position of individuals and groups and for further development",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the aim of TCI? ",
+              "isRequired": true,
+              "correctAnswer": "improving cooperation and promoting skills",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Who developed the TCI concept? ",
+              "isRequired": true,
+              "correctAnswer": "Ruth Cohn, German psychologist",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What is meant by the GLOBE in the four-factor model? Give a concrete example from your life.",
+              "isRequired": true,
+              "correctAnswer": "the external conditions, the environment, the context / e.g. club",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What is meant by ES in the four-factor model? Give a concrete example from your life.",
+              "isRequired": true,
+              "correctAnswer": "the common topic, concern, goal; the joint work, task, etc. / e.g. preparing a presentation",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Dynamic processes are constantly taking place in life. What does this mean for the four factors?",
+              "isRequired": true,
+              "correctAnswer": "They are constantly changing and are always in mutual exchange.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which skills are particularly important in such dynamic processes?",
+              "isRequired": true,
+              "correctAnswer": "Ability to adapt and integrate, communication skills, ability to work in a team",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

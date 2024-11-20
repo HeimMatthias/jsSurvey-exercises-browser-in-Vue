@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Detailhandel1",
+      "title": "Retail trade",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the questions about the text. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is meant by the term \"source of supply\"?",
+              "isRequired": true,
+              "correctAnswer": "Places where retailers can procure their goods",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which retail functions do you know? ",
+              "isRequired": true,
+              "correctAnswer": "Assortment function, transport function, warehouse function, quantity function, advisory function, credit function, risk function ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the retail trade's sources of supply? ",
+              "isRequired": true,
+              "correctAnswer": "Wholesalers, producers, purchasing associations ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

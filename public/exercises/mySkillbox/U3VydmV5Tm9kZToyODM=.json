@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Beurteilen Sie ausgehend von Gesetz 1 und 2 sowie den beiden Szenarien, ob folgende Aussagen richtig oder falsch sind.",
+              "rows": [
+                {
+                  "text": "If your product is only sold by you (or a few others) and many people want to buy it, you can charge a high price.",
+                  "value": "If your product is only sold by you (or a few others) and many people want to buy it, you can charge a high price."
+                },
+                {
+                  "text": "If you sell as many products as you want to buy in a given period, you will not raise or lower the price, but leave it unchanged.",
+                  "value": "If you sell as many products as you want to buy in a given period, you will not raise or lower the price, but leave it unchanged."
+                },
+                {
+                  "text": "If your product is also sold by many others and few people want to buy it, you can only charge a very low price.",
+                  "value": "If your product is also sold by many others and few people want to buy it, you can only charge a very low price."
+                }
+              ],
+              "type": "matrix",
+              "title": "Based on Laws 1 and 2 and the two scenarios, assess whether the following statements are correct or incorrect.",
+              "columns": [
+                {
+                  "text": "right",
+                  "value": "right"
+                },
+                {
+                  "text": "wrong",
+                  "value": "wrong"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Wenn Ihr Produkt auch von vielen anderen verkauft wird und wenige es kaufen wollen, können Sie nur einen sehr tiefen Preis verlangen.": "right",
+                "Wenn Ihr Produkt nur von Ihnen (oder wenigen anderen) verkauft wird und viele es kaufen wollen, können Sie einen hohen Preis verlangen.": "right",
+                "Wenn Sie in einem bestimmten Zeitraum genauso viele Produkte verkaufen, wie gekauft werden wollen, dann werden Sie den Preis nicht erhöhen oder senken, sondern unverändert lassen.": "right"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

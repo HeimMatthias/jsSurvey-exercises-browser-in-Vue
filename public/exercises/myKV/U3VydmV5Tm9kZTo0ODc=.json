@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Résolvez l'exercice.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What is the first step in creating an offer adapted to the client's needs?",
+              "choices": [
+                "Formation des prix",
+                "Description du produit",
+                "Compréhension des besoins du client",
+                "Choix des références"
+              ],
+              "correctAnswer": "Compréhension des besoins du client"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "What should we avoid in an offer to provide clarity?",
+              "choices": [
+                "Information related to the client",
+                "Termes techniques inutiles",
+                "Formation of the prix transparente",
+                "Références"
+              ],
+              "correctAnswer": "Termes techniques inutiles"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Which aspect is important for a personalized offer?",
+              "choices": [
+                "Approche personnalisée du client",
+                "Contenus standardisés",
+                "Description générale du produit",
+                "Longue durée de validité"
+              ],
+              "correctAnswer": "Approche personnalisée du client"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Résolvez l'exercice.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Which of the following elements is essential for the transparent formation of prices in an offer?",
+              "choices": [
+                "Rabais élevés",
+                "List of the prix séparée",
+                "Prix total",
+                "Long payment deadlines"
+              ],
+              "correctAnswer": "List of the prix séparée"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Comment l'avantage de l'offre devrait-il être présenté dans l'offre ?",
+              "choices": [
+                "Dans un langage technique complexe",
+                "En relation avec la résolution des problèmes du client",
+                "Comme point de détail",
+                "Uniquement par des comparaisons de prix"
+              ],
+              "correctAnswer": "En relation avec la résolution des problèmes du client"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Why are references and success stories useful in an offer?",
+              "choices": [
+                "Pour divertir le lecteur",
+                "En règle générale, elles ne sont pas utiles",
+                "Pour augmenter la longueur de l'offre",
+                "Pour souligner l'efficacité de l'offre"
+              ],
+              "correctAnswer": "Pour souligner l'efficacité de l'offre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Offer",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Résolvez l'exercice.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "What is the purpose of a clear call to action at the end of an offer?",
+              "choices": [
+                "Embrouiller le client",
+                "Obtenir un retour",
+                "Clarification of the next planned stage",
+                "La présentation de la politique de l'entreprise"
+              ],
+              "correctAnswer": "Clarification of the next planned stage"
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Qu'est-ce qui contribue à une présentation professionnelle d'une offre ?",
+              "choices": [
+                "Une présentation soignée",
+                "Un langage désinvolte et familier",
+                "Un minimum d'informations",
+                "Une focalisation uniquement sur le prix"
+              ],
+              "correctAnswer": "Une présentation soignée"
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Pourquoi est-il important d'indiquer un échéancier et une durée de validité dans l'offre ?",
+              "choices": [
+                "Pour mettre le client sous pression",
+                "Pour améliorer la planification et la prise de décision",
+                "Ce n'est pas important",
+                "Pour répondre aux exigences juridiques"
+              ],
+              "correctAnswer": "Pour améliorer la planification et la prise de décision"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

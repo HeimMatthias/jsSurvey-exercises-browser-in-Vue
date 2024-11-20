@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Principles of the presentation of goods ",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "DHFs must submit at least five products at the same time.",
+                "DHFs generally present the middle price range first.",
+                "DHFs endeavor to activate the senses only at the end of the bidding phase.",
+                "DHF sets aside the products that do not qualify.",
+                "Whenever possible, DHF places the products in the hands of the customer."
+              ],
+              "type": "matrix",
+              "title": "Decide whether the following statements on the principles of the presentation of goods are correct or incorrect.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Die DHF legt die Produkte, die nicht in Frage kommen, beiseite.": "Correct",
+                "Die DHF müssen mindestens fünf Produkte gleichzeitig vorlegen.": "Wrong",
+                "Die DHF legen grundsätzlich die mittlere Preislage als Erstes vor.": "Correct",
+                "Die DHF geben, wenn immer möglich, die Produkte in die Hand des Kunden.": "Correct",
+                "Die DHF sind bemüht, die Sinne erst am Schluss der Angebotsphase zu aktivieren.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

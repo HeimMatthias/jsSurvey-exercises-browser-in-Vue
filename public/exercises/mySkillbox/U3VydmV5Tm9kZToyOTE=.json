@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "name": "Steuerarten",
+      "title": "Tax types",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "Poll tax",
+                "Proportional tax",
+                "Progressive tax"
+              ],
+              "type": "matrix",
+              "title": "Depending on the type of tax, income is distributed differently from high-income individuals to lower-income individuals (from rich to poor). How great is the redistributive effect of the three types of taxation?",
+              "columns": [
+                "large",
+                "medium",
+                "low",
+                "none"
+              ],
+              "correctAnswer": {
+                "Kopfsteuer": "none",
+                "Progressive Steuer": "large",
+                "Proportionale Steuer": "medium"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

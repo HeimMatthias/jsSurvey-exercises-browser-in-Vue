@@ -1,0 +1,238 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Principle of justice",
+      "elements": [
+        {
+          "name": "panel1Diskutieren Sie in Kleingruppen, welche der vorgeschlagenen Lösungen in der beschriebenen Situation  aus Ihrer Sicht am fairsten ist.",
+          "type": "panel",
+          "title": "Assign the individual distribution proposals to one of the principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "Allocation: The learners divide the money without justification so that each person receives the same amount.",
+              "choices": [
+                {
+                  "text": "Principle of equality",
+                  "value": "Principle of equality"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Polluter pays principle",
+                  "value": "Polluter pays principle"
+                },
+                {
+                  "text": "Means-tested principle",
+                  "value": "Means-tested principle"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Principle of equality"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Principle of justice",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the individual distribution proposals to one of the principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Distribution: Everyone receives an equal amount. The remaining amount is divided according to the performance principle.",
+              "choices": [
+                {
+                  "text": "Principle of equality",
+                  "value": "Principle of equality"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Polluter pays principle",
+                  "value": "Polluter pays principle"
+                },
+                {
+                  "text": "Means-tested principle",
+                  "value": "Means-tested principle"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Means-tested principle"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Principle of justice",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign the individual distribution proposals to one of the principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Distribution: The 4 skillful and committed apprentices who also sold the baked goods receive a larger amount than all the others. Apprentices who participated with skill and commitment receive the second largest amount. The 3 learners with little talent in baking receive slightly smaller amounts because they made less than the others. The 2 learners who hindered the class in baking receive the smallest contribution or none at all.",
+              "choices": [
+                {
+                  "text": "Principle of equality",
+                  "value": "Principle of equality"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Polluter pays principle",
+                  "value": "Polluter pays principle"
+                },
+                {
+                  "text": "Means-tested principle",
+                  "value": "Means-tested principle"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Performance principle"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Principle of justice",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the individual distribution proposals to one of the principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Distribution: All 15 apprentices who were involved in the production receive equally sized pieces of cake - even if they showed no talent in baking. The 2 apprentices who contributed practically nothing receive a smaller amount.",
+              "choices": [
+                {
+                  "text": "Principle of equality",
+                  "value": "Principle of equality"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Polluter pays principle",
+                  "value": "Polluter pays principle"
+                },
+                {
+                  "text": "Means-tested principle",
+                  "value": "Means-tested principle"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Performance principle"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Principle of justice",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assign the individual distribution proposals to one of the principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Distribution: The two troublemakers receive a smaller amount.",
+              "choices": [
+                {
+                  "text": "Principle of equality",
+                  "value": "Principle of equality"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Performance principle",
+                  "value": "Performance principle"
+                },
+                {
+                  "text": "Polluter pays principle",
+                  "value": "Polluter pays principle"
+                },
+                {
+                  "text": "Means-tested principle",
+                  "value": "Means-tested principle"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Polluter pays principle"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Profit center",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Mark the correct statements about the profit center.",
+              "choices": [
+                "It consists exclusively of line positions.",
+                "It has the disadvantage that the cohesion of the departments in a company suffers.",
+                "It has its own cost responsibility.",
+                "It has its own profit responsibility.",
+                "It can only be applied to general partnerships.",
+                "This requires a divisional organization of the company.",
+                "Profit centers can be sold more easily if required."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "It has the disadvantage that the cohesion of the departments in a company suffers.",
+                "It has its own profit responsibility.",
+                "This requires a divisional organization of the company.",
+                "Profit centers can be sold more easily if required."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

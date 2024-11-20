@@ -1,0 +1,225 @@
+{
+  "pages": [
+    {
+      "name": "Einsatzmöglichkeiten",
+      "title": "Possible uses of management tools",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which management tool fits the described application?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "For the upcoming inventory, a paper is drawn up on which it is recorded who is available to the company, where and when.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Operational plan ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "The new managing director is to be given the company plan for the next five years in writing. ",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Corporate strategy ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "A new HR manager should be introduced efficiently and receive a written summary of her areas of responsibility.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Job description ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Possible uses of management tools",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which management tool fits the described application?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Employees should be able to obtain information in the event of a dispute, e.g. what happens to the waste.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "House rules ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Interested employees should be able to look up past sales figures.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Statistics ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "A deputy from another canton should be able to obtain information from us via the official channels.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Organizational chart ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Possible uses of management tools",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which management tool fits the described application?",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Customers should get an impression of the business policy.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Mission statement ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "The boss wants to be able to clarify whether a particular person is suitable for a promotion.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Employee appraisal ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "In the logistics department, internal goods movements, test procedures etc. are planned on the computer using the appropriate creation software.",
+              "choices": [
+                "House rules ",
+                "Job description ",
+                "Statistics ",
+                "Organizational chart ",
+                "Corporate strategy ",
+                "Operational plan ",
+                "Workflow diagram ",
+                "Mission statement ",
+                "Employee appraisal "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Workflow diagram ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

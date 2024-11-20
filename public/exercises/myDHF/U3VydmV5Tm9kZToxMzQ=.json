@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Mail order",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why has the mail order business been able to increase its market share in recent years? List four different reasons.",
+              "isRequired": true,
+              "correctAnswer": "Changing shopping habits of the population, time factor when shopping, aggressive advertising by mail-order companies, favoring of mail-order business through technical progress (Internet), shopping from home with the family",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Mail order",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Marta Garic and Fabio Gianini would like to sell T-shirts they have created themselves. They cannot yet agree on the form of distribution. The two options under discussion are an online store (Internet trade) or a specialty store (retail trade).",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "a) Help Marta and Fabio choose the form of distribution. Name two different advantages and disadvantages of each option. Online store:",
+              "isRequired": true,
+              "correctAnswer": "Advantages: Customers can order conveniently from anywhere; customers can shop 24 hours a day in the online store, etc. / Disadvantages: no personal customer contact, returns, etc. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Specialty store:",
+              "isRequired": true,
+              "correctAnswer": "Advantages: T-shirts can be tried on and touched; customers can be advised, etc. / Disadvantages: Expensive store rent; smaller customer base, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "b) Which of the two options would you recommend to Marta and Fabio? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

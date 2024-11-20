@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "name": "Mängel am Mietobjekt",
+      "title": "Defects in the rental property",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Determine who you feel is liable for the damage caused.",
+              "choices": [
+                "Landlord",
+                "The personal liability insurance of the family with the destroyed picture",
+                "The young man"
+              ],
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Give reasons for your answer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Defects in the rental property",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Use the \"Defects in the rental property\" tool to find out how the defect/damage shown in the video is legally classified. Put a cross next to the correct designation:",
+              "choices": [
+                "Minor defects",
+                "Moderate and severe defects",
+                "Tenant damage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Tenant damage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Use the if-then formula (see \"Reformulating legal rules\" tool) to explain when you as the tenant must rectify a defect. Refer to the facts you have just ticked.",
+              "isRequired": true,
+              "correctAnswer": "If I as a tenant cause damage/defects through clumsiness or excessive wear and tear, then I have to repair them. In our case, the young man has to pay for the damage.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Führungsstile",
+      "title": "Leadership styles",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Tasks are ordered.  ",
+                "Employees' own initiative is severely restricted.  ",
+                "Employees only take on tasks that they like.  ",
+                "Decisions are made jointly. ",
+                "There are no checks and no qualification interviews.  ",
+                "No specific targets are set.  ",
+                "Employee and qualification interviews are common.  ",
+                "The individual's will to perform is determined by his or her mood.  ",
+                "There is increasing dissatisfaction on the part of the subordinates.",
+                "Strict obedience is expected.",
+                "Goals are discussed.  ",
+                "Employees decide independently and spontaneously.  "
+              ],
+              "type": "matrix",
+              "title": "Assign the statements to the most applicable management style.",
+              "columns": [
+                "Authoritarian management style  ",
+                "Democratic management style  ",
+                "Laissez-faire management style  "
+              ],
+              "correctAnswer": {
+                "Der Kunde ist König.  ": "Leitbild",
+                "Ziele werden diskutiert.  ": "Democratic management style  ",
+                "Aufgaben werden befohlen.  ": "Authoritarian management style  ",
+                "Strikter Gehorsam wird erwartet.": "Authoritarian management style  ",
+                "Entscheide werden gemeinsam gefällt. ": "Democratic management style  ",
+                "Es werden keine konkreten Ziele festgelegt.  ": "Laissez-faire management style  ",
+                "Es dient als Orientierungshilfe bei Entscheidungen. ": "Richtig",
+                "Es legt fest, wer, wann, wo welche Aufgabe übernimmt. ": "Falsch ",
+                "Es soll die Mitarbeiterinnen und Mitarbeiter motivieren. ": "Richtig",
+                "Mitarbeiter- und Qualifikationsgespräche sind üblich.  ": "Democratic management style  ",
+                "Es macht die Unternehmensphilosophie öffentlich bekannt. ": "Richtig",
+                "Die Mitarbeitenden entscheiden selbstständig und spontan.  ": "Laissez-faire management style  ",
+                "Es gibt keinerlei Kontrolle und keine Qualifikationsgespräche.  ": "Laissez-faire management style  ",
+                "Die Mitarbeitenden übernehmen nur Aufgaben, die ihnen gefallen.  ": "Laissez-faire management style  ",
+                "Die Eigeninitiative der Mitarbeitenden wird stark eingeschränkt.  ": "Authoritarian management style  ",
+                "Es informiert über verbindliche Vorgaben und konkrete Kennzahlen. ": "Falsch ",
+                "Der Leistungswille des Einzelnen gestaltet sich nach Lust und Laune.  ": "Laissez-faire management style  ",
+                "Es kommt zu steigender Unzufriedenheit seitens der unterstellten Personen.": "Authoritarian management style  ",
+                "In den nächsten zwei Jahren erweitern wir unser Filialnetz um weitere fünf Filialen.  ": "Unternehmensstrategie ",
+                "Wir steigern unseren Jahresumsatz im nächsten Geschäftsjahr gegenüber dem Vorjahr um drei Prozent. ": "Unternehmensstrategie ",
+                "Die persönliche Förderung, die Weiterbildung und die Entwicklung unserer Mitarbeiter sind uns wichtig.  ": "Leitbild",
+                "Wir sind ein Schweizer Unternehmen, das sich mit Leidenschaft für die Lebensqualität unserer Kundschaft einsetzt.  ": "Leitbild"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

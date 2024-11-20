@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "name": "Lese-Phasen",
+      "title": "Reading phases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Write down three tips for each phase. Organize them in the way that seems most helpful to you personally.",
+          "elements": [
+            {
+              "name": "Vor dem Lesen",
+              "type": "comment",
+              "title": "Before reading",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": " Während des Lesens",
+              "type": "comment",
+              "title": " While reading",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

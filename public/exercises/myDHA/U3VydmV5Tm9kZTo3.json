@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Handelsfunktionen1",
+      "title": "Detailed price and base price",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the detailed price?",
+              "isRequired": true,
+              "correctAnswer": "The detailed price is the actual price to be paid in Swiss francs including public charges (VAT, beer and tobacco tax, etc.) and advance disposal charges. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the base price?",
+              "isRequired": true,
+              "correctAnswer": "Base price = price per unit (kg, l, m, m2 etc.)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "When should the detailed price and when should the basic price be indicated?",
+              "isRequired": true,
+              "correctAnswer": "For items displayed on the sales floor or in the shop window, the detailed price must be stated. The basic price must be stated for measurable goods. For measurable pre-packaged goods, the detailed price and the basic price must be indicated. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

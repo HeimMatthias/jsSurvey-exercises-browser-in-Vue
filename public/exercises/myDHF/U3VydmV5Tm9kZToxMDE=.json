@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "name": "Artenvielfalt",
+      "title": "Biodiversity",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which statement regarding biodiversity is correct? Discuss your solution with your classmates.",
+              "choices": [
+                "There is such a great diversity of animal and plant species that it does not matter if individual species become extinct.",
+                "It is a shame when well-known animal and plant species are threatened with extinction, such as panda bears, reptiles in Switzerland or native orchids. However, there are many plant and animal species around the world that we are not even aware of. If they become extinct, it doesn't matter.",
+                "Every plant and animal species has its role in the ecosystem. The extinction of a single species has an impact on many other species and thus on the entire ecosystem. It is therefore necessary to preserve as much biodiversity as possible."
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Every plant and animal species has its role in the ecosystem. The extinction of a single species has an impact on many other species and thus on the entire ecosystem. It is therefore necessary to preserve as much biodiversity as possible."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

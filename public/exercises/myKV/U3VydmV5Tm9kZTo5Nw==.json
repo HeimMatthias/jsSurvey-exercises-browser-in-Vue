@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Business transactions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which specific business transactions are posted to the specified expense accounts? Enter several business transactions in keywords.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Vehicle expenditure",
+              "isRequired": true,
+              "correctAnswer": "Fuel costs, repairs, service work, vehicle insurance, road tax",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Administrative expenses",
+              "isRequired": true,
+              "correctAnswer": "Office supplies, toner, telephone costs, stamps",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Other personnel expenses ",
+              "isRequired": true,
+              "correctAnswer": "Travel expenses, training costs, specialist literature, job advertisements",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Advertising expenditure",
+              "isRequired": true,
+              "correctAnswer": "Brochures, promotional gifts, advertisements for products, website",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Space requirements",
+              "isRequired": true,
+              "correctAnswer": "Rent, ancillary costs, cleaning",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

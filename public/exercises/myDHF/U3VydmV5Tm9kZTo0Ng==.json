@@ -1,0 +1,253 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "A customer pays by bank giro for the clothes she received from the store for inspection.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract fulfillment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The business has already fulfilled the contract by handing over the goods, now the customer is still fulfilling the contract.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "A representative visits a store and presents his new product line.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract negotiation, offer phase ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The contracting parties meet for contract negotiations.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "A customer receives a written reminder because he has not paid his rental fee for a musical instrument.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract fulfillment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The store has rented out the instrument, the customer still has to pay the rental fee.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Two friends promise each other with a handshake that one will sell the other a bicycle for CHF 300.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Conclusion of contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The two are capable of entering into a contract and have come to an agreement, so a contract has been concluded.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Maria fills out a form to order a magazine subscription and sends it to the publisher.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract negotiation, offer phase ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "The printed offer in the form of the talon is non-binding; the order is therefore only considered an application and is part of the negotiation phase.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "A customer returns to the store with a defective oral irrigator and makes a complaint using her warranty certificate.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Contract fulfillment",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "If the customer has handled the appliance properly, the defect is a warranty case and the replacement is part of the correct fulfillment of the contract.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Contract phases",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Decide which contractual phase the contractual partners are in and give reasons for your decision. ",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "dropdown",
+              "title": "You advise a seventy-year-old customer and he signs a contract for a cell phone subscription.",
+              "choices": [
+                "Contract negotiation, offer phase ",
+                "Conclusion of contract",
+                "Contract fulfillment"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Conclusion of contract",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "Justification:",
+              "isRequired": true,
+              "correctAnswer": "By signing, the man agrees to the terms of the contract and the contract is concluded.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Tenancy law",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the text \"Tenancy law\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name three obligations of the tenant.",
+              "isRequired": true,
+              "correctAnswer": "The tenant must: pay the rent in advance, pay a rental deposit, report any defects to the landlord immediately.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Name three obligations of the landlord or landlady.",
+              "isRequired": true,
+              "correctAnswer": "The landlord or landlady must: hand over the property in a usable condition, submit a handover report, notify a rent increase in writing on a form approved by the canton in good time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What do you have to pay service charges for when renting an apartment? Give four examples.",
+              "isRequired": true,
+              "correctAnswer": "Heating, building maintenance, sewage charges, general electricity ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Tenancy law",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the questions on the text \"Tenancy law\".",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What do you need to do before you sublet your apartment or part of it?",
+              "isRequired": true,
+              "correctAnswer": "Inform the landlord in advance. The landlord may only refuse consent in exceptional cases if the subletting causes disadvantages.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Explain the difference between the termination date and the notice period.",
+              "isRequired": true,
+              "correctAnswer": "Period of notice: Period between receipt of the notice of termination and the end of the contract. The termination date is the day on which you move away.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "How can you defend yourself against the termination of your apartment or an unjustified rent increase?",
+              "isRequired": true,
+              "correctAnswer": "Submit a request for rescission to the arbitration board within 30 days of receipt of the notice of termination.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

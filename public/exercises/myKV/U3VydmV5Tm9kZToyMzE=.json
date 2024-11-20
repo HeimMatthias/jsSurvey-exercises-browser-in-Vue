@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "KKG",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "You take out a loan from a bank to buy a new motorcycle.",
+                "Your father grants you a loan so that you can buy a new motorcycle.",
+                "A print shop leases a printing press.",
+                "Your family takes out a mortgage with a bank to buy a condominium.",
+                "You buy an e-bike with your credit card and pay back the credit card debt in installments."
+              ],
+              "type": "matrix",
+              "title": "Is the Consumer Credit Act applicable or not in the following cases?",
+              "columns": [
+                "KKG applicable",
+                "KKG not applicable"
+              ],
+              "correctAnswer": {
+                "Eine Druckerei least eine Druckmaschine.": "KKG not applicable",
+                "Sie nehmen bei einer Bank einen Kredit auf, um ein neues Motorrad zu kaufen.": "KKG applicable",
+                "Ihr Vater gewährt Ihnen ein Darlehen, damit Sie ein neues Motorrad kaufen können.": "KKG not applicable",
+                "Ihre Familie schliesst bei einer Bank eine Hypothek ab, um eine Eigentumswohnung zu kaufen.": "KKG not applicable",
+                "Sie kaufen mit Ihrer Kreditkarte ein E-Bike und zahlen die Kreditkartenschuld in Raten zurück.": "KKG applicable"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "KKG",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "You lease a small car with a value of CHF 25,000.",
+                "Her brother leases a Tesla electric car with a new price of over CHF 100,000.",
+                "You go shopping and overdraw your credit card by CHF 300.",
+                "A cab company leases a new Mercedes.",
+                "You take out a loan of CHF 10,000 from a bank to furnish your new home."
+              ],
+              "type": "matrix",
+              "title": "Is the Consumer Credit Act applicable or not in the following cases?",
+              "columns": [
+                "KKG applicable",
+                "KKG not applicable"
+              ],
+              "correctAnswer": {
+                "Ein Taxiunternehmen least einen neuen Mercedes.": "KKG not applicable",
+                "Sie leasen einen Kleinwagen mit einem Wert von CHF 25 000.–.": "KKG applicable",
+                "Sie gehen shoppen und überziehen Ihre Kreditkarte um CHF 300.–.": "KKG not applicable",
+                "Ihr Bruder least ein Tesla-Elektroauto mit einem Neupreis von über CHF 100 000.–.": "KKG not applicable",
+                "Sie nehmen bei einer Bank einen Kredit von CHF 10 000.– auf, um Ihre neue Wohnung einzurichten.": "KKG applicable"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

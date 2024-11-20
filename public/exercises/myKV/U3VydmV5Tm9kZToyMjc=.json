@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "rows": [
+                "In the case of rent, an item is provided for use and enjoyment.",
+                "The lease is regulated in Art. 275 ff. OR.",
+                "The loan is free of charge.",
+                "Leasing is for an indefinite period.",
+                "Rent is regulated by the Federal Rent Act (MiG).",
+                "A lease is always for a fee.",
+                "Loans are not regulated in the OR."
+              ],
+              "type": "matrix",
+              "title": "Are the statements regarding the transfer of use correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Eine Leihe erfolgt unentgeltlich.": "Correct",
+                "Eine Miete ist stets entgeltlich.": "Correct",
+                "Die Leihe ist nicht im OR geregelt.": "Wrong",
+                "Leasing erfolgt auf unbestimmte Zeit.": "Wrong",
+                "Die Pacht ist in Art. 275 ff. OR geregelt.": "Correct",
+                "Die Miete ist im Bundesgesetz über die Miete (MiG) geregelt.": "Wrong",
+                "Bei der Miete wird eine Sache zum Gebrauch und zur Nutzung überlassen.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The lease also includes the right to use the fruit and yield.",
+                "An apartment is usually leased.",
+                "In the case of rental, the tenant bears the risk of accidental loss of the item.",
+                "Leasing is often free of charge.",
+                "A rental agreement is only valid if it has been concluded in writing.",
+                "In leasing, an item is provided for use and utilization."
+              ],
+              "type": "matrix",
+              "title": "Are the statements regarding the transfer of use correct or incorrect?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Leasing erfolgt oft unentgeltlich.": "Wrong",
+                "Eine Wohnung wird üblicherweise geleast.": "Wrong",
+                "Beim Leasing wird eine Sache zum Gebrauch und zur Nutzung überlassen.": "Wrong",
+                "Die Pacht umfasst auch das Recht der Nutzung von Früchten und Ertrag.": "Correct",
+                "Ein Mietvertrag ist nur gültig, wenn er schriftlich abgeschlossen wurde.": "Wrong",
+                "Bei der Miete trägt der Mieter das Risiko für den zufälligen Untergang der Sache.": "Wrong"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Tenses and usage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Name the tense and what is expressed by the sentences (usage).",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "My internship starts in two weeks.",
+              "isRequired": true,
+              "correctAnswer": "Present/Future",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "I will probably learn a lot of new things in the process.",
+              "isRequired": true,
+              "correctAnswer": "Future tense I/assumption",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "The visit to my future internship location was very informative.",
+              "isRequired": true,
+              "correctAnswer": "Preterite/past tense, experience",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Tenses and usage",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Name the tense and what is expressed by the sentences (usage).",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "I filled out the questionnaire this morning.",
+              "isRequired": true,
+              "correctAnswer": "Perfect/Completed",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "I have to hand this in on the first day of my internship.",
+              "isRequired": true,
+              "correctAnswer": "Present/Future",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "After the internship, I will certainly have gained an even better insight into professional practice.",
+              "isRequired": true,
+              "correctAnswer": "Future tense II/assumption about something completed in the future",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

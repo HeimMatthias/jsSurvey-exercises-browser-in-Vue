@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Economic integration",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "There are different forms of economic integration. Select the appropriate terms for each description (multiple answers possible).",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Common market, common economic policy",
+              "choices": [
+                "EFTA",
+                "Economic and monetary union",
+                "EU",
+                "Economic community"
+              ],
+              "correctAnswer": [
+                "Economic and monetary union",
+                "EU"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Free trade, no tariffs between member states, common external tariffs",
+              "choices": [
+                "Economic and monetary union",
+                "Free trade zone",
+                "Customs union",
+                "EEA"
+              ],
+              "correctAnswer": [
+                "Customs union"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Free trade, no tariffs between member states",
+              "choices": [
+                "EU",
+                "EFTA",
+                "Customs union",
+                "Free trade zone"
+              ],
+              "correctAnswer": [
+                "EFTA",
+                "Free trade zone"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Customs union, free movement of persons, goods, capital and services",
+              "choices": [
+                "Economic community",
+                "Economic and monetary union",
+                "EFTA",
+                "EEA"
+              ],
+              "correctAnswer": [
+                "Economic community",
+                "EEA"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "Ehe oder Konkubinat?",
+      "title": "Facts of the case",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Luc, 30, and Laura, 28, are in love and have been a couple for a year. They want to move in together and maybe have children later. Laura works 100% as a nursing specialist HF. Her annual income is CHF 92,000. Luc also works 100% as a landscape gardener and his annual income is CHF 68,000. Because Luc is very handy and a good cook, the couple agree that he will do most of the housework (shopping, cooking, washing, etc.). He will therefore reduce his workload to 80%. They want to do the cleaning together. Both are realistic and know that many relationships don't last a lifetime. It is therefore important to them that any separation would be very fair.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Marriage, cohabitation with or without a cohabitation agreement? First decide roughly which of these 3 forms of cohabitation seems most suitable for Luc and Laura by using the decision tree \"Marriage or cohabitation\". Use the decision tree to briefly and precisely explain your decision.",
+              "isRequired": true,
+              "correctAnswer": "Luc will do a lot of the housework. He also earns considerably less than Laura. A cohabitation agreement would therefore be recommended at the very least. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "With your decision above, you have excluded 2 forms of cohabitation. For one of the excluded forms, explain why it seems less advantageous to you. To do this, refer to a key element (children, death, divorce/separation, etc.) from the \"Marriage or cohabitation\" comparison table.",
+              "isRequired": true,
+              "correctAnswer": "Cohabitation without a contract: Luc has reduced his workload and thus his income/asset accumulation because he runs the couple's household almost alone. Without a cohabitation agreement, Luc would be at a significant disadvantage in the event of a separation. The cohabitation agreement could, for example, stipulate that Laura bears the joint household costs alone in order to indirectly compensate Luc for his housework.\nMarriage: If Luc and Laura get married, this will probably result in a tax \"marriage penalty\". ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

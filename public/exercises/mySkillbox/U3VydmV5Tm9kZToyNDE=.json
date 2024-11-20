@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Human dignity check",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Follow the examples in the tool and write down your thoughts on the following questions.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Does wearing a full-body veil constitute a violation of physical or mental integrity?",
+              "isRequired": true,
+              "correctAnswer": "No, because wearing the veil itself does not cause any injuries. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Is a woman's autonomy being restricted against her free and reasonable will? ",
+              "isRequired": true,
+              "correctAnswer": "If the woman can decide without external pressure, then no. If she has to fear any sanctions, then yes.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Is the woman used as a means to an end? ",
+              "isRequired": true,
+              "correctAnswer": "Under external or unspoken coercion, yes (purpose: social order in which men rule over women). If, on the other hand, women who are capable of judgment subordinate themselves to a religious community, for example, then no.<br /><br />Conclusion: This case is controversial because criteria 2 and 3 can be assessed differently in individual cases. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

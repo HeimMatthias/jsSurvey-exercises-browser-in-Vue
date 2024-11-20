@@ -1,0 +1,180 @@
+{
+  "pages": [
+    {
+      "name": "Berufe",
+      "title": "Professions",
+      "elements": [
+        {
+          "name": "Fallbeispiele",
+          "type": "panel",
+          "title": "Think about which virtues you expect from these people when you deal with the following professionals as a customer. List at least three virtues for each profession:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Automotive specialist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Medical practice assistant",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Sanitärinstallateur/-in",
+              "type": "comment",
+              "title": "Sanitary fitter",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Cook",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question3",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Berufe2",
+      "title": "Professions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Think about which virtues you expect from these people when you deal with the following professionals as a customer. List at least three virtues for each profession:",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Service specialist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Pharmaceutical assistant",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Computer scientist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Healthcare specialist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question9",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Berufe3",
+      "title": "Professions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Think about which virtues you expect from these people when you deal with the following professionals as a customer. List at least three virtues for each profession:",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Electrician",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Optician",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "Hairdresser/Coiffeuse",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "Operational maintenance specialist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question14",
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "Berufe4",
+      "title": "Professions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Think about which virtues you expect from these people when you deal with the following professionals as a customer. List at least three virtues for each profession:",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "comment",
+              "title": "Florist",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "Farmer",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question19",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

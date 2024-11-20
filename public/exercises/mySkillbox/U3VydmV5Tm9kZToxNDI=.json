@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Präzise Vergleichen",
+      "title": "Precise comparisons",
+      "elements": [
+        {
+          "name": "Korrigieren Sie die folgenden Vergleiche und präzisieren Sie diese anschliessend wieder mit einem passenden Wort aus dem Instrument «Redemittel Vergleiche»:",
+          "type": "panel",
+          "title": "Correct the following comparisons and then clarify them again using a suitable word from the \"Comparisons tool\":",
+          "elements": [
+            {
+              "name": "Im Vergleich zu den Mädchen nutzen Jungs häufiger Streaming-Dienste.",
+              "type": "comment",
+              "title": "Compared to girls, boys use streaming services more often.",
+              "isRequired": true,
+              "correctAnswer": "Compared to boys, girls use streaming services slightly more often.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Precise comparisons",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Correct the following comparisons and then clarify them again using a suitable word from the \"Comparisons tool\":",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Boys seem to be less interested in digital games than girls.",
+              "isRequired": true,
+              "correctAnswer": "Digital games seem to interest boys far more than girls.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Precise comparisons",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Correct the following comparisons and then clarify them again using a suitable word from the \"Comparisons tool\":",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The Internet is mainly used via the laptop.",
+              "isRequired": true,
+              "correctAnswer": "The Internet is mainly used via smartphone.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

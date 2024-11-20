@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "What is an exchange of experience (Erfa)? ",
+              "isRequired": true,
+              "correctAnswer": "Method for reflecting on the past",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is discussed in an Erfa? ",
+              "isRequired": true,
+              "correctAnswer": "about personal experiences, perceptions and feelings",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are the basics for a good initial discussion?",
+              "isRequired": true,
+              "correctAnswer": "Attentiveness, openness and communication skills",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the best form of seating for an Erfa?",
+              "isRequired": true,
+              "correctAnswer": "Group sits in a circle",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "When should an Erfa be moderated?",
+              "isRequired": true,
+              "correctAnswer": "for longer exchanges with six or more people",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the aim of a strengths and weaknesses analysis?",
+              "isRequired": true,
+              "correctAnswer": "Derive the right measures and goals for further development",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Which English words are used to form the acronym SOFT? ",
+              "isRequired": true,
+              "correctAnswer": "satisfaction, opportunities, faults, threats",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the best way to record the results of a SOFT analysis?",
+              "isRequired": true,
+              "correctAnswer": "Matrix on a poster with the four fields S-O-F-T plus a field for measures and objectives",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

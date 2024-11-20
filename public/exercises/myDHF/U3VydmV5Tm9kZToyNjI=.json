@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Breaks and rest periods",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Search the Labor Act (ArG) for legal provisions on breaks and rest periods. Which article regulates breaks? Fill in the table below.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "0 to 5.5 hrs.",
+              "isRequired": true,
+              "correctAnswer": "No break",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "5.5 to 7 hours",
+              "isRequired": true,
+              "correctAnswer": "¼ hrs.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "7 to 9 hrs.",
+              "isRequired": true,
+              "correctAnswer": "½ hr.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "More than 9 hrs.",
+              "isRequired": true,
+              "correctAnswer": "1 hr.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

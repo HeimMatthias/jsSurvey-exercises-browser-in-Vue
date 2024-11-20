@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Bright 6-year-old Karl uses his savings to buy a Nokia cell phone for CHF 70. ",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://e.infogram.com/63a9fd17-775d-4e5f-9739-b0ee86131ced?src=embed\" title=\"T6 M3 A15; Most important partners\" width=\"550\" height=\"692\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>\"",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question12",
+              "type": "checkbox",
+              "title": "Decide whether Karl can legally conclude this contract. Put a cross in the appropriate box!",
+              "choices": [
+                "Karl can legally conclude the contract.",
+                "Karl can only legally conclude the contract if the parents give their consent."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

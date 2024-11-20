@@ -1,0 +1,148 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Corporate sustainability",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What opportunities do retail companies have to influence the sustainability of their work processes? Name at least two specific opportunities to exert influence in each area of activity.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Procurement of goods",
+              "isRequired": true,
+              "correctAnswer": "Sustainable and regional products; optimal order quantity and optimal order time; choice of producers and suppliers; disposal of packaging material",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Transportation",
+              "isRequired": true,
+              "correctAnswer": "Optimization of transport routes; use of climate-neutral vehicles; choice of packaging",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Storage of goods",
+              "isRequired": true,
+              "correctAnswer": "Correct storage; keeping order; optimal stock levels",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Sale of goods",
+              "isRequired": true,
+              "correctAnswer": "Lighting in sales outlets (sales area, shop windows, etc.); air conditioning and heating in sales outlets; energy-efficient cooling systems, lighting and heating; reducing returns; reducing packaging material; sustainable packaging material; donating unsold goods; recycling",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Administration",
+              "isRequired": true,
+              "correctAnswer": "Reduction of resource consumption (paper, energy, etc.); energy-efficient lighting and heating; employee development and training; promoting innovation; good working conditions; recycling; efficient company organization; supply chain management; sustainability management",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Corporate sustainability",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For which four uses does the service sector consume the most electricity?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Highest consumption (28.4% of total consumption in 2021)",
+              "choices": [
+                "Hot water",
+                "Lighting",
+                "Information and communication, entertainment",
+                "Drives, processes",
+                "Air conditioning, ventilation and building services",
+                "Space heating",
+                "Process heat"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Drives, processes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Second highest consumption (24.7%)",
+              "choices": [
+                "Hot water",
+                "Lighting",
+                "Information and communication, entertainment",
+                "Drives, processes",
+                "Air conditioning, ventilation and building services",
+                "Space heating",
+                "Process heat"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Air conditioning, ventilation and building services",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Third-highest consumption (15.7%)",
+              "choices": [
+                "Hot water",
+                "Lighting",
+                "Information and communication, entertainment",
+                "Drives, processes",
+                "Air conditioning, ventilation and building services",
+                "Space heating",
+                "Process heat"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Lighting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Fourth highest consumption (14.6%)",
+              "choices": [
+                "Hot water",
+                "Lighting",
+                "Information and communication, entertainment",
+                "Drives, processes",
+                "Air conditioning, ventilation and building services",
+                "Space heating",
+                "Process heat"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Information and communication, entertainment",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

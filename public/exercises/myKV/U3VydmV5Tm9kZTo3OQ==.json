@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "Name der Aufgaben",
+          "type": "panel",
+          "title": "What do the following stakeholder groups need the accounting data for?",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Shareholders",
+              "isRequired": true,
+              "correctAnswer": "Assessment of the investment (purchase or sale of shares)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "Board of Directors",
+              "isRequired": true,
+              "correctAnswer": "Basis for strategic management and important decisions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Banks",
+              "isRequired": true,
+              "correctAnswer": "Assessment of the company's creditworthiness",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Stakeholders",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What do the following stakeholder groups need the accounting data for?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Tax authority",
+              "isRequired": true,
+              "correctAnswer": "Review of the tax return",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Suppliers",
+              "isRequired": true,
+              "correctAnswer": "Assessment of the company's solvency",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Employees",
+              "isRequired": true,
+              "correctAnswer": "Assessment of workplace safety",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

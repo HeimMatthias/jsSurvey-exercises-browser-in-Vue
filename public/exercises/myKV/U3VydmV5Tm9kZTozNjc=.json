@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Communication respectueuse",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "How do you proceed in the following situations in order to make progress?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Si vous avez perdu une cliente pendant l'entretien.",
+              "isRequired": true,
+              "correctAnswer": "Address you actively to the client: I have the feeling that I have not been very successful in convincing you. Puis-je vous aider en vous fournissant des informations supplémentaires pour prendre votre décision ?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Si le client ne conclut pas la vente.",
+              "isRequired": true,
+              "correctAnswer": "Approches possibles : je suppose que je n'ai pas encore abordé un point précis qui véoccupe : de quoi s'agit-il ? Or else: please excuse me. I was visibly taken aback by my enthusiasm for this offer and I neglected to mention anything in the presentation. What is it that you are saying? Or else: what is needed for you to say \"yes\"?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Si l'interlocutrice n'accepte pas.",
+              "isRequired": true,
+              "correctAnswer": "Essayez de vous mettre à la place de votre interlocutrice : que faudrait-il changer pour qu'elle puisse vraiment accepter la chose ?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Si l'interlocuteur ne s'intéresse pas à la chose.",
+              "isRequired": true,
+              "correctAnswer": "Actively explore your concerns: what would it take for you to be really interested in this topic?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

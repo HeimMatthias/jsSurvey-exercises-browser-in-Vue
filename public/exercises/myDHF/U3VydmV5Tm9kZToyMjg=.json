@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Unsold goods",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Not all goods purchased can be sold. Write down your answers to the following questions in complete sentences.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which products/services in your range are not selling so well at the moment? ",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Where do you see the reasons for the poor sales?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are you or your training company doing to ensure that the goods can still be sold?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Unsold goods",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Not all goods purchased can be sold. Write down your answers to the following questions in complete sentences.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Which products did you recently sit on (were you unable to sell)?",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What do you or your training company do with goods that cannot be sold? ",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Exchange ideas with a colleague. Make a note of similarities and differences.",
+              "isRequired": true,
+              "correctAnswer": "Individual answer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

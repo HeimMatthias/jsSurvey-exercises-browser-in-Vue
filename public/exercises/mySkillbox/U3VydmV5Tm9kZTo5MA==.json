@@ -1,0 +1,315 @@
+{
+  "pages": [
+    {
+      "name": "Adjektivprobe1",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "Wenden Sie die Adjektivprobe an, indem Sie die vorgeschlagenen Adjektive verwenden und anpassen. Ergänzen Sie – wo nötig – auch den Artikel. Achtung: Die Nominalisierungen* müssen in den letzten drei Beispielen selbst erkennt werden.",
+          "type": "panel",
+          "title": "Apply the adjective test by using and adapting the suggested adjectives. Where necessary, also add the article. Please note: The nominalizations* must be recognized in the last three examples.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "I like discussing* and researching* the most in ABU. (heated, time-consuming)",
+              "isRequired": true,
+              "correctAnswer": "What I like most about ABU is the heated discussions and extensive research.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The production* of clothes in dilapidated factories should be banned. (cheap)",
+              "isRequired": true,
+              "correctAnswer": "The cheap production of clothes in dilapidated factories should be banned.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question30",
+              "type": "comment",
+              "title": "All the best* for the car test! (imaginable)",
+              "isRequired": true,
+              "correctAnswer": "All the best for the car test!",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe2",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Apply the adjective test by using and adapting the suggested adjectives. Where necessary, also add the article. Please note: The nominalizations* must be recognized in the last three examples.",
+          "elements": [
+            {
+              "name": "question44",
+              "type": "comment",
+              "title": "When it comes to topics like money, learning* is fun. (self-employed)",
+              "isRequired": true,
+              "correctAnswer": "When it comes to topics such as money, independent learning is fun.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question58",
+              "type": "comment",
+              "title": "The tricky* thing about advertising is its effect on the subconscious*! (real, deeper)",
+              "isRequired": true,
+              "correctAnswer": "The really darned thing about advertising is its effect on the deeper subconscious!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question72",
+              "type": "comment",
+              "title": "I never know whether to write Motiv* with a V* or F*. (darn, double, single)",
+              "isRequired": true,
+              "correctAnswer": "I never know whether the darned motif is written with a double V or a single F.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe3",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Apply the adjective test by using and adapting the suggested adjectives. Where necessary, also add the article. Please note: The nominalizations* must be recognized in the last three examples.",
+          "elements": [
+            {
+              "name": "question86",
+              "type": "comment",
+              "title": "Understanding* legal articles is quite challenging! (correct)",
+              "isRequired": true,
+              "correctAnswer": "Understanding legal articles properly is quite challenging!",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question100",
+              "type": "comment",
+              "title": "A small circle of rich* and powerful* people own most of the money. (quite, unbelievable)",
+              "isRequired": true,
+              "correctAnswer": "A small circle of very rich and incredibly powerful people own most of the money.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question115",
+              "type": "comment",
+              "title": "Is manipulation* through advertising ethically justifiable? (intentional)",
+              "isRequired": true,
+              "correctAnswer": "Is deliberate manipulation through advertising ethically justifiable?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe4",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Apply the adjective test by using and adapting the suggested adjectives. Where necessary, also add the article. Please note: The nominalizations* must be recognized in the last three examples.",
+          "elements": [
+            {
+              "name": "question115",
+              "type": "comment",
+              "title": "The return* of purchased goods is only possible in exceptional cases. (by law)",
+              "isRequired": true,
+              "correctAnswer": "The legal return of purchased goods is only possible in exceptional cases.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question115",
+              "type": "comment",
+              "title": "I can forget my worries when I'm shopping. (exuberant, tall)",
+              "isRequired": true,
+              "correctAnswer": "I can forget my big worries when I'm out shopping.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe5",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Apply the adjective test by using and adapting the suggested adjectives. Where necessary, also add the article. Please note: The nominalizations* must be recognized in the last three examples.",
+          "elements": [
+            {
+              "name": "question100",
+              "type": "comment",
+              "title": "I've never been so good at saving. (long-term)",
+              "isRequired": true,
+              "correctAnswer": "I've never been so good at long-term saving.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "On the whole, I am satisfied with my work. (really, today)",
+              "isRequired": true,
+              "correctAnswer": "On the whole, I am really satisfied with my work today.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe2.1",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Now find your own adjectives for all nouns and nominalizations or mark existing ones. Please note: In the last 3 examples, you should recognize the nouns and nominalizations yourself.",
+          "elements": [
+            {
+              "name": "question128",
+              "type": "comment",
+              "title": "What's the best thing* that could happen to you today?",
+              "isRequired": true,
+              "correctAnswer": "What is the absolute best thing that could happen to you today?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "For me, time is the most precious thing* in life.",
+              "isRequired": true,
+              "correctAnswer": "For me, time is the most precious thing in life.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "For him, shopping at Jack & Jones* is the greatest thing.",
+              "isRequired": true,
+              "correctAnswer": "For him, going shopping at the famous Jack & Jones is the absolute greatest thing.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe2.2",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Now find your own adjectives for all nouns and nominalizations or mark existing ones. Please note: In the last 3 examples, you should recognize the nouns and nominalizations yourself.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Shopping* at the click of a mouse can quickly become a debt trap.",
+              "isRequired": true,
+              "correctAnswer": "Careless shopping at the click of a mouse can quickly become a debt trap.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Debt advisors can help avert the worst* in the event of financial difficulties*.",
+              "isRequired": true,
+              "correctAnswer": "Debt advisors can help to avert the worst if you are in financial difficulties.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Fair shopping* often has its price.",
+              "isRequired": true,
+              "correctAnswer": "Fair shopping often has its price.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe2.3",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Now find your own adjectives for all nouns and nominalizations or mark existing ones. Please note: In the last 3 examples, you should recognize the nouns and nominalizations yourself.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Capacity* is regulated by law in Switzerland*.",
+              "isRequired": true,
+              "correctAnswer": "Official capacity is regulated by law in the small country of Switzerland.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "She decided this with a clarity that amazed us.",
+              "isRequired": true,
+              "correctAnswer": "She decided this with a convincing clarity that amazed us.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adjektivprobe2.4",
+      "title": "Adjective sample",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Now find your own adjectives for all nouns and nominalizations or mark existing ones. Please note: In the last 3 examples, you should recognize the nouns and nominalizations yourself.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "It would probably be the most responsible thing to do without cheap goods completely.",
+              "isRequired": true,
+              "correctAnswer": "It would probably be the most responsible thing to do without problematic cheap goods completely.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "comment",
+              "title": "I would like to be able to afford something luxurious.",
+              "isRequired": true,
+              "correctAnswer": "I would like to be able to afford something really luxurious.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

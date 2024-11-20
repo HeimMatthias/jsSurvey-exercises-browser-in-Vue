@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "Rechtsvorschriften",
+      "title": "Legislation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Make a note of your findings",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "I can do this if I disagree with an existing constitutional article:",
+              "isRequired": true,
+              "correctAnswer": "- Sign a popular initiative<br />- Collect signatures for a popular initiative<br />- Launch a popular initiative<br />- Vote in a constitutional amendment (based on a popular initiative or a mandatory referendum) in line with my interests<br />- Vote for politicians who represent my interests",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "This is how I can influence legislative articles:",
+              "isRequired": true,
+              "correctAnswer": "- Sign an optional referendum<br />- Collect signatures for an optional referendum<br />- Launch an optional referendum<br />- Vote according to my interests in a referendum concerning a change to the law<br />- Vote for politicians who represent my interests",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "That's why I have relatively little influence on regulations:",
+              "isRequired": true,
+              "correctAnswer": "When regulations are changed or newly issued, the people never have a say (= no referendums).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Legislation",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

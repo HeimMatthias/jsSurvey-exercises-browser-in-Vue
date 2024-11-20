@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "In which language areas is knowledge of parts of speech useful?",
+              "isRequired": true,
+              "correctAnswer": "Correct and stylish communication, spelling and punctuation.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "According to which three main characteristics are the word types classified?",
+              "isRequired": true,
+              "correctAnswer": "Inflection, conjugation, declension",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which parts of speech can be inflected?",
+              "isRequired": true,
+              "correctAnswer": "Verb, noun, adjective, pronoun",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Which part of speech can be conjugated?",
+              "isRequired": true,
+              "correctAnswer": " Verb ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the most important distinguishing feature of particles?",
+              "isRequired": true,
+              "correctAnswer": "They cannot be changed (with exceptions).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Into which four subcategories are the particles divided?",
+              "isRequired": true,
+              "correctAnswer": "Adverb, conjunction, preposition, interjection",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Which part of speech do the three definite articles der, die, das belong to?",
+              "isRequired": true,
+              "correctAnswer": "Pronouns",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

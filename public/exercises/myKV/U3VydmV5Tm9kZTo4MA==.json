@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Bookings",
+      "elements": [
+        {
+          "name": "Name der Aufgaben",
+          "type": "panel",
+          "title": "Enter a possible receipt for each of the following bookings.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "Cash payment of expenses to employees",
+              "isRequired": true,
+              "correctAnswer": "Receipt (signed by the employee)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "Interest credited to the bank account",
+              "isRequired": true,
+              "correctAnswer": "Credit advice from the bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "text",
+              "title": "Deposit of cash into the bank account",
+              "isRequired": true,
+              "correctAnswer": "Credit advice from the bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Customer invoice for services",
+              "isRequired": true,
+              "correctAnswer": "Copy of the invoice to the customer",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Bookings",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Enter a possible receipt for each of the following bookings.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Purchase of office supplies against cash payment",
+              "isRequired": true,
+              "correctAnswer": "Receipt (or receipt)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Transfer of interest for loan debt",
+              "isRequired": true,
+              "correctAnswer": "Debit advice from the bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Invoice for electricity consumption",
+              "isRequired": true,
+              "correctAnswer": "Electricity utility bill",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Bookings",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Enter a possible receipt for each of the following bookings.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Bank transfer of the rent",
+              "isRequired": true,
+              "correctAnswer": "Debit advice from the bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Cash payment from a customer for advice",
+              "isRequired": true,
+              "correctAnswer": "Copy of the receipt",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Bank transfer of monthly wages",
+              "isRequired": true,
+              "correctAnswer": "Debit note from the bank, payslips",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

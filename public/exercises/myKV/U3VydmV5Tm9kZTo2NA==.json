@@ -1,0 +1,158 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Goals",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements:",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "I want to successfully complete my apprenticeship",
+              "choices": [
+                "a development goal",
+                "a result target",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "neither of them",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "I know all the first names of the apprentices in my training company",
+              "choices": [
+                "a competence goal ",
+                "a knowledge goal ",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a knowledge goal ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "I'm training to become a yoga teacher after my apprenticeship",
+              "choices": [
+                "a result target ",
+                "a development goal ",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a development goal ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Goals",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements:",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "I live in my own apartment at 20",
+              "choices": [
+                "a competence goal",
+                "a result target",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a result target",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "I can converse fluently in English at the end of my apprenticeship",
+              "choices": [
+                "a qualitative goal",
+                "a quantitative target",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a quantitative target",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "I wish for peace to reign in the world",
+              "choices": [
+                "a development goal",
+                "a competence goal",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "neither of them",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Goals",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Choose the correct solution for the following statements:",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "I earn at least CHF 5000 gross two years after completing my apprenticeship",
+              "choices": [
+                "a qualitative goal",
+                "a quantitative target",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a quantitative target",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "I can formulate my personal goals clearly and linguistically correctly",
+              "choices": [
+                "a quantitative knowledge objective ",
+                "a qualitative competence objective ",
+                "neither of them"
+              ],
+              "isRequired": true,
+              "correctAnswer": "a qualitative competence objective ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

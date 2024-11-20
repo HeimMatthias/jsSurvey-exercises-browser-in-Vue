@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What happens if recipient addresses are incorrect?",
+              "isRequired": true,
+              "correctAnswer": "The message is not transmitted. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What to look out for in the subject line?",
+              "isRequired": true,
+              "correctAnswer": "short, keyword-like, reference to the content ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Why should salutations such as \"Hello everyone\" be avoided in business correspondence?",
+              "isRequired": true,
+              "correctAnswer": "They seem casual. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What linguistic means can be used to emphasize customer orientation?",
+              "isRequired": true,
+              "correctAnswer": "with direct address pronouns such as Sie, Ihnen, Ihre etc.  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Which principle applies to the greeting formula?",
+              "isRequired": true,
+              "correctAnswer": "It must match the form of address. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Why should the spam folder be checked regularly?",
+              "isRequired": true,
+              "correctAnswer": "Messages with attachments can end up there. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What characterizes a concise writing style?",
+              "isRequired": true,
+              "correctAnswer": "short active sentences, without empty phrases and filler words",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

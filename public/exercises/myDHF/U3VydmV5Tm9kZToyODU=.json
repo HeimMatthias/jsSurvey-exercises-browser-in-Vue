@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Market research methods ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Methods of market research\". ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "According to which two types of research can market research methods be divided?",
+              "correctAnswer": "Primary research (field research) and secondary research (desk research) "
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which market research methods can be used to collect new data?",
+              "correctAnswer": "Observation, survey (personal interview, written survey, panel), market test or experiment "
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What can't you find out by observing? ",
+              "correctAnswer": "The buying motives of customers cannot be observed. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Market research methods ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Methods of market research\". ",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Which three internal sources for existing figures do you know?",
+              "correctAnswer": "Sales statistics and turnover figures; planning documents; accounting; reports on various observations; previous market research results; key figures "
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "What do you need to consider in market research before you start collecting new data?",
+              "correctAnswer": "Primary research is expensive, so secondary research should always be carried out first in order to make use of existing information. The selection and timing of the sample is very important in primary research; the quality of the data and results obtained depends on this. "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Textbausteine",
+      "title": "Facts of the case ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Complete the incomplete sentences of the text modules in such a way that they provide a comprehensive legal explanation of your decision. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Prices and other contractual contents published on the Internet are not ... .",
+              "isRequired": true,
+              "correctAnswer": "Prices and other contractual contents published on the Internet are not binding.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "With the ... I as the buyer make the seller (here OHA) a binding offer to buy the laptop for ... as stated in the online store.",
+              "isRequired": true,
+              "correctAnswer": "By placing the order, I as the buyer make the seller (in this case OHA) a binding offer to buy the laptop at the price stated in the online store.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "In order for a legally valid contract to be concluded, OHA would have to accept Carla's offer. OHA does not do this! ",
+              "isRequired": true,
+              "correctAnswer": "No supplement necessary.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 7",
+              "type": "comment",
+              "title": "If OHA proposes a ... price by e-mail, it is submitting a new binding offer to Carla.",
+              "isRequired": true,
+              "correctAnswer": "If OHA proposes a different price by e-mail, it submits a new binding offer to Carla.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "comment",
+              "title": "This offer can be made by Carla ... or ... .",
+              "isRequired": true,
+              "correctAnswer": "Carla can accept or decline this offer.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        },
+        {
+          "name": "question8",
+          "type": "html"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

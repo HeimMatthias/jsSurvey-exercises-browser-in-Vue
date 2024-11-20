@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Calculation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Transportation costs are included in the cost price.",
+                "Employee wages are included in overheads.",
+                "The cost price corresponds to the sum of all costs.",
+                "Volume discounts from suppliers increase the gross profit.",
+                "The customs costs of purchased goods are included in overhead costs.",
+                "Discounts from suppliers of goods reduce overheads.",
+                "The net profit is always less than the overheads.",
+                "Advertising costs are included in overheads.",
+                "Additional wage costs increase the gross profit.",
+                "The costs for our own storage facilities are included in the purchase price.",
+                "The net proceeds are the sales price before deduction of customer discounts.",
+                "The gross profit is always greater than the overheads."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements on the calculation of cost price to net revenue correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die Werbekosten zählen zu den Gemeinkosten.": "right",
+                "Die Selbstkosten entsprechen der Summe aller Kosten.": "right",
+                "Der Reingewinn ist immer kleiner als die Gemeinkosten.": "wrong",
+                "Zusätzliche Lohnkosten vergrössern den Bruttogewinn.": "wrong",
+                "Beim Einstandspreis sind die Transportkosten enthalten.": "right",
+                "Der Bruttogewinn ist immer grösser als die Gemeinkosten.": "wrong",
+                "Rabatte von Warenlieferanten vermindern die Gemeinkosten.": "wrong",
+                "Die Löhne der Mitarbeitenden zählen zu den Gemeinkosten.": "right",
+                "Mengenrabatte von Lieferanten vergrössern den Bruttogewinn.": "right",
+                "Der Nettoerlös ist der Verkaufspreis vor Abzug von Kundenrabatten.": "wrong",
+                "Die Zollkosten von eingekauften Waren gehören zu den Gemeinkosten.": "wrong",
+                "Die Kosten für die eigenen Lagerräume sind im Einstandspreis enthalten.": "wrong"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

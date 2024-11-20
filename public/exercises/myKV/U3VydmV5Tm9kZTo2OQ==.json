@@ -1,0 +1,107 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Which sentence can be used to briefly describe rights?",
+              "isRequired": true,
+              "correctAnswer": "I may ...",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which sentence can be used to briefly describe duties?",
+              "isRequired": true,
+              "correctAnswer": "I have to ...",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are two important legal bases for apprenticeships?",
+              "isRequired": true,
+              "correctAnswer": "Federal Constitution (FC) and the Swiss Code of Obligations (CO).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What do duties contribute to?",
+              "isRequired": true,
+              "correctAnswer": "to a considerate, peaceful coexistence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What right do you have in relation to your training at the training company? Please also state the legal basis.",
+              "isRequired": true,
+              "correctAnswer": "the right to professional training, Art. 344 OR",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What obligation in relation to your learning assignment do you enter into with the apprenticeship contract? Please also state the legal basis.",
+              "isRequired": true,
+              "correctAnswer": "the duty to do everything possible to achieve the teaching objective, Art. 345 OR",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What rights do you have in relation to your activities in the training company? Please also state the legal basis.",
+              "isRequired": true,
+              "correctAnswer": "the right to activities that are related to the profession and promote training, Art. 345a CO",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "Unser Gehirn",
+      "title": "Our brain",
+      "elements": [
+        {
+          "name": "Fall 5",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Unser Hirn ist",
+              "type": "text",
+              "title": "1. our brain is ...",
+              "isRequired": true,
+              "correctAnswer": "forgetful",
+              "titleLocation": "top",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "2. Damit wir uns Sachen merken können, arbeitet unser Hirn gerne ...",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "associative",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "3. Mit Eselsbrücken merken wir uns Dinge, Daten, Namen und ...",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "Facts",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "4. G, D, A, E, H, FIS – Geh",
+              "type": "text",
+              "title": "4th G, D, A, E, H, FIS - Go ...",
+              "isRequired": true,
+              "correctAnswer": "you old ass get fish",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

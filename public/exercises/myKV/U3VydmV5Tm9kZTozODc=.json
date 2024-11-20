@@ -1,0 +1,320 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Purchase of wood for furniture production",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Service provision"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Process function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page2",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Preparation of payroll accounting",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Personnel"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cross-sectional function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page3",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Development of the new marketing campaign for the Quebec desk",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Marketing"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Process function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page4",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Preparation of the annual report",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Finances"
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cross-sectional function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page5",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Determining the optimum order quantity for production",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Service provision"
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Process function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page6",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Revision of the mission statement",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Strategic corporate management"
+            },
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Neither process nor cross-sectional function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page7",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Clarification of customer needs",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Marketing"
+            },
+            {
+              "name": "question14",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Process function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page8",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Updating the organizational chart",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Organization"
+            },
+            {
+              "name": "question16",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cross-sectional function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    },
+    {
+      "name": "page9",
+      "title": "Process or cross-sectional functions",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Conducting the annual qualification interviews with employees",
+          "elements": [
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "Function:",
+              "isRequired": true,
+              "correctAnswer": "Personnel"
+            },
+            {
+              "name": "question18",
+              "type": "radiogroup",
+              "title": "Process or cross-sectional function? ",
+              "choices": [
+                "Process function",
+                "Cross-sectional function",
+                "Neither process nor cross-sectional function"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cross-sectional function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ],
+      "description": "Ordnen Sie folgende Tätigkeiten der richtigen Funktion zu, und geben Sie an, ob diese Funktion zu den Prozess- oder Querschnittsfunktionen gehört."
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Statements on the budgets of associations",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The Board of Directors always determines the amount of the membership fees.",
+                "The membership fees must always cover all of the association's costs.",
+                "Budgeting is generally based on the budget for the current year.",
+                "The sponsorship contributions are contributions from the state.",
+                "The Board of Directors always performs its duties without compensation.",
+                "In the long term, the association's income must be at least equal to its expenditure.",
+                "The budget is generally binding for the Board of Directors.",
+                "The budget is adjusted quarterly if necessary.",
+                "The actual figures are compared with the budget figures at the end of the year.",
+                "Many clubs improve their earnings situation by organizing events."
+              ],
+              "type": "matrix",
+              "title": "Are the statements about club budgets correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Das Budget wird bei Bedarf vierteljährlich angepasst.": "wrong",
+                "Der Vorstand legt immer die Höhe der Mitgliederbeiträge fest.": "wrong",
+                "Der Vorstand übt seine Tätigkeit immer ohne Entschädigung aus.": "wrong",
+                "Das Budget ist für den Vereinsvorstand grundsätzlich verbindlich.": "right",
+                "Bei den Sponsorenbeiträgen handelt es sich um Beiträge des Staates.": "wrong",
+                "Die Mitgliederbeiträge müssen immer alle Kosten des Vereins decken.": "wrong",
+                "Beim Abschluss werden die effektiven Zahlen mit den Budgetzahlen verglichen.": "right",
+                "Viele Vereine verbessern die Ertragslage mit der Durchführung von Veranstaltungen.": "right",
+                "Längerfristig muss der Ertrag des Vereins mindestens gleich gross wie der Aufwand sein.": "right",
+                "Bei der Budgetierung wird in der Regel das Budget des laufenden Jahres als Grundlage verwendet.": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

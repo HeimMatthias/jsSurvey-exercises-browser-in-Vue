@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Learning field title",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Income tax",
+                "Value added tax",
+                "Tobacco tax",
+                "Ticket tax",
+                "Withholding tax",
+                "Dog tax",
+                "Beer tax",
+                "Property tax",
+                "Motor vehicle tax"
+              ],
+              "type": "matrix",
+              "title": "Are the following examples a public or a private task? Put a cross in the box.",
+              "columns": [
+                "Direct taxes",
+                "Indirect taxes"
+              ],
+              "correctAnswer": {
+                "Biersteuer": "Indirect taxes",
+                "Hundesteuer": "Indirect taxes",
+                "Tabaksteuer": "Indirect taxes",
+                "Billetsteuer": "Indirect taxes",
+                "Mehrwertsteuer": "Indirect taxes",
+                "Einkommenssteuer": "Direct taxes",
+                "Vermögenssteuer": "Direct taxes",
+                "Verrechnungssteuer": "Direct taxes",
+                "Motorfahrzeugsteuer": "Indirect taxes"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

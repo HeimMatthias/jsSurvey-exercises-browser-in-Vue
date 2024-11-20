@@ -1,0 +1,155 @@
+{
+  "pages": [
+    {
+      "name": "Herausgefunden oder gewusst?1",
+      "title": "Document views",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Select the appropriate views for the description listed. To do this, open the Word file Views.docx and try out the different views.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Page margins visible",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Page change (end of page)",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode",
+                "Draft"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Arrangement of the text on the page",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode",
+                "Draft"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Document views",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Select the appropriate views for the description listed. To do this, open the Word file Views.docx and try out the different views.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Display of tables",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode",
+                "Structure",
+                "Web layout",
+                "Draft"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Display of graphic elements",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode",
+                "Web layout"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Header and footer(s)",
+              "choices": [
+                "Print layout",
+                "Read mode",
+                "Draft",
+                "Structure",
+                "Web layout"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Print layout",
+                "Read mode"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

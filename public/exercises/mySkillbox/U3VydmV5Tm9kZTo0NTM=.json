@@ -1,0 +1,170 @@
+{
+  "pages": [
+    {
+      "name": "Ehe oder Konkubinat?",
+      "title": "Marriage or cohabitation?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Determine whether the people in the following examples assess their situation correctly and correct them if necessary.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Amin only found the love of his life at the age of 50. He has been living happily with Sandra for 3 years. Both Amin and Sandra have only been able to save small pension fund balances because they have always worked in the low-wage sector and at times only part-time. As they both want the best possible financial security, they are planning their wedding. This is because married couples benefit from a better pension after retirement than cohabiting couples.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The AHV pension is very important for small pension fund assets. However, married couples only receive 150% of the maximum AHV pension, whereas cohabiting couples receive 2 full AHV pensions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Marriage or cohabitation?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Determine whether the people in the following examples assess their situation correctly and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Ayshe and Alan are over the moon - their first child was born two months ago. What a feeling! It's a good thing they got married six months ago. This means Alan doesn't have to worry about recognizing the child and joint parental custody; both will be taken care of automatically when they get married.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Marriage or cohabitation?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Determine whether the people in the following examples assess their situation correctly and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Simon and Alma live in an old farmhouse in the countryside, where they have created a large garden and keep all kinds of animals. The farm belongs to Simon. They both put a lot of work into the farm, the garden and the animals alongside their gainful employment - they love this free life as largely self-sufficient farmers. They actually wanted to get married and have children in a few years, but things turned out differently: they grew apart more and more, and Simon has a new girlfriend. Alma is worried; she knows that she will have to leave her beloved farm if Simon wants her to.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Marriage or cohabitation?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Determine whether the people in the following examples assess their situation correctly and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Tatjana and Roger lived in a cohabitation until two weeks ago. Roger mainly looked after the children and the household, as Tatjana has a higher income. They recently separated and therefore rented the apartment next door. Roger continues to take care of the children for the most part; he is happy that, in addition to the maintenance payments, he will also receive a portion of Tatjana's assets and an allowance from her pension plan.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Although Tatjana owes Roger maintenance payments, as he looks after the majority of the children, the assets and pension provision of cohabiting couples are not divided in the event of a separation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Marriage or cohabitation?",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Determine whether the people in the following examples assess their situation correctly and correct them if necessary.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Mira and Ernesto got married just under a year ago. They both earn well. When the first tax bill arrives, they are both surprised: they have to pay significantly more together than they previously had to pay as single earners. They assumed that their taxes would tend to be lower now that they were married.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No, the income earned by married couples is taxed jointly, which leads to a higher overall tax burden due to tax progression. This so-called marriage penalty is particularly noticeable for high salaries without a large difference (as with Mira and Ernesto)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

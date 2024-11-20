@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "Verkaufsfoerderung1",
+      "title": "Sales promotion",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Which of the following examples belong to sales promotion? Put a cross in the box.  ",
+              "choices": [
+                "Flyer",
+                "Decoration",
+                "Shop window",
+                "Radio spot",
+                "Loudspeaker announcement",
+                "Presentation of goods ",
+                "Video clip on the Internet",
+                "Lighting",
+                "Advertisement"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Decoration",
+                "Shop window",
+                "Loudspeaker announcement",
+                "Presentation of goods ",
+                "Lighting"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Factors influencing the price trend",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "Supply chain",
+                "Exchange rates",
+                "Pricing policy",
+                "Customer expectations/customer behavior",
+                "Overheads",
+                "Economic situation",
+                "Competitive situation",
+                "State intervention",
+                "Corporate strategy",
+                "Commodity prices"
+              ],
+              "type": "matrix",
+              "title": "Are the following factors influencing price trends internal or external factors? Put a cross in the appropriate box.",
+              "columns": [
+                "Internal factor",
+                "External factor"
+              ],
+              "correctAnswer": {
+                "Lieferkette": "External factor",
+                "Gemeinkosten": "Internal factor",
+                "Preispolitik": "Internal factor",
+                "Wechselkurse": "External factor",
+                "Rohstoffpreise": "External factor",
+                "Wirtschaftslage": "External factor",
+                "Konkurrenzsituation": "External factor",
+                "Staatliche Eingriffe": "External factor",
+                "Unternehmensstrategie": "Internal factor",
+                "Kundenerwartungen/Kundenverhalten": "External factor"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

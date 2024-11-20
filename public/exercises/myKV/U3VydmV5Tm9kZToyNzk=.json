@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.  ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why is a combination of words like \"Wetter ich ja tanzen Apfel!\" not defined as a sentence?",
+              "isRequired": true,
+              "correctAnswer": "The combination of words has no logic and no context.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is the Latin term for sentence grammar?",
+              "isRequired": true,
+              "correctAnswer": "Syntax",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which three topics does sentence grammar cover?",
+              "isRequired": true,
+              "correctAnswer": "Sentence types, sentence structure, sentence construction",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.  ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "It's raining again today.",
+              "isRequired": true,
+              "correctAnswer": "Proposition",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Take the umbrella with you.",
+              "isRequired": true,
+              "correctAnswer": "Prompt sentence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "If only it didn't rain so often.",
+              "isRequired": true,
+              "correctAnswer": "Wish set",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

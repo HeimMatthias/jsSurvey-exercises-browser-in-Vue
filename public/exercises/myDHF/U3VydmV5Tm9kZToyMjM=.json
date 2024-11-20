@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Recycling in teaching",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions about your training company.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How does your training company dispose of waste and unsold goods?",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Does your training company have binding guidelines regarding disposal/recycling? If yes, which ones? If not, which ones would you introduce in your company?",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What has changed in your teaching company in terms of the carbon footprint of products/services, disposal or recycling since working on the topic in BUA C?",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

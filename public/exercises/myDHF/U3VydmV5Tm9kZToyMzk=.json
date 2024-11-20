@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Remo case study",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Remo has a new driver's license. He takes out insurance for third party liability and fully comprehensive cover, gets level B8 and pays 80 percent of the premium. He pays CHF 1920 per year. Remo causes a rear-end collision with damage to the car in front and to his own car. The insurance covers both damages. However, Remo has an additional deductible of CHF 1,000 for both third-party liability and fully comprehensive cover because he is a new driver. In addition, he is upgraded from B8 to B12 for both third-party liability and fully comprehensive insurance, which means a new level of 120 percent for this insurance.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Remo doesn't have to pay for his own damage, but he will still have to pay. Namely:",
+              "correctAnswer": "Deductible liability: CHF 1000 / Deductible fully comprehensive: CHF 2000 / Additional premium due to increase in bonus level from B8 to B12, i.e. from 80 percent to 120 percent. The additional premium is taken into account over the next four years until the B8 level is reached again (960 + 720 + 480 + 240): CHF 2400 / Total: CHF 5400",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What could Remo have done better when taking out car insurance?",
+              "correctAnswer": "Bonus protection insurance helps to cover the additional premium. This would have saved Remo CHF 2,400.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How much would Remo still have had to pay? Calculate as in the previous task.",
+              "correctAnswer": "Deductible liability: CHF 1000 / Deductible fully comprehensive: CHF 2000 / Additional premium due to increase in bonus level from B8 to B12, i.e. from 80 percent to 120 percent (960 + 720 + 480 + 240): CHF 0.- / Total: CHF 3000.-",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,274 @@
+{
+  "pages": [
+    {
+      "name": "Rücktritt vom Vertrag1",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "You can withdraw from all contracts at any time, you simply have to cancel in writing.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage2",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Continuing obligations (employment contracts, rental agreements) can indeed be terminated. But not, for example, purchase contracts!",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag2",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "If my newly purchased technical device has a defect, the decisive factor is not what the law says about it, but what rights the warranty certificate grants me.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag3",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "I buy a condominium that is 100 m2 according to the contract. If it turns out later that the apartment is actually only 88 m2 (even the seller thought the apartment was larger), then I can cancel the purchase contract because my mistake is central to the value of the apartment.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag4",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question20",
+              "type": "radiogroup",
+              "title": "Doorstep selling: You can cancel a contract that you have concluded in public, at home or on the phone without taking the initiative. Reason: The legislator wants to protect us consumers from being taken by surprise/pressured into buying by sellers.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag5",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Stores exchange or repair faulty goods - that's called goodwill!",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "When stores voluntarily (without legal necessity) exchange goods, this is called goodwill.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag6",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "If both contracting parties agree, a right of exchange can also be agreed, contrary to the usual practice of a transaction.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag7",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "You see G-Star jeans for only CHF 95 in the window of a clothes store. But when you go to buy them, they are marked at CHF 99. You can buy the jeans for CHF 95 because the mistake is not recognizable to most people.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "This is a minor error on the part of the seller, who incorrectly labeled the goods in the shop window.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rücktritt vom Vertrag8",
+      "title": "Withdrawal from the contract",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Decide in pairs whether the following statements are correct. Use the rules for the sales contract as a guide.  If you think a statement is incorrect, explain why.",
+          "elements": [
+            {
+              "name": "question19",
+              "type": "radiogroup",
+              "title": "Stefanie buys a tasting box (40 bottles) of Trojka Green Ice for CHF 122 at a wine fair from drinks retailer G. The next day she realizes that she doesn't actually want these bottles - she wants her money back. Because this is a door-to-door sale, the wine merchant is obliged to refund her money.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Reason",
+              "isRequired": true,
+              "correctAnswer": "Stefanie buys the drinks at a wine fair. This means that one of the requirements of a door-to-door sales transaction is not met. The surprise effect does not apply. This is only the case if the offer is made at the following locations (OR 40b): Workplace, home or immediate vicinity, public transportation, public streets or squares, promotional event that was connected with an excursion or similar occasion, telephone or via comparable means of simultaneous oral telecommunication.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

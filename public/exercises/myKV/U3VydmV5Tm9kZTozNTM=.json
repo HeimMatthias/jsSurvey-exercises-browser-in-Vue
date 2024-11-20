@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "name": "Tastaturbefehle1",
+      "title": "Keyboard shortcuts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Undo command",
+                "Repeat command",
+                "format bold",
+                "Open new presentation",
+                "Save as",
+                "Call up help",
+                "search",
+                "save"
+              ],
+              "type": "matrix",
+              "title": "Many keyboard shortcuts that you are familiar with from Word or Excel also work in PowerPoint.",
+              "columns": [
+                "Ctrl + s",
+                "F12",
+                "Ctrl + f",
+                "F1 (or Alt + m)",
+                "Ctrl + z",
+                "Ctrl + y",
+                "Ctrl + Shift + f",
+                "Ctrl + n"
+              ],
+              "correctAnswer": {
+                "suchen": "Ctrl + f",
+                "speichern": "Ctrl + s",
+                "Hilfe aufrufen": "F1 (or Alt + m)",
+                "speichern unter": "F12",
+                "fett formatieren": "Ctrl + Shift + f",
+                "Befehl wiederholen": "Ctrl + y",
+                "Befehl rückgängig machen": "Ctrl + z",
+                "neue Präsentation öffnen": "Ctrl + n"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the keyboard shortcut to insert a new (additional) slide?",
+              "isRequired": true,
+              "correctAnswer": "Ctrl + m",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

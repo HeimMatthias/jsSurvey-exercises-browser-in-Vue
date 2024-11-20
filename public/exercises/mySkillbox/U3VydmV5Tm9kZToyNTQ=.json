@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Gegenargumente1",
+      "title": "Counterarguments",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "For each argument from the exercise, find a counter-argument by applying a different criterion. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "The federal government should regulate which cantons take in how many refugees according to their size. It would be unfair if some cantons had to take in proportionately more refugees than others. ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Curricula should be prescribed by the federal government. It costs a lot of money if each canton has to produce its own teaching materials.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Free leisure activities should be organized at municipal level in order to meet the specific needs of towns, villages and neighbourhoods.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gegenargumente2",
+      "title": "Counterarguments",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For each argument from the exercise, find a counter-argument by applying a different criterion. ",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "Cantons should be allowed to determine the level of social benefits themselves because the cost of living varies from region to region.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "Scholarships for pupils and students should be awarded according to the same criteria throughout Switzerland so that no one is disadvantaged because of their place of residence.",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

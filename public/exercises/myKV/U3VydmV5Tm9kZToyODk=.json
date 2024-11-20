@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Headlines",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Formulate headlines in ellipsis style:",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "The thieves were able to steal over two million Swiss francs.",
+              "isRequired": true,
+              "correctAnswer": "Over two million captured  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "The aircraft had to make an emergency landing due to smoke in the cockpit.",
+              "isRequired": true,
+              "correctAnswer": "Emergency landing due to smoke in the cockpit ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "An argument broke out between a cyclist and a car driver.",
+              "isRequired": true,
+              "correctAnswer": "Dispute between cyclist and car driver",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Headlines",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Formulate headlines in ellipsis style:",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "One firefighter admitted that he had started the fire himself.",
+              "isRequired": true,
+              "correctAnswer": "Firefighter as arsonist ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "The rise in residential rents has been halted. A slight decline is even expected for the coming year.",
+              "isRequired": true,
+              "correctAnswer": "Lower rents at last!  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Last night, two tigers escaped from the circus.",
+              "isRequired": true,
+              "correctAnswer": "Circus tiger escapes  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

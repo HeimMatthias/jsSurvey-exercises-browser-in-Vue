@@ -1,0 +1,124 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Complaints process",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Arrange the six steps of the complaints process in the correct order.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Step 1",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Silence",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Step 2",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Listen",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Step 3",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Note",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Step 4",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Apologize",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Step 5",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Thank you",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Step 6",
+              "choices": [
+                "Listen",
+                "Apologize",
+                "Thank you",
+                "Silence",
+                "Note",
+                "Complete"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Complete",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

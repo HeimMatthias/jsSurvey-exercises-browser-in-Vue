@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Termination of the employment relationship",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which of the following statements are correct and which are incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Terminations must always be justified in detail.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The terminating party only has to justify the termination in writing if the other party requests this (Art. 335 para. 2 CO). "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Termination of the employment relationship",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which of the following statements are correct and which are incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "An employer learns that one of his employees belongs to a free church. He may therefore lawfully dismiss her.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Such a termination is made for abusive reasons and is therefore unlawful (Art. 336 CO). "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Termination of the employment relationship",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which of the following statements are correct and which are incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "A pregnant employee may not be dismissed, but may be dismissed as soon as her child is born.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The blocking period, during which termination is not permitted, lasts until 16 weeks after the birth (Art. 336c para. 1 lit. c. CO). "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Termination of the employment relationship",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Which of the following statements are correct and which are incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "If an employee has successfully challenged their unfair dismissal, they may resume work at their previous place of work.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "wrong"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "Abusive dismissal also terminates the employment relationship; the dismissed person is only entitled to compensation (Art. 336b CO)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Termination of the employment relationship",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Which of the following statements are correct and which are incorrect? Correct the incorrect statements.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "An employee has been working for her employer for six months when she falls ill. After she is still unable to return to work after two months, the employer can legally dismiss her.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": "right"
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "Correction:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Communication respectueuse",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Comment formuler les phrases suivantes de façon respectueuse ?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Tu as de nouveau oublié de me faire un retour.",
+              "isRequired": true,
+              "correctAnswer": "Possible answer: It is important for me to know the state of the situation. Will you inform me next time?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Tu ne me demandes jamais comment je me sens.",
+              "isRequired": true,
+              "correctAnswer": "Réponse possible : je souhaiterais que tu te renseignes sur ma santé.",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Pourquoi arrives-tu toujours en retard ?",
+              "isRequired": true,
+              "correctAnswer": "Réponse possible : j'ai remarqué que tu arrives souvent trop tard. For what reason?",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "I am very pleased that you will leave the project manager on the road after the meeting.",
+              "isRequired": true,
+              "correctAnswer": "Possible response: I am concerned that you will not leave the project manager after the meeting. This will result in superfluous electricity costs and this is not ecological. Thank you for informing the project manager after the next meeting.",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Comment formuler les phrases suivantes de façon respectueuse ?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Je souhaiterais que tu m'aides plus souvent !",
+              "isRequired": true,
+              "correctAnswer": "Réponse possible : je te prie de m'aider lors de la clôture de l'exercice mensuel.",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Je souhaiterais que vous fassiez preuve de plus d'engagement !",
+              "isRequired": true,
+              "correctAnswer": "Réponse possible : je vous prie d'être proactif dans le futur quand vous avez terminé votre travail et que vous avez à nouveau de la disponibilité.",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Je vous demande de me comprendre !",
+              "isRequired": true,
+              "correctAnswer": "This is a request that is not clear. What do we mean by \"understand\"? Are we talking about understanding or verbal understanding, or is it a request for support? Possible answer: I would also like you to take my point of view into account, the quality of the service is important to me. Next time, please contact me if you have any doubts before sending the offer to the client.",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Politische Grundkonflikte",
+      "title": "Basic political conflicts",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Politically right-wing parties believe that the state should have the right to massively restrict personal freedoms if it is pursuing a preservative interest.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Look up the word \"bewahren\" in the dictionary and decide in which of the following four statements the word is used in the sense of the politically right-wing parties.",
+              "choices": [
+                "In the event of danger, please remain calm.",
+                "I would like to keep this belief in the good old virtues such as decency and discipline (= would like to maintain or preserve).",
+                "He saved me from doing something really stupid.",
+                "I keep my jewelry in a chest."
+              ],
+              "isRequired": true,
+              "correctAnswer": "I would like to keep this belief in the good old virtues such as decency and discipline (= would like to maintain or preserve).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Politische Grundkonflikte2",
+      "title": "Basic political conflicts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain briefly and precisely what preserving interest lies behind each of the following two concerns:",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "The state should ban the construction of mosques because Switzerland is and should remain a Christian society.",
+              "isRequired": true,
+              "correctAnswer": "Possible solution: \nAlthough Switzerland is becoming more and more religiously diverse, a previous state of affairs should be preserved = conserved from the point of view of the politically right-wing parties. This is why this attitude is also referred to as conservative.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Weed is a drug that is not part of our culture. Alcohol is a stimulant that has been part of our culture for centuries. This is one of the reasons why the state should ban weed.",
+              "isRequired": true,
+              "correctAnswer": "Possible solution: \nThe politically right-wing parties want to preserve their traditional understanding of drugs (weed is a drug, alcohol is a stimulant).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

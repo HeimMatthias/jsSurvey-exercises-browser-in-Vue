@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Survey results",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How many train tickets do you need to order for the two sports days?",
+              "correctAnswer": "182 Tickets"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How many day tickets for skiers and snowboarders do you need to order?",
+              "correctAnswer": "105 Day tickets"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "How many apprentices will be in Engelberg on Monday?",
+              "correctAnswer": "118 apprentices"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "How many skates need to be rented so that everyone who has signed up can play ice hockey?",
+              "correctAnswer": "8 pair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Survey results",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Engelberg is located in the canton of Obwalden, but is surrounded by the canton of Nidwalden. How many apprentices do not come from these two cantons?",
+              "correctAnswer": "90 apprentices"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "How many cantons do the apprentices come from in total?",
+              "correctAnswer": "From six cantons: NW, OW, UR, SZ, LU and ZG."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "How many apprentices do not take part in the sports day, but work at the training company?",
+              "correctAnswer": "40 apprentices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

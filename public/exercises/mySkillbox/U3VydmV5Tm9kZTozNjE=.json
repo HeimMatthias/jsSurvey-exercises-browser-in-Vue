@@ -1,0 +1,257 @@
+{
+  "pages": [
+    {
+      "name": "Fallbeispiel",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "Fallbeispiele",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "You would like to attend the free course \"English\", but unfortunately this affects your working hours. Can you still attend the course without having to expect a deduction from your salary?",
+              "choices": [
+                "Yes, as long as I perform well both in the company and at vocational school.",
+                "Yes, all apprentices have the right to attend free courses, even if they fall within working hours.",
+                "No, as English is not a requirement for my job, I am not allowed to take the free course.",
+                "No, I may attend the course in any case, but I must expect a corresponding deduction from my salary."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Yes, as long as I perform well both in the company and at vocational school.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question14",
+              "type": "radiogroup",
+              "title": "You get angry because you have to do the same job for the tenth time in a row. You want to get your job done as quickly as possible and so you deliberately don't stick to the exact procedure yet again. Unfortunately, this doesn't turn out well and you have to start all over again. Your instructor demands that you pay for the wasted material. Can he do that?",
+              "choices": [
+                "No, I can only be prosecuted if I act negligently.",
+                "No, mistakes can happen to anyone. The company is insured for this.",
+                "Yes, I deliberately did not carry out the work as I was shown. That's why I have to pay for the damage.",
+                "Yes, if I cause additional costs for the company, I am always liable."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Yes, I deliberately did not carry out the work as I was shown. That's why I have to pay for the damage.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "Your trainer thinks you have done a poor job this month and deducts CHF 100 from your salary. Can she do that?",
+              "choices": [
+                "No, she has to pay me the salary as stipulated in the apprenticeship contract.",
+                "No, she may only reduce my wages if I have made mistakes during the work and have therefore incurred additional material costs.",
+                "Yes, the trainer only has to pay me for what I have actually done.",
+                "Yes, if I work badly, my company earns too little."
+              ],
+              "isRequired": true,
+              "correctAnswer": "No, she has to pay me the salary as stipulated in the apprenticeship contract.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiele1",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "You are doing an apprenticeship as a gardener. To supplement your salary a little, you put up a notice in your neighborhood and offer to do gardening work for your neighbors for an hourly wage of CHF 15. Are you allowed to do this?",
+              "choices": [
+                "No, during the apprenticeship I may only demand an hourly wage of a maximum of CHF 10.",
+                "No, I would be competing with my employer and therefore not acting in the interests of the company (breach of fiduciary duty). However, if the employer agrees, I could do it.",
+                "Yes, I can decide for myself how I spend my free time.",
+                "Yes, as long as I do not use tools and machines from the training company for this work, I am allowed to do so."
+              ],
+              "isRequired": true,
+              "correctAnswer": "No, I would be competing with my employer and therefore not acting in the interests of the company (breach of fiduciary duty). However, if the employer agrees, I could do it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "You have unsatisfactory grades in ABU and BKU at the end of the first year of your apprenticeship. Your trainer wants you to attend a support course, go to a learning consultation or regularly show him your homework. Can he demand this additional effort from you?",
+              "choices": [
+                "Yes, no matter how good my grades are, the teacher can demand that I attend a support course or something similar.",
+                "Yes, because I have to do everything I can to pass my final apprenticeship exam.",
+                "No, it is entirely up to me what effort I put into my teaching.",
+                "No, because this concerns the school sector, the trainer has nothing to say about it."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Yes, because I have to do everything I can to pass my final apprenticeship exam.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Your trainer usually only lets you do work that has nothing to do with your job (cleaning, tidying up, making coffee, buying snacks, etc.). Is he allowed to do that?",
+              "choices": [
+                "Yes, that's common while you're still in training.",
+                "No, he must never give me jobs that have nothing to do with my profession.",
+                "No, he has to train me for my job. I have a right to expert guidance.",
+                "Yes, after all, I can only do a few jobs professionally."
+              ],
+              "isRequired": true,
+              "correctAnswer": "No, he has to train me for my job. I have a right to expert guidance.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fallbeispiele2",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Your training company expects you to work overtime twice in one week because a major project has to be completed by the weekend. This means that you have to work twice from 8.00 a.m. to 6.00 p.m. (with a one-hour lunch break). Do you have to do this?",
+              "choices": [
+                "Yes, overtime is permitted if it is necessary and reasonable.",
+                "Yes, overtime can also be ordered without justification. After all, they are compensated by time off or additional pay.",
+                "No, working overtime twice a week is not reasonable.",
+                "No, overtime is not permitted during the apprenticeship period."
+              ],
+              "isRequired": true,
+              "correctAnswer": "Yes, overtime is permitted if it is necessary and reasonable.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "You are doing your apprenticeship in a restaurant and start work at 07.00 in the morning. As you have a room time (rest break) of four hours in the afternoon in your company, you have to work until 8 p.m. in the evening. Is this legally permissible?",
+              "choices": [
+                "No, I have the right to twelve consecutive hours of rest.",
+                "No, the room time must not be longer than two hours.",
+                "Yes, as long as this only happens once a month, it is legally permissible.",
+                "Yes, as long as I don't work more than nine hours a day, that's okay."
+              ],
+              "isRequired": true,
+              "correctAnswer": "No, I have the right to twelve consecutive hours of rest.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Case studies",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "In the following situations, decide which procedure corresponds to the legal basis of your apprenticeship contract.",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "As you have the opportunity to go on vacation with your parents at short notice, you should cancel your registration for the upcoming course with the training instructor and for the classroom lessons with the class teacher. As you have performed well in both practical and academic areas, you are not jeopardizing your apprenticeship certificate. Are you allowed to do this?",
+              "choices": [
+                "No, I have to attend the practical training and compulsory lessons at the vocational school.",
+                "No, in such situations only the lessons at the vocational school may be missed, but not the inter-company course.",
+                "Yes, as long as I catch up on the missed material, this is possible.",
+                "Yes, if it doesn't jeopardize my apprenticeship certificate, I can do it."
+              ],
+              "isRequired": true,
+              "correctAnswer": "No, I have to attend the practical training and compulsory lessons at the vocational school.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

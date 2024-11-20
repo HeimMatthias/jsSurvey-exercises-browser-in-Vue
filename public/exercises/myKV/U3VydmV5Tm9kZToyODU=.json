@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "How can you recognize the main clause within a sentence construction?",
+              "isRequired": true,
+              "correctAnswer": "It can stand alone (is independent); the finite verb comes second.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Where is the finite verb in a subordinate clause?",
+              "isRequired": true,
+              "correctAnswer": "at the end",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What type of subordinate clause does the conjunction \"because\" introduce?",
+              "isRequired": true,
+              "correctAnswer": "Conjunctive subordinate clause",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What type of subordinate clause does the pronoun \"was\" introduce?",
+              "isRequired": true,
+              "correctAnswer": "Relative subordinate clause",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Which of these conjunctions introduces a main clause: \"if\", \"that\", \"because\"?",
+              "isRequired": true,
+              "correctAnswer": "because",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What do main clauses that follow a subordinate clause begin with?",
+              "isRequired": true,
+              "correctAnswer": "with the finite verb",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following knowledge questions.   ",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "When do we speak of a compound sentence?",
+              "isRequired": true,
+              "correctAnswer": "with a combination of main clauses",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "When do we speak of a sentence structure?",
+              "isRequired": true,
+              "correctAnswer": "with a combination of main clause and subordinate clauses",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What are one-word sentences like \"Finally!\" also called?",
+              "isRequired": true,
+              "correctAnswer": "Sentence fragments or ellipses",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

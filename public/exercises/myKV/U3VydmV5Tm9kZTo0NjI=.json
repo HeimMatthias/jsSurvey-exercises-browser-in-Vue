@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Rights and obligations in marriage",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assess the legal situation in the following four case studies and state the relevant articles of law in each case.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Max Windling is of the opinion that his wife Zoe Windling will have to give up her job after the birth of their child and take over the household and child rearing. Max has also decided that the family will soon be moving into his parents' house.",
+              "correctAnswer": "The spouses jointly determine the marital home (Art. 162 ZGB). Both spouses must also take the other spouse and the well-being of the marital community into consideration when choosing and practising their profession (Art. 167 ZGB). Max Windling therefore has to observe not only moral but also legal requirements."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Max has already informed the landlord by phone that he and his wife will be terminating their tenancy at the earliest possible date and moving into his parents' house. Zoe, however, does not agree.",
+              "correctAnswer": "The termination of the matrimonial home is only valid if both spouses have signed the written termination - even if only one spouse has signed the tenancy agreement (Art. 169 ZGB and Art. 266m OR)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Rights and obligations in marriage",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assess the legal situation in the following four case studies and state the relevant articles of law in each case.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Zoe gave up work after the birth of their child. Max now puts the household money on her breakfast table every Monday. But this is only enough for the groceries. She doesn't receive any money for movie nights with her friends or visits to the hairdresser, even though her husband earns well.",
+              "correctAnswer": "Zoe does not have to put up with this. The spouse who runs the household is entitled to an appropriate amount of pocket money at their free disposal. The amount depends on the partner's earnings (Art. 164 ZGB)."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "After ten turbulent years of marriage, Max surprises his wife Zoe with a vintage car for their wedding anniversary, which he was able to buy at a sensationally low price of CHF 35,000. Zoe is furious. After all, she wanted a luxurious trip around the world and certainly not a decrepit car. She demands that her husband cancel the purchase. In any case, she will not use her assets to pay off the classic car.",
+              "correctAnswer": "Each spouse can conduct their own legal transactions with third parties. Zoe cannot prohibit her husband from buying the classic car with his money. However, she is also not liable for his debts, as the expenditure on the classic car is not necessary for marital maintenance (Art. 166 and 168 ZGB)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

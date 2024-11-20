@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Scenarios",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/images/M5_A5_Netzwerk_Auj4jx7.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Entscheiden Sie mithilfe des Netzwerkes für folgende Szenarien, wie diese die Einnahmen/Ausgaben der AHV hauptsächlich beeinflussen.",
+              "rows": [
+                "The birth rate in Switzerland is falling: fewer young people in employment are paying into the AHV.",
+                "Significantly more foreign workers are immigrating to Switzerland. The influx of workers increases the number of employees in Swiss companies.",
+                "People are getting older and older. As a result, the average number of years of AHV entitlement is also increasing.",
+                "The retirement age is raised."
+              ],
+              "type": "matrix",
+              "columns": [
+                "Revenue is increasing.",
+                "Revenue decreases.",
+                "Expenditure is increasing.",
+                "Expenditure decreases."
+              ],
+              "correctAnswer": {
+                "Volljährigkeit": "Ja, unumstritten",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "Handlungsunfähigkeit": "umstritten",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Das Rentenalter wird erhöht.": "Expenditure decreases.",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten",
+                "In der Schweiz sinkt die Geburtenrate: Weniger junge Erwerbstätige zahlen in die AHV ein.": "Revenue decreases.",
+                "Die Menschen werden immer älter. Dadurch steigt auch die durchschnittliche Anzahl der AHV-Bezugsjahre.": "Expenditure is increasing.",
+                "Deutlich mehr ausländische Arbeitskräfte wandern in die Schweiz ein. Die Zuwanderung der Arbeitskräfte erhöht die Zahl der Arbeitnehmenden in Schweizer Firmen.": "Revenue is increasing."
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

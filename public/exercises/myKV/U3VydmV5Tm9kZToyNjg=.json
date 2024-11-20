@@ -1,0 +1,111 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "The protocol",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Protocols are primarily used to",
+              "choices": [
+                "the argumentation ",
+                "the documentation "
+              ],
+              "isRequired": true,
+              "correctAnswer": "the documentation ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "The following are possible in a progress log:",
+              "choices": [
+                "verbatim quotes ",
+                "no verbatim quotations "
+              ],
+              "isRequired": true,
+              "correctAnswer": "verbatim quotes ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "The results must be recorded in a results protocol:",
+              "choices": [
+                "only resolutions ",
+                "Resolutions and also speeches "
+              ],
+              "isRequired": true,
+              "correctAnswer": "only resolutions ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "The protocol",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "As a rule, the tense is used in protocols",
+              "choices": [
+                "Past tense ",
+                "Present tense"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Present tense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "The meeting topics are called",
+              "choices": [
+                "Agenda ",
+                "Pending issues"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Agenda ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Protocols also have the function of",
+              "choices": [
+                "a newsletter ",
+                "of a working tool "
+              ],
+              "isRequired": true,
+              "correctAnswer": "of a working tool ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

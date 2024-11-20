@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Filter",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Answer the following questions:",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "How many full members does the association have?",
+              "correctAnswer": "100"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "How many passive and honorary members does the association have?",
+              "correctAnswer": "40"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "How many members live in Bern?",
+              "correctAnswer": "1"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "How many members live in a town whose zip code begins with 60...?",
+              "correctAnswer": "52"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How many people live in Lucerne with zip code 6002?",
+              "correctAnswer": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Filter",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Sort the list of members by member number in descending order (from Z to A) and answer the following questions.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What is the name of the member with the number 01A46027? Which line is the member on?",
+              "correctAnswer": "Schenker Felix, line 31."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "What are the five highest zip codes?",
+              "correctAnswer": "8832, 8840, 8853, 8854, 8863."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "How much money does the association earn with the full members from Lucerne?",
+              "correctAnswer": "CHF 4750.00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

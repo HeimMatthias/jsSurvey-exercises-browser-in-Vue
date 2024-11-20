@@ -1,0 +1,146 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "In case of suspicion",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Who is actually allowed to do what in a suspected case? Allocate.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Learners",
+              "choices": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags",
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "correctAnswer": [
+                "Observe customers",
+                "Addressing the customer on suspicion"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Specialist",
+              "choices": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags",
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "correctAnswer": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "In case of suspicion",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Who is actually allowed to do what in a suspected case? Allocate.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Branch manager",
+              "choices": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags",
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "correctAnswer": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Security personnel",
+              "choices": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags",
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "correctAnswer": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "In case of suspicion",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Who is actually allowed to do what in a suspected case? Allocate.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Police",
+              "choices": [
+                "Observe customers",
+                "Addressing the customer on suspicion",
+                "Accompany the customer to an undisturbed place (e.g. office) and kindly ask them to empty their bags",
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "correctAnswer": [
+                "Carry out identity checks",
+                "Carry out bag or body searches (even against the person's will)",
+                "Take person into custody"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Read the following facts carefully and answer the questions. Also state the legal basis in each case.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "Situation: Nina's training company is very busy. The vocational trainer therefore demands that she does not attend classes at the vocational college for the next two weeks. Is the vocational trainer allowed to ask Nina to do this?",
+              "isRequired": true,
+              "correctAnswer": "No, according to Art. 345a CO, the training company must give apprentices time to attend vocational training.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Situation: Pascal is supposed to set up the meeting room for the next management meeting. He tells the trainer that he has neither the time nor the inclination to do so. What obligation can Pascal be made aware of?",
+              "isRequired": true,
+              "correctAnswer": "to the obligation to perform work for the training company, Art. 344 OR",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the following facts carefully and answer the questions. Also state the legal basis in each case.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Situation: In January, Samira submits her vacation plan for the fall to the training company. As she has already booked everything, she insists that the plan be accepted. Can she demand this? ",
+              "isRequired": true,
+              "correctAnswer": "No, because although she must communicate her vacation requests in good time in accordance with Art. 329c CO, she cannot determine the dates herself.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Facts: Lucija tells her friend Petra that she has received lewd compliments from her boss several times. This makes her feel uncomfortable. What right can Petra point out to her?",
+              "isRequired": true,
+              "correctAnswer": "the right under Art. 328 OR that the training company must respect and protect the personality of the learner",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Facts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Read the following facts carefully and answer the questions. Also state the legal basis in each case.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Situation: David is in his first year of apprenticeship. On Monday, the instructor informs him that he will have to work about an hour longer on Wednesday and Thursday because a customer event has to be prepared at short notice. Is the instructor allowed to ask David to work this overtime? ",
+              "isRequired": true,
+              "correctAnswer": "Yes, because according to Art. 321c CO, apprentices must also work overtime if the training company requires it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Sachverhalte",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

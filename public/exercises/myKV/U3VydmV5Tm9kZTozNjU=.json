@@ -1,0 +1,113 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Formes de questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are the functions of the questions here?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Fournir et transmettre des informations",
+              "isRequired": true,
+              "correctAnswer": "Information",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Assumer et déléguer des tâches",
+              "isRequired": true,
+              "correctAnswer": "Information",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Preparing and taking decisions",
+              "isRequired": true,
+              "correctAnswer": "Décision",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Relever les différences et souligner les points communs",
+              "isRequired": true,
+              "correctAnswer": "Structuration",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Discuter du passé et thématiser le futur",
+              "isRequired": true,
+              "correctAnswer": "Réflexion, structuration",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Formes de questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "What are the functions of the questions here?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Renforcer les positions d'autrui",
+              "isRequired": true,
+              "correctAnswer": "Structuration",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "S'interroger sur la relation",
+              "isRequired": true,
+              "correctAnswer": "Réflexion, relation",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Obtenir un feedback",
+              "isRequired": true,
+              "correctAnswer": "Réflexion",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Désamorcer les conflits",
+              "isRequired": true,
+              "correctAnswer": "Réflexion",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

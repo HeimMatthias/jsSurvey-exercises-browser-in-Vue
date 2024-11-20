@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Analysis",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Correctly match the four beaks to Benjamin's first statement.",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Benjamin realizes that the report is formatted incorrectly.",
+                "Benjamin asks Lars to improve his work.",
+                "Benjamin shows his frustration and disappointment.",
+                "Benjamin questions Lars' abilities."
+              ],
+              "type": "matrix",
+              "title": "Benjamin: \"You've formatted the report wrong again! Can't you do something right for once?\"",
+              "columns": [
+                "Relationship note",
+                "Factual content",
+                "Appeal",
+                "Self-disclosure"
+              ],
+              "correctAnswer": {
+                "Benjamin stellt Lars’ Fähigkeiten infrage.": "Relationship note",
+                "Benjamin zeigt seine Frustration und Enttäuschung.": "Self-disclosure",
+                "Benjamin fordert Lars auf, seine Arbeit zu verbessern.": "Appeal",
+                "Benjamin stellt fest, dass der Bericht falsch formatiert ist.": "Factual content"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

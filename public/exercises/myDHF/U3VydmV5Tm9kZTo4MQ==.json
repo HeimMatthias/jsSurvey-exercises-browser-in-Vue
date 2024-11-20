@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page4",
+      "title": "Communication level",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Read the following text and then read through the possible answers. Judge which level of communication the answers most likely belong to.  ",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "No, I'm not going to finish it now.",
+                "I normally take on extra work without any problems, but today of all days I've taken on something that's important to me.",
+                "You always come at the last minute! That's not right.",
+                "I will fulfill the tasks.",
+                "I'm annoyed because it's messing up my plans.",
+                "Give me a compliment, otherwise I'll leave you alone with the work.",
+                "Please find someone else.",
+                "Since when do you actually decide when I finish work - it's getting that far!"
+              ],
+              "type": "matrix",
+              "title": "Store. Saturday, 4.30 pm. The retail employee is actually off work now. She is packing up her personal belongings. Her boss comes in and asks her to finish some urgent work. The retail employee replies: \"Oh no, today of all days, that doesn't suit me today!\" The employee could have answered differently. Read through the possible answers and assess which level of communication the answers most likely belong to.",
+              "columns": [
+                "CONTENTS ",
+                "SELF-REVELATION ",
+                "RELATIONSHIP ",
+                "APPEAL "
+              ],
+              "correctAnswer": {
+                "«Ich werde die Aufgaben erfüllen.»": "CONTENTS ",
+                "«Suchen Sie sich bitte jemand anderes.»": "APPEAL ",
+                "«Nein, ich werde das jetzt nicht fertig machen.»": "CONTENTS ",
+                "«Ich bin verärgert, weil mir das meine Pläne durcheinanderbringt.»": "SELF-REVELATION ",
+                "«Immer kommen Sie auf den letzten Drücker! Das ist nicht in Ordnung.»": "RELATIONSHIP ",
+                "«Machen Sie mir ein Kompliment, sonst lasse ich Sie mit der Arbeit allein.»": "RELATIONSHIP ",
+                "«Seit wann bestimmst du eigentlich, wann ich Feierabend mache – so weit kommt’s noch!»": "RELATIONSHIP ",
+                "«Ich übernehme normalerweise problemlos zusätzliche Arbeiten, aber ausgerechnet heute habe ich mir etwas vorgenommen, was mir wichtig ist.»": "SELF-REVELATION "
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

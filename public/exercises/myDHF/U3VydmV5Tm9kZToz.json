@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "Aufgaben des Grosshandels 1",
+      "title": "Tasks of the wholesale trade ",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Explain the tasks of the wholesale trade in one sentence each. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Intermediary",
+              "isRequired": true,
+              "correctAnswer": "It mediates between manufacturers and retailers and thus closes the retail chain.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Product designer",
+              "isRequired": true,
+              "correctAnswer": "Thanks to his experience and feedback from retailers, he passes on suggestions for improving the products to the manufacturers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Goods distributor ",
+              "isRequired": true,
+              "correctAnswer": "He organizes transport, interim storage and rough distribution of the goods to the retailers.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Risk carrier ",
+              "isRequired": true,
+              "correctAnswer": "It assumes the risk for other wholesalers and retailers in terms of sales, warehousing, transportation, price and quality - it is therefore insured accordingly.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Market conqueror",
+              "isRequired": true,
+              "correctAnswer": "As a representative, he introduces new products and often organizes extensive advertising campaigns. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

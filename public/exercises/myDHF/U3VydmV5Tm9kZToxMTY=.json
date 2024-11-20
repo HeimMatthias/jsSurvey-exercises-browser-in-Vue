@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "name": "Einkaufskalkulation",
+      "title": "Purchase costing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe the following terms that are important in connection with purchase costing and answer the final question.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Gross purchase price",
+              "isRequired": true,
+              "correctAnswer": "Price charged by the producer for the product according to the price list or offer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Invoice amount",
+              "isRequired": true,
+              "correctAnswer": "Amount (price) stated on the invoice",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Net purchase price",
+              "isRequired": true,
+              "correctAnswer": "Price that must actually be paid to the producer",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Purchase costs",
+              "isRequired": true,
+              "correctAnswer": "All costs incurred for transportation, customs duties, postal taxes, insurance, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Cost price",
+              "isRequired": true,
+              "correctAnswer": "Price that includes all costs of the goods and procurement",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "How do you calculate the cost price of an item?",
+              "isRequired": true,
+              "correctAnswer": "Gross purchase price - discount - cash discount + purchase costs = cost price",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

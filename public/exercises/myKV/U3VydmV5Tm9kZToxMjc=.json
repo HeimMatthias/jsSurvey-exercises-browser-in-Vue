@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Target group-specific documents",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Assign the following descriptions to the target group-specific documents.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Annual publication on the course of the financial year",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Annual report",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Comparison of expenses and income in accounting",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Income statement",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Statement of monthly salary including all deductions and allowances",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Payroll accounting",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Report on the current status of a project",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Project report",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Target group-specific documents",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the following descriptions to the target group-specific documents.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Report form for the assessment of the employee",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "MAG form",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "List of decisions from the last meeting",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Minutes of resolution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Minutes of the meeting",
+              "choices": [
+                "MAG form",
+                "Minutes of resolution",
+                "Project report",
+                "Payroll accounting",
+                "Income statement",
+                "Minutes of the meeting",
+                "Annual report"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Minutes of the meeting",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

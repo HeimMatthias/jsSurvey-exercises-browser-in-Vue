@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalte",
+      "title": "Occupational groups",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "The chart below shows the main occupational groups in which Swiss and foreign nationals were employed in 2000 and 2020. Search the chart specifically for the information listed.",
+          "elements": [
+            {
+              "html": "<iframe src=\"https://e.infogram.com/4576f3b4-2e3a-4500-bd18-dacbd1fd5ac6?src=embed\" title=\"T8 M2 A7: Berufshauptgruppen\" width=\"550\" height=\"753\" scrolling=\"no\" frameborder=\"0\" style=\"border:none;\" allowfullscreen=\"allowfullscreen\"></iframe>",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "In 2020, foreign nationals mainly worked in these four occupational groups: ",
+              "isRequired": true,
+              "correctAnswer": "Intellectual and scientific occupations, technicians and equivalent non-technical occupations, service occupations and salespersons, craft and related occupations. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "In 2020, foreign nationals were more likely to work in this occupational group than Swiss nationals:",
+              "isRequired": true,
+              "correctAnswer": "Auxiliary workers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The number of foreign nationals increased the most in these two occupational groups between 2000 and 2020:",
+              "isRequired": true,
+              "correctAnswer": "Managers, intellectuals and scientific professions",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

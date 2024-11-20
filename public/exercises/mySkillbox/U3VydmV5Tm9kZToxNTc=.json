@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "That or this?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Decide on the correct spelling of the missing words in the following text. ",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "... The insurance agent could not rule out the possibility that the destruction was intentional. ",
+              "isRequired": true,
+              "correctAnswer": "The insurance agent could not rule out the possibility that the destruction was intentional.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "That or this?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide on the correct spelling of the missing words in the following text. ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "The mess ... my neighbors encountered yesterday when they came home was a mystery to us. ",
+              "isRequired": true,
+              "correctAnswer": "The mess my neighbors encountered yesterday when they came home was a mystery to us. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "That or this?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide on the correct spelling of the missing words in the following text. ",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "My neighbor immediately thought ... vandals were at work. ",
+              "isRequired": true,
+              "correctAnswer": "My neighbor immediately thought that vandals were at work.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "That or this?",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide on the correct spelling of the missing words in the following text. ",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Her husband is of the opinion ... a wild boar has raged here, ... strayed into the garden.",
+              "isRequired": true,
+              "correctAnswer": "Her husband is of the opinion that a wild boar has been rampaging through the garden.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "That or this?",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide on the correct spelling of the missing words in the following text. ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "In any case, I hope ... the case can be solved soon. ... I am aware that this may still take some time.",
+              "isRequired": true,
+              "correctAnswer": "In any case, I hope that the case can be solved soon. I am aware that this may still take some time.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

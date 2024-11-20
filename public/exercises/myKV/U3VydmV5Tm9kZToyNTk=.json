@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Excel functions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What does Excel do with the empty cell C3? ",
+              "isRequired": true,
+              "correctAnswer": "Don't pay attention to Excel, because there is nothing in it.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How do you get to the results even faster on the second table?",
+              "isRequired": true,
+              "correctAnswer": "Select cells B9 to E12, open the list arrow at the sigma sign and select \"Min\", Excel will fill in all yellow cells with the calculation for the minimum.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

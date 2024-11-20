@@ -1,0 +1,386 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Joie",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers l'avant",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Les gestes accompagnant la parole augmentent",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Droite, penchée vers l'avant",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Respiration plus forte, accélération du rythme cardiaque",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Plus haute, plus forte, plus mélodique",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Surprise",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers l'avant",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Bouche ouverte",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Orientée vers l'avant",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Inspirer et ensuite retenir brièvement sa respiration",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Plus haute",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Colère",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers l'avant",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Gestes rythmiques et déictiques avec l'index tendu",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Forte tension musculaire",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Accélération de la respiration, augmentation de la fréquence cardiaque, tremblement, rosissement, pupilles dilatées",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question15",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Intonation plus ferme",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Peur",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question16",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers l'arrière",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question17",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Les gestes diminuent (torpeur)",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question18",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Fermée et inclinée vers l'arrière",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question19",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Accélération de la respiration, tremblement, pâlissement, chair de poule, transpiration, pupilles dilatées",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question20",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Plus haute et plus forte",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Dégoût",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers l'arrière ou détournée",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question22",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Mouvement défensif de la main",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question23",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Défensive, bras croisés, repli",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question24",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Chair de poule",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question25",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Bruits comme \" beurk \" ou \" pouah \"",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Mépris",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question26",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Enfoncée dans la nuque",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question27",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Mouvement de refus de la main",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question28",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Droite ou affaissée, si le mépris is dirigé contre soi-même",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question29",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "–",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question30",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Bruits de claquement plutôt bas",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Tristesse",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Attribuez à chaque émotion de base au minimum un signal non verbal suivant le tableau de Eilert.",
+          "elements": [
+            {
+              "name": "question31",
+              "type": "text",
+              "title": "Position de la tête",
+              "isRequired": true,
+              "correctAnswer": "Inclinée vers le bas (laisser pendre la tête)",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question32",
+              "type": "text",
+              "title": "Gestalts",
+              "isRequired": true,
+              "correctAnswer": "Diminue en raison de la faible tension musculaire",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question33",
+              "type": "text",
+              "title": "Posture",
+              "isRequired": true,
+              "correctAnswer": "Affaissée, molle",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question34",
+              "type": "text",
+              "title": "Psychophysiology",
+              "isRequired": true,
+              "correctAnswer": "Soupirs, respiration plus rapide",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question35",
+              "type": "text",
+              "title": "Voix",
+              "isRequired": true,
+              "correctAnswer": "Intonation plus douce, débit de parole moins élevé",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

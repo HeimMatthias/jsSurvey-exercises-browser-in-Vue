@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "House of movements",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What triggered the current project?",
+              "isRequired": true,
+              "correctAnswer": "The trigger is the planned sale of the Johannes parish hall, which was recently decided. The sale threatens to destroy this important place for social movements.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the goals of the project?",
+              "isRequired": true,
+              "correctAnswer": "The primary goal is to buy the parish hall together with foundations and other donors. The initiators want to rent out certain rooms in the future and realize various possible uses.  \nTo be achieved (sub-)goals for this are: Founding an association, finding various donors, negotiations with the seller (in this case the Reformed parish of Bern), persuasion work (intensive communication and information work, press work, organization of various events)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How is the project organized? What are the reference points in terms of time?",
+              "isRequired": true,
+              "correctAnswer": "At present, the project members form a simple partnership in legal terms. The plan is to establish an association, with the current core group likely to be the association's board.  \nThe property is already up for sale and time is pressing. The building is to be sold by the end of 2025.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "House of movements",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What opportunities and challenges is the project likely to face?",
+              "isRequired": true,
+              "correctAnswer": "The chances are that the goals are clear: Raising the funds to take over the house. With the aim of managing the property in a meaningful way to enable various social movements. \nThe challenges lie in the fact that everything has to be done on a voluntary basis and that the financial hurdles are very high. In addition, the purchase and sale of a church building on Bernese soil is new.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How does this project differ from what you have learned so far?",
+              "isRequired": true,
+              "correctAnswer": "The \"House of Movements\" is only in the \"foundation phase\". The core of the project will then be the purchase of the property and the development of the utilization concept. \nThe project members come from different areas. Responsibilities are not clearly defined and most of the work is unpaid.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

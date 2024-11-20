@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Role of insurance companies",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What things and events can be insured? List them or draw a mind map.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers. Possible content: People have a great need for security and want to protect and insure themselves against dangers that threaten their safety. Insurance does not eliminate the risks to which people are exposed, but it can cover the material consequences of illness, accidents, death, theft, natural disasters, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What can you not insure? Why?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The Swiss spend CHF 7820 per person per year on private insurance (excluding social insurance) (source: Federal Statistical Office, Household Budget Survey 2020). Work out how this amount is made up.",
+              "isRequired": true,
+              "correctAnswer": "Health insurance: CHF 4560, household contents insurance CHF 430, liability insurance CHF 120, accident insurance CHF 650, legal expenses insurance CHF 220, motor vehicle insurance CHF 900, partial accidental damage insurance CHF 229.- (excluding mandatory social insurance contributions AHV, IV, EO, ALV: employee contribution 6.375% of a gross salary of CHF 65,000 gives CHF 4143.75 (plus BVG 2nd pillar contributions, mandatory from CHF 21,330 annual salary, as of 2020 between 7% and 18% depending on age, i.e. between CHF 4,550 and CHF 11,700). Source: comparis.ch → Salary increase costs/net salary calculation",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Role of insurance companies",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Most insurance companies are organized according to the so-called \"solidarity principle\". What is meant by this principle? What does insurance have to do with solidarity?",
+              "isRequired": true,
+              "correctAnswer": "Any damage incurred is paid for with the premiums of all members of the corresponding insurance, i.e. by a kind of risk community. The members are jointly and severally liable for the damage.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Have you ever reported a claim to an insurance company? Describe the registration, claims processing, compensation payment (e.g. mobilar.ch or another company).",
+              "isRequired": true,
+              "correctAnswer": "Report the damage online, select the insurance policy number, type of damage, which property is affected? What happened to these items? When and where did something happen? Supplement with documents or damage photos. Claims processing by the claims department of the insurance company. Compensation payment either at replacement value or current value.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Report a loss event for which you were not insured, although it would have been advantageous in retrospect if you had had insurance.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

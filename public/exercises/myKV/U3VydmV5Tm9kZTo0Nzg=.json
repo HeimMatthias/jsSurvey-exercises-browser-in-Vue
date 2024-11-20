@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "E-Banking",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "You can only search for payments and credit notes in e-banking, but you cannot download any account data.",
+                "eBills are electronic bills that SBB, for example, sends directly to our e-banking system for the monthly travelcard. You can approve the payment with just a few clicks.",
+                "Two-factor authentication means that you should always write down your password on a notepad so that you can log in at any time. ",
+                "You can buy securities (e.g. a share in a company) in online banking or e-banking.",
+                "You can take out mortgages with all banks in e-banking (e.g. to buy a house).",
+                "Most banks allow you to view and, if necessary, extend your mortgage.",
+                "You cannot make international payments with e-banking.",
+                "With the e-banking app, you can only view payments, but not initiate them.",
+                "Under \"Country settings\" for debit cards, you can set where you want to allow payments abroad (to protect against unauthorized access, other countries cannot be enabled).",
+                "If you want to buy an American or European share, you can do so via e-banking."
+              ],
+              "type": "matrix",
+              "title": "Are the statements about e-banking correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Mit dem E-Banking können Sie keine Auslandzahlungen machen.": "wrong",
+                "Mit der E-Banking-App können Sie Zahlungen nur anschauen, aber keine auslösen.": "wrong",
+                "Bei allen Banken können Sie im E-Banking Hypotheken aufnehmen (z.B. für einen Hauskauf).": "wrong",
+                "Bei den meisten Banken können Sie die Hypotheken einsehen und allenfalls auch verlängern.": "right",
+                "Im E-Banking können Sie nur Zahlungen und Gutschriften suchen, aber keine Kontodaten herunterladen.": "wrong",
+                "Im Onlinebanking oder E-Banking können Sie Wertschriften kaufen (z.B. eine Aktie einer Unternehmung).": "right",
+                "Wenn Sie eine amerikanische oder europäische Aktie kaufen wollen, dann können Sie das im E-Banking erledigen.": "right",
+                "Zwei-Faktor-Authentifizierung bedeutet, dass Sie das Passwort immer auf einem Notizblatt notieren sollten, um sich jederzeit einloggen zu können. ": "wrong",
+                "eBills sind elektronische Rechnungen, die z.B. die SBB für das Monatsabo direkt in unser E-Banking versendet. Mit nur wenigen Klicks können Sie die Zahlung freigeben.": "right",
+                "Unter «Ländereinstellung» bei den Debitkarten können Sie einstellen, wo Sie im Ausland Zahlungen zulassen wollen (zum Schutz vor unerlaubtem Zugriff können andere Länder nicht freigegeben werden).": "right"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

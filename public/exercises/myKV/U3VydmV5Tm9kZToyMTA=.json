@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Posting records",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which business transactions could have led to the specified postings? Enter a possible business case in keywords for the posting records.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "GoodsA/Verb. L+L ",
+              "isRequired": true,
+              "correctAnswer": "Invoice for goods received",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Verb. L+L/Bank ",
+              "isRequired": true,
+              "correctAnswer": "Supplier invoice is paid by bank",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "FinanzA/Verb. L+L ",
+              "isRequired": true,
+              "correctAnswer": "Supplier charges interest on arrears",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Posting records",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which business transactions could have led to the specified postings? Enter a possible business case in keywords for the posting records.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Verb. L+L/PassiveD ",
+              "isRequired": true,
+              "correctAnswer": "Supplier debt is converted into a loan",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Verb. L+L/GoodsA ",
+              "isRequired": true,
+              "correctAnswer": "Return to supplier (or rebate, discount from supplier)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Verb. L+L/Furniture ",
+              "isRequired": true,
+              "correctAnswer": "Supplier accepts payment for used furniture",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

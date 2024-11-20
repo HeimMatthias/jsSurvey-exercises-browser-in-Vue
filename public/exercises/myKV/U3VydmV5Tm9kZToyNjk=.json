@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Which two text functions do newsletters fulfill? ",
+              "isRequired": true,
+              "correctAnswer": "Information and appeal",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are the four characteristics of good newsletters?",
+              "isRequired": true,
+              "correctAnswer": "Individuality, benefit orientation, emotions, activation ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What does the AIDA model describe?",
+              "isRequired": true,
+              "correctAnswer": "The impact of advertising on customer decisions",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What does the acronym AIDA stand for?",
+              "isRequired": true,
+              "correctAnswer": "for the four phases Attention, Interest, Desire and Action",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "In which areas is the AIDA model frequently used?",
+              "isRequired": true,
+              "correctAnswer": "Marketing (advertising), presentations, sales talks",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

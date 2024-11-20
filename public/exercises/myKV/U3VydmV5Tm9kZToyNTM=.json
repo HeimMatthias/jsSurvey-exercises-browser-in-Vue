@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Question forms",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Rephrase the fake questions into real ones.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Are you enjoying your apprenticeship so far?",
+              "isRequired": true,
+              "correctAnswer": "How do you like the apprenticeship so far? ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Do you also think that we are quite well supported by the training company?",
+              "isRequired": true,
+              "correctAnswer": "How do you find the support from the training company?  ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Do you also think that wages should be higher in the first year of an apprenticeship?",
+              "isRequired": true,
+              "correctAnswer": "What do you think about the salary in the first year of the apprenticeship? ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Question forms",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Rephrase the fake questions into real ones.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Do you have good lessons at vocational school?",
+              "isRequired": true,
+              "correctAnswer": "What is teaching like at the vocational school? ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Do you already know some of your colleagues better?",
+              "isRequired": true,
+              "correctAnswer": "Which colleagues do you already know better? ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Question forms",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Rephrase the fake questions into real ones.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Do you think it is realistic that we will pass the final exam?",
+              "isRequired": true,
+              "correctAnswer": "How do you feel about the final exam? ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Have you already thought about your professional future?",
+              "isRequired": true,
+              "correctAnswer": "How do you see your professional future?  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

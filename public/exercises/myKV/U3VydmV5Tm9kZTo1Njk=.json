@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Watermark",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "You have found a great entry image for a website. After you have downloaded it, you realize that there is an ugly grey disturber on the image.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/E_LJ2_LF1_M3_A9_Wasserzeichen.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What do you call this disruptor?",
+              "correctAnswer": "This is a watermark."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What information can you find in this watermark?",
+              "correctAnswer": "The image comes from the Imago image database. The link to the image is under the name of the database. The number at the end of the link corresponds to the image number."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "You are not interested in the lower half of the picture anyway. You just want the top half with the leaves and part of the flowers for your website. Can you use the image if you simply cut out the watermark?",
+              "correctAnswer": "No, the watermark makes it clear that you have not received the license to use the image. You are therefore not allowed to simply crop the image and then use it. If you use the image anyway, you are in breach of copyright. It is possible that Imago has also placed invisible watermarks on the image. You would not see these, but they could serve as proof that you have appropriated the image without permission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

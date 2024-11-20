@@ -1,0 +1,233 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "The four basic political conflicts and the left-right scheme",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide which issues are politically left-wing and which are politically right-wing and note which of the four basic conflicts is affected.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Longer paternity leave",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Links",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Welfare state ↔ restrictive financial policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "Stop immigration",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Open foreign policy ↔ restrictive migration policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "Tax manager salaries more heavily",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Links",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Welfare state ↔ restrictive financial policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Links oder Rechts?2",
+      "title": "The four basic political conflicts and the left-right scheme",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide which issues are politically left-wing and which are politically right-wing and note which of the four basic conflicts is affected.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "Expanding development aid",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Links",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "restrictive migration policy ↔ open foreign policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "Tax gasoline more heavily",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Links",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Enhanced environmental protection ↔ liberal economic policy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "radiogroup",
+              "title": "Reduce unemployment benefit",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Welfare state ↔ restrictive financial policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Links oder Rechts?3",
+      "title": "The four basic political conflicts and the left-right scheme",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide which issues are politically left-wing and which are politically right-wing and note which of the four basic conflicts is affected.",
+          "elements": [
+            {
+              "name": "Frage 7",
+              "type": "radiogroup",
+              "title": "Ban abortions",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Liberal Society ↔ Law and Order",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 8",
+              "type": "radiogroup",
+              "title": "Alcohol only from the age of 20",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Liberal Society ↔ Law and Order",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 9",
+              "type": "radiogroup",
+              "title": "Store opening hours no longer regulated",
+              "choices": [
+                "Links",
+                "Right"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Basic conflict: ",
+              "isRequired": true,
+              "correctAnswer": "Enhanced environmental protection ↔ liberal economic policy",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

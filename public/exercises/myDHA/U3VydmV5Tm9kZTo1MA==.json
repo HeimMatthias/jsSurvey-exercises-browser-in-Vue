@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "name": "Fallbeispiel «Füllfederhalter»",
+      "title": "Case study \"Fountain pen\"",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Which question form does the employee Ramon Toma use to summarize the information he received from Ms. Brändli during the needs analysis?",
+              "choices": [
+                "Alternative question",
+                "Open question ",
+                "Confirmation question ",
+                "Hidden question "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Confirmation question ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "How should the following sentence end correctly? The question about the \"what\" ...",
+              "choices": [
+                "... refers to the purchase motive. ",
+                "... refers to the reason for purchase. ",
+                "... refers to the purchase request. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "... refers to the purchase request. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Case study \"Fountain pen\"",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What terms can be used to describe Ms. Brändli's buying motive?",
+              "isRequired": true,
+              "correctAnswer": "Recognition, prestige, exclusivity, enjoyment of design objects, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "You have learned about two main groups of buying motives. Which group does Mrs. Brändli's buying motive belong to?",
+              "isRequired": true,
+              "correctAnswer": "This is an emotional buying motive. Reason: The extravagant design is decisive for the customer when choosing the fountain pen.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What keywords can be used to summarize Ms. Brändli's complete needs framework (purchase desire, purchase motive and need)?",
+              "isRequired": true,
+              "correctAnswer": "Purchase request: fountain pen; purchase motive: recognition, prestige, etc.; need (the right product): Fountain pen with eye-catching design from the upper price range",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

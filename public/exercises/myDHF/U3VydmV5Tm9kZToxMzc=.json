@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Mobility",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the questions on the factual text \"Mobility\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by the term mobility? ",
+              "isRequired": true,
+              "correctAnswer": "Mobility refers to the movement of people and goods.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "List different means of transportation. ",
+              "isRequired": true,
+              "correctAnswer": "On foot, bicycle, skateboard, motorcycle, car, bus, train, streetcar, boat, plane, etc.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How does private transport differ from public transport? ",
+              "isRequired": true,
+              "correctAnswer": "Individual transport refers to the use of private means of transportation (car, bicycle, etc.) to get from one place to another. Public transport, on the other hand, refers to the use of means of transportation such as trains, buses, streetcars, etc., which can be used by everyone, i.e. the general public.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How many minutes on average does a Swiss person spend in traffic each day?",
+              "isRequired": true,
+              "correctAnswer": "80 minutes",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

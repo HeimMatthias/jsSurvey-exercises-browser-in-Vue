@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Billing via running event",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "A sports club has organized and carried out a running event. The budget and accounting figures are listed in the table provided. Answer the questions listed.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF3_M9_A7_Abrechnung_Laufevent_jT8uvCn.original.png\" />",
+              "name": "question11",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What is the return on entry fees dependent on?",
+              "correctAnswer": "From the number of participants"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Which costs are variable costs?",
+              "correctAnswer": "Drinks, start numbers, medals"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which budget variances are the main causes of the lower profit?",
+              "correctAnswer": "Lower income from entry fees and sponsors, \ngreater costs for advertising/Internet, medals/prize money and administrative costs\n"
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "How can the costs of the security service be precisely planned?",
+              "correctAnswer": "Obtaining a written offer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Billing via running event",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "A sports club has organized and carried out a running event. The budget and accounting figures are listed in the table provided. Answer the questions listed.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF3_M9_A7_Abrechnung_Laufevent_jT8uvCn.original.png\" />",
+              "name": "question10",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Was the organization of the event worthwhile for the association?",
+              "correctAnswer": "Yes, the profit is lower than planned, but still over CHF 3000."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Which items are difficult to plan?",
+              "correctAnswer": "Entry fees and sponsorship contributions"
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "What measures could be taken to achieve a greater profit at the next running event?",
+              "correctAnswer": "Increase in entry fees, cost savings"
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "What could the club members contribute to a better result?",
+              "correctAnswer": "Free cooperation for organization, marshals and possibly security service"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

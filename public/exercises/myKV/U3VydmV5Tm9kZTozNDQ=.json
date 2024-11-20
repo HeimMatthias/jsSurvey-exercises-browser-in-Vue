@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Techniques de communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Résumez avec vos propres mots les techniques de communication suivantes.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Écouter activement et paraphraser",
+              "isRequired": true,
+              "correctAnswer": "Réponses individuelles",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Utiliser les techniques de questionnement",
+              "isRequired": true,
+              "correctAnswer": "Réponses individuelles",
+              "requiredErrorText": "Veuillez répondre à la question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Faire des visualizations",
+              "isRequired": true,
+              "correctAnswer": "Réponses individuelles",
+              "requiredErrorText": "Veuillez répondre à la question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercice",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

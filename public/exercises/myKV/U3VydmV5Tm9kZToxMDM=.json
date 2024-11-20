@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Fields of law",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Übung 1",
+              "rows": [
+                "Criminal law",
+                "Capacity to act",
+                "Distinction between ownership and possession",
+                "Inheritance law",
+                "Marriage contract",
+                "Regulations for entry in the commercial register"
+              ],
+              "type": "matrix",
+              "title": "Assign the examples to the two areas of law.",
+              "columns": [
+                "Public law",
+                "Private law"
+              ],
+              "correctAnswer": {
+                "Erbrecht": "Private law",
+                "Ehevertrag": "Private law",
+                "Strafrecht": "Public law",
+                "Handlungsfähigkeit": "Private law",
+                "Unterscheidung zwischen Eigentum und Besitz": "Private law",
+                "Vorschriften zur Eintragung ins Handelsregister": "Private law"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Fields of law",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Conclusion of an employment contract",
+                "Federal Constitution",
+                "Police law",
+                "Termination of a rental agreement",
+                "Action for divorce",
+                "Murder charge"
+              ],
+              "type": "matrix",
+              "title": "Assign the examples to the two areas of law.",
+              "columns": [
+                "Public law",
+                "Private law"
+              ],
+              "correctAnswer": {
+                "Mordanklage": "Public law",
+                "Polizeirecht": "Public law",
+                "Bundesverfassung": "Public law",
+                "Klage auf Scheidung": "Private law",
+                "Kündigung eines Mietvertrags": "Private law",
+                "Abschluss eines Arbeitsvertrags": "Private law"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

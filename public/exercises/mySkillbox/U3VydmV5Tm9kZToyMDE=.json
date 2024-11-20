@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Meinung oder Tatsache?",
+      "title": "Opinion or fact?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Kreuzen Sie pro Aussage an, ob es sich um eine Meinung oder um eine Tatsache handelt. Überlegen Sie sich immer: Könnte jemand auch anderer Meinung sein?",
+              "rows": [
+                {
+                  "text": "We live in a democratic country.",
+                  "value": "We live in a democratic country."
+                },
+                {
+                  "text": "Everyone can do something to combat climate change.",
+                  "value": "Everyone can do something to combat climate change."
+                },
+                {
+                  "text": "Politics is boring.",
+                  "value": "Politics is boring."
+                },
+                {
+                  "text": "Weed should be legalized.",
+                  "value": "Weed should be legalized."
+                },
+                {
+                  "text": "Cigarettes are harmful.",
+                  "value": "Cigarettes are harmful."
+                },
+                {
+                  "text": "Switzerland is a comparatively rich country.",
+                  "value": "Switzerland is a comparatively rich country."
+                },
+                {
+                  "text": "Anyone who drives under the influence of alcohol endangers themselves and others.",
+                  "value": "Anyone who drives under the influence of alcohol endangers themselves and others."
+                },
+                {
+                  "text": "Migration harms our country.",
+                  "value": "Migration harms our country."
+                },
+                {
+                  "text": "The rich should pay significantly more tax than the poor.",
+                  "value": "The rich should pay significantly more tax than the poor."
+                },
+                {
+                  "text": "We should introduce a minimum wage.",
+                  "value": "We should introduce a minimum wage."
+                }
+              ],
+              "type": "matrix",
+              "columns": [
+                {
+                  "text": "Opinion",
+                  "value": "Opinion"
+                },
+                {
+                  "text": "Fact",
+                  "value": "Fact"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Politik ist langweilig.": "Opinion",
+                "Zigaretten sind schädlich.": "Fact",
+                "Migration schadet unserem Land.": "Opinion",
+                "Man sollte das Kiffen legalisieren.": "Opinion",
+                "Wir leben in einem demokratischen Land.": "Fact",
+                "Wir sollten einen Mindestlohn einführen.": "Opinion",
+                "Jeder kann etwas gegen den Klimawandel tun.": "Fact",
+                "Die Schweiz ist vergleichsweise ein reiches Land.": "Fact",
+                "Reiche sollten deutlich mehr Steuern bezahlen als Arme.": "Opinion",
+                "Wer alkoholisiert Auto fährt, gefährdet sich und andere.": "Fact"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

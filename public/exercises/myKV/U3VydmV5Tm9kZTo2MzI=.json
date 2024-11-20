@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "name": "Kaufmännisches Runden",
+      "title": "Commercial rounding",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "What does the rounding instruction to \"round to the nearest 5 centimes in favor of the financial institution\" mean? Mark the correct answer with a cross.",
+              "choices": [
+                "It means that it is always bad for the customer: it is therefore always rounded down to the nearest five centimes.",
+                "It means that it is always bad for the customer: income (e.g. interest credited to the savings account) is rounded down to the nearest five centimes and expenses (e.g. account management fees) are rounded up to the nearest five centimes."
+              ],
+              "correctAnswer": [
+                "It means that it is always bad for the customer: income (e.g. interest credited to the savings account) is rounded down to the nearest five centimes and expenses (e.g. account management fees) are rounded up to the nearest five centimes."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

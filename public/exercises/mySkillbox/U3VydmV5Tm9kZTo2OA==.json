@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Argumente1",
+      "title": "Sound arguments",
+      "elements": [
+        {
+          "name": "1",
+          "type": "panel",
+          "title": "Should advertising by influencers be banned?",
+          "elements": [
+            {
+              "name": "Behauptung1",
+              "type": "comment",
+              "title": "Assertion: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung1",
+              "type": "comment",
+              "title": "Justification with document: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argumente2",
+      "title": "Sound arguments",
+      "elements": [
+        {
+          "name": "2",
+          "type": "panel",
+          "title": "Are influencers primarily entertainers or influencers?",
+          "elements": [
+            {
+              "name": "Behauptung2",
+              "type": "comment",
+              "title": "Assertion: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung2",
+              "type": "comment",
+              "title": "Justification with document: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argumente3",
+      "title": "Sound arguments",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Does the idealization of people (and their lives) make us happy?",
+          "elements": [
+            {
+              "name": "Behauptung3",
+              "type": "comment",
+              "title": "Assertion: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründung3",
+              "type": "comment",
+              "title": "Justification with document: ",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

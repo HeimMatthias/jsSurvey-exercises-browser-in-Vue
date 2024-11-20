@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "May one ...?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "... compare wages between colleagues?",
+                "... rant about your boss on the suburban train or on Facebook?",
+                "... if there are arguments or love affairs among colleagues or if there are imminent additions or departures in the team?",
+                "... save your employer's customer file on your own computer?",
+                "... use the specialist knowledge acquired in the company in your own business after leaving?",
+                "... report grievances in the company to the media?"
+              ],
+              "type": "matrix",
+              "title": "Answer the following questions about confidentiality without searching the Internet. May one ...",
+              "columns": [
+                "Yes",
+                "Rather yes",
+                "Rather no",
+                "No"
+              ],
+              "correctAnswer": {
+                "… Missstände im Betrieb den Medien melden?": "Rather no",
+                "… unter Kolleginnen und Kollegen die Löhne vergleichen?": "Yes",
+                "… die Kundenkartei des Arbeitgebers auf dem eigenen Computer abspeichern?": "Rather no",
+                "… in der S-Bahn oder auf Facebook über die Chefin oder den Chef schimpfen?": "No",
+                "… in der Firma erworbenes Fachwissen nach dem Austritt im eigenen Geschäft nutzen?": "Yes",
+                "… weitererzählen, wenn es unter Kolleginnen und Kollegen Streit oder Liebesaffären gibt oder wenn im Team Zu- oder Abgänge bevorstehen?": "Rather yes"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

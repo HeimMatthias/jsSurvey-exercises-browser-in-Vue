@@ -1,0 +1,63 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Measures to improve liquidity",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The sports store takes out a loan, which is paid out to the bank account.",
+                "A supplier debt is converted into a longer-term loan.",
+                "Supplier invoices are settled by bank transfer.",
+                "A used vehicle is sold against cash payment.",
+                "The business owner increases his capital by transferring it to the business's bank account.",
+                "The invoice for further advertisements in the regional newspaper arrives.",
+                "Customers pay booked invoices to the sports store's bank account.",
+                "The borrower repays the loan by bank transfer.",
+                "The borrower transfers the interest to the bank account.",
+                "The store owner brings a vehicle into the store.",
+                "The invoice for the purchase of various sporting goods arrives.",
+                "Various items are sold with a special discount against cash payment."
+              ],
+              "type": "matrix",
+              "title": "The sports store has few liquid funds. Timely payment of current liabilities is no longer guaranteed. Can liquidity be improved with the following business transactions?",
+              "columns": [
+                "Yes",
+                "No"
+              ],
+              "correctAnswer": {
+                "Ein gebrauchtes Fahrzeug wird gegen Barzahlung verkauft.": "Yes",
+                "Der Darlehensschuldner überweist den Zins auf das Bankkonto.": "Yes",
+                "Der Geschäftsinhaber bringt ein Fahrzeug in das Geschäft ein.": "No",
+                "Die Rechnung für weitere Inserate in der Regionalzeitung trifft ein.": "No",
+                "Die Rechnung für die Einkäufe von diversen Sportartikeln trifft ein.": "No",
+                "Diverse Artikel werden mit einem Sonderrabatt gegen Barzahlung verkauft.": "Yes",
+                "Verbuchte Lieferantenrechnungen werden durch Banküberweisung beglichen.": "No",
+                "Der Darlehensschuldner zahlt das Darlehen durch Banküberweisung zurück.": "Yes",
+                "Eine Lieferantenschuld wird in ein längerfristiges Darlehen umgewandelt.": "No",
+                "Kunden zahlen verbuchte Rechnungen auf das Bankkonto des Sportgeschäftes.": "Yes",
+                "Das Sportgeschäft nimmt ein Darlehen auf, welches auf das Bankkonto ausbezahlt wird.": "Yes",
+                "Der Geschäftsinhaber erhöht sein Kapital durch Überweisung auf das Bankkonto des Geschäftes.": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

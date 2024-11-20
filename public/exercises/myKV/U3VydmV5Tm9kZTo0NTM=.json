@@ -1,0 +1,131 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Customer loyalty",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "Bonus programs",
+                "Customer cards",
+                "regular newsletter",
+                "Personal customer service",
+                "Exclusive events for regular customers",
+                "Complaints management"
+              ],
+              "type": "matrixdropdown",
+              "title": "Assign the following customer loyalty instruments to the objectives. Several objectives can also be selected.",
+              "choices": [
+                "item1"
+              ],
+              "columns": [
+                {
+                  "name": "Interaktion",
+                  "choices": [
+                    {
+                      "text": "Interaction",
+                      "value": "item1"
+                    }
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Zufriedenheit",
+                  "choices": [
+                    {
+                      "text": "Satisfaction",
+                      "value": "item1"
+                    }
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                },
+                {
+                  "name": "Wechselbarriere – Kundenbindung",
+                  "choices": [
+                    {
+                      "text": "Switching barrier - customer loyalty",
+                      "value": "item1"
+                    }
+                  ],
+                  "cellType": "checkbox",
+                  "colCount": 0,
+                  "storeOthersAsComment": true
+                }
+              ],
+              "cellType": "checkbox",
+              "correctAnswer": {
+                "Kundenkarten": {
+                  "Interaktion": [
+                    "item1"
+                  ],
+                  "Wechselbarriere – Kundenbindung": [
+                    "item1"
+                  ]
+                },
+                "Bonusprogramme": {
+                  "Interaktion": [
+                    "item1"
+                  ],
+                  "Wechselbarriere – Kundenbindung": [
+                    "item1"
+                  ]
+                },
+                "Beschwerdemanagement": {
+                  "Zufriedenheit": [
+                    "item1"
+                  ]
+                },
+                "regelmässige Newsletter": {
+                  "Interaktion": [
+                    "item1"
+                  ]
+                },
+                "persönliche Kundenbetreuung": {
+                  "Interaktion": [
+                    "item1"
+                  ],
+                  "Zufriedenheit": [
+                    "item1"
+                  ],
+                  "Wechselbarriere – Kundenbindung": [
+                    "item1"
+                  ]
+                },
+                "exklusive Events für Stammkunden": {
+                  "Interaktion": [
+                    "item1"
+                  ],
+                  "Zufriedenheit": [
+                    "item1"
+                  ],
+                  "Wechselbarriere – Kundenbindung": [
+                    "item1"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

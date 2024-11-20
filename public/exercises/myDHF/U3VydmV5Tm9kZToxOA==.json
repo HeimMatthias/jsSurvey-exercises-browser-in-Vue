@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "Organigramm 1",
+      "title": "Organizational chart",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Interpret the following organizational chart of a small retail business:",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-detailhandel-dhf-prod.s3-eu-central-1.amazonaws.com/images/D_LF1_T2_A10_Organigramm-Detailhandel_KMXYAvm.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "According to which criterion is the first hierarchical level directly subordinate to the management structured?",
+              "isRequired": true,
+              "correctAnswer": "The first level is organized by function. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "According to which criterion is the sales department organized?",
+              "isRequired": true,
+              "correctAnswer": "The Sales department is organized according to products (divisions).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How large is the management's span of control? Assess whether it is more of a broad or a deep structure.",
+              "isRequired": true,
+              "correctAnswer": "Three departments and one staff unit (the secretariat) report to the management. This is a relatively small span of control, which means that the retail business is organized in depth.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

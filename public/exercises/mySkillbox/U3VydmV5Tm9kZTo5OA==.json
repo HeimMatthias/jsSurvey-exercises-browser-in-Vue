@@ -1,0 +1,287 @@
+{
+  "pages": [
+    {
+      "name": "Finanzierungsarten1",
+      "title": "Types of financing",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Match the individual examples with the correct advantages or disadvantages of the three types of financing.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The fixed installments (interest) can be planned and are therefore manageable (budget).",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer credit & cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "If you run into financial difficulties, you can sell your car at any time. You do not have to pay interest or compensation.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "The car does not belong to you.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing disadvantage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finanzierungsarten2",
+      "title": "Types of financing",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Match the individual examples with the correct advantages or disadvantages of the three types of financing.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "The fixed installments (interest & compensation) can be planned and are therefore manageable (budget).",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing advantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "You are bound to a contract for many years (interest & compensation) and withdrawing from these contracts is very expensive.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing disadvantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "If you run into financial difficulties, you can sell the car at any time. You only have to pay the remaining interest.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer credit & cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finanzierungsarten3",
+      "title": "Types of financing",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Match the individual examples with the correct advantages or disadvantages of the three types of financing.",
+          "elements": [
+            {
+              "name": "question20",
+              "type": "radiogroup",
+              "title": "You end up paying more than if you buy in cash because of the interest.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer credit & cash purchase disadvantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question21",
+              "type": "radiogroup",
+              "title": "This type of financing is always more favorable than the other two.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question22",
+              "type": "radiogroup",
+              "title": "You can \"rent\" goods and therefore do not have to save beforehand.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing advantage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finanzierungsarten4",
+      "title": "Types of financing",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Match the individual examples with the correct advantages or disadvantages of the three types of financing.",
+          "elements": [
+            {
+              "name": "question37",
+              "type": "radiogroup",
+              "title": "The buyer must have saved the entire purchase price before the purchase.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cash purchase disadvantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "The car belongs to the buyer from the outset (but you still pay interest).",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumer credit & cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finanzierungsarten5",
+      "title": "Types of financing",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Match the individual examples with the correct advantages or disadvantages of the three types of financing.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "You end up paying more than if you bought in cash because of the interest & compensation.",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Leasing disadvantage",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "The car belongs to the buyer from the outset (and you pay no interest).",
+              "choices": [
+                "Leasing advantage",
+                "Leasing disadvantage",
+                "Consumer credit & cash purchase advantage",
+                "Consumer credit & cash purchase disadvantage",
+                "Cash purchase advantage",
+                "Cash purchase disadvantage"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Cash purchase advantage",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

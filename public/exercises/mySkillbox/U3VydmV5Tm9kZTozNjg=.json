@@ -1,0 +1,174 @@
+{
+  "pages": [
+    {
+      "name": "Migrationspolitik1",
+      "title": "Migration policy",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "checkbox",
+              "title": "With this approach, the UK wants to control immigration itself as far as possible. Tick the category or categories of migrants who would be affected according to Swiss usage.",
+              "choices": [
+                {
+                  "text": "Voluntary",
+                  "value": "Voluntary"
+                },
+                {
+                  "text": "Recognized refugees",
+                  "value": "Recognized refugees"
+                },
+                {
+                  "text": "Persons who are party to the Agreement on the Free Movement of Persons of the EU/EFTA states.",
+                  "value": "Persons who are party to the Agreement on the Free Movement of Persons of the EU/EFTA states."
+                },
+                {
+                  "text": "Economic refugees",
+                  "value": "Economic refugees"
+                }
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Voluntary",
+                "Persons who are party to the Agreement on the Free Movement of Persons of the EU/EFTA states.",
+                "Economic refugees"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Migrationspolitik2",
+      "title": "Migration policy",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Compare the UK's migration policy with ours by ticking all the statements that are correct. Correct any incorrect statements briefly and succinctly.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "In the UK, the government can decide which migrants should enter the country. In Switzerland, this is not possible due to the bilateral agreements.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 2",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No correction necessary."
+            },
+            {
+              "name": "Frage 3",
+              "type": "radiogroup",
+              "title": "The British points system is similar to the Swiss migration policy, which applies to migrants from non-EU/EFTA countries.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 3",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "According to the British points system, only highly qualified and high-earning migrants from non-EU/EFTA countries are accepted."
+            },
+            {
+              "name": "Frage 4",
+              "type": "radiogroup",
+              "title": "The British points system is more transparent for migrants than the Swiss migration policy, which applies to migrants from non-EU/EFTA states.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "right",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 4",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "No correction necessary."
+            },
+            {
+              "name": "Frage 5",
+              "type": "radiogroup",
+              "title": "The British points system applies both the means-tested and merit-based principles.",
+              "choices": [
+                "right",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Korrektur 5",
+              "type": "comment",
+              "title": "Correction:",
+              "correctAnswer": "The points system corresponds to the merit principle, but not to the means-tested principle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Migrationspolitik3",
+      "title": "Migration policy",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide which regulation is best for you: Your own (see task 3a), Switzerland's or the UK's?",
+          "elements": [
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "Place your regulation in the globalization trilemma. Decide which of the three objectives is least likely to be pursued with your regulation:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Justify with the arguing two-step:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Assign your regulation to the Swiss party whose main concerns it most closely reflects:",
+              "isRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

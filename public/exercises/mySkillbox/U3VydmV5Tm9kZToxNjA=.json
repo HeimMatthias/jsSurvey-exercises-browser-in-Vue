@@ -1,0 +1,364 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "If health insurance costs are to be reduced, the minimum deductible would have to be increased.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "The premiums are the same for every health insurance company.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "If I want to change my health insurance company, I have to cancel my current health insurance at the end of the year.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Every health insurance company must accept every person for basic insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "I don't have to pay a deductible with all health insurance companies.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "I can decide for myself whether I want to take out basic health insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel7",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "The insured person pays part of the health costs themselves by means of a deductible and excess. ",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel8",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Every health insurer must provide the same benefits under basic insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page8",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel9",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "If I have a low income, I can claim premium reductions.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page9",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel10",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "When I receive a dental bill, it is paid by my basic health insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page10",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel11",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "I can cancel my health insurance with an e-mail.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page11",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel12",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "If I am prescribed medication by my doctor, this is paid for by my health insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page12",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel13",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "I can decide for myself whether I want to take out supplementary health insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Correct",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page13",
+      "title": "Health insurance",
+      "elements": [
+        {
+          "name": "panel14",
+          "type": "panel",
+          "title": "Decide whether the following statements are true or false.",
+          "elements": [
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "Every health insurance company must accept every person for supplementary insurance.",
+              "choices": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Wrong",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Migration1",
+      "title": "Migration",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A13_Zitat.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "This statement by a migrant woman shows how challenging it can be to find a cultural identity for oneself, i.e. to clarify for oneself which cultural group one feels most likely to belong to.  First, classify this statement in the model \"Strategies of immigrants and host societies\". Then place the statement in the model \"Four phases of identity development\". Give reasons for your classification.",
+              "isRequired": true,
+              "correctAnswer": "It is probably on a path from familial separation towards integration: contact with other cultural groups is increasingly sought without completely severing the bond with family tradition.\nCritical identity (strong search efforts / no clear life compass yet in questions of cultural identity).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Migration2",
+      "title": "Migration",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Link the strategies of migrants who integrate into the host society in different ways to the \"Four phases of identity development\" model. To do this, assign the following three strategies to the types of the \"Four phases of identity development\" model: ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Integration",
+              "isRequired": true,
+              "correctAnswer": "With regard to integration efforts, we can assume that an identity has been developed (after search efforts, a strong life compass is developed)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Assimilation",
+              "isRequired": true,
+              "correctAnswer": "With regard to integration efforts, we can probably assume an adopted identity (feeling strongly committed to certain values / little, no search efforts).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Separation",
+              "isRequired": true,
+              "correctAnswer": "With regard to integration efforts, we can probably assume an adopted identity (feeling strongly committed to certain values / little, no search efforts).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

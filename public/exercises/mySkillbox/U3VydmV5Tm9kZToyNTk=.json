@@ -1,0 +1,229 @@
+{
+  "pages": [
+    {
+      "name": "Lebensgeschichten1",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten4.png\" />",
+              "name": "question6",
+              "type": "html"
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "Assign the life story described to the respective identity phases.",
+              "choices": [
+                "Developed identity",
+                "Critical identity",
+                "Assumed identity",
+                "Diffuse identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Diffuse identity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten2",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten5.png\" />",
+              "name": "question8",
+              "type": "html"
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Assign the life story described to the respective identity phases.",
+              "choices": [
+                "Developed identity",
+                "Critical identity",
+                "Assumed identity",
+                "Diffuse identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Assumed identity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten3",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten6.png\" />",
+              "name": "question10",
+              "type": "html"
+            },
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Assign the life story described to the respective identity phases.",
+              "choices": [
+                "Developed identity",
+                "Critical identity",
+                "Assumed identity",
+                "Diffuse identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Critical identity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten4",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten7_Io0cD3X.png\" />",
+              "name": "question12",
+              "type": "html"
+            },
+            {
+              "name": "question13",
+              "type": "radiogroup",
+              "title": "Assign the life story described to the respective identity phases.",
+              "choices": [
+                "Developed identity",
+                "Critical identity",
+                "Assumed identity",
+                "Diffuse identity"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Developed identity",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten5",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "Ordnen Sie in der folgenden Übung die geschilderten Lebensgeschichten den jeweiligen Identitätsphasen bzw. Verläufen zu.",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Match the life story described to the respective courses.",
+              "choices": [
+                "Relapsing course",
+                "Stagnating trend",
+                "Forward progression"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Forward progression",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten6",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten2.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Match the life story described to the respective courses.",
+              "choices": [
+                "Relapsing course",
+                "Stagnating trend",
+                "Forward progression"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Stagnating trend",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lebensgeschichten7",
+      "title": "Life stories",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M2_A3_Lebensgeschichten3_tRTPeLz.png\" />\n",
+              "name": "question4",
+              "type": "html"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Match the life story described to the respective courses.",
+              "choices": [
+                "Relapsing course",
+                "Stagnating trend",
+                "Forward progression"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Relapsing course",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

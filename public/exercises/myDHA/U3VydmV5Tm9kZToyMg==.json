@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Contractual capacity",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Describe an example person and a possible contract situation for each group of people.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Persons capable of acting",
+              "isRequired": true,
+              "correctAnswer": "Individual answers.\nExample: I have reached the age of 18 - I am therefore capable of judgment and of legal age - and I am getting a credit card.\n",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Persons with limited legal capacity",
+              "isRequired": true,
+              "correctAnswer": "Individual answers.\nExample: My sister is 16 years old - therefore capable of judgment, but not yet of legal age - and she can buy a nice dress with her pocket money.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question15",
+              "type": "comment",
+              "title": "Persons incapable of acting",
+              "isRequired": true,
+              "correctAnswer": "Individual answers.\nExample: Benno is 7 years old and therefore neither capable of judgment nor of legal age; he cannot conclude contracts independently.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

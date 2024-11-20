@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Fragen zum Verursacherprinzip",
+      "title": "Questions on the polluter pays principle",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "The polluter pays principle is an important principle in the environmental sector for creating incentives for people to treat the environment more carefully. Explain the polluter pays principle in one sentence.",
+              "isRequired": true,
+              "correctAnswer": "Those who cause costs should pay for them themselves.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Give examples of the application of the polluter pays principle in the environmental sector.",
+              "isRequired": true,
+              "correctAnswer": "Waste bag fees, the early disposal fee for electrical appliances, the CO₂ levy, the fee for plastic bags on sale.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Questions on the polluter pays principle",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "How do you deal with waste disposal in your household? Describe to what extent you pay attention to waste separation and what types of waste you separate or do not separate or collect separately. Do you regularly go to recycling centers?",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Make a note of a product or product category from your teaching company's range and describe, as far as possible, the ecological effects such as energy consumption, resource consumption and the environmental and climate impact of the manufacture, storage and transportation of your product.",
+              "isRequired": true,
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

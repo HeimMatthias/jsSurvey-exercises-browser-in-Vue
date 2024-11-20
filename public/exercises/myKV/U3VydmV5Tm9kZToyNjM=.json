@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "Kohärenz",
+      "title": "Coherence",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Use linguistic means (cohesive devices) to improve the coherence of the text. Use the example as a guide.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "I was faced with so many new things. The first few weeks of my apprenticeship weren't easy for me.",
+              "readOnly": true,
+              "defaultValue": "Die ersten Wochen in der Lehre waren für mich nicht einfach, denn es kam so viel Neues auf mich zu.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Completely new to me: working in a company on a daily basis, something I had never experienced before.",
+              "isRequired": true,
+              "correctAnswer": "Working in a company on a daily basis was completely new to me, as I had never experienced it before.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "I was familiar with the school business and it was relatively easy for me to start at the vocational school.",
+              "isRequired": true,
+              "correctAnswer": "I was familiar with the school, so it was relatively easy for me to start at the vocational school.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Coherence",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Use linguistic means (cohesive devices) to improve the coherence of the text.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "I struggled at first. I no longer had any free afternoons. I had less time for my hobby.",
+              "isRequired": true,
+              "correctAnswer": "Initially, I struggled with the fact that there were no more free afternoons and I therefore had less time for my hobby.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Overall: my apprenticeship is more strenuous than my time at school. Many new tasks at the training company; quite high demands at the vocational college, less free time.",
+              "isRequired": true,
+              "correctAnswer": "Overall, the apprenticeship is more strenuous for me than my time at school. The reasons for this are the many new tasks at the training company, the quite high demands at the vocational college and less free time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "I like the teaching very much, I'm proud of my perseverance. Now used to the new rhythm after a few months. ",
+              "isRequired": true,
+              "correctAnswer": "After a few months, I have now got used to the new rhythm. I really like the apprenticeship and I'm proud that I've stuck with it.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

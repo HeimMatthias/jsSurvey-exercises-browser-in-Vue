@@ -1,0 +1,234 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Techniques d'entretien et de vente",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Reliez les affirmations à leur description correcte.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Quelle technique démontre une attention totale ?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Écoute active"
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Comment nomme-t-on la compréhension de la perspective d'autrui ?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Empathy"
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "What favors simple and clear communication to avoid malpractice?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Clarté et précision"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "What aspect of communication comprises the body language, gestures and mimicry?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Non-verbal communication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Techniques d'entretien et de vente",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Reliez les affirmations à leur description correcte.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "What is important to help others improve their performance and continue to develop themselves?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Feedback"
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "What type of message expresses your own sentiments and reflections without attacking?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Les messages commençant par \" je \""
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Qu'est-ce qui améliore l'efficacité de la communication de l'interlocuteur ?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Adaptation du style de communication"
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "What can help to obtain information and improve the service?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Poser des questions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Techniques d'entretien et de vente",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Reliez les affirmations à leur description correcte.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "What is important in conflict situations in order to find acceptable solutions for both parties?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Compromis"
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Quelle technique utilize des arguments logiques et convaincants pour convaincre les autres ?",
+              "choices": [
+                "Écoute active",
+                "Clarté et précision",
+                "Empathy",
+                "Non-verbal communication",
+                "Feedback",
+                "Les messages commençant par \" je \"",
+                "Poser des questions",
+                "Adaptation du style de communication",
+                "Compromis",
+                "Reasoning"
+              ],
+              "correctAnswer": "Reasoning"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

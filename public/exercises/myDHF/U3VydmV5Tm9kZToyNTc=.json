@@ -1,0 +1,102 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Types of customer loyalty",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What type of customer loyalty is involved in the situations described?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Carla buys a kebab and is delighted to discover that her stamp card is almost full - the next but one kebab is free!",
+              "choices": [
+                "Situational customer loyalty",
+                "Legal customer loyalty",
+                "Technical customer loyalty",
+                "Economic customer loyalty",
+                "Emotional customer loyalty"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic customer loyalty",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "When Timo bought his new smartphone, he also took out a new subscription that is better tailored to his needs. He can cancel the subscription after one year at the earliest.",
+              "choices": [
+                "Situational customer loyalty",
+                "Legal customer loyalty",
+                "Technical customer loyalty",
+                "Economic customer loyalty",
+                "Emotional customer loyalty"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Legal customer loyalty",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Yingtao works in a clothes store in Shopville at Zurich main station. When she closes the store at 9 pm, she is grateful that the supermarket in the station is open until 10 pm.",
+              "choices": [
+                "Situational customer loyalty",
+                "Legal customer loyalty",
+                "Technical customer loyalty",
+                "Economic customer loyalty",
+                "Emotional customer loyalty"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Situational customer loyalty",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Alex plays tennis regularly and once again needs new shoes. He only wears one brand: Nike - just like his idol Rafael Nadal.",
+              "choices": [
+                "Situational customer loyalty",
+                "Legal customer loyalty",
+                "Technical customer loyalty",
+                "Economic customer loyalty",
+                "Emotional customer loyalty"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Emotional customer loyalty",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Lia always buys new printer cartridges from the same electronics store. She knows that the store always has the cartridges she needs for her printer model in stock.",
+              "choices": [
+                "Situational customer loyalty",
+                "Legal customer loyalty",
+                "Technical customer loyalty",
+                "Economic customer loyalty",
+                "Emotional customer loyalty"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Technical customer loyalty",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

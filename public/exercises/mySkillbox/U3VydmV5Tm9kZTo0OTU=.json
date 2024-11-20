@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "name": "Mietvertrag1",
+      "title": "Rental agreement",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "When Max reads his tenancy agreement carefully, he notices several passages that make him suspicious. Give him specific answers to his questions using the \"Application procedure and conclusion of contract\" tool (section D).",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "The rental agreement mentions a minimum contract period of 2 years. Max wonders whether he has the right to leave his apartment at any time with 3 months' notice.",
+              "isRequired": true,
+              "correctAnswer": "No, a minimum contract term is permitted and may even be set for several years. Max must therefore either adhere to the minimum contract term of 2 years or provide a reasonable replacement tenant if he wants to move out before then. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "A fixed flat rate was entered for the service charges. Max thought that the landlord was obliged to send him a detailed service charge statement every year.",
+              "isRequired": true,
+              "correctAnswer": "No, flat-rate service charges are permissible. If a tenant is of the opinion that they are obviously paying too much, they can demand a reduction on the next termination date.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mietvertrag2",
+      "title": "Rental agreement",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "When Max reads his tenancy agreement carefully, he notices several passages that make him suspicious. Give him specific answers to his questions using the \"Application procedure and conclusion of contract\" tool (section D).",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The landlady demands 2 months' gross rent as a deposit. Max, however, thinks she should demand a maximum of 1 month's net rent.",
+              "isRequired": true,
+              "correctAnswer": "No, the landlord may even demand 3 gross monthly rents.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Max has been told by his mother that the reference interest rate has fallen compared to last year and that he can therefore request a reduction in the rent. He wonders whether this information is really true. ",
+              "isRequired": true,
+              "correctAnswer": "Yes, that is correct. You can find ready-made forms for reducing the rent from the tenants' association.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

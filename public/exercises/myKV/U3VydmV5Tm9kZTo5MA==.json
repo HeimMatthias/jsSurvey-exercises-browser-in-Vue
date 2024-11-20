@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Cloud service provider",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Which service is this?",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "radiogroup",
+              "title": "A streaming service is expecting increased requests to its service over the next few days as it releases a long-announced series with many fans. To compensate for the increased traffic on its website, it is renting additional computing power from an American provider.",
+              "choices": [
+                "IaaS",
+                "DaaS",
+                "PaaS",
+                "Saas"
+              ],
+              "isRequired": true,
+              "correctAnswer": "IaaS",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Cloud service provider",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Which service is this?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Your company works with word processing software that you can use via your browser. Texts are not saved locally. You have not saved the software locally on your work PC either; you only use it in your browser.",
+              "choices": [
+                "IaaS",
+                "DaaS",
+                "PaaS",
+                "Saas"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Saas",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Cloud service provider",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Which service is this?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "You work in a very small company that cannot afford to buy new computers for the offices at the moment. Instead, the company rents storage space and memory from a cloud provider's servers. The cloud provider allows a virtual machine to run over the internet. You simply open the cloud provider's application and a window opens that looks exactly like the desktop of a computer. This allows you to complete your demanding tasks, which require much more computing capacity than you actually have on your old laptop.",
+              "choices": [
+                "IaaS",
+                "DaaS",
+                "PaaS",
+                "Saas"
+              ],
+              "isRequired": true,
+              "correctAnswer": "DaaS",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Mail order",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What are the three different types of mail order business?",
+              "isRequired": true,
+              "correctAnswer": "Classic mail order, e-commerce (Internet commerce), teleshopping",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are the advantages of mail order over retail?",
+              "isRequired": true,
+              "correctAnswer": "Selection at home in peace and quiet and in the presence of family members (indirect advice), time saving, easy ordering around the clock, convenience, comparison options, uncomplicated (and usually free) returns",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why has the mail order business been able to increase its market share in recent years? List four different reasons.",
+              "isRequired": true,
+              "correctAnswer": "Changing shopping habits of the population; time factor when shopping; aggressive advertising by mail order companies; constant availability thanks to smartphones; simple digital payment options; shopping-specific search functions (e.g. on Google)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

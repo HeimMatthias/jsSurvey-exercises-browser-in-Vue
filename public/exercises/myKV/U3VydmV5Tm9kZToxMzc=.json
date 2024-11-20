@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "name": "Entwicklungen",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "text",
+              "title": "What are social networks?",
+              "isRequired": true,
+              "correctAnswer": "Connecting people in analog and digital form ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What advantage do analog social networks have over digital ones?",
+              "isRequired": true,
+              "correctAnswer": "In analog social networks, contacts are direct and personal.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What advantage do digital social networks have over analog ones?",
+              "isRequired": true,
+              "correctAnswer": "Digital social networks allow you to communicate with many people around the world.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Which digital social networks are relevant for your profession? Name three portals.",
+              "isRequired": true,
+              "correctAnswer": "e.g. Facebook, LinkedIn, XING, TikTok",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What shapes a person's personality? Name five influencing factors.",
+              "isRequired": true,
+              "correctAnswer": "Family, school, circle of friends, profession, clubs, religion, political system, mass media, social background, gender",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

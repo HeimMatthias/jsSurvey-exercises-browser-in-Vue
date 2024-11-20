@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "The tax return",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "You cannot pay your taxes and ask for a deferral.",
+                "If you are unable to complete your tax return by the deadline, apply for an extension.",
+                "If you do not agree with the tax assessment, submit a written tax objection.",
+                "Tax debts are waived in the event of death.",
+                "You receive a much higher tax assessment than expected. You call the tax administration and enquire there."
+              ],
+              "type": "matrix",
+              "title": "What do you do if you have problems with taxes? What is right, what is wrong:",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Bei Tod werden die Steuerschulden erlassen.": "Wrong",
+                "Sie können Ihre Steuern nicht bezahlen und bitten um eine Stundung.": "Correct",
+                "Wenn Sie die Steuererklärung nicht fristgerecht ausfüllen können, beantragen Sie eine Fristerstreckung.": "Correct",
+                "Wenn Sie mit der Steuerveranlagung nicht einverstanden sind, machen Sie eine schriftliche Steuereinsprache.": "Correct",
+                "Sie erhalten eine wesentlich höhere Steuerveranlagung als erwartet. Sie rufen die Steuerverwaltung an und erkundigen sich dort.": "Correct"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

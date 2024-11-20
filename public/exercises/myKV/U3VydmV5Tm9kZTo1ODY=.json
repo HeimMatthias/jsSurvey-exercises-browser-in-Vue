@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Schritte der Argumentation 2",
+      "title": "Steps of argumentation 3",
+      "elements": [
+        {
+          "name": "Name der Aufgaben",
+          "type": "panel",
+          "title": "Assign the texts to the correct argumentation step (assertion, justification, conclusion, example).",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "1. because the learners are more rested and concentrated. This means that lessons can be organized more effectively and students don't have to get up so early.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Reason"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "2. a well-rested learner can, for example, work better in HKB E lessons and solve the tasks set more quickly.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Example"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "3. students are more alert and attentive in a school that starts at 9 o'clock. They can concentrate better on the lessons and learn more effectively. For this reason, it is advisable to move the start of school to 9 o'clock.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Conclusion"
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "4. schools should not start lessons until 9 a.m, ",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Assertion"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

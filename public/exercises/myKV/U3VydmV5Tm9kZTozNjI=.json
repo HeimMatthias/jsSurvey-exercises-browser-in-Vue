@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Respectful communication",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "How can you approach the following situations so as to go one step further?",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "When you have lost a customer in a conversation.",
+              "isRequired": true,
+              "correctAnswer": "Approach the customer actively: I kind of feel that I haven't been able to convince you entirely so far. Can I provide you with more information to help with the decision?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "When the customer doesn’t close the sale.",
+              "isRequired": true,
+              "correctAnswer": "Possible approaches: I suspect that there is a specific point worrying you that I haven't dealt with - what is it? Or: Please excuse me. It seems I've got so carried away by my enthusiasm for this quote that I've missed something out in the presentation. What makes you say that? Or: What needs to be added for you to be able to say \"yes\"?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "When the other party does not agree.",
+              "isRequired": true,
+              "correctAnswer": "Try to put yourself in their shoes. What would be needed for her to be able to agree in principle?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "When the interlocutor is not interested in the matter.",
+              "isRequired": true,
+              "correctAnswer": "Address the disinterest actively: what else would essentially have to be added for you to take an interest in this?",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

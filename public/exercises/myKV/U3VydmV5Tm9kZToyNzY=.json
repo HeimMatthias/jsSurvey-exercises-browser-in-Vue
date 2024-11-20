@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "The contract for work",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "In the case of a contract for work and services, the contractor owes the customer a specific work result.",
+                "The contracting party that undertakes to produce a work is called an entrepreneur.",
+                "When your bike dealer services your road bike, they are fulfilling a contract for work and services.",
+                "The remuneration for a contract for work and services is referred to as remuneration for work.",
+                "A contract for work and services must always be concluded in writing.",
+                "The contractor is liable for ensuring that the work has no defects.",
+                "In the event of defects, the customer may demand rescission, reduction of the purchase price or replacement delivery.",
+                "After delivery, the customer must inspect the work within the usual period and notify the contractor of any defects.",
+                "Claims arising from defects in a work shall lapse after ten years.",
+                "If a work is defective, the customer may demand that the work be improved free of charge if this does not result in excessive costs.",
+                "The customer must pay the remuneration for the work before the work is delivered.",
+                "If a work breaks before it is handed over, the contractor can claim neither costs nor wages from the customer."
+              ],
+              "type": "matrix",
+              "title": "Are the statements on the contract for work and services correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Die Vergütung beim Werkvertrag nennt man Werklohn.": "right",
+                "Ein Werkvertrag muss immer schriftlich abgeschlossen werden.": "wrong",
+                "Der Unternehmer haftet dafür, dass das Werk keine Mängel hat.": "right",
+                "Ansprüche aus Mängeln eines Werks verjähren nach zehn Jahren.": "wrong",
+                "Der Besteller muss den Werklohn vor der Ablieferung des Werks bezahlen.": "wrong",
+                "Beim Werkvertrag schuldet der Unternehmer dem Besteller ein bestimmtes Arbeitsergebnis.": "right",
+                "Die Vertragspartei, die sich verpflichtet ein Werk herzustellen, nennt man Unternehmer.": "right",
+                "Bei Mängeln kann der Besteller die Wandelung, Minderung oder Ersatzlieferung verlangen.": "wrong",
+                "Wenn Ihr Velohändler den Service an Ihrem Rennrad vornimmt, erfüllt er einen Werkvertrag.": "right",
+                "Wenn ein Werk noch vor der Übergabe kaputt geht, kann der Unternehmer weder Kosten noch Lohn vom Besteller fordern.": "right",
+                "Nach Ablieferung hat der Besteller das Werk innert üblicher Frist zu prüfen und dem Unternehmer allfällige Mängel anzuzeigen.": "right",
+                "Ist ein Werk mangelhaft, kann der Besteller die unentgeltliche Verbesserung des Werks verlangen, wenn dies nicht übermässige Kosten verursacht.": "right"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

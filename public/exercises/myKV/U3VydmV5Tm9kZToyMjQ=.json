@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "Richtig oder falsch?1",
+      "title": "Benefit and risk",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "title": "Place purchase of generic goods",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Transfer of benefit and risk:",
+              "isRequired": true,
+              "correctAnswer": "When the goods have been prepared for delivery.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Law article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 185 Abs. 2 OR",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Example:",
+              "isRequired": true,
+              "correctAnswer": "Buying a new notebook from an electronics store",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Benefit and risk",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Distance selling of generic goods",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Transfer of benefit and risk:",
+              "isRequired": true,
+              "correctAnswer": "When the goods have been dispatched.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Law article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 185 Abs. 2 OR",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Example:",
+              "isRequired": true,
+              "correctAnswer": "Ordering a book online",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Benefit and risk",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Species purchase",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Transfer of benefit and risk:",
+              "isRequired": true,
+              "correctAnswer": "When the purchase contract has been concluded.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Law article:",
+              "isRequired": true,
+              "correctAnswer": "Art. 185 Abs. 1 OR",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Example:",
+              "isRequired": true,
+              "correctAnswer": "Purchase of a painting",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

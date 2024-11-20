@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "name": "Telefonnotiz",
+      "title": "Working with pivot tables",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Evaluate the amounts collected according to the following questions on a new spreadsheet. Copy the pivot table of the answered question and paste it underneath so that you have answered all questions on one spreadsheet.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "a) How much was collected in total at all four cash registers?",
+              "correctAnswer": "CHF 9552.60"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "b) What was the highest amount collected at a cash register?",
+              "correctAnswer": "CHF 511.00"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "c) Which fund collected the highest amount?",
+              "correctAnswer": "Cash register 2"
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "d) What was the lowest amount collected at a cash register?",
+              "correctAnswer": "CHF 5.85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Heading",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Evaluate the amounts collected according to the following questions on a new spreadsheet. Copy the pivot table of the answered question and paste it underneath so that you have answered all questions on one spreadsheet.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "e) What was the average amount collected per fund?",
+              "correctAnswer": "CHF 117.93"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "f) Which group has achieved the highest amount per purchase?",
+              "correctAnswer": "Clothing"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "g) Which group raised the highest total amount?",
+              "correctAnswer": "Food (CHF 4471.90)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

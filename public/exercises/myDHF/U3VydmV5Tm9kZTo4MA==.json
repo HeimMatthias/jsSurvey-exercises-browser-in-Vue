@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "name": "Konfliktmanagement",
+      "title": "Conflict management",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What is meant by communication?",
+              "isRequired": true,
+              "correctAnswer": "Communication means exchanging information. Not only sentences and words, but also posture, gestures (expressive movements of the body) and facial expressions are important.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "On which four levels can you communicate?",
+              "isRequired": true,
+              "correctAnswer": "Factual level: What the sender is informing about / Self-disclosure level: What the sender is disclosing about themselves (consciously or unconsciously). / Appeal level: What the sender wants the recipient to do. / Relationship level: How the sender relates to the recipient.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Which levels of communication are suitable for a factual conversation?",
+              "isRequired": true,
+              "correctAnswer": "The factual level or the self-disclosure level.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Conflict management",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why do misunderstandings arise?",
+              "isRequired": true,
+              "correctAnswer": "Misunderstandings arise when the sender and receiver are on different levels of communication. For example, if a sender makes a factual comment, but the receiver understands this as criticism of their own person with the ear of the relationship level.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Why do self-confident people communicate better?",
+              "isRequired": true,
+              "correctAnswer": "Self-confident people are less likely to feel attacked by others, do not have to constantly justify themselves and are more likely to receive messages at the factual level or at the self-disclosure level. They have the courage to say exactly what they mean and are less vague or ambiguous.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Can't you communicate?",
+              "isRequired": true,
+              "correctAnswer": "No. According to Watzlawick's theory, people cannot do anything without their behavior being interpreted by others. You always say something - if not with words, then with your posture, body movements or facial expressions.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Conflict management",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Name three basic rules for constructive criticism.",
+              "isRequired": true,
+              "correctAnswer": "Uplifting criticism should always be instructive; you should praise someone when it is appropriate; you must be careful not to hurt anyone.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "To what extent does constructive criticism strengthen?",
+              "isRequired": true,
+              "correctAnswer": "Building criticism strengthens self-confidence and therefore also the ability to communicate. In addition, constructive criticism supports personal development.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Interview questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "Why do you want to change employer?",
+              "isRequired": true,
+              "correctAnswer": "I have been working at Trisa AG in Lucerne since I started my apprenticeship, where I am part of a very friendly team. Thanks to good supervision and guidance, I was able to gain a lot of valuable experience there, particularly in the maintenance of production systems. After four years, I am now looking for a new challenge where I can contribute my experience. I would also like to develop professionally.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are you particularly interested in here?",
+              "isRequired": true,
+              "correctAnswer": "The idea of independently carrying out maintenance and servicing work on a wide variety of devices and machines excites me. The production of new machine and system parts has not been one of my core tasks so far. I would like to learn more in this area. Until a year ago, I hosted a successful YouTube channel with 15,000 subscribers, where I published tutorials for simple car repair work. However, I had to give up this hobby due to time constraints. I would like to incorporate the strategies and skills I was able to acquire into my new job. I am very familiar with the fields of pneumatics and hydraulics; they formed the basis for my core tasks at Trisa AG. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How would your colleague describe you?",
+              "isRequired": true,
+              "correctAnswer": "I am an outgoing, communicative and flexible person who enjoys taking on challenges. I attach great importance to accuracy at work, because a good quality result is important to me and gives me pleasure. I organize myself independently and efficiently and like to give my all.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1"
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "name": "Rechte bei mangelhafter Ware",
+      "title": "Rights in the event of defective goods",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Fill in the gap.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-files-prod.s3-eu-west-1.amazonaws.com/original_images/M10-3_A12_Grafik_qyEkVyw.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "1:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "Yes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "2:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "Repair",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "3:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "not",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "4:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "No",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "5:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "Reduction",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "6:",
+              "type": "text",
+              "isRequired": true,
+              "correctAnswer": "Money",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Sales contracts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "A day later, Michael calls again and says he doesn't want to buy the printer. Is this still possible? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No. Anyone who enters into a purchase contract is fundamentally bound by it. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Would it be possible for Michael to withdraw from the contract if he had sent the order by letter? Explain the facts of the case.",
+              "isRequired": true,
+              "correctAnswer": "In this case, he could withdraw from the contract if his declaration of renunciation arrives at the retail store before the order is placed by letter. As long as the letter is still on its way, Michael can still cancel the order by phone, fax or e-mail.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Explain to Michael which transactions are subject to a statutory right of withdrawal and which requirements must be met for him to be able to withdraw from the contract.",
+              "isRequired": true,
+              "correctAnswer": "There is a right of withdrawal for door-to-door sales or similar contracts (e.g. sales on the street) if the amount exceeds CHF 100, as well as for contracts that fall under the Consumer Credit Act. The right of withdrawal (right of revocation) is 14 days. Withdrawal is not subject to any formal requirements and is possible without giving reasons.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

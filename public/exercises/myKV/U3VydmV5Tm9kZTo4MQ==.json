@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Integrated accounting",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The balance sheet can be printed in the annual financial statements.",
+                "Supplier invoices can be released for payment.",
+                "Payroll accounting for employees can be created.",
+                "The salary report for social insurance can be created.",
+                "Open customer invoices can be monitored.",
+                "Supplier invoices can be paid via e-banking."
+              ],
+              "type": "matrix",
+              "title": "In which of the following modules can the described work steps be carried out? Financial Accounting (Fibu), Accounts Receivable (Debi), Accounts Payable (Kredi) or Payroll Accounting (Lohn)?",
+              "columns": [
+                "Financial accounting",
+                "Debi",
+                "Credi",
+                "Wages"
+              ],
+              "correctAnswer": {
+                "Beim Jahresabschluss kann die Bilanz gedruckt werden.": "Financial accounting",
+                "Die offenen Kundenrechnungen können überwacht werden.": "Debi",
+                "Lieferantenrechnungen können zur Zahlung freigegeben werden.": "Credi",
+                "Lieferantenrechnungen können über das E-Banking bezahlt werden.": "Credi",
+                "Die Lohnabrechnungen für die Mitarbeiter können erstellt werden.": "Wages",
+                "Die Lohnmeldung für die Sozialversicherungen kann erstellt werden.": "Wages"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Integrated accounting",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The budgeted and recognized expenses can be compared.",
+                "The wage statements for employees can be printed.",
+                "Reminders for overdue customer invoices can be created.",
+                "Expenses and income can be compared with the previous year.",
+                "Employees' travel expenses can be accounted for and paid out.",
+                "Statistics on turnover from sales can be generated."
+              ],
+              "type": "matrix",
+              "title": "In which of the following modules can the described work steps be carried out? Financial Accounting (Fibu), Accounts Receivable (Debi), Accounts Payable (Kredi) or Payroll Accounting (Lohn)?",
+              "columns": [
+                "Financial accounting",
+                "Debi",
+                "Credi",
+                "Wages"
+              ],
+              "correctAnswer": {
+                "Die Lohnausweise für die Mitarbeiter können gedruckt werden.": "Wages",
+                "Mahnungen für fällige Kundenrechnungen können erstellt werden.": "Debi",
+                "Die budgetierten und verbuchten Aufwände können verglichen werden.": "Financial accounting",
+                "Die Aufwände und Erträge können mit dem Vorjahr verglichen werden.": "Financial accounting",
+                "Reisespesen der Mitarbeiter können abgerechnet und ausbezahlt werden.": "Wages",
+                "Statistiken über die Umsätze aus Verkäufen können erstellt werden.": "Debi"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

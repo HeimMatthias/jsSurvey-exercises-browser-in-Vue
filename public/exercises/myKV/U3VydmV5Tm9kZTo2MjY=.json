@@ -1,0 +1,195 @@
+{
+  "pages": [
+    {
+      "name": "Veränderung der Angebotskurve für Schokolade",
+      "title": "Change in the supply curve for chocolate",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for chocolate coins will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Example: A strike in the main cocoa-growing regions of West Africa (the main ingredient in chocolate) means that a large proportion of the cocoa beans cannot be harvested this year.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the left"
+            },
+            {
+              "name": "Allfällige Korrektur",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - demand unchanged with lower supply"
+            },
+            {
+              "name": "question14",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price for advance services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Change in the supply curve for chocolate",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for chocolate coins will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Example: A new study shows that eating chocolate is not as unhealthy as we think.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "Not at all"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Increases - because the demand curve shifts to the right with the same supply, there is a shift on the supply curve"
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "–"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Change in the supply curve for chocolate",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for chocolate coins will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Example: Breeding a new cocoa variety increases the cocoa yield per cocoa tree by 20 percent.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the right"
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Falling - greater supply with the same demand"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in productivity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Change in the supply curve for chocolate",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for chocolate coins will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Example: Due to many negative media reports on poor working conditions and child labor in the producing countries, chocolate producers are forced to significantly increase wages for local employees.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the left"
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Rising - demand unchanged with lower supply"
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price for advance services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Change in the supply curve for chocolate",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "For the following examples, decide how the supply curve for chocolate coins will change. Also describe what effects this has on the price in the short term (including a brief explanation). What is the reason behind the respective shift in the supply curve?",
+          "elements": [
+            {
+              "name": "question11",
+              "type": "radiogroup",
+              "title": "Example: The market prices for pralines have fallen significantly. Many praline manufacturers are therefore switching to chocolate bar production.",
+              "choices": [
+                "To the left",
+                "To the right",
+                "Not at all"
+              ],
+              "correctAnswer": "To the right"
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Effects on the price including brief justification",
+              "correctAnswer": "Falling - greater supply with the same demand"
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Reason for the shift in the supply curve",
+              "correctAnswer": "Change in price for substitutes"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

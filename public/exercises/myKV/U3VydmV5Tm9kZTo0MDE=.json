@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "From NE to BKreditVP",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "The gross credit sales price is also referred to as the catalog price.",
+                "All customers can deduct the same discount.",
+                "Customers are legally entitled to a 2% discount.",
+                "If the customer account is added, the payment amount is 100%.",
+                "10% discount and 2% cash discount result in a surcharge of 12%. ",
+                "Invoice amount is another term for net credit sales price.",
+                "The costs of packaging are part of the special selling costs.",
+                "The discount and then the rebate are added to the net cash sales price.",
+                "The net cash selling price is also referred to as the invoice amount.",
+                "Payment amount plus discount equals the invoice amount.",
+                "The special sales costs are added to the invoice amount.",
+                "The customer can calculate the discount from the catalog price."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements regarding the calculation of net proceeds to gross loan sale price correct or incorrect?",
+              "columns": [
+                "right",
+                "wrong"
+              ],
+              "correctAnswer": {
+                "Alle Kunden können den gleichen Rabatt abziehen.": "wrong",
+                "Der Kunde kann den Rabatt vom Katalogpreis berechnen.": "right",
+                "10% Rabatt und 2% Skonto ergeben einen Zuschlag von 12%. ": "wrong",
+                "Die Kunden haben einen gesetzlichen Anspruch auf 2% Skonto.": "wrong",
+                "Die Verkaufssonderkosten werden zum Rechnungsbetrag addiert.": "wrong",
+                "Zahlungsbetrag zuzüglich Skonto ergibt den Rechnungsbetrag.": "right",
+                "Die Kosten der Verpackung gehören zu den Verkaufssonderkosten.": "right",
+                "Der Nettobarverkaufspreis wird auch als Rechnungsbetrag bezeichnet.": "wrong",
+                "Der Bruttokreditverkaufspreis wird auch als Katalogpreis bezeichnet.": "right",
+                "Wenn der Kundenskonto dazugezählt wird, ist der Zahlungsbetrag 100%.": "wrong",
+                "Rechnungsbetrag ist ein anderer Begriff für Nettokreditverkaufspreis.": "right",
+                "Zum Nettobarverkaufspreis wird zuerst der Skonto und dann der Rabatt addiert.": "right"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Rhetorical stylistic devices",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Name the six rhetorical stylistic devices presented in the basic knowledge section.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Life is a journey.",
+              "correctAnswer": "Metaphor: The sentence \"Life is a journey\" compares life to a journey. This is intended to convey the idea that life is full of experiences, just like a journey. It is a figurative paraphrase."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Peter Piper picked a peck of pickled peppers.",
+              "correctAnswer": "Alliteration: In the sentence \"Peter Piper picked a peck of pickled peppers\", all words begin with the letter P. This creates a memorable sound and makes the sentence easier to remember."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What a beautiful day!",
+              "correctAnswer": "Irony: The sentence \"What a beautiful day!\" is said during a heavy downpour. In reality, it is not a beautiful day and the irony is used to express dissatisfaction with the weather."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Rhetorical stylistic devices",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Name the six rhetorical stylistic devices presented in the basic knowledge section.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "I'm so hungry, I could eat a whole horse!",
+              "correctAnswer": "Hyperbole: In the sentence \"I'm so hungry, I could eat a whole horse!\", hunger is greatly exaggerated. It is unlikely that someone could actually eat a whole horse. This exaggeration serves to emphasize how hungry a person is."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Are you serious?",
+              "correctAnswer": "Rhetorical question: Suggestion: Anyone who asks the question \"Are you serious?\" is not expecting a real answer. It serves to express disbelief or astonishment at the behavior of another person."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "The sun laughs from the sky.",
+              "correctAnswer": "Personification: In the sentence \"The sun laughs from the sky\", the human ability to laugh is attributed to the sun. This describes a happy, sunny day."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "He has passed away.",
+              "correctAnswer": "Euphemism: In the sentence \"He has passed away\", death is described using a less direct expression. This serves to make the statement sound less harsh and to respect the grief of the bereaved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

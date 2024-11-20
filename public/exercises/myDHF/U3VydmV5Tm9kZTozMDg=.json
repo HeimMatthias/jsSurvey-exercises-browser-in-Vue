@@ -1,0 +1,101 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Gift sale ",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Please answer the following questions on the subject of gift sales (multiple answers possible). ",
+          "elements": [
+            {
+              "name": "Welche Eigenschaften sollten Sie besitzen, damit der Geschenkverkauf gelingt?",
+              "type": "checkbox",
+              "choices": [
+                "Speed and efficiency ",
+                "Product range knowledge and operational knowledge ",
+                "Aggressive sales technique and marketing strategy ",
+                "Empathy and knowledge of the legal basis "
+              ],
+              "correctAnswer": [
+                "Product range knowledge and operational knowledge ",
+                "Empathy and knowledge of the legal basis "
+              ]
+            },
+            {
+              "name": "In welcher Hinsicht stellt der Geschenkverkauf für Sie eine Chance dar?",
+              "type": "checkbox",
+              "choices": [
+                "It offers the opportunity to get rid of slow sellers. ",
+                {
+                  "text": "Unredeemed gift vouchers increase sales.",
+                  "value": "Unredeemed gift vouchers increase sales. "
+                },
+                "You can demonstrate your expertise. ",
+                "With your expert advice, you can trigger positive emotions and strengthen customer loyalty. "
+              ],
+              "correctAnswer": [
+                "You can demonstrate your expertise. ",
+                "With your expert advice, you can trigger positive emotions and strengthen customer loyalty. "
+              ]
+            },
+            {
+              "name": "Welche Regeln sollten Sie einhalten, wenn die beschenkte Person unbekannt oder schlecht bekannt ist?",
+              "type": "checkbox",
+              "choices": [
+                "The gift must be as original as possible. ",
+                "The recommended product must not require the use of other products. ",
+                "A voucher can be offered.  ",
+                "Only high-priced products should be offered. "
+              ],
+              "correctAnswer": [
+                "The recommended product must not require the use of other products. ",
+                "A voucher can be offered.  "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Gift sale ",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions on the subject of gift sales. ",
+          "elements": [
+            {
+              "name": "Welche Motive für einen Geschenkkauf kennen Sie? Nennen Sie mindestens fünf Anlässe.",
+              "type": "comment",
+              "correctAnswer": "Personal celebrations/occasions (birthday, baptism, confirmation, confirmation, wedding, wedding anniversary, family celebration, invitation, funeral, memorial service, hospitalization); new stages in life (passing an exam, moving into a new apartment, buying a house, job promotion, retirement); holidays (Christmas, Easter, Eid, Diwali, Mother's Day, Father's Day); thanks for services rendered (lending things, babysitting, looking after the house and pets, helping with household chores, repairs, etc.).) "
+            },
+            {
+              "name": "Welche Kundendienste und Serviceleistungen sind im Zusammenhang mit dem Geschenkkauf von Bedeutung?",
+              "type": "comment",
+              "correctAnswer": "Customer services: exchange, right of return; services: Home delivery, personalization options (e.g. engraving, enclosed greeting card) "
+            },
+            {
+              "name": "Welche Handlungen führen Sie beim Abschluss des Geschenkverkaufs aus?",
+              "type": "comment",
+              "correctAnswer": "Remove price labels; offer gift packaging; advise customers to keep the original receipt; if possible, print out an additional receipt without price information "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

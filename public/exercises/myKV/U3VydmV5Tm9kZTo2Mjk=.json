@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "name": "Dreisatz und Zinsformeln",
+      "title": "Rule of three and interest formulas",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Die Jahreszinsformel Z = (K x p)/100 ist nichts anderes als eine nutzerfreundliche Dreisatz-Berechnung. Dies gilt letztlich auch für die allgemeine Zinsformel Z = (K x p x t)/100 x 360. Sind in diesem Zusammenhang die folgenden Aussagen, die sich auf die unten abgebildeten Dreisätze 1 und 2 beziehen, korrekt? Kreuzen Sie die korrekten Aussagen an.",
+              "type": "checkbox",
+              "choices": [
+                "Three-rate 2 corresponds to the general interest formula for the following case: CHF 6,800 is credited to a bank account on the value date (relevant date for the calculation of days t in the general interest formula) December 31. The interest rate is 0.2%. ",
+                "The rule of three 1 applies to the following case: The annual interest rate is to be calculated using a given interest rate and a given capital. The rule of three calculation in rule of three 1 ultimately shows nothing other than the annual interest formula.",
+                "Based on the result of rule of three 1, a second rule of three is used to calculate the accrued interest as of the value date March 28. This would probably be easier and quicker with the general interest formula. Note: According to the interest formula and German custom (commercial practice), a year has 360 days."
+              ],
+              "correctAnswer": [
+                "The rule of three 1 applies to the following case: The annual interest rate is to be calculated using a given interest rate and a given capital. The rule of three calculation in rule of three 1 ultimately shows nothing other than the annual interest formula.",
+                "Based on the result of rule of three 1, a second rule of three is used to calculate the accrued interest as of the value date March 28. This would probably be easier and quicker with the general interest formula. Note: According to the interest formula and German custom (commercial practice), a year has 360 days."
+              ]
+            },
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/F_LJ3_LF2_M1_A7_Dreisatz.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

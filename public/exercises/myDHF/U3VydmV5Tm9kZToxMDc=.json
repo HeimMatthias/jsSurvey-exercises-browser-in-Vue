@@ -1,0 +1,121 @@
+{
+  "pages": [
+    {
+      "name": "Produktentsorgung",
+      "title": "Product disposal",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Where are the following products disposed of correctly according to the Recycling Compass?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Electrical and electronic devices",
+              "isRequired": true,
+              "correctAnswer": "At the point of sale and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Paper",
+              "isRequired": true,
+              "correctAnswer": "At street collections and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Aluminum and tinplate",
+              "isRequired": true,
+              "correctAnswer": "At collection points and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Textiles and shoes",
+              "isRequired": true,
+              "correctAnswer": "At collection points and/or street collections",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Glass",
+              "isRequired": true,
+              "correctAnswer": "At collection points and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Product disposal",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Where are the following products disposed of correctly according to the Recycling Compass?",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "Cardboard box",
+              "isRequired": true,
+              "correctAnswer": "At street collections and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "Batteries",
+              "isRequired": true,
+              "correctAnswer": "At the point of sale and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "Plastic bottles",
+              "isRequired": true,
+              "correctAnswer": "At the point of sale and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Unknown materials",
+              "isRequired": true,
+              "correctAnswer": "At the recycling center",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "PET beverage bottles",
+              "isRequired": true,
+              "correctAnswer": "At the point of sale and/or the recycling center",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

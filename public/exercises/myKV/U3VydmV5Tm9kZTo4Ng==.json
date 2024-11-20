@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Word",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/A11_Titelleiste-Icon.original.png\" />",
+              "name": "Frage 3",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What happens as soon as you click on the icon shown in the title bar of the Word window?",
+              "choices": [
+                "The Word window is maximized to screen size.",
+                "Word is closed if only one Word document is open.",
+                "The Word window is minimized and placed on the taskbar.",
+                "The Word window is reduced in size."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The Word window is reduced in size.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Word",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "What does not apply to the quick access bar?",
+              "choices": [
+                "It can be displayed instead of the status bar.",
+                "It can be displayed below or above the ribbon.",
+                "It can be supplemented with additional command symbols at any time.",
+                "The order of the command symbols can be determined."
+              ],
+              "isRequired": true,
+              "correctAnswer": "It can be displayed instead of the status bar.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Font formatting",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Now look at these texts and then solve the task.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/A11_Texte_1-5.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "rows": [
+                "non-proportional font",
+                "Small caps font without serifs",
+                "proportional font in capital letters",
+                "proportional, italic font without serifs"
+              ],
+              "type": "matrix",
+              "title": "In which of the texts (Text 1 - Text 5) do you find the font formatting mentioned? Mark the correct answer.",
+              "columns": [
+                "Text 1",
+                "Text 2",
+                "Text 3",
+                "Text 4",
+                "Text 5"
+              ],
+              "correctAnswer": {
+                "nicht proportionale Schrift": "Text 2",
+                "Kapitälchen-Schrift ohne Serifen": "Text 5",
+                "proportionale Schrift in Grossbuchstaben": "Text 3",
+                "proportionale, kursive Schrift ohne Serifen": "Text 1"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

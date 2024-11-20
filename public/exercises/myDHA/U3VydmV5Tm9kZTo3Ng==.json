@@ -1,0 +1,84 @@
+{
+  "pages": [
+    {
+      "name": "Glieder der Handelskette1",
+      "title": "Links in the retail chain ",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Assign each link in the retail chain its main task.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Producer ",
+              "choices": [
+                "Consumes the purchased items. ",
+                "Takes over the fine distribution of the articles. ",
+                "Manufactures the articles. ",
+                "Takes over the rough distribution of the articles. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Manufactures the articles. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Wholesaler ",
+              "choices": [
+                "Consumes the purchased items. ",
+                "Takes over the fine distribution of the articles. ",
+                "Manufactures the articles. ",
+                "Takes over the rough distribution of the articles. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Takes over the rough distribution of the articles. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Detailer ",
+              "choices": [
+                "Consumes the purchased items. ",
+                "Takes over the fine distribution of the articles. ",
+                "Manufactures the articles. ",
+                "Takes over the rough distribution of the articles. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Takes over the fine distribution of the articles. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Consumer ",
+              "choices": [
+                "Consumes the purchased items. ",
+                "Takes over the fine distribution of the articles. ",
+                "Manufactures the articles. ",
+                "Takes over the rough distribution of the articles. "
+              ],
+              "isRequired": true,
+              "correctAnswer": "Consumes the purchased items. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

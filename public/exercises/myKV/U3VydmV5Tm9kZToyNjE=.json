@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Excel basics",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Establish proportional or inversely proportional relationships. Example: Size of the letter/postage costs - the larger the letter, the higher the postage.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Number of machines that produce an item - Number of items",
+              "isRequired": true,
+              "correctAnswer": "The more machines are in use, the more items can be produced.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Amount of the installment - Duration of the repayment",
+              "isRequired": true,
+              "correctAnswer": "The higher the rate, the shorter the repayment period.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Supply - Demand",
+              "isRequired": true,
+              "correctAnswer": "The scarcer the supply, the greater the demand.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Excel basics",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Establish proportional or inversely proportional relationships. Example: Size of the letter/postage costs - the larger the letter, the higher the postage.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "The older a person is, the smaller they become.",
+              "choices": [
+                "true",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "true",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "The more players take part in a play, the longer the play lasts.",
+              "choices": [
+                "true",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "The more athletes take part in a sporting event, the more expensive the entrance fee.",
+              "choices": [
+                "true",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "The more animals there are in a zoo, the higher the food requirement.",
+              "choices": [
+                "true",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "true",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Excel basics",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Decide whether the following relationships are directly proportional or inversely proportional dependencies.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Distance traveled - fuel consumption",
+              "choices": [
+                "directly proportional",
+                "inversely proportional"
+              ],
+              "isRequired": true,
+              "correctAnswer": "directly proportional",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Number of workers - Duration of completion of a job",
+              "choices": [
+                "directly proportional",
+                "inversely proportional"
+              ],
+              "isRequired": true,
+              "correctAnswer": "inversely proportional",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "Speed - distance traveled",
+              "choices": [
+                "directly proportional",
+                "inversely proportional"
+              ],
+              "isRequired": true,
+              "correctAnswer": "directly proportional",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

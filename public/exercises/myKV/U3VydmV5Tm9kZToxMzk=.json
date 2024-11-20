@@ -1,0 +1,278 @@
+{
+  "pages": [
+    {
+      "name": "page4",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "checkbox",
+              "title": "Subject area: What is my own role?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Is there a fixed allocation of roles in this conversation?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "Subject area: What relationship do I have with my interlocutor?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What is important to the other party?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "checkbox",
+              "title": "Subject area: What influence do I have on the place and time of the discussion?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "It's 8 am on Monday morning."
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "checkbox",
+              "title": "Subject area: What are the motives and interests in the discussion?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "I tend more to be objective and not emotional.",
+                "What are my interlocutor's reasons for the discussion?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "checkbox",
+              "title": "Subject area: What are the aim and topics of the discussion?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Subject areas",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Assign the individual descriptions to the appropriate subject areas. N.B.: The number of descriptions will not be the same for every subject area.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "checkbox",
+              "title": "Subject area: What possible conflicts are there in the discussion and how can I proceed?",
+              "choices": [
+                "What arguments and counter-arguments can be found?",
+                "What is important to the other party?",
+                "What in particular should I be aware of?",
+                "It's 8 am on Monday morning.",
+                "What topics should be addressed in the discussion?",
+                "What do I want to achieve?",
+                "What compromises am I prepared to make?",
+                "I tend more to be objective and not emotional.",
+                "What is the most important thing about the solution for me?",
+                "Is there a fixed allocation of roles in this conversation?",
+                "What challenges could occur during the discussion?",
+                "What is my relationship with the parties involved?",
+                "What language does the other person speak and understand?",
+                "What are my interlocutor's reasons for the discussion?",
+                "What is good about the relationship with the other party, and what is more likely to be problematic?",
+                "How do I want to influence the conversation?",
+                "How much influence can I exert on the discussion process?"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "What arguments and counter-arguments can be found?",
+                "What in particular should I be aware of?",
+                "What compromises am I prepared to make?",
+                "What is the most important thing about the solution for me?",
+                "What challenges could occur during the discussion?"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Case study Eugen",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Is this termination valid?",
+              "isRequired": true,
+              "correctAnswer": "Yes",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What formal requirements apply to notices of termination?",
+              "isRequired": true,
+              "correctAnswer": "There are no official formal requirements for termination, i.e. it would also be valid verbally.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "How long does Eugen still have to work if his boss insists on the fulfillment of the employment contract? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "When terminating an employment contract, the notice periods in the individual employment contract must be observed. If reference is made there to the Swiss Code of Obligations, this means that the notice period is one month in the first year of employment, two months in the second year of employment and three months from the 10th year of employment. Eugen must therefore work at No Name until the end of February 2023, as the notice of termination is a letter that must be received. A postmark of November 30 means that the notice of termination will not arrive until December.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Eugen Kubli arbeitet seit 13 Monaten im «No Name» als Detailhandelsfachmann, genau seit dem 1. Oktober 2021. Nun hat er genug. Er kündigt am 28. November 2022 (Poststempel 30. November) auf den nächstmöglichen Kündigungstermin."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

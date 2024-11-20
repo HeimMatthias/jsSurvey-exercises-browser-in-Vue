@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "Schritte der Argumentation 2",
+      "title": "Steps of argumentation 2",
+      "elements": [
+        {
+          "name": "Name der Aufgaben",
+          "type": "panel",
+          "title": "Assign the texts to the correct argumentation step.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "1. vocational schools should only provide school materials in digital form,",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Assertion"
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "2 It therefore makes sense to make all materials for vocational schools available in digital form only.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Reason"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "3. in the Digi class, the teacher does not have to copy additional pages because the students have forgotten the book, for example. All materials are always available on the PC. For example, lessons in HKB A can be started immediately because the teacher knows that everyone has saved their material on the PC.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Conclusion"
+            },
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "4. because the learners always have all the material with them. This means they can always work directly without having to make extra copies.",
+              "choices": [
+                "Assertion",
+                "Reason",
+                "Conclusion",
+                "Example"
+              ],
+              "correctAnswer": "Example"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

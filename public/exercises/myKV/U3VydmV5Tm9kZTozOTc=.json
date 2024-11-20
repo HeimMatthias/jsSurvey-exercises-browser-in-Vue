@@ -1,0 +1,203 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm.original.png\" />",
+              "name": "question1",
+              "type": "html"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Processing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm3.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Data on document"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm2.original.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Branching/decision"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm5.original.png\" />",
+              "name": "question7",
+              "type": "html"
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Start"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm4.original.png\" />",
+              "name": "question9",
+              "type": "html"
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Connection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page7",
+      "title": "Flowchart",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/C_LJ2_LF1_M2_A3_Flussdiagramm6_xPReSis.original.png\" />",
+              "name": "question11",
+              "type": "html"
+            },
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "Select the correct elements for the following illustrations in the flow chart:",
+              "choices": [
+                "Connection",
+                "Branching/decision",
+                "Merging",
+                "Start",
+                "Processing",
+                "Data on document"
+              ],
+              "correctAnswer": "Merging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

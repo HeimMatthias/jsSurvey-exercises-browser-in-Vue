@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "name": "Rechte der Lernenden",
+      "title": "Rights of learners",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the following case studies and answer the questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "After the vocational school day, which lasts from 8.20 am to 5.20 pm, I regularly have to go to the store in the evening and work until 6.30 pm. Is that permissible?",
+              "isRequired": true,
+              "correctAnswer": "This regulation is not permitted. According to the Vocational Training Act, apprentices may not be called in to work on the same day if they have compulsory all-day lessons.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "19-year-old Yason discusses the vacation plan for the third year of his apprenticeship with his vocational trainer. In September, October, February and March he will have one week's vacation each. Evaluate this vacation arrangement.",
+              "isRequired": true,
+              "correctAnswer": "Yason is entitled to five weeks' vacation, of which two weeks must be granted consecutively (OR 329, 329a).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Daniela asks you: \"My vocational training supervisor gave me time off for the qualification procedures, but deducted CHF 70 from my salary. Is he allowed to do that?\" Answer this question for Daniela and give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "This is not right. Apprentices must also be given the necessary time off to complete the qualification procedures and paid wages for this.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Rights of learners",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Serge has received his first vocational school certificate. He has good to very good grades. His vocational training supervisor, Ms. Markovic, also confirmed that she was very happy with him during the assessment. He would now like to attend the optional subjects Business Administration and English on Friday mornings. An additional absence from work is out of the question, explains Ms. Markovic. Does Serge have to do without the free subjects? Give reasons for your answer.",
+              "isRequired": true,
+              "correctAnswer": "No. Serge has the right to attend free subjects, as he can demonstrate satisfactory performance both in the company and in the compulsory subjects. A further discussion with Ms. Markovic can clarify the situation. Serge may need to contact the vocational inspector at the Office for Vocational Education and Training so that this official can enforce Serge's rights with the vocational trainer.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Ana is the class representative. She tells you about a problem her class is having: \"Our teacher is an enthusiastic delta flyer. She spends hours teaching us the theory of delta flying and showing us photos. That's all very interesting, but how are we supposed to pass the qualification tests?\" What should Ana do? Give her three tips.",
+              "isRequired": true,
+              "correctAnswer": "1. have a well-prepared conversation in private with the teacher. / 2. request a meeting with the school management. / 3. organize a meeting with the school management and the teacher.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

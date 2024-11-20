@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Offers",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Solve the exercise.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What is the first step in creating a customer-oriented offer?",
+              "choices": [
+                "Pricing",
+                "Product description",
+                "Understanding customer needs",
+                "Selection of references"
+              ],
+              "correctAnswer": "Understanding customer needs"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "What should be avoided in an offer in order to create clarity?",
+              "choices": [
+                "Customer-related information",
+                "Unnecessary technical terms",
+                "Transparent pricing",
+                "References"
+              ],
+              "correctAnswer": "Unnecessary technical terms"
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Which aspect is important for a personalized offer?",
+              "choices": [
+                "Individual customer approach ",
+                "Standardized content",
+                "General product description",
+                "Long validity period"
+              ],
+              "correctAnswer": "Individual customer approach "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Offers",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Solve the exercise.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "What is an essential component of transparent pricing in a quotation?",
+              "choices": [
+                "High discounts",
+                "Separate listing of prices",
+                "Total price",
+                "Long payment terms"
+              ],
+              "correctAnswer": "Separate listing of prices"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "How should the benefits of the offer be presented in the quotation?",
+              "choices": [
+                "In complex technical language",
+                "With regard to solving customer problems",
+                "As a minor matter",
+                "Only through price comparisons"
+              ],
+              "correctAnswer": "With regard to solving customer problems"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Why are references and success stories useful in an offer?",
+              "choices": [
+                "For the entertainment of the reader",
+                "They are generally not useful",
+                "To increase the scope of the offer",
+                "To underline the effectiveness of the offer "
+              ],
+              "correctAnswer": "To underline the effectiveness of the offer "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Offers",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Solve the exercise.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "What is the purpose of a clear call to action at the end of an offer?",
+              "choices": [
+                "Confusing the customer",
+                "Obtaining feedback",
+                "Clarification of the next expected step ",
+                "The presentation of company policy"
+              ],
+              "correctAnswer": "Clarification of the next expected step "
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "What contributes to a professional presentation of an offer?",
+              "choices": [
+                "A careful design",
+                "A relaxed and colloquial way of speaking",
+                "A minimum of information",
+                "An exclusive focus on price"
+              ],
+              "correctAnswer": "A careful design"
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Why is it important to specify a time frame and validity period in the offer?",
+              "choices": [
+                "To put pressure on the customer",
+                "For better planning and decision-making",
+                "It is not important",
+                "To fulfill legal requirements"
+              ],
+              "correctAnswer": "For better planning and decision-making"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

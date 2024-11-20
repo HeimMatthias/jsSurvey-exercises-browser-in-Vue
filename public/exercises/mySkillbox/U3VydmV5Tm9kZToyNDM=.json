@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "name": "Pro- und Kontra-Argumente1",
+      "title": "Pros and cons",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Complete the pros and cons. Refer to the article.",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "comment",
+              "title": "The legislative process has led to a ... between the platforms, politicians and those affected and has given rise to numerous initiatives.",
+              "isRequired": true,
+              "correctAnswer": "Exchange",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 2",
+              "type": "comment",
+              "title": "The legislator must set the ... to take action against hate speech.",
+              "isRequired": true,
+              "correctAnswer": "Frame",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 3",
+              "type": "comment",
+              "title": "Those affected now have a ... to whom they can turn in the event of incidents.",
+              "isRequired": true,
+              "correctAnswer": "Address",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Pro-Argumente:"
+        }
+      ]
+    },
+    {
+      "name": "Pro- und Kontra-Argumente2",
+      "title": "Pros and cons",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Complete the pros and cons. Refer to the article.",
+          "elements": [
+            {
+              "name": "Frage 4",
+              "type": "comment",
+              "title": "The question of what is still opinion and what is already ... must not be delegated to the social networks (corporations).",
+              "isRequired": true,
+              "correctAnswer": "Criminal offense",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 5",
+              "type": "comment",
+              "title": "In case of doubt, the networks will delete rather ... than too little.",
+              "isRequired": true,
+              "correctAnswer": "too much",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Frage 6",
+              "type": "comment",
+              "title": "The law is designed to delete hate messages, but not to prosecute the ....",
+              "isRequired": true,
+              "correctAnswer": "Perpetrator",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Kontra-Argumente:"
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

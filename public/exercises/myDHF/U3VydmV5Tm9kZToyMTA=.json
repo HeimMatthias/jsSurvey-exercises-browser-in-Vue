@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Learning field title",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "Waste disposal",
+                "Observe the rules",
+                "A fair way of life",
+                "Ensuring security and order",
+                "Military",
+                "Police",
+                "Schools",
+                "Social welfare",
+                "Saving",
+                "Economical use of resources",
+                "Hospitals",
+                "Pay taxes",
+                "Votes and voting",
+                "Road network",
+                "Independent and fair justice",
+                "Further training"
+              ],
+              "type": "matrix",
+              "title": "Are the following examples a public or a private task? Put a cross in the box.",
+              "columns": [
+                "Public tasks",
+                "Private, personal tasks"
+              ],
+              "correctAnswer": {
+                "Sparen": "Private, personal tasks",
+                "Polizei": "Public tasks",
+                "Schulen": "Public tasks",
+                "Militär": "Public tasks",
+                "Spitäler": "Public tasks",
+                "Strassennetz": "Public tasks",
+                "Weiterbildung": "Private, personal tasks",
+                "Steuern zahlen": "Private, personal tasks",
+                "Faire Lebensart": "Private, personal tasks",
+                "Abfallentsorgung": "Public tasks",
+                "Soziale Wohlfahrt": "Public tasks",
+                "Beachten der Regeln": "Private, personal tasks",
+                "Stimmen und Wählen": "Private, personal tasks",
+                "Unabhängige und faire Justiz": "Public tasks",
+                "Sparsamer Umgang mit Ressourcen": "Private, personal tasks",
+                "Gewährleistung von Sicherheit und Ordnung": "Public tasks"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

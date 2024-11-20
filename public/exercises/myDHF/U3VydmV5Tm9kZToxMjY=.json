@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Distinguishing features in detail",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What distinguishes the basic range from the additional range?",
+              "isRequired": true,
+              "correctAnswer": "The basic assortment contains goods from the usual product range, which make up the majority of sales. The additional assortment rounds off the basic assortment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is the difference between a wide and a narrow range?",
+              "isRequired": true,
+              "correctAnswer": "A broad assortment includes goods from many sectors; a narrow assortment includes goods from one or two sectors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What characteristics should a good location for a retail business have?",
+              "isRequired": true,
+              "correctAnswer": "Large potential customer base, high purchasing power of customers, few competing businesses, good accessibility (transport links), good quality premises with low rents, good sales opportunities",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is the difference between an offensive and a defensive pricing policy? ",
+              "isRequired": true,
+              "correctAnswer": "In an aggressive pricing policy, companies try to enforce their own price expectations. If the prices are higher than those of the competition, this is known as a high-price policy. If the prices are lower than those of the competition, this is a low-price policy. In a defensive pricing policy, the retailer adjusts its prices to those of the competition.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What types of sales can be distinguished? ",
+              "isRequired": true,
+              "correctAnswer": "Full service/consultation, pre-selection by the customer, self-service",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

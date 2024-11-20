@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Fall 1",
+      "title": "Assigning the principle of justice",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Assign each case to one of the five principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "Ich schlage folgendes Gerechtigkeitsprinzip vor:",
+              "type": "text",
+              "title": "The standard consumption tax is a tax on new cars that works according to the so-called bonus-malus system: Vehicles with high CO2 emissions pay additional taxes (because they have a significantly greater impact on the environment), while those with low CO2 emissions are rewarded with concessions. In this way, legislators hope to encourage the population to buy environmentally friendly cars. ",
+              "isRequired": true,
+              "correctAnswer": "Polluter pays principle",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Assigning the principle of justice",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Assign each case to one of the five principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "The unconditional basic income provides for every citizen of a country to receive a monthly sum of money to secure their livelihood - including children. The amount is not linked to any conditions; it is also available to people in employment. It replaces all other social benefits. ",
+              "isRequired": true,
+              "correctAnswer": "Principle of equality",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Assigning the principle of justice",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Assign each case to one of the five principles of justice from the \"Justice\" tool.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Critics of the current health insurance system want to introduce income-related premiums (monthly insurance amount per person). This would mean that richer families would have to pay more for the same services than poorer families. This means that everyone pays the same proportion of their salary to the health insurance fund in relation to their income. ",
+              "isRequired": true,
+              "correctAnswer": "Performance principle",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

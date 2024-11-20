@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "Wissensfragen1",
+      "title": "Examples",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Reason on the basis of a feature, advantage and benefit.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Your customer has told you that having a contact person is particularly important to her.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: Our company stands for personal attention to the customer (feature). The advantage to you is that misunderstandings and information blockages are avoided (advantage) and you are therefore guaranteed a steady increase in efficiency in the working relationship (benefit).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Your customer indicates to you that he is interested in a long-term working relationship.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: We offer individual solutions to our customers (feature). The advantage to you is that all your wishes and priorities are taken into account (advantage), which ensures a stable and partnership-based working relationship in the long term (benefit).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Your customer makes it clear that she attaches a very great deal of importance to flexibility.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: In addition to the classic service component 1 we also offer our customers service component 2 (feature). This has the advantage that we handle the entire spectrum for you and can offer you both tools (advantage). That way, you can use our service flexibly and will save time and money (benefit).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Your customer has had bad experiences with unprofessional service providers.",
+              "isRequired": true,
+              "correctAnswer": "Possible answers: We make sure that our in-house staff receive top-class training in all relevant areas (features) The advantage to you is high legal security (advantage) and, in addition, a top-class service at all times (benefit).",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Key balance sheet figures",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which balance sheet ratios do you know? Name five.",
+              "isRequired": true,
+              "correctAnswer": "Liquidity ratio (1-3), gearing ratio, financing ratio, asset coverage ratio, return on equity",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What is meant by the term liquidity?",
+              "isRequired": true,
+              "correctAnswer": "Liquidity measures the ability to settle debts.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What are the guideline values for liquidity? ",
+              "isRequired": true,
+              "correctAnswer": "Liquidity ratio 1 should be between 15 and 30 percent; liquidity ratio 2 should be higher than 100 percent; liquidity ratio 3 should be between 150 and 200 percent.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

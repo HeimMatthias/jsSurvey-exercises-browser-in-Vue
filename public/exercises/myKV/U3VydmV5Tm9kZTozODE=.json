@@ -1,0 +1,139 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Start-up",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Discuss the program together using the following questions and record your thoughts in writing.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "We watched the following TV report: ",
+              "choices": [
+                "Zumba dream - shattered and danced out?",
+                "Revolution in the world of ice cream",
+                "Tree mortician",
+                "Tomatoes & Co",
+                "Delicacies",
+                "In Cupid's footsteps",
+                "A new start in cycling paradise",
+                "Darko and Moris look for the big picture"
+              ]
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Was a business plan drawn up or not? What were the main reasons for or against it?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What vision is being pursued?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Start-up",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Discuss the program together using the following questions and record your thoughts in writing.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What do you personally think of the company and its strategy? What do you see as promising? Where do you have reservations?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Briefly describe the company's market performance. What do you think of it?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "How would you describe the market and the competition in which the company operates?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What do you think of the company's marketing? In your answer, give your opinion on each P (Product, Price, Place, Promotion) in one sentence.",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Start-up",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Discuss the program together using the following questions and record your thoughts in writing.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "What do you think of the company's management and organization? In your opinion, are the professional qualifications, networking and leadership quality of the management sufficient?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "In your opinion, are the opportunities and risks sufficiently analyzed by the company management? What did you find good? Which points are missing?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "How are the finances and financial planning? As a donor, would you be satisfied with the work of the management? Which points convince you? What would you like to know more about?",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "Would you invest money in this company or even apply for a job with this company? Give reasons for your answer.",
+              "correctAnswer": "Individual answers",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,132 @@
+{
+  "pages": [
+    {
+      "name": "page3",
+      "title": "Job application",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Read the basic knowledge on the subject of job applications carefully. Then answer the following knowledge questions.    ",
+          "elements": [
+            {
+              "name": "a)\tWeshalb wird die Schweiz als demokratischer Sonderfall bezeichnet?",
+              "type": "text",
+              "title": "a)\tIn addition to clarity and conciseness, which two criteria are also important in a cover letter? ",
+              "correctAnswer": "Job reference and linguistic correctness"
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "b)\tWhich two steps should be completed first when applying for a job?",
+              "correctAnswer": "Clarify needs and assess your own skills"
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "c)\tWhy should you prepare for a few questions before a possible job interview? ",
+              "correctAnswer": "This prepares you for a possible telephone or video interview. "
+            },
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "d)\tWho is usually responsible for the recruitment process? ",
+              "correctAnswer": "the personnel department (HR) and the responsible line/department"
+            }
+          ]
+        }
+      ],
+      "description": "\n"
+    },
+    {
+      "name": "page2",
+      "title": "Job application",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "e)\tIn addition to language skills and IT application skills, what other skills can be demonstrated in the application letter? ",
+              "correctAnswer": "Creative competence, commitment, diligence "
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "f)\tWhat should you pay attention to in the first sentence of an application letter?  ",
+              "correctAnswer": "The first sentence should begin with a form of address (you, your, yours, yours)."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "g)\tWhat does the middle section of the application letter begin with?",
+              "correctAnswer": "with the description of the current activity"
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "h)\tHow are the individual sections of an application letter visually separated from each other? ",
+              "correctAnswer": "with blank lines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Job application",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question21",
+              "type": "text",
+              "title": "i)\tWhat is the advantage of short sentences in the active form? ",
+              "correctAnswer": "They are easier to understand and appear more dynamic."
+            },
+            {
+              "name": "question22",
+              "type": "text",
+              "title": "j)\tWith which spelling of personal names are there no incorrect forms? ",
+              "correctAnswer": "with the written pair form "
+            },
+            {
+              "name": "question23",
+              "type": "text",
+              "title": "k)\tWhich Latin term is used for the CV and what is its abbreviation?",
+              "correctAnswer": "Curriculum Vitae, CV"
+            },
+            {
+              "name": "question24",
+              "type": "text",
+              "title": "l)\tWhich two quality requirements apply to the photo on the CV? ",
+              "correctAnswer": "It must be up-to-date and of professional quality. "
+            },
+            {
+              "name": "question25",
+              "type": "text",
+              "title": "m)\tWhat comes first in an antichronological structure of the CV after the personal details?  ",
+              "correctAnswer": "the current activity"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "\n",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

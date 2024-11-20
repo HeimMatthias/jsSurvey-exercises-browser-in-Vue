@@ -1,0 +1,219 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "assemble",
+              "isRequired": true,
+              "correctAnswer": "fasten something",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "criticize",
+              "isRequired": true,
+              "correctAnswer": "complain about something",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "Cooperation ",
+              "isRequired": true,
+              "correctAnswer": "Cooperation in a team",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "Collaboration",
+              "isRequired": true,
+              "correctAnswer": "Cooperation with the enemy, e.g. in war",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Organization",
+              "isRequired": true,
+              "correctAnswer": "Superstructure",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "Organizational chart",
+              "isRequired": true,
+              "correctAnswer": "Graphical representation of the organizational structure of an organization",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "instruct",
+              "isRequired": true,
+              "correctAnswer": "inform about something/instruct/introduce something",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "insist",
+              "isRequired": true,
+              "correctAnswer": " insist on/hold on to something",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "economic",
+              "isRequired": true,
+              "correctAnswer": "economic/concerning the economy",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "ecological",
+              "isRequired": true,
+              "correctAnswer": "environmentally conscious/concerning nature",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "Physical",
+              "isRequired": true,
+              "correctAnswer": "physical/objective/tangible",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "psychic",
+              "isRequired": true,
+              "correctAnswer": "mentally/emotionally/emotionally",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page6",
+      "title": "Foreign words",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Explain the different meanings of the following easily confused foreign words.",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "Stadium",
+              "isRequired": true,
+              "correctAnswer": "Venue for sports/an arena",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question13",
+              "type": "text",
+              "title": "Stage",
+              "isRequired": true,
+              "correctAnswer": "Section/phase of a development",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "description": "Wissensfragen",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

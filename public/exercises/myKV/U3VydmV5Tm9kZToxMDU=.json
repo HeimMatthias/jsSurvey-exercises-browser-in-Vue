@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Personal law",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Übung 1",
+              "rows": [
+                "Vanessa Klauser",
+                "Wholesale AG",
+                "A villa on Lake Geneva",
+                "The Sargans handball club",
+                "Forwarding agency Carl Spinner"
+              ],
+              "type": "matrix",
+              "title": "Assign the terms in the following exercise to the corresponding legal subjects and legal objects.",
+              "columns": [
+                "Natural person",
+                "Legal entity",
+                "Intellectual property law",
+                "thing"
+              ],
+              "correctAnswer": {
+                "Grosshandels AG": "Legal entity",
+                "Vanessa Klauser": "Natural person",
+                "Spedition Carl Spinner": "Legal entity",
+                "Eine Villa am Genfersee": "thing",
+                "Der Handballverein Sargans": "Legal entity"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Personal law",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "rows": [
+                "The right to a song that you have composed",
+                "A soccer ball",
+                "Your 5-year-old cousin",
+                "PC-Solutions GmbH",
+                "The right to broadcast a football match on television"
+              ],
+              "type": "matrix",
+              "title": "Assign the terms in the following exercise to the corresponding legal subjects and legal objects.",
+              "columns": [
+                "Natural person",
+                "Legal entity",
+                "Intellectual property law",
+                "thing"
+              ],
+              "correctAnswer": {
+                "Ein Fussball": "thing",
+                "Die PC-Solutions GmbH": "Legal entity",
+                "Ihre 5-jährige Cousine": "Natural person",
+                "Das Recht an einem Lied, das Sie komponiert haben": "Intellectual property law",
+                "Das Recht, ein Fussballspiel im Fernsehen zu übertragen": "Intellectual property law"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer all questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

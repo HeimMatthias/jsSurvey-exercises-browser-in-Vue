@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "Zielkonflikt oder Zielharmonie?",
+      "title": "Conflicting goals or harmonious goals?",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Kreuzen Sie die richtigen Lösungen an!",
+              "rows": [
+                "a) Pedro and Marie have been a couple for many years. Pedro wants to get married, Marie does not.",
+                "b) Paolo and Meret have been a couple for many years. Paolo wants to get married, Meret wants them to make a vow first (= get engaged) and only get married in a year or two.",
+                "c) Marie would like to have lots of children. At the same time, she wants to go full throttle in her professional career as a hairdresser, just like Pedro as a businessman.",
+                "d) Pedro finally wants to have a bit more free time. At the same time, he would like to undertake further training in his free time to improve his promotion prospects.",
+                "e) Costs and profit",
+                "f) Economic growth and jobs",
+                "g) Global economic growth and environmental pollution"
+              ],
+              "type": "matrix",
+              "columns": [
+                "Target harmony",
+                "Conflict of objectives"
+              ],
+              "correctAnswer": {
+                "Volljährigkeit": "Ja, unumstritten",
+                "Kosten und Gewinn": "Zielkonflikt",
+                "Urteilsfähigkeit": "umstritten",
+                "Handlungsfähigkeit": "Ja, unumstritten",
+                "Urteilsunfähigkeit": "umstritten",
+                "e) Kosten und Gewinn": "Conflict of objectives",
+                "Handlungsunfähigkeit": "umstritten",
+                "Kauf hat eher grosse Folgen": "Ja, unumstritten",
+                "Kauf hat eher geringe Folgen": "umstritten",
+                "Beschränkte Handlungsfähigkeit": "Ja, unumstritten",
+                "Grosse Erfahrung bezüglich Kauf": "umstritten",
+                "Geringe Erfahrung bezüglich Kauf": "Ja, unumstritten",
+                "Beschränkte Handlungsunfähigkeit": "Ja, unumstritten",
+                "Wirtschaftswachstum und Arbeitsplätze": "Zielharmonie",
+                "f) Wirtschaftswachstum und Arbeitsplätze": "Target harmony",
+                "Weltweites Wirtschaftswachstum und Umweltbelastung": "Zielkonflikt",
+                "g) Weltweites Wirtschaftswachstum und Umweltbelastung": "Conflict of objectives",
+                "Pedro und Marie sind seit vielen Jahren ein Paar. Pedro möchte heiraten, Marie nicht.": "Zielkonflikt",
+                "a) Pedro und Marie sind seit vielen Jahren ein Paar. Pedro möchte heiraten, Marie nicht.": "Conflict of objectives",
+                "Marie möchte gerne sehr viele Kinder haben. Zugleich möchte sie in ihrer beruflichen Karriere als Coiffeuse genauso Vollgas geben wie Pedro als Kaufmann.": "Zielkonflikt",
+                "c) Marie möchte gerne sehr viele Kinder haben. Zugleich möchte sie in ihrer beruflichen Karriere als Coiffeuse genauso Vollgas geben wie Pedro als Kaufmann.": "Conflict of objectives",
+                "Pedro will endlich etwas mehr Freizeit haben. Zugleich möchte er eine Weiterbildung in seiner Freizeit in Angriff nehmen, um seine Aufstiegschancen zu verbessern.": "Zielkonflikt",
+                "d) Pedro will endlich etwas mehr Freizeit haben. Zugleich möchte er eine Weiterbildung in seiner Freizeit in Angriff nehmen, um seine Aufstiegschancen zu verbessern.": "Conflict of objectives",
+                "Paolo und Meret sind seit vielen Jahren ein Paar. Paolo möchte heiraten, Meret möchte, dass sie sich zunächst ein Eheversprechen abgeben (= sich verloben) und erst in ein, zwei Jahren heiraten.": "Zielharmonie",
+                "b) Paolo und Meret sind seit vielen Jahren ein Paar. Paolo möchte heiraten, Meret möchte, dass sie sich zunächst ein Eheversprechen abgeben (= sich verloben) und erst in ein, zwei Jahren heiraten.": "Target harmony"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Begründen Sie die Entscheidung, die Sie bei Teilaufgabe d gefällt haben. Arbeiten Sie dabei mit einer geeigneten Formulierung aus dem Instrumentenkasten.",
+              "type": "comment",
+              "isRequired": true,
+              "correctAnswer": "Either Pedro does further training (in his free time) or he forgoes it and therefore has more free time.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "Zur Teilaufgabe d: Schlagen Sie einen konkreten, ausgewogenen Kompromiss vor.",
+              "type": "comment",
+              "isRequired": true,
+              "correctAnswer": "A compromise could be that Pedro enjoys his free time this year and does further training next year (= staggering). Or: Pedro takes on a \"small\" training course now, which takes up very little time.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

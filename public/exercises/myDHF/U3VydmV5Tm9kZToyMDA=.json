@@ -1,0 +1,89 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Job application",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Job application\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "What does a contact list contain?",
+              "isRequired": true,
+              "correctAnswer": "A so-called contact list contains all known people with whom you are on a first-name basis and who could help you with your job search.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What does self-analysis involve?",
+              "isRequired": true,
+              "correctAnswer": "The self-analysis includes a list of your own strengths and weaknesses, a characterization of your own personality and social skills.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "What is a person's social competence? Name three points.",
+              "isRequired": true,
+              "correctAnswer": "Your own image of people, how you deal with friends, acquaintances, work colleagues, superiors, subordinates, your ability to work in a team, etc.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Job application",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Answer the following questions about the factual text \"Job application\".",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are references?",
+              "isRequired": true,
+              "correctAnswer": "The word \"reference\" comes from the French and means report or information. It refers to a qualifying assessment given by a person of trust and the person or institution that can be consulted for the assessment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Name four contents of the application letter.",
+              "isRequired": true,
+              "correctAnswer": "The letter of application contains the information to which the application relates, the reasons why you want the advertised position and why you have chosen the company in question, your personal knowledge, skills, professional experience, etc. and your current position and activities.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "What do you pay attention to when presenting your CV?",
+              "isRequired": true,
+              "correctAnswer": "When writing a CV, care should be taken to be brief, avoid repetition and negative, pessimistic or inaccurate statements. The CV should also be appealing to the eye, as it is a personal business card. A pleasant design includes sufficient spacing between the lines and the choice of a suitable font (e.g. Arial) and size (e.g. 12 \n \"pitch\").",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

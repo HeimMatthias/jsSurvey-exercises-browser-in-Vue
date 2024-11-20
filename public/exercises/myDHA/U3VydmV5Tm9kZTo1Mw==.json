@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Termination of the apprenticeship contract",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "When apprentices sell more than trained sales staff",
+                "When apprentices make too little turnover",
+                "When the training company is sold",
+                "If the person responsible for vocational training resigns"
+              ],
+              "type": "matrix",
+              "title": "An apprenticeship contract can be terminated for good cause. Which of the following reasons is sufficient to terminate an apprenticeship contract without notice?",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "correctAnswer": {
+                "Wenn der Lehrbetrieb verkauft wird": "Correct",
+                "Wenn Lernende zu wenig Umsatz machen": "Wrong",
+                "Ein junger Mann hält einer alten Frau die Türe auf.": "Moral",
+                "Wenn die berufsbildungsverantwortliche Person kündigt": "Wrong",
+                "Fahrzeuge, die von links kommen, haben keinen Vortritt.": "Law",
+                "Kim gibt ihren Freundinnen drei Küsschen auf die Wange.": "Customs",
+                "Yashar ist ein vorsichtiger, rücksichtsvoller Autofahrer.": "Moral",
+                "Özge isst kein Fleisch, da ihr die Schlachttiere leidtun.": "Moral",
+                "Wenn Lernende mehr verkaufen als ausgebildete Verkäufer*innen": "Falsch",
+                "In der Schweiz ist die Mehrheit gegen die Einführung der Todesstrafe.": "Moral",
+                "Für die Beerdigung seines Bruders bindet sich Leo traditionsgemäss eine schwarze Krawatte um.": "Customs"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

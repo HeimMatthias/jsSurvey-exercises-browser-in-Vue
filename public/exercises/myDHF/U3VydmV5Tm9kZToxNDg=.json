@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "name": "page0",
+      "title": "Choice of legal form",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Solve the following tasks on the choice of legal form.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Make a note of the points to be considered when choosing the legal form.",
+              "isRequired": true,
+              "correctAnswer": "Financing, contingent liabilities, tax aspects, desire for anonymity, succession relationships, co-determination rights",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "The right choice of legal form is also important if you are considering changing your legal form. Give reasons for changing the existing legal form.",
+              "isRequired": true,
+              "correctAnswer": "Change of ownership or death, increase or decrease in turnover, changes in tax law, realignment on the market, reorganization of the company",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

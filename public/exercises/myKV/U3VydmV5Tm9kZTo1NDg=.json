@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Legal situation",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Explain the legal situation in the following cases and state the relevant article of law.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Emilia has given notice after six months and asks her employer to issue her with a reference shortly before she changes jobs. Her boss says he doesn't have time for this and will only issue her with a confirmation of employment.",
+              "correctAnswer": "The employer's behavior is not correct. The employer must issue an employer's reference at any time if the employee so wishes (Art. 330a CO). The reference provides information about the nature and duration of the employment relationship and about the employee's performance and conduct. A confirmation of employment, on the other hand, is limited to the nature and duration of the employment relationship and is mainly requested if there is a fear of a bad reference. Accordingly, Emilia could be at a disadvantage if she only receives a confirmation of employment."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Mila urgently needs money for her driving lessons. As she still has two weeks' vacation left, she suggests to her boss that she should have the money paid out instead of taking the vacation. This way, her boss doesn't have to organize a substitute and she can afford enough driving lessons to pass her driving test.",
+              "correctAnswer": "It is not permitted to compensate vacation time with monetary payments during the term of employment. Vacation time is generally intended for recreation (Art. 329d para. 2 CO)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Legal situation",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Explain the legal situation in the following cases and state the relevant article of law.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Noah works for a company that has recently invented a device that significantly reduces fuel consumption in cars. As his friends don't believe that he is significantly involved in this invention, he posts the blueprints on his Instagram profile.",
+              "correctAnswer": "Business secrets must be kept secret and must not be disclosed. They may certainly not be published on the Internet. Noah's actions are in breach of the duty of confidentiality under Art. 321a para. 4 CO."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Elsa has accumulated 47 hours of overtime over the course of the year. At the Christmas party, her department manager explains that all overtime that has not been compensated by then will expire at the end of the year. ",
+              "correctAnswer": "The head of department's approach is incorrect. Overtime must be compensated either by time off in lieu or by salary with at least a 25 percent bonus (Art. 321c para. 2 and 3 CO). Under certain conditions, however, the employee can waive this supplement or the compensation for overtime entirely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Legal situation",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Explain the legal situation in the following cases and state the relevant article of law.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "When KV employee Finn's business laptop crashes for the umpteenth time one day, he gets so angry that he throws the device on the floor. The laptop breaks. Finn tells his colleagues that he has nothing to worry about, as the CHF 900 more or less doesn't matter when it comes to the boss's assets.",
+              "correctAnswer": "The employer can demand compensation from Finn, as the employee must handle work equipment with care (Art. 321a para. 2 and Art. 321e para. 1 CO). Finn's conduct may also result in a warning or reprimand."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Because a colleague is absent, Emma also has to work at the weekend. This means she works nine days in a row.",
+              "correctAnswer": "Art. 329 Abs. 1 OR besagt, dass jeder Arbeitnehmer ein Anrecht auf einen freien Tag pro Woche hat. Emma muss somit nicht an beiden Wochenendtagen arbeiten."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Annalena works part-time in a hairdressing salon. She cuts various customers' hair privately in the evenings and at weekends.",
+              "correctAnswer": "Annalena is not allowed to do this, as she is competing with her boss (Art. 321a para. 3 OR)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

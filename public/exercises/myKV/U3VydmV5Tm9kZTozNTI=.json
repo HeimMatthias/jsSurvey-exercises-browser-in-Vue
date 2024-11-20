@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "name": "Quiz1",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Test your knowledge on the subject of \"screenplays\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Which statement is true?",
+              "choices": [
+                "A screenplay is used as a planning document for the film shoot. ",
+                "A script contains all the details of the actors' props.",
+                "A script contains all the dialog and action sequences.",
+                "The script serves as a checklist for the film shoot."
+              ],
+              "isRequired": true,
+              "correctAnswer": "A script contains all the dialog and action sequences.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "A screenplay is generally only created for small and inexpensive productions. True or false?",
+              "choices": [
+                "true",
+                "wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": "wrong",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "Which statement is true?",
+              "choices": [
+                "The storyboard focuses on the dialog.",
+                "The script mainly provides information about the music and sound effects. ",
+                "Screenplay is actually just another term for storyboard. ",
+                "The screenplay is the written narrative of the story that the movie is supposed to tell."
+              ],
+              "isRequired": true,
+              "correctAnswer": "The screenplay is the written narrative of the story that the movie is supposed to tell.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quiz2",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Test your knowledge on the subject of \"screenplays\".",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What are the most important elements that should be in a screenplay?",
+              "isRequired": true,
+              "correctAnswer": "Plot of the story, all dialogs, place and time information, characters ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "Do technical specifications for the cameraman belong in a script?",
+              "isRequired": true,
+              "correctAnswer": "No, not as a rule. This information can be found in the storyboard or in the shot list.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What is the difference between a storyboard and a screenplay?",
+              "isRequired": true,
+              "correctAnswer": "The storyboard is the visualization of the plot, which is particularly important for camera operators. The script is the purely textual description of the plot.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quiz3",
+      "title": "Quiz",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Test your knowledge on the subject of \"screenplays\".",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "For what kind of productions is a screenplay indispensable? Put a cross in the box.",
+              "choices": [
+                "Commercials",
+                "Documentations",
+                "Feature films"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Feature films",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "What is important when writing a screenplay? Put a cross in the box.",
+              "choices": [
+                "Exciting writing and visual storytelling",
+                "Just write down the dialogs",
+                "Describe the plot in short sentences"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Exciting writing and visual storytelling",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Special tools are used for writing screenplays, name 2-3 of them.",
+              "isRequired": true,
+              "correctAnswer": "Slugline, DramaQueen, Celtx, Final Draft, Scrivener, Adobe Story",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "radiogroup",
+              "title": "A screenplay is a kind of short concept and can be outlined in 1-2 pages. Put a cross in the box.",
+              "choices": [
+                "This statement is true.",
+                "This statement is false."
+              ],
+              "isRequired": true,
+              "correctAnswer": "This statement is false.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

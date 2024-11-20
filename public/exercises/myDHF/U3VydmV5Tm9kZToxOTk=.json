@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Letter of termination",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Why do you always write termination letters politely and tactfully?",
+              "isRequired": true,
+              "correctAnswer": "A letter of resignation should be written politely and tactfully because you never know, for example, whether you will need a letter of recommendation or a favor from your former employer or whether your future employer will ask for one.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "State the notice periods according to the OR in the individual employment contract.",
+              "isRequired": true,
+              "correctAnswer": "According to the Swiss Code of Obligations, the notice period is one month in the 1st year of employment, two months in the 2nd to 9th year of employment and three months from the 10th year of employment.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Why is it important that the notice of termination arrives on time?",
+              "isRequired": true,
+              "correctAnswer": "If the notice of termination is received too late, its effect is postponed to the next possible termination date.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "description": "Beantworten Sie die folgenden Fragen zum Sachtext «Kündigungsschreiben»."
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

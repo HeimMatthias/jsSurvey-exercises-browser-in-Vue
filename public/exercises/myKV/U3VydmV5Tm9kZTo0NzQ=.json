@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "name": "Übung1",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Questions à choix multiple - une réponse est correcte. These questions help to consolidate knowledge on the analysis of needs.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "What is the main objective of the needs analysis?",
+              "choices": [
+                "Identifier les souhaits et exigences spécifiques des clientes et clients",
+                "Convaincre d'un achat les clientes et clients",
+                "Parvenir à la conclusion le plus rapidement possible",
+                "Vendre le produit le plus cher"
+              ],
+              "correctAnswer": "Identifier les souhaits et exigences spécifiques des clientes et clients"
+            },
+            {
+              "name": "question2",
+              "type": "radiogroup",
+              "title": "What is the primary technique for successful needs analysis?",
+              "choices": [
+                "Une argumentation convaincante",
+                "Une vente agressive",
+                "Débit de parole rapide",
+                "Precise questions and attentive attention "
+              ],
+              "correctAnswer": "Precise questions and attentive attention "
+            },
+            {
+              "name": "question3",
+              "type": "radiogroup",
+              "title": "What is the first step in analyzing your needs?",
+              "choices": [
+                "Présentation du produit",
+                "Négociation du prix",
+                "Premier contact et compréhension des besoins",
+                "Conclusion de la vente"
+              ],
+              "correctAnswer": "Premier contact et compréhension des besoins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Questions à choix multiple - une réponse est correcte. These questions help to consolidate knowledge on the analysis of needs.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "radiogroup",
+              "title": "Que comporte la détermination des besoins des clients ?",
+              "choices": [
+                "Déterminer uniquement le budget",
+                "Clarifier uniquement le calendrier",
+                "Acquire in-depth knowledge of the sector of activity and current needs",
+                "Ignorer les souhaits des clients"
+              ],
+              "correctAnswer": "Acquire in-depth knowledge of the sector of activity and current needs"
+            },
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Comment les besoins identifiés doivent-ils doivent-ils traités dans la phase de conseil ?",
+              "choices": [
+                "Il faut les ignorer",
+                "They must be prioritized and dealt with in a balanced manner",
+                "Ils restent inchangés",
+                "It is important to reject them immediately"
+              ],
+              "correctAnswer": "They must be prioritized and dealt with in a balanced manner"
+            },
+            {
+              "name": "question6",
+              "type": "radiogroup",
+              "title": "Which aspect is important in the clarification of objections and disputes?",
+              "choices": [
+                "Écouter activement et réagir avec empathie",
+                "Proposer des rabais",
+                "Exercer une pression",
+                "Changer rapidement de sujet"
+              ],
+              "correctAnswer": "Écouter activement et réagir avec empathie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Analysis of the besoins",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Questions à choix multiple - une réponse est correcte. These questions help to consolidate knowledge on the analysis of needs.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "radiogroup",
+              "title": "What is the objective of the conclusion and the follow-up?",
+              "choices": [
+                "Pousser les clientes et les clients à des achats supplémentaires",
+                "Conclude the sale and establish a long-term relationship with the client",
+                "Obtenir un paiement immédiat",
+                "Ignorer les clientes et clients"
+              ],
+              "correctAnswer": "Conclude the sale and establish a long-term relationship with the client"
+            },
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "À quelle étape de l'analyse des besoins les souhaits spécifiques des clients tels que la fonctionnalité ou le style doivent-ils doivent-ils être clarifiés ?",
+              "choices": [
+                "Premier contact",
+                "Conclusion et suivi",
+                "Conseil et propositions de solution",
+                "Détermination of the clients' needs "
+              ],
+              "correctAnswer": "Détermination of the clients' needs "
+            },
+            {
+              "name": "question9",
+              "type": "radiogroup",
+              "title": "Comment les propositions de solution doivent-elles doivent-elles présentées dans l'analyse des besoins ?",
+              "choices": [
+                "De façon vague et générale",
+                "On the basis of the prioritization of the clients' needs",
+                "Sans prise en compte de l'avis des clients",
+                "Uniquement sur la base du stock disponible"
+              ],
+              "correctAnswer": "On the basis of the prioritization of the clients' needs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

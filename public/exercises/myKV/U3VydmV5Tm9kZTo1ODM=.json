@@ -1,0 +1,113 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Diagrams",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "title": "Look at the diagrams and think in pairs about typical examples of their use in everyday business life.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/E_LJ2_LF2_M3_A6_Stapeldiagramm.original.png\" />",
+              "name": "question2",
+              "type": "html"
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Stacked bar chart (stacked to 100%)",
+              "correctAnswer": "Point distribution: monthly, quarterly or annual sales of various departments or branches, no intermediate values possible, meaningful and available."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Diagrams",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Look at the diagrams and think in pairs about typical examples of their use in everyday business life.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/E_LJ2_LF2_M3_A6_Kreisdiagramm.original.png\" />",
+              "name": "question3",
+              "type": "html"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Pie chart",
+              "correctAnswer": "Point distribution: monthly, quarterly or annual sales of a department or branch, no comparison with other departments or branches in the same diagram possible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Diagrams",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Look at the diagrams and think in pairs about typical examples of their use in everyday business life.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/E_LJ2_LF2_M3_A6_Liniendiagramm.original.png\" />",
+              "name": "question5",
+              "type": "html"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "Line diagram",
+              "correctAnswer": "Development, e.g. price trends, temperature, public transport utilization during a day, a week, sales trends, comparisons possible within a diagram, many intermediate values possible, course of the lines (rising, falling) says something."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Diagrams",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Look at the diagrams and think in pairs about typical examples of their use in everyday business life.",
+          "elements": [
+            {
+              "html": "<img style=\"width: 100%\" src=\"https://skillbox-my-kv-prod.s3-eu-west-1.amazonaws.com/images/E_LJ2_LF2_M3_A6_Netzdiagramm.original.png\" />",
+              "name": "question7",
+              "type": "html"
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "Network diagram",
+              "correctAnswer": "Focal points, e.g. survey evaluation (individual questions could also be shown as pie charts), customer satisfaction, political and social orientation, selection of apprenticeships (what is important for choosing this training?)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2"
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

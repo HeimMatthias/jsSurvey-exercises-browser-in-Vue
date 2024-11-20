@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Car customers",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Who does P.O. Box 7801 belong to? ",
+              "isRequired": true,
+              "correctAnswer": "Pascal Pfister (line 22)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What is Mr. Grimm's first name?",
+              "isRequired": true,
+              "correctAnswer": "Gustav (cell B11)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "How many people own a VW New Beetle?",
+              "isRequired": true,
+              "correctAnswer": "4 persons",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Which car does Vreni Widmer drive?",
+              "isRequired": true,
+              "correctAnswer": "VW Passat (line 34)",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

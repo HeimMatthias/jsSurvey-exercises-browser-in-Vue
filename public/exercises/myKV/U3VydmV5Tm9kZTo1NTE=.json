@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "What is required of a story",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "checkbox",
+              "title": "What requirements have to be fulfilled in order to develop a unique, non-interchangeable story that will involve the audience and motivate them intrinsically?",
+              "choices": [
+                "The story creates identity.",
+                "A company's story is shown with a timeline.",
+                "The story reflects the company's DNA.",
+                "The story make the company and its goods or services tangible and real.",
+                "The story creates an attention-grabbing, distinctive positioning vis-à-vis competitors.",
+                "The story should appear objective as far as possible, without major emotions.",
+                "The story grips listeners, who ideally will make a positive purchasing decision.",
+                "The story will contain as many details as possible so that it can provide as much information as possible."
+              ],
+              "correctAnswer": [
+                "The story creates identity.",
+                "The story reflects the company's DNA.",
+                "The story make the company and its goods or services tangible and real.",
+                "The story creates an attention-grabbing, distinctive positioning vis-à-vis competitors.",
+                "The story grips listeners, who ideally will make a positive purchasing decision."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

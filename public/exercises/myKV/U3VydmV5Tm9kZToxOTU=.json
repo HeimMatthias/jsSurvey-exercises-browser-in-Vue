@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "make",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Replace \"machen\" with a more precise verb in these sentences.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "do an apprenticeship",
+              "isRequired": true,
+              "correctAnswer": "complete an apprenticeship",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "do an apprenticeship",
+              "isRequired": true,
+              "correctAnswer": "undergo an apprenticeship",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "do a job",
+              "isRequired": true,
+              "correctAnswer": "do a job",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "make a good impression",
+              "isRequired": true,
+              "correctAnswer": "make a good impression",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "make",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Replace \"machen\" with a more precise verb in these sentences.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "make a suggestion",
+              "isRequired": true,
+              "correctAnswer": "submit a proposal",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "make a call",
+              "isRequired": true,
+              "correctAnswer": "Make a call",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "make a plan",
+              "isRequired": true,
+              "correctAnswer": "create/work out a plan ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "take an exam",
+              "isRequired": true,
+              "correctAnswer": "take an exam",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "make",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Replace \"machen\" with a more precise verb in these sentences.",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "text",
+              "title": "make a draft",
+              "isRequired": true,
+              "correctAnswer": "compose/write a draft",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "text",
+              "title": "take a break",
+              "isRequired": true,
+              "correctAnswer": "take a break",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "take a trip",
+              "isRequired": true,
+              "correctAnswer": "take a trip",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "make a video",
+              "isRequired": true,
+              "correctAnswer": "produce/create/shoot a video",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

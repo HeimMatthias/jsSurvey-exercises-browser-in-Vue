@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "name": "Kundenbindung",
+      "title": "Customer loyalty",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question4",
+              "rows": [
+                "Customer loyalty is only created when expectations of the store, the products and the staff are met. ",
+                "The individual retail employees have no influence on customer loyalty.  ",
+                "Businesses with extraordinary opening hours (e.g. Sundays, late evenings, 24/7) have limited customer loyalty.  ",
+                "The lock-in effect means that the original consumables are offered as cheaply as possible so that expensive rival products don't stand a chance. ",
+                "If the expectations of the store, the products and the staff are met, the retailer can be sure of the loyalty of its customers. ",
+                "The products offered and the product range must be adapted to customer requirements. ",
+                "Customers can always collect points for legal customer loyalty. ",
+                "I'll drive any car - as long as it has a star on it."
+              ],
+              "type": "matrix",
+              "title": "Are the following statements about customer loyalty true or false?",
+              "columns": [
+                "Correct ",
+                "Wrong  "
+              ],
+              "correctAnswer": {
+                "Die einzelnen Detailhandelsangestellten haben keinen Einfluss auf die Kundenbindung.  ": "Wrong  ",
+                "Die angebotenen Produkte und das Sortiment müssen den Kundenwünschen angepasst sein. ": "Correct ",
+                "Bei der rechtlichen Kundenbindung können die Kundinnen und Kunden immer Punkte sammeln. ": "Wrong  ",
+                "Nur wenn die Erwartungen an den Laden, die Produkte und das Personal erfüllt sind, entsteht eine Kundenbindung. ": "Correct ",
+                "Eine zeitlich begrenzte Kundenbindung haben Betriebe mit ausserordentlichen Öffnungszeiten (z.B. sonntags, spätabends, 24/7).  ": "Correct ",
+                "«Ich fahre jedes Auto – Hauptsache, es hat einen Stern drauf.» Diese Aussage ist typisch für die ökonomische Kundenbindung. ": "Wrong  ",
+                "Lock-in-Effekt bedeutet, dass das Original-Verbrauchsmaterial möglichst günstig angeboten wird, damit teure Konkurrenzprodukte keine Chance haben. ": "Wrong  ",
+                "Wenn die Erwartungen an den Laden, die Produkte und das Personal erfüllt sind, so kann sich der Detailhändler der Treue seiner Kundinnen und Kunden sicher sein. ": "Wrong  "
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Indicate whether the following statements are correct or incorrect and give reasons for your answer: ",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Determining personnel requirements is a typical business process, because a company cannot operate without employees.",
+              "isRequired": true,
+              "correctAnswer": "Wrong; is a typical support process.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Strategic corporate management is both upstream and downstream of the business and support processes.",
+              "isRequired": true,
+              "correctAnswer": "Correct.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Which markets a company should be active in is the question of a financial process.",
+              "isRequired": true,
+              "correctAnswer": "Wrong; is a marketing decision.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Right or wrong?",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Indicate whether the following statements are correct or incorrect and give reasons for your answer: ",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "Materials management deals with the question of which product is to be produced in which variants.",
+              "isRequired": true,
+              "correctAnswer": "Wrong; materials management deals in particular with the purchasing and storage of production factors.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "The cross-divisional finance function deals exclusively with financial accounting and the preparation of the balance sheet and income statement.",
+              "isRequired": true,
+              "correctAnswer": "Wrong; there are some additional areas of application, such as financing (financial management) or management accounting (e.g. costing).",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "HR managers are responsible for ensuring that there are always enough staff to maintain the service creation process.",
+              "isRequired": true,
+              "correctAnswer": "Correct.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

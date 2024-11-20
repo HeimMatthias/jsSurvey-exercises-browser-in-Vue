@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "title": "Customs, law, morals",
+      "elements": [
+        {
+          "name": "Auftrag",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A young man holds the door open for an old woman.",
+                "Kim gives her friends three kisses on the cheek.",
+                "Vehicles coming from the left have no right of way.",
+                "Özge doesn't eat meat because she feels sorry for the slaughtered animals.",
+                "For his brother's funeral, Leo traditionally ties a black tie around his neck.",
+                "Yashar is a careful, considerate driver.",
+                "In Switzerland, the majority is against the introduction of the death penalty."
+              ],
+              "type": "matrix",
+              "title": "Judge whether the following cases are a matter of custom, law or morality.",
+              "columns": [
+                "Customs",
+                "Law",
+                "Moral"
+              ],
+              "correctAnswer": {
+                "Ein junger Mann hält einer alten Frau die Türe auf.": "Moral",
+                "Fahrzeuge, die von links kommen, haben keinen Vortritt.": "Law",
+                "Kim gibt ihren Freundinnen drei Küsschen auf die Wange.": "Customs",
+                "Yashar ist ein vorsichtiger, rücksichtsvoller Autofahrer.": "Moral",
+                "Özge isst kein Fleisch, da ihr die Schlachttiere leidtun.": "Moral",
+                "In der Schweiz ist die Mehrheit gegen die Einführung der Todesstrafe.": "Moral",
+                "Für die Beerdigung seines Bruders bindet sich Leo traditionsgemäss eine schwarze Krawatte um.": "Customs"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the question."
+            }
+          ],
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

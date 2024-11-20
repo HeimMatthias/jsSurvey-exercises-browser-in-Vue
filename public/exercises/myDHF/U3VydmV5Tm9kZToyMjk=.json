@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "What is thrown away?",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Unfortunately, goods are always thrown away in the retail trade. Answer the following questions about your training company.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Name products that you have already had to throw away in your company. ",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Why did you have to throw the goods away?",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "Could littering have been prevented or reduced? If so, how? ",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What specific measures does your training company take to ensure that as few goods as possible have to be thrown away? ",
+              "isRequired": true,
+              "correctAnswer": "Individual solution",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

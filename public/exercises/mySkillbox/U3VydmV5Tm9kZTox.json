@@ -1,0 +1,114 @@
+{
+  "pages": [
+    {
+      "name": "Bildungssystem",
+      "title": "Education system",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Was brauchen Sie neben einem eidgenössischen Fähigkeitszeugnis, um eine eidgenössische Berufs- bzw. höhere Fachprüfung abzulegen?",
+              "type": "text",
+              "title": "What do you need in addition to a federal certificate of proficiency to take a federal professional or higher professional examination?",
+              "isRequired": true,
+              "correctAnswer": "Professional experience in the industry",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1601\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251164382319083523\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question1",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bildungssystem1",
+      "title": "Education system",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Welche höhere Berufsbildung können Sie neben der eidgenössische Berufs- bzw. höhere Fachprüfung besuchen?",
+              "type": "text",
+              "title": "What higher vocational training can you attend in addition to the federal vocational or higher professional examination?",
+              "isRequired": true,
+              "correctAnswer": "Higher technical college",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1601\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251164382319083523\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question2",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bildungssystem2",
+      "title": "Education system",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Was brauchen Sie neben einem eidgenössischen Fähigkeitszeugnis, um eine Fachhochschule zu besuchen?",
+              "type": "text",
+              "title": "What do you need in addition to a federal certificate of proficiency to attend a university of applied sciences?",
+              "isRequired": true,
+              "correctAnswer": "Vocational baccalaureate",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1601\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251164382319083523\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question3",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bildungssystem3",
+      "title": "Education system",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Zu welchen Hochschulen erhalten Sie nur mit einer Passerelle Zugang?",
+              "type": "text",
+              "title": "Which universities can only be accessed with a passerelle?",
+              "isRequired": true,
+              "correctAnswer": "University College of Teacher Education (PH), University College (UH)",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "html": "<iframe width=\"640\" height=\"480\" data-original-width=\"1601\" data-original-height=\"1200\" src=\"https://www.thinglink.com/card/1251164382319083523\" type=\"text/html\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling=\"no\"></iframe><script async src=\"//cdn.thinglink.me/jse/responsive.js\"></script>",
+              "name": "question4",
+              "type": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,203 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Structural change",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Structural change brings with it various changes. Assign the appropriate keyword to the following statements.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "tagbox",
+              "title": "Thanks to global economic and social integration, products from all over the world are available in Swiss retail outlets.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Internationalization"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "tagbox",
+              "title": "This development improved the income of many families and the prosperity of the country.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Employment of women"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "tagbox",
+              "title": "This form of sales has become widely accepted. It allows customers to save time when shopping and retailers can save on staff and therefore labor costs.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Self-service"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "tagbox",
+              "title": "For this reason, the Swiss retail trade will lose around CHF 8.4 billion in 2022.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Shopping tourism"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Structural change",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Structural change brings with it various changes. Assign the appropriate keyword to the following statements.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "tagbox",
+              "title": "The spread of refrigerators and freezers as well as motorization meant that many people no longer went shopping every day, but only once a week.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Technical progress"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "tagbox",
+              "title": "There are branches of H&M, C&A, Mango and Zara in many Swiss city centers and shopping malls.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Internationalization"
+              ],
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "tagbox",
+              "title": "Self-checkout tills are just one example of how physical activities can be replaced by machines.",
+              "choices": [
+                "Self-service",
+                "Shopping tourism",
+                "Internationalization",
+                "Employment of women",
+                "Technical progress"
+              ],
+              "isRequired": true,
+              "correctAnswer": [
+                "Technical progress"
+              ],
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Structural change",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question8",
+              "rows": [
+                "Overall, there are more stores today, but smaller ones than in the past.",
+                "When work processes are simplified through the use of machines and human labour is replaced, this is referred to as rationalization.",
+                "The number of different types of business has increased in recent years.",
+                "Since we now live in a working society, the shopping experience is not important.",
+                "Convenience stores are becoming increasingly popular.",
+                "Today, structural change is happening worldwide and in almost all industries: Work is being done by machines.",
+                "Countries with more capital are experiencing more pronounced structural change.",
+                "Due to the structural change, there are larger warehouses and less transportation traffic."
+              ],
+              "type": "matrix",
+              "title": "Which of the following statements about structural change are correct and which are incorrect? Put a cross in the box.",
+              "columns": [
+                "Correct",
+                "Wrong"
+              ],
+              "isRequired": true,
+              "correctAnswer": {
+                "Convenience-Stores erfreuen sich zunehmender Beliebtheit.  ": "Correct",
+                "Insgesamt gibt es heute mehr, dafür kleinere Läden als früher.  ": "Wrong",
+                "Länder mit mehr Kapital erleben einen ausgeprägteren Strukturwandel.  ": "Correct",
+                "Wegen des Strukturwandels gibt es grössere Lager und weniger Transportverkehr.  ": "Wrong",
+                "Die Anzahl der verschiedenen Betriebsformen hat in den letzten Jahren zugenommen.  ": "Correct",
+                "Da wir heute in einer Arbeitsgesellschaft leben, spielt das Erlebnis beim Einkaufen keine Rolle.  ": "Wrong",
+                "Der Strukturwandel geschieht heute weltweit und in fast allen Branchen: Arbeit wird durch Maschinen erledigt.  ": "Correct",
+                "Wenn durch den Einsatz von Maschinen Arbeitsprozesse vereinfacht werden und die menschliche Arbeitskraft ersetzt wird, spricht man von Rationalisierung.  ": "Correct"
+              },
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

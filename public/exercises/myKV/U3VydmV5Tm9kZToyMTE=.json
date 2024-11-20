@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "Sachverhalt",
+      "title": "Bookings",
+      "elements": [
+        {
+          "name": "Page1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Uebung1",
+              "rows": [
+                "Invoice to customer for delivery of goods.",
+                "Customer deducts 2% discount on payment.",
+                "Return of goods to suppliers.",
+                "Customer pays invoice by bank transfer",
+                "Supplier issues an invoice for a delivery of goods.",
+                "Supplier grants a special discount of 8%.",
+                "A customer is charged interest on arrears.",
+                "A customer credit balance is converted into a loan."
+              ],
+              "type": "matrix",
+              "title": "How are the following business transactions posted?",
+              "columns": [
+                "Ford. L+L: Target",
+                "Ford. L+L: Have",
+                "Verb. L+L: Target",
+                " Verb. L+L: Have"
+              ],
+              "correctAnswer": {
+                "Kunde zieht bei Zahlung 2% Skonto ab.": "Ford. L+L: Have",
+                "Rechnung an Kunde für Warenlieferung.": "Ford. L+L: Target",
+                "Rücksendung von Waren an Lieferanten.": "Verb. L+L: Target",
+                "Kunde zahlt Rechnung mit Banküberweisung": "Ford. L+L: Have",
+                "Einem Kunden wird ein Verzugszins belastet.": "Ford. L+L: Target",
+                "Lieferant gewährt einen Sonderrabatt von 8%.": "Verb. L+L: Target",
+                "Lieferant stellt Rechnung für eine Warenlieferung.": " Verb. L+L: Have",
+                "Ein Kundenguthaben wird in ein Darlehen umgewandelt.": "Ford. L+L: Have"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Bookings",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A supplier issues an invoice for transportation costs.",
+                "A customer can trade in a vehicle.",
+                "Supplier invoice is paid by the bank.",
+                "A customer returns defective goods.",
+                "A supplier charges interest on arrears.",
+                "Invoice to customer for shipping costs.",
+                "Part of the supplier invoice is paid in cash.",
+                "Deduction of a 2% discount on a supplier invoice."
+              ],
+              "type": "matrix",
+              "title": "How are the following business transactions posted?",
+              "columns": [
+                "Ford. L+L: Target",
+                "Ford. L+L: Have",
+                "Verb. L+L: Target",
+                " Verb. L+L: Have"
+              ],
+              "correctAnswer": {
+                "Rechnung an Kunde für Versandkosten.": "Ford. L+L: Target",
+                "Ein Lieferant belastet einen Verzugszins.": " Verb. L+L: Have",
+                "Ein Kunde sendet mangelhafte Waren zurück.": "Ford. L+L: Have",
+                "Ein Kunde kann ein Fahrzeug an Zahlung geben.": "Ford. L+L: Have",
+                "Lieferantenrechnung wird durch die Bank bezahlt.": "Verb. L+L: Target",
+                "Abzug von 2% Skonto bei einer Lieferantenrechnung.": "Verb. L+L: Target",
+                "Ein Teil der Lieferantenrechnung wird bar bezahlt.": "Verb. L+L: Target",
+                "Ein Lieferant stellt Rechnung für die Transportkosten.": " Verb. L+L: Have"
+              },
+              "isAllRowRequired": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

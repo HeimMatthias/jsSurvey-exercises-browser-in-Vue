@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "name": "page 1",
+      "title": "Contracts for work performance",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question1",
+              "rows": [
+                "A building contractor builds a new school building for your vocational school.",
+                "The construction company is supervising a masonry company with masonry work for the new school building.",
+                "A bricklayer works for the bricklaying company on the construction site.",
+                "A doctor treats the bricklayer who fell and injured himself on the construction site.",
+                "An independent carpenter installs custom-made cupboards in the new classrooms.",
+                "An apprentice helps the carpenter install the cabinets.",
+                "After finishing work, the learner goes to their driving instructor for a driving lesson."
+              ],
+              "type": "matrix",
+              "title": "Contracts for work performance: employment contract, contract for work or order? Complete the following exercise.",
+              "columns": [
+                "Employment contract",
+                "Contract for work",
+                "Order"
+              ],
+              "correctAnswer": {
+                "Eine Lernende hilft dem Schreiner beim Einbau der Schränke.": "Employment contract",
+                "Ein Maurer arbeitet für das Maurerunternehmen auf der Baustelle.": "Employment contract",
+                "Ein Bauunternehmer baut für Ihre Berufsschule ein neues Schulhaus.": "Contract for work",
+                "Nach Arbeitsende geht die Lernende zu ihrem Fahrlehrer in die Fahrstunde.": "Order",
+                "Ein selbständiger Schreiner baut in den neuen Schulzimmern massgefertigte Schränke ein.": "Contract for work",
+                "Das Bauunternehmen betreut ein Maurerunternehmen mit Maurerarbeiten für das neue Schulhaus.": "Contract for work",
+                "Eine Ärztin behandelt den Maurer, der auf der Baustelle gestürzt ist und sich verletzt hat.": "Order"
+              },
+              "isAllRowRequired": true,
+              "requiredErrorText": "Please answer the questions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

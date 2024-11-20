@@ -1,0 +1,137 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Differentiation of purchase contracts",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Answer the following questions on the factual text \"Differentiation of sales contracts\".",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "How can purchase contracts be differentiated with regard to the object of purchase?",
+              "correctAnswer": "A distinction is made between the purchase of land and the purchase of movables. When purchasing movables, a further distinction is made as to whether the object of purchase is generic or specialty goods."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "What are generic goods?",
+              "correctAnswer": "Generic goods are products that are interchangeable (replaceable or justifiable)."
+            },
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "What are the characteristics of species goods?",
+              "correctAnswer": "These are individual items, i.e. goods that are only available once and therefore cannot be replaced."
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "What different types of sales contracts can be distinguished in terms of payment method?",
+              "correctAnswer": "Cash purchase, purchase against invoice (credit purchase), purchase of goods with credit agreement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Differentiation of purchase contracts",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question9",
+              "rows": [
+                "Crude oil",
+                "Antique coin",
+                "Cucumbers",
+                "Wedding ring with engraving",
+                "Goldfish Toni",
+                "Salt",
+                "Quintuple"
+              ],
+              "type": "matrix",
+              "title": "Differentiation according to the type of purchased item: Are the following goods species or generic goods?",
+              "columns": [
+                "Generic goods",
+                "Species goods"
+              ],
+              "correctAnswer": {
+                "Salz": "Generic goods",
+                "Gurken": "Generic goods",
+                "Rohöl": "Generic goods",
+                "Fünfliber": "Generic goods",
+                "Antike Münze": "Species goods",
+                "Goldfisch Toni": "Species goods",
+                "Ehering mit Gravur": "Species goods"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Differentiation of purchase contracts",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Differentiation by payment method: What type of purchase contract is involved in the following examples? Select the appropriate one.",
+          "elements": [
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "Purchase of 2000kg of coffee, available on call, payable within 30 days or immediately with 2% discount.",
+              "choices": [
+                "Cash purchase",
+                "Credit purchase",
+                "Consumer credit agreement (KKG)"
+              ],
+              "correctAnswer": "Credit purchase"
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Move-over deal for a used car, accident-free, with 2 months warranty on the engine.",
+              "choices": [
+                "Cash purchase",
+                "Credit purchase",
+                "Consumer credit agreement (KKG)"
+              ],
+              "correctAnswer": "Cash purchase"
+            },
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Purchase of a TV set with a down payment of CHF 400 and 12 installments of CHF 70 with retention of title.",
+              "choices": [
+                "Cash purchase",
+                "Credit purchase",
+                "Consumer credit agreement (KKG)"
+              ],
+              "correctAnswer": "Consumer credit agreement (KKG)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

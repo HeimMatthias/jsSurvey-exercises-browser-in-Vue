@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "name": "Name der Übung",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "Name dem Aufgaben",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "Frage 2",
+              "type": "text",
+              "title": "What does stylistics deal with?",
+              "isRequired": true,
+              "correctAnswer": "with the design of the linguistic expression",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "Which levels are differentiated?",
+              "isRequired": true,
+              "correctAnswer": "Word level, sentence level, text level",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What are communication texts?",
+              "isRequired": true,
+              "correctAnswer": "Texts that you use to get in touch with others",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What are the 4K qualities of good communication texts?",
+              "isRequired": true,
+              "correctAnswer": "clear, correct, brief, customer-oriented",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "What do you convey with clear, correct and cultivated language?",
+              "isRequired": true,
+              "correctAnswer": "Language skills, diligence, commitment and appreciation",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What added value do good communication texts have in business?",
+              "isRequired": true,
+              "correctAnswer": "They demonstrate quality awareness and strengthen trust. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

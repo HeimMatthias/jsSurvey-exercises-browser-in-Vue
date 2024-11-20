@@ -1,0 +1,222 @@
+{
+  "pages": [
+    {
+      "name": "page1",
+      "title": "Terms relating to the production factors",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Do you know the terms related to production factors? Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "dropdown",
+              "title": "Karl's job is strenuous; he is a road builder.",
+              "choices": [
+                "Investment capital",
+                "Machine work",
+                "Physical work",
+                "Working capital"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Physical work",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "dropdown",
+              "title": "The Fernandes family uses a robot vacuum cleaner for cleaning.",
+              "choices": [
+                "Investment capital",
+                "Machine work",
+                "Physical work",
+                "Working capital"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Machine work",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "dropdown",
+              "title": "Zora has a textile store; her car is needed in the store.",
+              "choices": [
+                "Investment capital",
+                "Machine work",
+                "Physical work",
+                "Working capital"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Investment capital",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "dropdown",
+              "title": "Mara is an accountant; she puts money aside for salary payments.",
+              "choices": [
+                "Investment capital",
+                "Machine work",
+                "Physical work",
+                "Working capital"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Working capital",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Terms relating to the production factors",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Do you know the terms related to production factors? Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question7",
+              "type": "dropdown",
+              "title": "Arta studied; she is a computer specialist.",
+              "choices": [
+                "Dismantling function",
+                "Location function",
+                "Attachment function",
+                "Spiritual work"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Spiritual work",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question5",
+              "type": "dropdown",
+              "title": "Yves has inherited a castle estate; he sells the wood from the forest.",
+              "choices": [
+                "Dismantling function",
+                "Location function",
+                "Attachment function",
+                "Spiritual work"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Dismantling function",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "dropdown",
+              "title": "Ron has rented a store where he is opening his first business.",
+              "choices": [
+                "Dismantling function",
+                "Location function",
+                "Attachment function",
+                "Spiritual work"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Location function",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "dropdown",
+              "title": "Vera uses her garden; she plants her own vegetables.",
+              "choices": [
+                "Dismantling function",
+                "Location function",
+                "Attachment function",
+                "Spiritual work"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Attachment function",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Terms relating to the production factors",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Do you know the terms related to production factors? Select the appropriate term from the list.",
+          "elements": [
+            {
+              "name": "question9",
+              "type": "dropdown",
+              "title": "Anda is moving to the neighboring canton because of the lower taxes.",
+              "choices": [
+                "Legal properties",
+                "Savings capital",
+                "Economic properties",
+                "Natural properties"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Legal properties",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "dropdown",
+              "title": "Marc is a farmer; the climate is important for his profession.",
+              "choices": [
+                "Legal properties",
+                "Savings capital",
+                "Economic properties",
+                "Natural properties"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Natural properties",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "dropdown",
+              "title": "Sara has a retail business in a convenient location.",
+              "choices": [
+                "Legal properties",
+                "Savings capital",
+                "Economic properties",
+                "Natural properties"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Economic properties",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "dropdown",
+              "title": "Dino is thrifty and has money in his bank account.",
+              "choices": [
+                "Legal properties",
+                "Savings capital",
+                "Economic properties",
+                "Natural properties"
+              ],
+              "isRequired": true,
+              "correctAnswer": "Savings capital",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

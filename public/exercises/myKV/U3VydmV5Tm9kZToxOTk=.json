@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Indirect speech",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Convert the sentences into indirect speech. Put the introductory sentence in the past tense (see example) and pay attention to correct spelling and punctuation.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "comment",
+              "title": "The vocational trainer asked: \"How are you?\"",
+              "readOnly": true,
+              "defaultValue": "Die Berufsbildnerin fragte, wie es uns gehe.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "Are there any unanswered questions or concerns from the last round of talks?",
+              "isRequired": true,
+              "correctAnswer": "The vocational trainer asked whether there were any unanswered questions or concerns from the last round of talks.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "What topics do you want to discuss today?",
+              "isRequired": true,
+              "correctAnswer": "She asked what topics we wanted to discuss today.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Indirect speech",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Convert the sentences into indirect speech. Put the introductory sentence in the past tense and pay attention to correct spelling and punctuation.",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "It probably makes sense to collect the topics in a brainstorming session.",
+              "isRequired": true,
+              "correctAnswer": "She said it would probably make sense to brainstorm the topics.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "Afterwards, I would like you to prioritize the topics.",
+              "isRequired": true,
+              "correctAnswer": "She then wanted us to prioritize the topics.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "We will then discuss the three topics with the most points.",
+              "isRequired": true,
+              "correctAnswer": "We would then discuss the three topics with the most points.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Indirect speech",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Convert the sentences into indirect speech. Put the introductory sentence in the past tense and pay attention to correct spelling and punctuation.",
+          "elements": [
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "She wanted to know: \"Do you agree with this approach?\"",
+              "isRequired": true,
+              "correctAnswer": "She wanted to know whether we agreed with this approach.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "Everything clear? - If so, please start brainstorming!",
+              "isRequired": true,
+              "correctAnswer": "She asked us if everything was clear. If so, we should (please) start brainstorming.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question8",
+              "type": "comment",
+              "title": "The vocational trainer concluded: \"It was an interesting site visit. I hope it continues in this vein. Next time we will discuss the third topic, which we didn't have enough time for today.\"",
+              "isRequired": true,
+              "correctAnswer": "The vocational trainer concluded by saying that it had been an interesting discussion. She hoped it would continue in the same vein. Next time we would discuss the third topic, which we didn't have enough time for today.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

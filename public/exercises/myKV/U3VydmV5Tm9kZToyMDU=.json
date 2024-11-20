@@ -1,0 +1,118 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Active and passive sentences",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "Convert the active sentences into passive sentences and the passive sentences into active sentences. Keep the tense.",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "We were surprised by the high number of applications.",
+              "isRequired": true,
+              "correctAnswer": "The high number of applications surprised us. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "Obviously, many people took notice of our job advertisement.",
+              "isRequired": true,
+              "correctAnswer": "Obviously, our job advertisement was noticed by many people.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "We will only be able to check a few applications next week.",
+              "isRequired": true,
+              "correctAnswer": "We will only be able to check a few applications next week. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Active and passive sentences",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Convert the active sentences into passive sentences and the passive sentences into active sentences. Keep the tense.",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "comment",
+              "title": "The HR department has named five applications as favorites.",
+              "isRequired": true,
+              "correctAnswer": "Five applications have been designated as favorites by the HR department. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "Two female candidates and one male candidate will be invited to an interview.",
+              "isRequired": true,
+              "correctAnswer": "We will invite two female candidates and one male candidate for interview. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Active and passive sentences",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Convert the active sentences into passive sentences and the passive sentences into active sentences. Keep the tense.",
+          "elements": [
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "A new interview guide was created by the HR department for the interviews.",
+              "isRequired": true,
+              "correctAnswer": "The HR department created a new interview guide for the interviews. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "text",
+              "title": "The final decision will be made by the end of the month.",
+              "isRequired": true,
+              "correctAnswer": "The final decision will be made by the end of the month.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question12",
+              "type": "text",
+              "title": "HR then draws up the employment contract.",
+              "isRequired": true,
+              "correctAnswer": "HR then draws up the employment contract. ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

@@ -1,0 +1,237 @@
+{
+  "pages": [
+    {
+      "name": "Situation1",
+      "title": "Question 1",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "title": "What are your strengths and weaknesses as a logistician?",
+          "elements": [
+            {
+              "name": "Frage 1",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "permissible"
+            },
+            {
+              "name": "question4",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question11",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Question 2",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "title": "Do you tend to be on the left or right politically?",
+          "elements": [
+            {
+              "name": "question1",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "inadmissible"
+            },
+            {
+              "name": "question2",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "correctAnswer": "This question has no relation to the work to be done. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "correctAnswer": "I am rather apolitical. I prefer to get involved in/as ...",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "title": "Question 3",
+      "elements": [
+        {
+          "name": "panel3",
+          "type": "panel",
+          "title": "Have you ever smoked pot in your life?",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "inadmissible"
+            },
+            {
+              "name": "question6",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "correctAnswer": "One-time smoking does not reduce current work performance = no relation to the work to be done.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "correctAnswer": "No, it's not my thing! Or: I tried it once as a 16-year-old - it made me sick.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "title": "Question 4",
+      "elements": [
+        {
+          "name": "panel4",
+          "type": "panel",
+          "title": "How often have you been ill in the past year?",
+          "elements": [
+            {
+              "name": "question8",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "inadmissible"
+            },
+            {
+              "name": "question9",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "correctAnswer": "Only illnesses that make it permanently impossible or difficult to perform the work in question must be reported. This question is not aimed at this.",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question10",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "correctAnswer": "Rarely. Or: Never.",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page4",
+      "title": "Question 5",
+      "elements": [
+        {
+          "name": "panel5",
+          "type": "panel",
+          "title": "How many accidents resulting in damage have you caused as a logistics specialist in the last five years?",
+          "elements": [
+            {
+              "name": "question12",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "permissible"
+            },
+            {
+              "name": "question13",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question14",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page5",
+      "title": "Question 6",
+      "elements": [
+        {
+          "name": "panel6",
+          "type": "panel",
+          "title": "Assumption: A colleague in your team is being bullied. How would you react?",
+          "elements": [
+            {
+              "name": "question15",
+              "type": "radiogroup",
+              "title": "Is this question admissible or inadmissible?",
+              "choices": [
+                "permissible",
+                "inadmissible"
+              ],
+              "isRequired": true,
+              "correctAnswer": "permissible"
+            },
+            {
+              "name": "question16",
+              "type": "comment",
+              "title": "If inadmissible: Justification?",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question17",
+              "type": "comment",
+              "title": "If inadmissible: Proposal for an appropriate response",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}

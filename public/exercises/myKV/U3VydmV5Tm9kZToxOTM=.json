@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "name": "page 2",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel1",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question5",
+              "type": "text",
+              "title": "What are the three auxiliary verbs in the basic form?",
+              "isRequired": true,
+              "correctAnswer": "be, have, become",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question9",
+              "type": "text",
+              "title": "What are the auxiliary verbs used for?",
+              "isRequired": true,
+              "correctAnswer": "to form compound tenses and passive sentences",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question4",
+              "type": "text",
+              "title": "Full verbs also include reflexive verbs. Give three examples.",
+              "isRequired": true,
+              "correctAnswer": "remember, get angry, give thanks, rejoice, relax, etc. ",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question1",
+              "type": "text",
+              "title": "What are modal verbs used for?",
+              "isRequired": true,
+              "correctAnswer": "to change (modify) a statement  ",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "title": "Knowledge questions",
+      "elements": [
+        {
+          "name": "panel2",
+          "type": "panel",
+          "elements": [
+            {
+              "name": "question2",
+              "type": "text",
+              "title": "What is the difference in meaning between the sentences: \"She can work with great concentration.\" vs. \"She wants to work with great concentration.\"?",
+              "isRequired": true,
+              "correctAnswer": "first sentence = ability/competence; second sentence = intention/desire",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question3",
+              "type": "text",
+              "title": "What are the three root forms of the verb?",
+              "isRequired": true,
+              "correctAnswer": "Infinitive, past tense, past participle II",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question6",
+              "type": "text",
+              "title": "What are the root forms of the conjugated verb \"invites\"?",
+              "isRequired": true,
+              "correctAnswer": "invite/invite/has invited",
+              "requiredErrorText": "Please answer the question."
+            },
+            {
+              "name": "question7",
+              "type": "text",
+              "title": "When do we speak of a strong conjugation? Give an example.",
+              "isRequired": true,
+              "correctAnswer": "When the root vowel changes in each form. Example: win, won, won",
+              "requiredErrorText": "Please answer the question."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Exercise ",
+  "completeText": "Finalize",
+  "logoPosition": "right",
+  "pageNextText": "Next",
+  "pagePrevText": "Back",
+  "requiredText": "",
+  "completedHtml": "<p class=\"survey__completed-text\">You have completed the exercise</p>.",
+  "showProgressBar": "bottom",
+  "showQuestionNumbers": "off",
+  "sendResultOnPageNext": true,
+  "questionErrorLocation": "bottom"
+}
